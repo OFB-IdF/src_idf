@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "La connaissance à l'OFB en Île-de-France"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - about.qmd
+    logo: logo.png
+    favicon: favicon.png
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+editor: visual
