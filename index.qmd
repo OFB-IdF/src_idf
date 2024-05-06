@@ -30,8 +30,6 @@ title: "Les missions de l'OFB"
 
 -   [Macroinvertébrés, diatomées, macrophytes](hydrobio.html#macroinvertebres)
 
-## Espèces exotiques envahissantes
-
 ## Autres espèces
 
 -   Ecrevisses
@@ -42,21 +40,22 @@ title: "Les missions de l'OFB"
 
 -   Surveillance moléculaire de la biodiversité terrestre
 
-# Préservation - Restauration du fonctionnement des écosystèmes et adaptations aux changements globaux
+# Préservation - Restauration du fonctionnement des écosystèmes
 
 -   Onde
+
+-   Suivi thermique
 
 -   Continuités écologiques
 
 -   Hydromorphologie
 
--   Suivi thermique
-
-# Connaissance et gestion des risques liés aux pollutions et aux pathologies
+# Connaissance et gestion des risques
 
 -   Sagir
+-   Espèces exotiques envahissantes
 
-# Recueil de données et Appui aux autres missions
+# Recueil et analyse de données
 
 -   Information géographique
 
