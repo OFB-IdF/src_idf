@@ -1,0 +1,127 @@
+/* css styles */
+
+
+.navbar {
+    border-bottom: 2px solid #535548;
+}
+
+.navbar-logo {
+    max-height: 60px;
+    padding-right: 20px;
+}
+
+.navbar-toggler {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    box-sizing: border-box;
+    color: inherit;
+    font: inherit;
+    margin: 0;
+    overflow: visible;
+    text-transform: none;
+    -webkit-appearance: button;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border-radius: 4px;
+    border: none;
+    margin-right: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    background: none;
+}
+
+.navbar-title {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-family: 'Marianne', Arial, sans-serif;
+    color: #564949;
+    line-height: 20px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0 0 10px;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 800;
+    word-wrap: normal;
+    max-width: 200px;
+    white-space: normal;
+}
+
+@media (max-width: 800px) {
+  .navbar-title {
+    font-size: 18px;
+  }
+}
+
+body {
+    background-image: url("filigrane.png");
+    background-size: 40% auto;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+.title {
+    -webkit-text-size-adjust: 100%;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    visibility: visible;
+    font-family: 'Marianne', Arial, sans-serif;
+    line-height: 1.1;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    color: #9ba239;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.table {
+    border-color: transparent;
+}
+
+h1 {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-family: inherit;
+    line-height: 1.1;
+    color: #084042;
+    font-size: 20px;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+h2 {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    box-sizing: border-box;
+    font-family: inherit;
+    line-height: 1.1;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #9ba239;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h3 {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    box-sizing: border-box;
+    font-family: inherit;
+    line-height: 1.1;
+    margin-bottom: 10px;
+    font-size: 15px;
+    color: #084042;
+    font-weight: bold;
+    margin-top: 10px;
+}
