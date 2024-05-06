@@ -6,7 +6,6 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Accueil
       - about.qmd
     logo: logo.png
     favicon: favicon.png
