@@ -2,18 +2,14 @@
 title: "Hydrobiologie"
 ---
 
-Les eaux de surface (cours d'eau et plans d'eau) français font l'objet d'une surveillance depuis les années 70. Avec la Directive européenne Cadre sur l'Eau (DCE, [Directive 2000/60/CE](https://eur-lex.europa.eu/FR/legal-content/summary/good-quality-water-in-europe-eu-water-directive.html)), les Etats membres de l'Union Européenne partagent désormais tous un objectif commun d'atteindre le bon état des masses d'eau.
+Les eaux de surface (cours d'eau et plans d'eau) françaises font l'objet d'une surveillance depuis les années 70. Avec la Directive européenne Cadre sur l'Eau (DCE, [Directive 2000/60/CE](https://eur-lex.europa.eu/FR/legal-content/summary/good-quality-water-in-europe-eu-water-directive.html)), les Etats membres de l'Union Européenne partagent désormais tous un objectif commun d'atteindre le bon état des masses d'eau.
 
-L'OFB est partie prennante de la mise en oeuvre de la DCE depuis le début, tout d'abord au niveau national en accompagnant la mise en place des réseaux de surveillance et de nouvelles méthodes de bio-évaluation compatibles avec les exigences de la DCE (voir par exemple le [numéro spécial de la revue SET](https://revue-set.fr/issue/view/709), ou le bilan des [rencontres organisées sur la prise en compte des incertitudes](https://professionnels.ofb.fr/fr/doc-rencontres/incertitudes-en-hydrobiologie-vers-meilleure-confiance-dans-levaluation-letat)), en assurant la bancarisation et la diffusion d'une partie des données collectées au sein du [Système d'information sur l'eau](https://www.eaufrance.fr) dont il a la charge, en appuyant le rapportage européen, mais également au niveau territorial en assurant pour partie la réalisation d'une partie et le suivi des opérations de suivi hydrobiologique et hydromorphologiques sur les cours d'eau et plans d'eau. Ce rôle s'est encore renforcé avec le [transfert des laboratoires d'hydrobiologie au sein de l'OFB](https://www.legifrance.gouv.fr/download/pdf?id=cOdN1i2AI7uKqTG6sMXeUu6yplGEb0Xgie4-T-nS53g=), les quatre éléments de qualité biologique appliquables aux cours d'eau sont désormais suivis par les services territoriaux de l'OFB.
+L'OFB est partie prennante de la mise en oeuvre de la DCE depuis le début, tout d'abord au niveau national en accompagnant la mise en place des réseaux de surveillance et de nouvelles méthodes de bio-évaluation compatibles avec les exigences de la DCE (voir par exemple le [numéro spécial de la revue SET](https://revue-set.fr/issue/view/709), ou le bilan des [rencontres organisées sur la prise en compte des incertitudes](https://professionnels.ofb.fr/fr/doc-rencontres/incertitudes-en-hydrobiologie-vers-meilleure-confiance-dans-levaluation-letat)), en assurant la bancarisation et la diffusion d'une partie des données collectées au sein du [Système d'information sur l'eau](https://www.eaufrance.fr) dont il a la charge, en appuyant le rapportage européen, mais également au niveau territorial en assurant pour partie la réalisation d'une partie et le suivi des opérations de suivi hydrobiologique et hydromorphologiques sur les cours d'eau et plans d'eau. Ce rôle s'est encore renforcé avec le [transfert des laboratoires d'hydrobiologie au sein de l'OFB](https://www.legifrance.gouv.fr/download/pdf?id=cOdN1i2AI7uKqTG6sMXeUu6yplGEb0Xgie4-T-nS53g=), les quatre éléments de qualité biologique appliquables aux cours d'eau sont désormais suivis par les services territoriaux de l'OFB:
 
-# Poissons {#poissons}
+-   [Poissons](poissons.html)
 
-Le suivi du compartiment ichtyologique se fait au moyen de [pêches scientifiques à l'électricité](https://professionnels.ofb.fr/fr/doc-guides-protocoles/peche-scientifique-lelectricite-dans-milieux-aquatiques-continentaux) pour les cours d'eau et de pêche au filet pour les plans d'eau.
+-   Macroinvertébrés
 
-En Île-de-France, les pêches sur les réseaux de suivi DCE sont réalisées par des bureaux d'étude sous la supervision du service régional connaissance.
+-   Diatomées
 
-# Macroinvertébrés {#macroinvertebres}
-
-# Diatomées
-
-# Macrophytes
+-   Macrophytes

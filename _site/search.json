@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "Les services territoriaux",
     "section": "",
-    "text": "Les services départementaux\n\n\nLe service régional connaissance\n\n\nLes partenaires\n\n\nLes productions\n\nLivret chat forestier"
+    "text": "Les services départementaux\n\n\nLe service régional connaissance\n\n\nLes partenaires\n\n\nLes productions\n\nLivret chat forestier\nTableau de bord de visualisation des données de pêche à l’électricité issues de Aspe\nTableau de bord de suivi des étiages (ONDE) en Île-de-France"
   },
   {
     "objectID": "index.html#conservation-des-espèces-et-habitats",
@@ -138,5 +138,19 @@
     "title": "Poissons",
     "section": "Protocoles et guides",
     "text": "Protocoles et guides\nLa pêche scientifique à l'électricité dans les milieux aquatiques continentaux"
+  },
+  {
+    "objectID": "about.html#livrets",
+    "href": "about.html#livrets",
+    "title": "Les services territoriaux",
+    "section": "Livrets",
+    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
+  },
+  {
+    "objectID": "about.html#tableaux-de-bord",
+    "href": "about.html#tableaux-de-bord",
+    "title": "Les services territoriaux",
+    "section": "Tableaux de bord",
+    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
   }
 ]
