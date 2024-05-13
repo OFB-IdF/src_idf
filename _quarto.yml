@@ -17,3 +17,6 @@ format:
     toc: true
 
 editor: visual
+
+knit:
+  cache: true

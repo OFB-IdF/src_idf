@@ -26,9 +26,9 @@ title: "Les missions de l'OFB"
 
 ## Hydrobiologie
 
--   [Poissons](hydrobio.html#poissons)
+-   [Poissons](poissons.html)
 
--   [Macroinvertébrés, diatomées, macrophytes](hydrobio.html#macroinvertebres)
+-   Macroinvertébrés, diatomées, macrophytes
 
 ## Autres espèces
 
