@@ -134,6 +134,8 @@ DT::datatable(
 ```
 :::
 
+## Suivi anguille
+
 # Ressources {.titre-cache}
 
 ::: panel-tabset
@@ -156,8 +158,12 @@ DT::datatable(
 ::: {.callout-note collapse="true" appearance="simple"}
 ## Ressources internes *![](/cadenas.png){width="15"}*
 
+*Ces ressources sont mises à disposition depuis la GED Alfresco, vous devrez vous y connecter pour y avoir accès.*
+
 *Liens vers des bilans, synthèses régionales*
 
 *fiche réseau (travail Mila)*
+
+[fiche bécasse (test)](https://ged.ofb.fr/share/page/site/ressources-connaissances-idf/document-details?nodeRef=workspace://SpacesStore/be1d5e14-924b-48c4-b2d8-16b73f99b3be){target="'_blank'"}
 :::
 :::
