@@ -4,7 +4,7 @@ title: "Poissons"
 
 # Description
 
-Le suivi du compartiment ichtyologique se fait au moyen de [pêches scientifiques à l'électricité](https://professionnels.ofb.fr/fr/doc-guides-protocoles/peche-scientifique-lelectricite-dans-milieux-aquatiques-continentaux) pour les cours d'eau et de pêche au filet pour les plans d'eau.
+Le suivi du compartiment ichtyologique se fait au moyen de pêches scientifiques à l'électricité pour les cours d'eau et de pêche au filet pour les plans d'eau.
 
 Comme les autres [suivis hydrobiologiques](hydrobio.html) réalisés, ces pêches peuvent servir à l'évaluation de l'état écologique des masses d'eau au titre de la DCE, au suivi d'actions de restauration mais également au suivi de certaines espèces.
 
@@ -86,10 +86,20 @@ leaflet::leaflet() %>%
 
 *Que fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)*
 
+# Ressources
+
+## Protocoles et guides
+
+[La pêche scientifique à l\'électricité dans les milieux aquatiques continentaux](https://professionnels.ofb.fr/fr/doc-guides-protocoles/peche-scientifique-lelectricite-dans-milieux-aquatiques-continentaux){target="'_blank'"}
+
+## Saisir les données
+
+[Application de Saisie des données Piscicoles et Environnementales (ASPE)](https://aspe.eaufrance.fr/aspe-web/login.xhtml){target="'_blank'"}
+
+## Visualiser les données
+
+[Tableau de bord de visualisation des données de pêche à l'électricité issues de Aspe](https://ssm-ecologie.shinyapps.io/aspedashboard/){target="'_blank'"}
+
 *Liens vers des bilans, synthèses régionales (certains ![](/cadenas.png){width="15"} )*
 
 *fiche réseau (travail Mila, interne) ![](/cadenas.png){width="15"}*
-
-# Ressources
-
-*Quels outils sont utiles: liens vers protocoles, outils de bancarisation, diffusion, fiche espèce INPN*
