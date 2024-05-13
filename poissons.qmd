@@ -61,8 +61,14 @@ stations_poissons <- hubeau::get_hydrobio_stations_hydrobio(
 stations_dce_poissons <- stations_dce %>% 
     dplyr::inner_join(
         stations_poissons %>% 
-            dplyr::select(code_station_hydrobio, libelle_station_hydrobio),
+            dplyr::select(code_station_hydrobio, libelle_station_hydrobio, uri_station_hydrobio),
         by = c("STATION" = "code_station_hydrobio")
+    ) %>% 
+    dplyr::mutate(
+        station_lien = paste0(
+            "<a href=\"", uri_station_hydrobio, "\" target=\"_blank\">", libelle_station_hydrobio, "</a>"
+        ) %>% 
+            lapply(htmltools::HTML)
     )
 
 cours_eau <- sf::st_read("C:/QGIS-CUSTOM/DATA/VECTEUR/hydrographie/bdtopage_idf.gpkg", layer = "cours_eau_2022") %>% 
@@ -73,6 +79,9 @@ cours_eau <- sf::st_read("C:/QGIS-CUSTOM/DATA/VECTEUR/hydrographie/bdtopage_idf.
 ```
 
 Dans le cadre de la DCE, `r nrow(dplyr::filter(stations_dce_poissons, reseau == "RCS"))` stations sont suivies pour le compartiment biologique 'poisson' au titre du réseau de contrôle et de surveillance pour évaluer l'état global des masses d'eau franciliennes.
+
+::: panel-tabset
+## Carte
 
 ```{r, echo=FALSE}
 leaflet::leaflet() %>% 
@@ -94,6 +103,36 @@ leaflet::leaflet() %>%
 
 
 ```
+
+## Tableau
+
+```{r, echo=FALSE}
+DT::datatable(
+    data = stations_dce_poissons %>% 
+        sf::st_drop_geometry() %>% 
+        dplyr::mutate(
+            dplyr::across(
+                .cols = dplyr::contains("__Lambert"),
+                .fns = function(x) {
+                    sprintf("%.4f", round(x, 4))
+                    }
+            )
+        ) %>% 
+        dplyr::select(
+            Station = station_lien,
+            `Code station` = STATION,
+            Rivière = riviere,
+            `Coordonnée X (Lambert 93)` = X__Lambert,
+            `Coordonnée Y (Lambert 93)` = Y__Lambert
+        ),
+    extensions = 'Buttons',
+    options = list(
+        dom = 'Bfrtip',
+        buttons = c('copy', 'excel', 'print')
+    )
+)
+```
+:::
 
 *Que fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)*
 
