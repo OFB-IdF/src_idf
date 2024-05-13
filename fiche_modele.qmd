@@ -12,10 +12,27 @@ Ce que c'est / à quoi ça sert, quand le fait-on
 
 Que fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)
 
-Liens vers des bilans, synthèses régionales (certains ![](/cadenas.png){width="15"} )
+# Ressources {.titre-cache}
 
-fiche réseau (travail Mila, interne) ![](/cadenas.png){width="15"}
+::: panel-tabset
+## [Ressources]{style="color: #084042;font-size: 20px; font-weight: 700;"}
 
-# Ressources
+### Protocoles et guides
 
-Quels outils sont utiles: liens vers protocoles, outils de bancarisation, diffusion, fiche espèce INPN
+
+### Saisir les données
+
+
+### Visualiser les données
+
+
+## ![](/favicon.png){width="35"}
+
+::: {.callout-note collapse="true" appearance="simple"}
+## Ressources internes *![](/cadenas.png){width="15"}*
+
+*Liens vers des bilans, synthèses régionales*
+
+*fiche réseau (travail Mila)*
+:::
+:::

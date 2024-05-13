@@ -154,7 +154,7 @@ DT::datatable(
 ## ![](/favicon.png){width="35"}
 
 ::: {.callout-note collapse="true" appearance="simple"}
-## Ressources internes  *![](/cadenas.png){width="15"}*
+## Ressources internes *![](/cadenas.png){width="15"}*
 
 *Liens vers des bilans, synthèses régionales*
 
