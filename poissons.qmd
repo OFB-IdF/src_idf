@@ -51,13 +51,28 @@ stations_dce <- dplyr::bind_rows(
                 }
             ) %>% 
             purrr::list_c()
+    ) %>% 
+    dplyr::ungroup()
+
+stations_poissons <- hubeau::get_hydrobio_stations_hydrobio(
+    code_region = 11, codes_supports = 4
+)
+
+stations_dce_poissons <- stations_dce %>% 
+    dplyr::inner_join(
+        stations_poissons %>% 
+            dplyr::select(code_station_hydrobio, libelle_station_hydrobio),
+        by = c("STATION" = "code_station_hydrobio")
     )
 
 cours_eau <- sf::st_read("C:/QGIS-CUSTOM/DATA/VECTEUR/hydrographie/bdtopage_idf.gpkg", layer = "cours_eau_2022") %>% 
     sf::st_transform(crs = 4326) %>% 
     rmapshaper::ms_clip(departements) %>% 
     dplyr::filter(!stringr::str_detect(string = TopoOH, pattern = "Canal|Aqueduc"))
+
 ```
+
+Dans le cadre de la DCE, `r nrow(dplyr::filter(stations_dce_poissons, reseau == "RCS"))` stations sont suivies pour le compartiment biologique 'poisson' au titre du réseau de contrôle et de surveillance pour évaluer l'état global des masses d'eau franciliennes.
 
 ```{r, echo=FALSE}
 leaflet::leaflet() %>% 
@@ -65,21 +80,17 @@ leaflet::leaflet() %>%
     leaflet::addPolylines(data = cours_eau, color = unname(templatesOFB::ofb_cols("bleu2")), weight = 2, opacity = 1) %>% 
     leaflet::addPolygons(data = departements, color = "black", opacity = 1, fillColor = "transparent", weight = 1) %>% 
     leaflet::addCircleMarkers(
-        data = stations_dce, 
-        fillColor = ~unname(templatesOFB::ofb_cols(ifelse(reseau == "RCO", "orange1", "bleu1"))), fillOpacity = .75,
-        color = "black", opacity = .75, weight = .5, radius = 5,
-        label = ~lapply(paste0("<b>Station n° ", STATION, "</b> (", reseau, ")"), htmltools::HTML),
+        data = stations_dce_poissons %>% 
+            dplyr::filter(reseau == "RCS"), 
+        fillColor = ~unname(templatesOFB::ofb_cols(ifelse(reseau == "RCO", "orange1", "bleu1"))), fillOpacity = 1,
+        color = "black", opacity = 1, weight = .5, radius = 5,
+        label = ~libelle_station_hydrobio,
         popup = ~lapply(paste0(
             "<b>Station n° ", STATION, "</b> (", reseau, ")<br>",
-            riviere, " à ", COMMUNE
+            libelle_station_hydrobio
         ),
         htmltools::HTML)
-        ) %>% 
-    leaflet::addLegend(
-        colors = unname(templatesOFB::ofb_cols(c("orange1", "bleu1"))),
-        labels = c("RCO", "RCS"),
-        title = "Type de réseau"
-    )
+        )
 
 
 ```
@@ -90,7 +101,7 @@ leaflet::leaflet() %>%
 
 ## Protocoles et guides
 
-[La pêche scientifique à l\'électricité dans les milieux aquatiques continentaux](https://professionnels.ofb.fr/fr/doc-guides-protocoles/peche-scientifique-lelectricite-dans-milieux-aquatiques-continentaux){target="'_blank'"}
+[La pêche scientifique à l'électricité dans les milieux aquatiques continentaux](https://professionnels.ofb.fr/fr/doc-guides-protocoles/peche-scientifique-lelectricite-dans-milieux-aquatiques-continentaux){target="'_blank'"}
 
 ## Saisir les données
 
