@@ -16,7 +16,7 @@ Les suivis ichtyologiques réalisés en Île-de-France sous la supervision ou av
 
 -   contribuer à mieux connaître les populations d'[anguille européenne](anguille.html) se maintenant sur le territoire.
 
-## Les suivis DCE
+## Les stations de pêche suivies au titre de la Directive européenne cadre sur l'eau (DCE)
 
 ```{r, include=FALSE}
 departements <- sf::st_read("C:/QGIS-CUSTOM/DATA/VECTEUR/administration/ADMIN EXPRESS/ADE_3-1_SHP_LAMB93_FXX/DEPARTEMENT.shp") %>% 
@@ -134,22 +134,30 @@ DT::datatable(
 ```
 :::
 
-*Que fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)*
+# Ressources {.titre-cache}
 
-# Ressources
+::: panel-tabset
+## [Ressources]{style="color: #084042;font-size: 20px; font-weight: 700;"}
 
-## Protocoles et guides
+### Protocoles et guides
 
 [La pêche scientifique à l'électricité dans les milieux aquatiques continentaux](https://professionnels.ofb.fr/fr/doc-guides-protocoles/peche-scientifique-lelectricite-dans-milieux-aquatiques-continentaux){target="'_blank'"}
 
-## Saisir les données
+### Saisir les données
 
 [Application de Saisie des données Piscicoles et Environnementales (ASPE)](https://aspe.eaufrance.fr/aspe-web/login.xhtml){target="'_blank'"}
 
-## Visualiser les données
+### Visualiser les données
 
 [Tableau de bord de visualisation des données de pêche à l'électricité issues de Aspe](https://ssm-ecologie.shinyapps.io/aspedashboard/){target="'_blank'"}
 
-*Liens vers des bilans, synthèses régionales (certains ![](/cadenas.png){width="15"} )*
+## ![](/favicon.png){width="35"}
 
-*fiche réseau (travail Mila, interne) ![](/cadenas.png){width="15"}*
+::: {.callout-note collapse="true" appearance="simple"}
+## Ressources internes  *![](/cadenas.png){width="15"}*
+
+*Liens vers des bilans, synthèses régionales*
+
+*fiche réseau (travail Mila)*
+:::
+:::
