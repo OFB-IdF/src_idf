@@ -88,6 +88,34 @@
     "href": "hydrobio.html",
     "title": "Hydrobiologie",
     "section": "",
-    "text": "Les eaux de surface (cours d’eau et plans d’eau) français font l’objet d’une surveillance depuis les années 70. Avec la Directive européenne Cadre sur l’Eau (DCE, Directive 2000/60/CE), les Etats membres de l’Union Européenne partagent désormais tous un objectif commun d’atteindre le bon état des masses d’eau.\nL’OFB est partie prennante de la mise en oeuvre de la DCE depuis le début, tout d’abord au niveau national en accompagnant la mise en place des réseaux de surveillance et de nouvelles méthodes de bio-évaluation compatibles avec les exigences de la DCE (voir par exemple le numéro spécial de la revue SET, ou le bilan des rencontres organisées sur la prise en compte des incertitudes), en assurant la bancarisation et la diffusion d’une partie des données collectées au sein du Système d’information sur l’eau dont il a la charge, en appuyant le rapportage européen, mais également au niveau territorial en assurant pour partie la réalisation d’une partie et le suivi des opérations de suivi hydrobiologique et hydromorphologiques sur les cours d’eau et plans d’eau. Ce rôle s’est encore renforcé avec le transfert des laboratoires d’hydrobiologie au sein de l’OFB, les quatre éléments de qualité biologique appliquables aux cours d’eau sont désormais suivis par les services territoriaux de l’OFB.\n\nPoissons\nLe suivi du compartiment ichtyologique se fait au moyen de pêches scientifiques à l’électricité pour les cours d’eau et de pêche au filet pour les plans d’eau.\nEn Île-de-France, les pêches sur les réseaux de suivi DCE sont réalisées par des bureaux d’étude sous la supervision du service régional connaissance.\n\n\nMacroinvertébrés\n\n\nDiatomées\n\n\nMacrophytes"
+    "text": "Les eaux de surface (cours d’eau et plans d’eau) françaises font l’objet d’une surveillance depuis les années 70. Avec la Directive européenne Cadre sur l’Eau (DCE, Directive 2000/60/CE), les Etats membres de l’Union Européenne partagent désormais tous un objectif commun d’atteindre le bon état des masses d’eau.\nL’OFB est partie prennante de la mise en oeuvre de la DCE depuis le début, tout d’abord au niveau national en accompagnant la mise en place des réseaux de surveillance et de nouvelles méthodes de bio-évaluation compatibles avec les exigences de la DCE (voir par exemple le numéro spécial de la revue SET, ou le bilan des rencontres organisées sur la prise en compte des incertitudes), en assurant la bancarisation et la diffusion d’une partie des données collectées au sein du Système d’information sur l’eau dont il a la charge, en appuyant le rapportage européen, mais également au niveau territorial en assurant pour partie la réalisation d’une partie et le suivi des opérations de suivi hydrobiologique et hydromorphologiques sur les cours d’eau et plans d’eau. Ce rôle s’est encore renforcé avec le transfert des laboratoires d’hydrobiologie au sein de l’OFB, les quatre éléments de qualité biologique appliquables aux cours d’eau sont désormais suivis par les services territoriaux de l’OFB:\n\nPoissons\nMacroinvertébrés\nDiatomées\nMacrophytes"
+  },
+  {
+    "objectID": "fiche_modele.html",
+    "href": "fiche_modele.html",
+    "title": "Page thématique",
+    "section": "",
+    "text": "Description\nDescription du sujet, liens vers des pages éditoriales ou des sites nationaux.\nCe que c’est / à quoi ça sert, quand le fait-on\n\n\nEn Île-de-France\nQue fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)\nLiens vers des bilans, synthèses régionales (certains  )\nfiche réseau (travail Mila, interne) \n\n\nRessources\nQuels outils sont utiles: liens vers protocoles, outils de bancarisation, diffusion, fiche espèce INPN"
+  },
+  {
+    "objectID": "poissons.html",
+    "href": "poissons.html",
+    "title": "Poissons",
+    "section": "",
+    "text": "Le suivi du compartiment ichtyologique se fait au moyen de pêches scientifiques à l’électricité pour les cours d’eau et de pêche au filet pour les plans d’eau.\nComme les autres suivis hydrobiologiques réalisés, ces pêches peuvent servir à l’évaluation de l’état écologique des masses d’eau au titre de la DCE, au suivi d’actions de restauration mais également au suivi de certaines espèces."
+  },
+  {
+    "objectID": "anguille.html",
+    "href": "anguille.html",
+    "title": "Anguille européenne",
+    "section": "",
+    "text": "Description\nDescription du sujet, liens vers des pages éditoriales ou des sites nationaux.\nCe que c’est / à quoi ça sert, quand le fait-on\n\n\nEn Île-de-France\nQue fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)\nLiens vers des bilans, synthèses régionales (certains  )\nfiche réseau (travail Mila, interne) \n\n\nRessources\nQuels outils sont utiles: liens vers protocoles, outils de bancarisation, diffusion, fiche espèce INPN"
+  },
+  {
+    "objectID": "poissons.html#les-suivis-dce",
+    "href": "poissons.html#les-suivis-dce",
+    "title": "Poissons",
+    "section": "Les suivis DCE",
+    "text": "Les suivis DCE\n\n\n\n\n\n\n\n\n\nQue fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)\nLiens vers des bilans, synthèses régionales (certains  )\nfiche réseau (travail Mila, interne)"
   }
 ]
