@@ -59,33 +59,6 @@ cours_eau <- sf::st_read("C:/QGIS-CUSTOM/DATA/VECTEUR/hydrographie/bdtopage_idf.
     dplyr::filter(!stringr::str_detect(string = TopoOH, pattern = "Canal|Aqueduc"))
 ```
 
-```{r, echo=FALSE, fig.cap=paste0("Localisation des ", dplyr::n_distinct(stations_dce$STATION), " stations DCE pêchées en Île-de-France"), eval = FALSE}
-ggplot2::ggplot() +
-    ggplot2::geom_sf(
-        data = cours_eau, 
-        colour = templatesOFB::ofb_cols("bleu2")
-        ) +
-    ggplot2::geom_sf(
-        data = stations_dce,
-        mapping = ggplot2::aes(colour = reseau),
-        size = 2
-        ) +
-    ggplot2::geom_sf(
-        data = departements, 
-        colour = "black", 
-        fill = "transparent"
-        ) +
-    templatesOFB::theme_ofb() +
-    ggplot2::theme(
-        axis.text = ggplot2::element_blank(),
-        axis.line = ggplot2::element_blank(),
-        axis.ticks = ggplot2::element_blank()
-    ) +
-    ggplot2::scale_colour_manual(
-        values = unname(templatesOFB::ofb_cols("orange1", "bleu1"))
-    )
-```
-
 ```{r, echo=FALSE}
 leaflet::leaflet() %>% 
     leaflet::addTiles() %>% 
@@ -113,9 +86,9 @@ leaflet::leaflet() %>%
 
 *Que fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)*
 
-*Liens vers des bilans, synthèses régionales (certains ![](/_site/cadenas.svg){width="15"} )*
+*Liens vers des bilans, synthèses régionales (certains ![](/cadenas.png){width="15"} )*
 
-*fiche réseau (travail Mila, interne) ![](/_site/cadenas.svg){width="15"}*
+*fiche réseau (travail Mila, interne) ![](/cadenas.png){width="15"}*
 
 # Ressources
 
