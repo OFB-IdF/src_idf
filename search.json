@@ -1,52 +1,66 @@
 [
   {
+    "objectID": "anguille.html",
+    "href": "anguille.html",
+    "title": "Anguille européenne",
+    "section": "",
+    "text": "Description\nDescription du sujet, liens vers des pages éditoriales ou des sites nationaux.\nCe que c’est / à quoi ça sert, quand le fait-on\n\n\nEn Île-de-France\nQue fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)\nLiens vers des bilans, synthèses régionales (certains  )\nfiche réseau (travail Mila, interne) \n\n\nRessources\nQuels outils sont utiles: liens vers protocoles, outils de bancarisation, diffusion, fiche espèce INPN"
+  },
+  {
+    "objectID": "about.html#livrets",
+    "href": "about.html#livrets",
+    "title": "Les services territoriaux",
+    "section": "Livrets",
+    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
+  },
+  {
+    "objectID": "about.html#tableaux-de-bord",
+    "href": "about.html#tableaux-de-bord",
+    "title": "Les services territoriaux",
+    "section": "Tableaux de bord",
+    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
+  },
+  {
+    "objectID": "poissons.html",
+    "href": "poissons.html",
+    "title": "Poissons",
+    "section": "",
+    "text": "Le suivi du compartiment ichtyologique se fait au moyen de pêches scientifiques à l’électricité pour les cours d’eau et de pêche au filet pour les plans d’eau.\nComme les autres suivis hydrobiologiques réalisés, ces pêches peuvent servir à l’évaluation de l’état écologique des masses d’eau au titre de la DCE, au suivi d’actions de restauration mais également au suivi de certaines espèces."
+  },
+  {
+    "objectID": "poissons.html#les-stations-de-pêche-suivies-au-titre-de-la-directive-européenne-cadre-sur-leau-dce",
+    "href": "poissons.html#les-stations-de-pêche-suivies-au-titre-de-la-directive-européenne-cadre-sur-leau-dce",
+    "title": "Poissons",
+    "section": "Les stations de pêche suivies au titre de la Directive européenne cadre sur l’eau (DCE)",
+    "text": "Les stations de pêche suivies au titre de la Directive européenne cadre sur l’eau (DCE)\nDans le cadre de la DCE, 35 stations sont suivies pour le compartiment biologique ‘poisson’ au titre du réseau de contrôle et de surveillance pour évaluer l’état global des masses d’eau franciliennes.\n\nCarteTableau"
+  },
+  {
+    "objectID": "poissons.html#suivi-anguille",
+    "href": "poissons.html#suivi-anguille",
+    "title": "Poissons",
+    "section": "Suivi anguille",
+    "text": "Suivi anguille"
+  },
+  {
+    "objectID": "fiche_modele.html",
+    "href": "fiche_modele.html",
+    "title": "Page thématique",
+    "section": "",
+    "text": "Description\nDescription du sujet, ce que c’est / à quoi ça sert, quand le fait-on\n\n\nEn Île-de-France\nQue fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)\n\n\nRessources\n\nRessources\n\n\n\nProtocoles et guides\n\n\nSaisir les données\n\n\nVisualiser les données\n\n\n\n\n\n\n\n\n\nRessources internes \n\n\n\n\n\nCes ressources sont mises à disposition depuis la GED Alfresco, vous devrez vous y connecter pour y avoir accès.\nLiens vers des bilans, synthèses régionales\nfiche réseau (travail Mila)"
+  },
+  {
+    "objectID": "hydrobio.html",
+    "href": "hydrobio.html",
+    "title": "Hydrobiologie",
+    "section": "",
+    "text": "Les eaux de surface (cours d’eau et plans d’eau) françaises font l’objet d’une surveillance depuis les années 70. Avec la Directive européenne Cadre sur l’Eau (DCE, Directive 2000/60/CE), les Etats membres de l’Union Européenne partagent désormais tous un objectif commun d’atteindre le bon état des masses d’eau.\nL’OFB est partie prennante de la mise en oeuvre de la DCE depuis le début, tout d’abord au niveau national en accompagnant la mise en place des réseaux de surveillance et de nouvelles méthodes de bio-évaluation compatibles avec les exigences de la DCE (voir par exemple le numéro spécial de la revue SET, ou le bilan des rencontres organisées sur la prise en compte des incertitudes), en assurant la bancarisation et la diffusion d’une partie des données collectées au sein du Système d’information sur l’eau dont il a la charge, en appuyant le rapportage européen, mais également au niveau territorial en assurant pour partie la réalisation d’une partie et le suivi des opérations de suivi hydrobiologique et hydromorphologiques sur les cours d’eau et plans d’eau. Ce rôle s’est encore renforcé avec le transfert des laboratoires d’hydrobiologie au sein de l’OFB, les quatre éléments de qualité biologique appliquables aux cours d’eau sont désormais suivis par les services territoriaux de l’OFB:\n\nPoissons\nMacroinvertébrés\nDiatomées\nMacrophytes"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Les missions de l’OFB",
     "section": "",
     "text": "Texte d’introduction"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Les services territoriaux",
-    "section": "",
-    "text": "Les services départementaux\n\n\nLe service régional connaissance\n\n\nLes partenaires\n\n\nLes productions\n\nLivret chat forestier\nTableau de bord de visualisation des données de pêche à l’électricité issues de Aspe\nTableau de bord de suivi des étiages (ONDE) en Île-de-France"
-  },
-  {
-    "objectID": "index.html#conservation-des-espèces-et-habitats",
-    "href": "index.html#conservation-des-espèces-et-habitats",
-    "title": "L’Île-de-France: Une biodiversité sous contraintes",
-    "section": "Conservation des espèces et habitats",
-    "text": "Conservation des espèces et habitats\nMammifères\n\nChat forestier\nCastor\nOngulés sauvages\nLoup\n\nAvifaune\n\nBécasse\nSTOC/SHOC"
-  },
-  {
-    "objectID": "index.html#préservation---restauration-du-fonctionnement-des-écosystèmes-et-adaptations-aux-changements-globaux",
-    "href": "index.html#préservation---restauration-du-fonctionnement-des-écosystèmes-et-adaptations-aux-changements-globaux",
-    "title": "L’Île-de-France: Une biodiversité sous contraintes",
-    "section": "Préservation - Restauration du fonctionnement des écosystèmes et adaptations aux changements globaux",
-    "text": "Préservation - Restauration du fonctionnement des écosystèmes et adaptations aux changements globaux"
-  },
-  {
-    "objectID": "missions.html",
-    "href": "missions.html",
-    "title": "Les missions de l’OFB",
-    "section": "",
-    "text": "Chat forestier\nCastor\nOngulés sauvages\nLoup\n\n\n\n\n\nBécasse\nSTOC/SHOC\nPrairies de fauche\n\n\n\n\n\nPoissons\nMacroinvertébrés, diatomées, macrophytes\n\n\n\n\n\n\n\n\nEcrevisses\nBivalves\nAmphibiens\nSurveillance moléculaire de la biodiversité terrestre"
-  },
-  {
-    "objectID": "missions.html#préservation---restauration-du-fonctionnement-des-écosystèmes-et-adaptations-aux-changements-globaux",
-    "href": "missions.html#préservation---restauration-du-fonctionnement-des-écosystèmes-et-adaptations-aux-changements-globaux",
-    "title": "Les missions de l’OFB",
-    "section": "Préservation - Restauration du fonctionnement des écosystèmes et adaptations aux changements globaux",
-    "text": "Préservation - Restauration du fonctionnement des écosystèmes et adaptations aux changements globaux"
-  },
-  {
-    "objectID": "contexte.html",
-    "href": "contexte.html",
-    "title": "Une biodiversité sous contraintes",
-    "section": "",
-    "text": "Contexte et pressions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEtat de la biodiversité"
   },
   {
     "objectID": "index.html#mammifères",
@@ -70,108 +84,10 @@
     "text": "Hydrobiologie\n\nPoissons\nMacroinvertébrés, diatomées, macrophytes"
   },
   {
-    "objectID": "index.html#espèces-exotiques-envahissantes",
-    "href": "index.html#espèces-exotiques-envahissantes",
-    "title": "Les missions de l’OFB",
-    "section": "Espèces exotiques envahissantes",
-    "text": "Espèces exotiques envahissantes"
-  },
-  {
     "objectID": "index.html#autres-espèces",
     "href": "index.html#autres-espèces",
     "title": "Les missions de l’OFB",
     "section": "Autres espèces",
     "text": "Autres espèces\n\nEcrevisses\nBivalves\nAmphibiens\nSurveillance moléculaire de la biodiversité terrestre"
-  },
-  {
-    "objectID": "hydrobio.html",
-    "href": "hydrobio.html",
-    "title": "Hydrobiologie",
-    "section": "",
-    "text": "Les eaux de surface (cours d’eau et plans d’eau) françaises font l’objet d’une surveillance depuis les années 70. Avec la Directive européenne Cadre sur l’Eau (DCE, Directive 2000/60/CE), les Etats membres de l’Union Européenne partagent désormais tous un objectif commun d’atteindre le bon état des masses d’eau.\nL’OFB est partie prennante de la mise en oeuvre de la DCE depuis le début, tout d’abord au niveau national en accompagnant la mise en place des réseaux de surveillance et de nouvelles méthodes de bio-évaluation compatibles avec les exigences de la DCE (voir par exemple le numéro spécial de la revue SET, ou le bilan des rencontres organisées sur la prise en compte des incertitudes), en assurant la bancarisation et la diffusion d’une partie des données collectées au sein du Système d’information sur l’eau dont il a la charge, en appuyant le rapportage européen, mais également au niveau territorial en assurant pour partie la réalisation d’une partie et le suivi des opérations de suivi hydrobiologique et hydromorphologiques sur les cours d’eau et plans d’eau. Ce rôle s’est encore renforcé avec le transfert des laboratoires d’hydrobiologie au sein de l’OFB, les quatre éléments de qualité biologique appliquables aux cours d’eau sont désormais suivis par les services territoriaux de l’OFB:\n\nPoissons\nMacroinvertébrés\nDiatomées\nMacrophytes"
-  },
-  {
-    "objectID": "fiche_modele.html",
-    "href": "fiche_modele.html",
-    "title": "Page thématique",
-    "section": "",
-    "text": "Description\nDescription du sujet, ce que c’est / à quoi ça sert, quand le fait-on\n\n\nEn Île-de-France\nQue fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)\n\n\nRessources\n\nRessources\n\n\n\nProtocoles et guides\n\n\nSaisir les données\n\n\nVisualiser les données\n\n\n\n\n\n\n\n\n\nRessources internes \n\n\n\n\n\nCes ressources sont mises à disposition depuis la GED Alfresco, vous devrez vous y connecter pour y avoir accès.\nLiens vers des bilans, synthèses régionales\nfiche réseau (travail Mila)"
-  },
-  {
-    "objectID": "poissons.html",
-    "href": "poissons.html",
-    "title": "Poissons",
-    "section": "",
-    "text": "Le suivi du compartiment ichtyologique se fait au moyen de pêches scientifiques à l’électricité pour les cours d’eau et de pêche au filet pour les plans d’eau.\nComme les autres suivis hydrobiologiques réalisés, ces pêches peuvent servir à l’évaluation de l’état écologique des masses d’eau au titre de la DCE, au suivi d’actions de restauration mais également au suivi de certaines espèces."
-  },
-  {
-    "objectID": "anguille.html",
-    "href": "anguille.html",
-    "title": "Anguille européenne",
-    "section": "",
-    "text": "Description\nDescription du sujet, liens vers des pages éditoriales ou des sites nationaux.\nCe que c’est / à quoi ça sert, quand le fait-on\n\n\nEn Île-de-France\nQue fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)\nLiens vers des bilans, synthèses régionales (certains  )\nfiche réseau (travail Mila, interne) \n\n\nRessources\nQuels outils sont utiles: liens vers protocoles, outils de bancarisation, diffusion, fiche espèce INPN"
-  },
-  {
-    "objectID": "poissons.html#les-suivis-dce",
-    "href": "poissons.html#les-suivis-dce",
-    "title": "Poissons",
-    "section": "Les suivis DCE",
-    "text": "Les suivis DCE\nDans le cadre de la DCE, 35 stations sont suivies pour le compartiment biologique ‘poisson’ au titre du réseau de contrôle et de surveillance pour évaluer l’état global des masses d’eau franciliennes.\n\nCarteTableau\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQue fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)"
-  },
-  {
-    "objectID": "poissons.html#visualiser-les-données",
-    "href": "poissons.html#visualiser-les-données",
-    "title": "Poissons",
-    "section": "Visualiser les données",
-    "text": "Visualiser les données\nTableau de bord de visualisation des données de pêche à l’électricité issues de Aspe\nLiens vers des bilans, synthèses régionales (certains  )\nfiche réseau (travail Mila, interne)"
-  },
-  {
-    "objectID": "poissons.html#saisir-les-données",
-    "href": "poissons.html#saisir-les-données",
-    "title": "Poissons",
-    "section": "Saisir les données",
-    "text": "Saisir les données\nApplication de Saisie des données Piscicoles et Environnementales (ASPE)"
-  },
-  {
-    "objectID": "poissons.html#protocoles-et-guides",
-    "href": "poissons.html#protocoles-et-guides",
-    "title": "Poissons",
-    "section": "Protocoles et guides",
-    "text": "Protocoles et guides\nLa pêche scientifique à l’électricité dans les milieux aquatiques continentaux"
-  },
-  {
-    "objectID": "about.html#livrets",
-    "href": "about.html#livrets",
-    "title": "Les services territoriaux",
-    "section": "Livrets",
-    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
-  },
-  {
-    "objectID": "about.html#tableaux-de-bord",
-    "href": "about.html#tableaux-de-bord",
-    "title": "Les services territoriaux",
-    "section": "Tableaux de bord",
-    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
-  },
-  {
-    "objectID": "poissons.html#les-stations-de-pêche-suivies-au-titre-de-la-directive-européenne-cadre-sur-leau-dce",
-    "href": "poissons.html#les-stations-de-pêche-suivies-au-titre-de-la-directive-européenne-cadre-sur-leau-dce",
-    "title": "Poissons",
-    "section": "Les stations de pêche suivies au titre de la Directive européenne cadre sur l’eau (DCE)",
-    "text": "Les stations de pêche suivies au titre de la Directive européenne cadre sur l’eau (DCE)\nDans le cadre de la DCE, 35 stations sont suivies pour le compartiment biologique ‘poisson’ au titre du réseau de contrôle et de surveillance pour évaluer l’état global des masses d’eau franciliennes.\n\nCarteTableau"
-  },
-  {
-    "objectID": "poissons.html#section",
-    "href": "poissons.html#section",
-    "title": "Poissons",
-    "section": "",
-    "text": "Ressources internes"
-  },
-  {
-    "objectID": "poissons.html#suivi-anguille",
-    "href": "poissons.html#suivi-anguille",
-    "title": "Poissons",
-    "section": "Suivi anguille",
-    "text": "Suivi anguille"
   }
 ]
