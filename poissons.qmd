@@ -19,6 +19,8 @@ Les suivis ichtyologiques réalisés en Île-de-France sous la supervision ou av
 ## Les stations de pêche suivies au titre de la Directive européenne cadre sur l'eau (DCE)
 
 ```{r, include=FALSE}
+`%>%` <- dplyr::'%>%'
+
 departements <- sf::st_read("C:/QGIS-CUSTOM/DATA/VECTEUR/administration/ADMIN EXPRESS/ADE_3-1_SHP_LAMB93_FXX/DEPARTEMENT.shp") %>% 
     dplyr::filter(INSEE_REG == 11) %>% 
     sf::st_transform(crs = 4326)
