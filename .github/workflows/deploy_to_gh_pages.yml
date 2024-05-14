@@ -8,17 +8,16 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-    container:
-        image: docker://ofbidf/src_idf:latest
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
         with:
           persist-credentials: false
 
-      - name: Render site
+      - name: Run Quarto render in Docker
         run: |
-          echo "quarto::quarto_render()" | R --no-save
+          docker run --volume ${{ github.workspace }}:/workspace --workdir /workspace ofbidf/src_idf R -e "quarto::quarto_render()"
+
 
       - name: Copy _site to root
         run: |
