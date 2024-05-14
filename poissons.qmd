@@ -20,41 +20,13 @@ Les suivis ichtyologiques réalisés en Île-de-France sous la supervision ou av
 
 ```{r, include=FALSE}
 `%>%` <- dplyr::'%>%'
-
-departements <- sf::st_read("C:/QGIS-CUSTOM/DATA/VECTEUR/administration/ADMIN EXPRESS/ADE_3-1_SHP_LAMB93_FXX/DEPARTEMENT.shp") %>% 
-    dplyr::filter(INSEE_REG == 11) %>% 
-    sf::st_transform(crs = 4326)
-
-stations_dce <- dplyr::bind_rows(
-    sf::st_read("C:/QGIS-CUSTOM/DATA/VECTEUR/surveillance/Stations de mesure de la qualité des eaux/RCS-IdF_DRIEE.shp") %>% 
-        dplyr::mutate(reseau = "RCS"),
-    sf::st_read("C:/QGIS-CUSTOM/DATA/VECTEUR/surveillance/Stations de mesure de la qualité des eaux/RCO-IdF_DRIEE.shp") %>% 
-        dplyr::mutate(reseau = "RCO")
-) %>% 
-    dplyr::mutate(
-        STATION = as.character(paste0("0", STATION)),
-        reseau = reseau %>% 
-            factor(levels = c("RCO", "RCS"))
-        ) %>% 
-    sf::st_transform(crs = 4326) %>% rmapshaper::ms_clip(departements) %>% 
-    dplyr::group_by(STATION) %>% 
-    dplyr::filter(as.numeric(reseau) == max(as.numeric(reseau))) %>% 
-    dplyr::mutate(
-        riviere = RIVIERE %>% 
-            stringr::str_remove(pattern = "\\)") %>% 
-            stringr::str_split(pattern = ", | \\(") %>% 
-            purrr::map(
-                function(x) {
-                    if (stringr::str_detect(x[[2]], "^d")) {
-                        paste0("le ", x[[3]], " ", x[[2]], ifelse(test = stringr::str_detect(x[[2]], "'"), yes = "", no = " "), x[[1]])
-                    } else {
-                        paste0(x[[2]], ifelse(test = stringr::str_detect(x[[2]], "'"), yes = "", no = " "), x[[1]])
-                    }
-                }
-            ) %>% 
-            purrr::list_c()
-    ) %>% 
-    dplyr::ungroup()
+load("data/data.rda")
+stations_dce <- stations_dce %>% 
+    sf::st_as_sf()
+departements <- departements %>% 
+    sf::st_as_sf()
+cours_eau <- cours_eau %>% 
+    sf::st_as_sf()
 
 stations_poissons <- hubeau::get_hydrobio_stations_hydrobio(
     code_region = 11, codes_supports = 4
@@ -73,10 +45,8 @@ stations_dce_poissons <- stations_dce %>%
             lapply(htmltools::HTML)
     )
 
-cours_eau <- sf::st_read("C:/QGIS-CUSTOM/DATA/VECTEUR/hydrographie/bdtopage_idf.gpkg", layer = "cours_eau_2022") %>% 
-    sf::st_transform(crs = 4326) %>% 
-    rmapshaper::ms_clip(departements) %>% 
-    dplyr::filter(!stringr::str_detect(string = TopoOH, pattern = "Canal|Aqueduc"))
+
+
 
 ```
 
@@ -88,12 +58,12 @@ Dans le cadre de la DCE, `r nrow(dplyr::filter(stations_dce_poissons, reseau == 
 ```{r, echo=FALSE}
 leaflet::leaflet() %>% 
     leaflet::addTiles() %>% 
-    leaflet::addPolylines(data = cours_eau, color = unname(templatesOFB::ofb_cols("bleu2")), weight = 2, opacity = 1) %>% 
+    leaflet::addPolylines(data = cours_eau, color = "#0083CB", weight = 2, opacity = 1) %>% 
     leaflet::addPolygons(data = departements, color = "black", opacity = 1, fillColor = "transparent", weight = 1) %>% 
     leaflet::addCircleMarkers(
         data = stations_dce_poissons %>% 
             dplyr::filter(reseau == "RCS"), 
-        fillColor = ~unname(templatesOFB::ofb_cols(ifelse(reseau == "RCO", "orange1", "bleu1"))), fillOpacity = 1,
+        fillColor = ~ifelse(reseau == "RCO", "#ED6A53", "#003A76"), fillOpacity = 1,
         color = "black", opacity = 1, weight = .5, radius = 5,
         label = ~libelle_station_hydrobio,
         popup = ~lapply(paste0(
