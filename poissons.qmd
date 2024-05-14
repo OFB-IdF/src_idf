@@ -6,11 +6,11 @@ title: "Poissons"
 
 Le suivi du compartiment ichtyologique se fait au moyen de pêches scientifiques à l'électricité pour les cours d'eau et de pêche au filet pour les plans d'eau.
 
-Comme les autres [suivis hydrobiologiques](hydrobio.html) réalisés, ces pêches peuvent servir à l'évaluation de l'état écologique des masses d'eau au titre de la DCE, au suivi d'actions de restauration mais également au suivi de certaines espèces.
+Comme les autres [suivis hydrobiologiques](hydrobio.html) réalisés par l'OFB, ces pêches peuvent servir à l'évaluation de l'état écologique des masses d'eau au titre de la DCE, au suivi d'actions de restauration mais également au suivi de certaines espèces.
 
 # En Île-de-France
 
-Les suivis ichtyologiques réalisés en Île-de-France sous la supervision ou avec la contribution du service régional connaissance ont deux objectifs principaux:
+Les suivis ichtyologiques réalisés en Île-de-France sous la supervision ou avec la contribution des services territoriaux ont deux objectifs principaux:
 
 -   évaluer la qualité écologique des cours d'eau dans le cadre de la DCE;
 
@@ -108,6 +108,14 @@ DT::datatable(
 
 ## Suivi anguille
 
+A partir de 2024, en appui de l'association migrateurs SEINORMIGR, les services territoriaux franciliens de l'OFB contribuent à l'application du [programme de monitoring anguille dans l'unité de gestion Seine-Nomandie](https://www.seinormigr.fr/fr/reseau-anguille-29a8){target="'_blank'"} pour la partie amont du bassin de la Seine afin d'améliorer les connaissances sur l'espèce et sa répartition dans le réseau hydrographique.
+
+::: panel-tabset
+## Carte
+
+## Tableau
+:::
+
 # Ressources {.titre-cache}
 
 ::: panel-tabset
@@ -124,6 +132,10 @@ DT::datatable(
 ### Visualiser les données
 
 [Tableau de bord de visualisation des données de pêche à l'électricité issues de Aspe](https://ssm-ecologie.shinyapps.io/aspedashboard/){target="'_blank'"}
+
+[Tableau de bord Anguille réalisé par l'association SEINORMIGR](https://www.seinormigr.fr/fr/tableau-bord-anguille-a736){target="'_blank'"}
+
+[Géo-Seine-Normandie](https://geo.eau-seine-normandie.fr/#/home/MESU){target="'_blank'"}: portail de la gestion de l'eau de l'agence de l'eau Seine-Normandie
 
 ## ![](/favicon.png){width="35"}
 
