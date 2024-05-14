@@ -66,6 +66,7 @@ body {
     background-size: 40% auto;
     background-repeat: no-repeat;
     background-position: right bottom;
+    background-attachment: fixed;
 }
 
 .title {
