@@ -129,4 +129,5 @@ h3 {
 h1.titre-cache {
     color: transparent;
     font-size: 0px;
+    margin-top: 0rem;
 }

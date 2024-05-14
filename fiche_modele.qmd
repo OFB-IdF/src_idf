@@ -4,9 +4,7 @@ title: "Page thématique"
 
 # Description
 
-Description du sujet, liens vers des pages éditoriales ou des sites nationaux.
-
-Ce que c'est / à quoi ça sert, quand le fait-on
+Description du sujet, ce que c'est / à quoi ça sert, quand le fait-on
 
 # En Île-de-France
 
@@ -19,17 +17,16 @@ Que fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique,
 
 ### Protocoles et guides
 
-
 ### Saisir les données
 
-
 ### Visualiser les données
-
 
 ## ![](/favicon.png){width="35"}
 
 ::: {.callout-note collapse="true" appearance="simple"}
 ## Ressources internes *![](/cadenas.png){width="15"}*
+
+*Ces ressources sont mises à disposition depuis la GED Alfresco, vous devrez vous y connecter pour y avoir accès.*
 
 *Liens vers des bilans, synthèses régionales*
 
