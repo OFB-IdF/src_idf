@@ -6,7 +6,8 @@ RUN apt-get update -qq && apt-get -y --no-install-recommends install \
   libudunits2-dev \
   libgdal-dev \
   libgeos-dev \
-  libproj-dev
+  libproj-dev \
+  git
 
 # Installer quarto-cli
 RUN wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.554/quarto-1.4.554-linux-amd64.deb && \
