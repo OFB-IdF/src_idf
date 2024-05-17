@@ -9,4 +9,5 @@ title: "Nos productions"
 ## Tableaux de bord
 
 -   [Visualisation des données de pêche à l'électricité issues de Aspe](https://ssm-ecologie.shinyapps.io/aspedashboard/){target="'_blank'"}
+-   [Suivis hydrobiologiques en Île-de-France](https://ofbidf.shinyapps.io/HydrobioIdF/){target="'_blank'"}
 -   [Suivi des étiages (ONDE) en Île-de-France](https://ofb-idf.github.io/PRR_ONDE/){target="'_blank'"}
