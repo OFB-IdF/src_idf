@@ -28,7 +28,11 @@ title: "Les missions de l'OFB"
 
 -   [Poissons](poissons.html)
 
--   Macroinvertébrés, diatomées, macrophytes
+-   Macroinvertébrés
+
+-   Diatomées
+
+-   Macrophytes
 
 ## Autres espèces
 
