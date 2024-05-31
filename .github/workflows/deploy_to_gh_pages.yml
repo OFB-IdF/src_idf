@@ -18,10 +18,12 @@ jobs:
         run: |
           docker run --volume ${{ github.workspace }}:/workspace --workdir /workspace ofbidf/src_idf Rscript /workspace/generer_site.R
 
+      - name: Set correct permissions for the site directory
+        run: sudo chmod -R 755 _site
+
 
       - name: Copy _site to root
-        run: |
-          cp -r _site/* .
+        run: sudo cp -r _site/* .
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
