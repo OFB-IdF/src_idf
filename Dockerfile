@@ -27,4 +27,8 @@ RUN install2.r --error \
   hubeau \
   leaflet \
   htmltools \
-  DT
+  DT \
+  pak \
+  brew \
+  magick \
+  openxlsx2
