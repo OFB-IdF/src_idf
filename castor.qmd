@@ -1,0 +1,142 @@
+---
+title: "Suivi du castor d'Europe"
+date: 2024-05-31
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+---
+
+:::::::::::::: {.columns}
+::: {.column width="75%"}
+
+<a href="castor.xlsx" class="btn btn-primary" download>
+  <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
+</a>
+
+# Description
+
+Le Castor d'Europe est un mammifère semi-aquatique, et l'un des plus grand rongeur de la planète.<br>Cette espèce protégée est une "ingénieure des écosystèmes" au travers des différents aménagements qu'elle réalise dans les cours d'eau.
+
+
+## Objectif
+
+Les objectifs du réseau ont été fixés par le ministère en charge de l’écologie :
+- assurer le suivi de la colonisation du castor sur le réseau hydrographique français ;
+- accompagnement sur la question des dommages;
+- vigilance sur l'arrivée du castor canadien
+
+## Utilisation
+
+Raportage Directive européenne Habitat Faune Flore<br>Régulation des dispositifs de piègeage près des cours d'eau
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="20%"}
+![](data-raw/logo_castor.jpg){width=100%}
+
+<b>Animation nationale</b>:<br>Paul Hurel<br><br><b>Suivi scientifique</b>:<br>Yoann Bressan<br><br><b>Animation régionale</b>:<br>Cédric Mondy
+
+<b>Partenaires</b>
+ENS<br>Syndicats de rivière
+:::
+::::::::::::::
+
+# Le suivi
+
+## Localisation
+
+```{r, echo=FALSE}
+FichesSRC::creer_carte(
+  departements = '91',
+  region = '11',
+  stations = NA,
+  web = TRUE
+  )
+```
+
+
+## Temporalité
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+
+```{r, echo=FALSE}
+FichesSRC::creer_calendrier('11,12,1,2,3')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="28%"}
+
+:::
+::::::::::::::
+
+# Logistique
+
+## Rôles
+:::::::::::::: {.columns}
+::: {.column width="33%"}
+<b>National</b>
+
+
+:::
+::: {.column width="33%"}
+<b>Régional</b>
+
+
+:::
+::: {.column width="33%"}
+<b>Départemental</b>
+
+
+:::
+::::::::::::::
+
+## Correspondants
+
+## Protocole
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Principe
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Matériel
+
+
+:::
+::::::::::::::
+
+## Les données
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Saisie
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Diffusion
+
+<a href='https://carmen.carmencarto.fr/38/Castor.map'>https://carmen.carmencarto.fr/38/Castor.map</a>
+:::
+::::::::::::::
+
+<hr>
+
+<div class="card">
+  <b>En savoir plus</b><br>
+  texte:Le réseau castor;lien:<a href='https://professionnels.ofb.fr/fr/reseau-castor'>https://professionnels.ofb.fr/fr/reseau-castor</a><br>
+  texte:Fiche espèce;lien:<a href='https://professionnels.ofb.fr/fr/doc-fiches-especes/castor-deurope-castor-fiber'>https://professionnels.ofb.fr/fr/doc-fiches-especes/castor-deurope-castor-fiber</a><br>
+  
+  
+  
+  
+</div>
