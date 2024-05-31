@@ -4,9 +4,12 @@ FROM rocker/tidyverse
 # Mettre à jour les packages du système
 RUN apt-get update -qq && apt-get -y --no-install-recommends install \
   libudunits2-dev \
+  gdal-bin \
   libgdal-dev \
   libgeos-dev \
   libproj-dev \
+  imagemagick \
+  libmagick++-dev \
   git
 
 # Installer quarto-cli
