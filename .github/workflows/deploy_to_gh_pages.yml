@@ -16,7 +16,7 @@ jobs:
 
       - name: Run Quarto render in Docker
         run: |
-          docker run --volume ${{ github.workspace }}:/workspace --workdir /workspace ofbidf/src_idf R -e "quarto::quarto_render()"
+          docker run --volume ${{ github.workspace }}:/workspace --workdir /workspace ofbidf/src_idf Rscript /workspace/generer_site.R
 
 
       - name: Copy _site to root
