@@ -133,8 +133,8 @@ FichesSRC::creer_calendrier('11,12,1,2,3')
 
 <div class="card">
   <b>En savoir plus</b><br>
-  texte:Le réseau castor;lien:<a href='https://professionnels.ofb.fr/fr/reseau-castor'>https://professionnels.ofb.fr/fr/reseau-castor</a><br>
-  texte:Fiche espèce;lien:<a href='https://professionnels.ofb.fr/fr/doc-fiches-especes/castor-deurope-castor-fiber'>https://professionnels.ofb.fr/fr/doc-fiches-especes/castor-deurope-castor-fiber</a><br>
+  <a href="https://professionnels.ofb.fr/fr/reseau-castor">Le réseau castor</a><br>
+  <a href="https://professionnels.ofb.fr/fr/doc-fiches-especes/castor-deurope-castor-fiber">Fiche espèce</a><br>
   
   
   
