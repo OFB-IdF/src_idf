@@ -1,10 +1,101 @@
 [
   {
-    "objectID": "anguille.html",
-    "href": "anguille.html",
-    "title": "Anguille européenne",
+    "objectID": "onde.html",
+    "href": "onde.html",
+    "title": "ONDE",
     "section": "",
-    "text": "Description\nDescription du sujet, liens vers des pages éditoriales ou des sites nationaux.\nCe que c’est / à quoi ça sert, quand le fait-on\n\n\nEn Île-de-France\nQue fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)\nLiens vers des bilans, synthèses régionales (certains  )\nfiche réseau (travail Mila, interne) \n\n\nRessources\nQuels outils sont utiles: liens vers protocoles, outils de bancarisation, diffusion, fiche espèce INPN"
+    "text": "Télécharger la fiche \n\n\nCaractériser les étiages estivaux par l’observation visuelle du niveau d’écoulement d’un réseau de petits cours d’eau.\n\n\nApprécier et suivre l’évolution des conditions d’écoulement d’un ensemble de cours d’eau\n\n\n\nContribution aux Bulletins de Situation Hydrologique (BSH): donnée complémentaire pour caractériser la situation hydrologique d’un territoire.\n\n\n\n\n\n\nAnimation nationale:Céline NowakAnimation régionale:Samuel Dembski\nPartenaires Conseils départementauxDREAL"
+  },
+  {
+    "objectID": "onde.html#objectif",
+    "href": "onde.html#objectif",
+    "title": "ONDE",
+    "section": "",
+    "text": "Apprécier et suivre l’évolution des conditions d’écoulement d’un ensemble de cours d’eau"
+  },
+  {
+    "objectID": "onde.html#utilisation",
+    "href": "onde.html#utilisation",
+    "title": "ONDE",
+    "section": "",
+    "text": "Contribution aux Bulletins de Situation Hydrologique (BSH): donnée complémentaire pour caractériser la situation hydrologique d’un territoire."
+  },
+  {
+    "objectID": "onde.html#localisation",
+    "href": "onde.html#localisation",
+    "title": "ONDE",
+    "section": "Localisation",
+    "text": "Localisation\n\nCarteTableau des sites"
+  },
+  {
+    "objectID": "onde.html#temporalité",
+    "href": "onde.html#temporalité",
+    "title": "ONDE",
+    "section": "Temporalité",
+    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSuivi usuel: 1 fois par mois, le 25 (+/- 2 jours)\nSuivi complémentaire: potentiellement toute l’année, en fonction des conditions hydrologiques"
+  },
+  {
+    "objectID": "onde.html#rôles",
+    "href": "onde.html#rôles",
+    "title": "ONDE",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nPilotage\n\nRégional\nPilotageTransmissionAnimation\n\nDépartemental\nObservationSaisie"
+  },
+  {
+    "objectID": "onde.html#correspondants",
+    "href": "onde.html#correspondants",
+    "title": "ONDE",
+    "section": "Correspondants",
+    "text": "Correspondants"
+  },
+  {
+    "objectID": "onde.html#protocole",
+    "href": "onde.html#protocole",
+    "title": "ONDE",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\nObservation visuelle selon les modalités suivantes:∙ Ecoulement visible (acceptable ou faible)∙ Ecoulement non visible∙ Assec⚠️ L’appréciation peut varier selon les observateurs.\n\n\n\n\n\nMatériel\nFiche terrain"
+  },
+  {
+    "objectID": "onde.html#les-données",
+    "href": "onde.html#les-données",
+    "title": "ONDE",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur https://onde.ofb.fr avant le 31 du mois de l’observation\n\n\n\n\n\nDiffusion\n\nGrand public:www.onde.eaufrance.frwww.data.eaufrance.fr\nInterne:https://ofb-idf.github.io/PRR_ONDE/\n\n\n\n\n\n\nEn savoir plus  Plaquette de présentation (serveur DR)  Bulletin de situation hydrologique Dataviz nationale  Guide d’utilisation du site onde.ofb.fr"
+  },
+  {
+    "objectID": "productions.html",
+    "href": "productions.html",
+    "title": "Nos productions",
+    "section": "",
+    "text": "Etude du chat forestier en Île-de-France"
+  },
+  {
+    "objectID": "productions.html#livrets",
+    "href": "productions.html#livrets",
+    "title": "Nos productions",
+    "section": "",
+    "text": "Etude du chat forestier en Île-de-France"
+  },
+  {
+    "objectID": "productions.html#tableaux-de-bord",
+    "href": "productions.html#tableaux-de-bord",
+    "title": "Nos productions",
+    "section": "Tableaux de bord",
+    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivis hydrobiologiques en Île-de-France\nSuivi des étiages (ONDE) en Île-de-France\nFaune protégée d’Île-de-France"
+  },
+  {
+    "objectID": "about.html#livrets",
+    "href": "about.html#livrets",
+    "title": "Les services territoriaux",
+    "section": "Livrets",
+    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
+  },
+  {
+    "objectID": "about.html#tableaux-de-bord",
+    "href": "about.html#tableaux-de-bord",
+    "title": "Les services territoriaux",
+    "section": "Tableaux de bord",
+    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
   },
   {
     "objectID": "index.html",
@@ -42,73 +133,66 @@
     "text": "Autres espèces\n\nEcrevisses\nBivalves\nAmphibiens\nSurveillance moléculaire de la biodiversité terrestre"
   },
   {
-    "objectID": "fiche_modele.html",
-    "href": "fiche_modele.html",
-    "title": "Page thématique",
+    "objectID": "becasse.html",
+    "href": "becasse.html",
+    "title": "Réseau Bécasse",
     "section": "",
-    "text": "Description\nDescription du sujet, ce que c’est / à quoi ça sert, quand le fait-on\n\n\nEn Île-de-France\nQue fait-on à ce sujet en Île-de-France: nombre de stations, carte, graphique, annuaire des sites, qui fait (OFB, partenaires)\n\n\nRessources\n\nRessources\n\n\n\nProtocoles et guides\n\n\nSaisir les données\n\n\nVisualiser les données\n\n\n\n\n\n\n\n\n\nRessources internes \n\n\n\n\n\nCes ressources sont mises à disposition depuis la GED Alfresco, vous devrez vous y connecter pour y avoir accès.\nLiens vers des bilans, synthèses régionales\nfiche réseau (travail Mila)"
+    "text": "Télécharger la fiche \n\n\nLa Bécasse des bois est une espèce de limicole forestier largement répandue en Eurasie. Migratrice, une bonne part des effectifs européens hiverne en France. Elle est chassable d’octobre à février et plusieurs suivis annuels sont mis en place.\n\n\nBaguageEcoute des mâles chanteurs (qui croulent)Suivi de l’habitat\n\n\n\nConnaître la répartition, l’abondance et la démographie des espèces. Suivi de l’évolution de la population. Valorisation dans des articles scientifiques, rapports. Etudes sur l’adaptation d’espèces au changements climatiques .\n\n\n\n\n\n\nAnimation nationale:Maxime PasseraultSuivi scientifique:Kévin Le RestAnimation régionale:Samuel DembskiCourriel du réseau:reseau.becasse@ofb.gouv.fr\nPartenaires Fédérations de chasseClub national des Bécassiers"
   },
   {
-    "objectID": "poissons.html",
-    "href": "poissons.html",
-    "title": "Poissons",
+    "objectID": "becasse.html#objectif",
+    "href": "becasse.html#objectif",
+    "title": "Réseau Bécasse",
     "section": "",
-    "text": "Le suivi du compartiment ichtyologique se fait au moyen de pêches scientifiques à l’électricité pour les cours d’eau et de pêche au filet pour les plans d’eau.\nComme les autres suivis hydrobiologiques réalisés par l’OFB, ces pêches peuvent servir à l’évaluation de l’état écologique des masses d’eau au titre de la DCE, au suivi d’actions de restauration mais également au suivi de certaines espèces."
+    "text": "BaguageEcoute des mâles chanteurs (qui croulent)Suivi de l’habitat"
   },
   {
-    "objectID": "poissons.html#les-stations-de-pêche-suivies-au-titre-de-la-directive-européenne-cadre-sur-leau-dce",
-    "href": "poissons.html#les-stations-de-pêche-suivies-au-titre-de-la-directive-européenne-cadre-sur-leau-dce",
-    "title": "Poissons",
-    "section": "Les stations de pêche suivies au titre de la Directive européenne cadre sur l’eau (DCE)",
-    "text": "Les stations de pêche suivies au titre de la Directive européenne cadre sur l’eau (DCE)\nDans le cadre de la DCE, 35 stations sont suivies pour le compartiment biologique ‘poisson’ au titre du réseau de contrôle et de surveillance pour évaluer l’état global des masses d’eau franciliennes.\n\nCarteTableau"
-  },
-  {
-    "objectID": "poissons.html#suivi-anguille",
-    "href": "poissons.html#suivi-anguille",
-    "title": "Poissons",
-    "section": "Suivi anguille",
-    "text": "Suivi anguille\nA partir de 2024, en appui de l’association migrateurs SEINORMIGR, les services territoriaux franciliens de l’OFB contribuent à l’application du programme de monitoring anguille dans l’unité de gestion Seine-Nomandie pour la partie amont du bassin de la Seine afin d’améliorer les connaissances sur l’espèce et sa répartition dans le réseau hydrographique.\n\nCarteTableau"
-  },
-  {
-    "objectID": "about.html#livrets",
-    "href": "about.html#livrets",
-    "title": "Les services territoriaux",
-    "section": "Livrets",
-    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
-  },
-  {
-    "objectID": "about.html#tableaux-de-bord",
-    "href": "about.html#tableaux-de-bord",
-    "title": "Les services territoriaux",
-    "section": "Tableaux de bord",
-    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
-  },
-  {
-    "objectID": "hydrobio.html",
-    "href": "hydrobio.html",
-    "title": "Hydrobiologie",
+    "objectID": "becasse.html#utilisation",
+    "href": "becasse.html#utilisation",
+    "title": "Réseau Bécasse",
     "section": "",
-    "text": "Les eaux de surface (cours d’eau et plans d’eau) françaises font l’objet d’une surveillance depuis les années 70. Avec la Directive européenne Cadre sur l’Eau (DCE, Directive 2000/60/CE), les Etats membres de l’Union Européenne partagent désormais tous un objectif commun d’atteindre le bon état des masses d’eau.\nL’OFB est partie prennante de la mise en oeuvre de la DCE depuis le début, tout d’abord au niveau national en accompagnant la mise en place des réseaux de surveillance et de nouvelles méthodes de bio-évaluation compatibles avec les exigences de la DCE (voir par exemple le numéro spécial de la revue SET, ou le bilan des rencontres organisées sur la prise en compte des incertitudes), en assurant la bancarisation et la diffusion d’une partie des données collectées au sein du Système d’information sur l’eau dont il a la charge, en appuyant le rapportage européen, mais également au niveau territorial en assurant pour partie la réalisation d’une partie et le suivi des opérations de suivi hydrobiologique et hydromorphologiques sur les cours d’eau et plans d’eau. Ce rôle s’est encore renforcé avec le transfert des laboratoires d’hydrobiologie au sein de l’OFB, les quatre éléments de qualité biologique appliquables aux cours d’eau sont désormais suivis par les services territoriaux de l’OFB:\n\nPoissons\nMacroinvertébrés\nDiatomées\nMacrophytes"
+    "text": "Connaître la répartition, l’abondance et la démographie des espèces. Suivi de l’évolution de la population. Valorisation dans des articles scientifiques, rapports. Etudes sur l’adaptation d’espèces au changements climatiques ."
   },
   {
-    "objectID": "productions.html",
-    "href": "productions.html",
-    "title": "Nos productions",
-    "section": "",
-    "text": "Etude du chat forestier en Île-de-France"
+    "objectID": "becasse.html#localisation",
+    "href": "becasse.html#localisation",
+    "title": "Réseau Bécasse",
+    "section": "Localisation",
+    "text": "Localisation"
   },
   {
-    "objectID": "productions.html#livrets",
-    "href": "productions.html#livrets",
-    "title": "Nos productions",
-    "section": "",
-    "text": "Etude du chat forestier en Île-de-France"
+    "objectID": "becasse.html#temporalité",
+    "href": "becasse.html#temporalité",
+    "title": "Réseau Bécasse",
+    "section": "Temporalité",
+    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBaguage:3 soirées avant le 10 décembre4 soirées entre le 10 décembre et le 20 février2 soirées après le 20 février"
   },
   {
-    "objectID": "productions.html#tableaux-de-bord",
-    "href": "productions.html#tableaux-de-bord",
-    "title": "Nos productions",
-    "section": "Tableaux de bord",
-    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivis hydrobiologiques en Île-de-France\nSuivi des étiages (ONDE) en Île-de-France\nFaune protégée d’Île-de-France"
+    "objectID": "becasse.html#rôles",
+    "href": "becasse.html#rôles",
+    "title": "Réseau Bécasse",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationBase de donnéesFormation\n\nRégional\nCoordination\n\nDépartemental\nBaguageEcouteSaisie"
+  },
+  {
+    "objectID": "becasse.html#correspondants",
+    "href": "becasse.html#correspondants",
+    "title": "Réseau Bécasse",
+    "section": "Correspondants",
+    "text": "Correspondants"
+  },
+  {
+    "objectID": "becasse.html#protocole",
+    "href": "becasse.html#protocole",
+    "title": "Réseau Bécasse",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\n\nCroule: recherche et écoute de mâles chanteurs. L’observateur doit être en place 30min avant le coucher du soleil et rester pendant deux heures\nBaguage: Les suivis se déroulent la nuit. Les bagueurs doivent réaliser au moins 9 soirées par saison. Ne pas éblouir les individus en vol ! Attention à la sécurité des bagueurs !\nSuivi de l’habitat des populations hivernantes: Les observations doivent se faire dans la mesure du possible dans des conditions météorologiques favorables: ni pluie, ni vent, ni orage\n\n\n\n\n\n\nMatériel\n\nCroule:∙ montre, jumelles, torche∙ carnet∙ fiche terrain\nBaguage:∙ épuisette∙ matériel de baguage"
+  },
+  {
+    "objectID": "becasse.html#les-données",
+    "href": "becasse.html#les-données",
+    "title": "Réseau Bécasse",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\n\nRemplissage des fiches de terrain\nCroule: transmission de la fiche de terrain et des données au plus tard le 15 juillet\nDonnées de baguage saisies sur: https://becasse.ofb.fr\n\n\n\n\n\n\nDiffusion\n\nArticles de recherche\nLettres d’informations\nBilan annuel\nCartes de densité\n\n\n\n\n\n\nEn savoir plus Présentation de la Bécasse des bois Site du Club national des Bécassiers\n Fiche observation croule (serveur DR)  Protocole de suivi Hivernage (capture et baguage)"
   }
 ]

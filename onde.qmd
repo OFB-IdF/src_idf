@@ -1,0 +1,153 @@
+---
+title: "ONDE"
+date: 2024-05-31
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+---
+
+:::::::::::::: {.columns}
+::: {.column width="75%"}
+
+<a href="onde.xlsx" class="btn btn-primary" download>
+  <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
+</a>
+
+# Description
+
+Caractériser les étiages estivaux par l'observation visuelle du niveau d'écoulement d'un réseau de petits cours d'eau. 
+
+
+## Objectif
+
+Apprécier et suivre l'évolution des conditions d'écoulement d'un ensemble de cours d'eau
+
+## Utilisation
+
+Contribution aux Bulletins de Situation Hydrologique (BSH): donnée complémentaire pour caractériser la situation hydrologique d’un territoire.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="20%"}
+![](https://www.eaufrance.fr/sites/default/files/2018-05/onde.png){width=100%}
+
+<b>Animation nationale</b>:<br>Céline Nowak<br><br><b>Animation régionale</b>:<br>Samuel Dembski
+
+<b>Partenaires</b>
+Conseils départementaux<br>DREAL
+:::
+::::::::::::::
+
+# Le suivi
+
+## Localisation
+
+::: panel-tabset
+### Carte
+```{r, echo=FALSE}
+FichesSRC::creer_carte(
+  departements = '77, 78, 95, 91, 94',
+  region = '11',
+  stations = 'data-raw/stations_onde.gpkg',
+  web = TRUE
+  )
+```
+
+### Tableau des sites
+```{r, echo=FALSE}
+FichesSRC::creer_tableau_stations(
+  stations = 'data-raw/stations_onde.gpkg'
+  )
+```
+
+:::
+
+
+## Temporalité
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+
+```{r, echo=FALSE}
+FichesSRC::creer_calendrier('Suivi usuel: 5, 6, 7, 8, 9
+Suivi complémentaire: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="28%"}
+- Suivi usuel: 1 fois par mois, le 25 (+/- 2 jours)<br>
+- Suivi complémentaire: potentiellement toute l'année, en fonction des conditions hydrologiques
+:::
+::::::::::::::
+
+# Logistique
+
+## Rôles
+:::::::::::::: {.columns}
+::: {.column width="33%"}
+<b>National</b>
+
+Pilotage
+:::
+::: {.column width="33%"}
+<b>Régional</b>
+
+Pilotage<br>Transmission<br>Animation
+:::
+::: {.column width="33%"}
+<b>Départemental</b>
+
+Observation<br>Saisie
+:::
+::::::::::::::
+
+## Correspondants
+
+## Protocole
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Principe
+
+Observation visuelle selon les modalités suivantes:<br>∙ Ecoulement visible (acceptable ou faible)<br>∙ Ecoulement non visible<br>∙ Assec<br><br>⚠️ L'appréciation peut varier selon les observateurs.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Matériel
+
+Fiche terrain
+:::
+::::::::::::::
+
+## Les données
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Saisie
+
+Saisie des observations sur <a href='https://onde.ofb.fr'>https://onde.ofb.fr</a> avant le 31 du mois de l'observation
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Diffusion
+
+- Grand public:<br><a href='http://www.onde.eaufrance.fr'>www.onde.eaufrance.fr</a><br><a href='http://www.data.eaufrance.fr'>www.data.eaufrance.fr</a><br>
+- Interne:<br><a href='https://ofb-idf.github.io/PRR_ONDE/'>https://ofb-idf.github.io/PRR_ONDE/</a>
+:::
+::::::::::::::
+
+<hr>
+
+<div class="card">
+  <b>En savoir plus</b><br>
+  <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\ONDE\01_Documentation\ONDE_fiche technique.pdf"> Plaquette de présentation (serveur DR)</a><br>
+  <a href="https://www.eaufrance.fr/publications/bsh"> Bulletin de situation hydrologique</a><br>
+  <a href="https://professionnels.ofb.fr/fr/doc-dataviz/dataviz-lassechement-estival-cours-deau-metropole-2012-2022">Dataviz nationale</a><br>
+  <a href="https://onde.ofb.fr/onde/accueil.action"> Guide d'utilisation du site onde.ofb.fr</a><br>
+  
+  
+</div>
