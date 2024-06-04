@@ -1,6 +1,6 @@
 ---
 title: "ONDE"
-date: 2024-05-31
+date: 2024-06-04
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -41,6 +41,8 @@ Conseils départementaux<br>DREAL
 # Le suivi
 
 ## Localisation
+:::::::::::::: {.columns}
+::: {.column width="72%"}
 
 ::: panel-tabset
 ### Carte
@@ -62,7 +64,14 @@ FichesSRC::creer_tableau_stations(
 
 :::
 
-
+:::
+:::{.column width="5%"}
+:::
+:::{.column width="23%"}
+### Type de suivi
+60 stations fixes représentatives des situations hydrologiques des petits cours d'eau (rangs de Strahler 1 à 4) de chaque département
+:::
+::::::::::::::
 ## Temporalité
 :::::::::::::: {.columns}
 ::: {.column width="67%"}

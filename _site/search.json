@@ -25,7 +25,7 @@
     "href": "castor.html#localisation",
     "title": "Suivi du castor d’Europe",
     "section": "Localisation",
-    "text": "Localisation"
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nProspection de linéaires de cours d’eau à la recherche d’indices de présence"
   },
   {
     "objectID": "castor.html#temporalité",
@@ -88,7 +88,7 @@
     "href": "becasse.html#localisation",
     "title": "Réseau Bécasse",
     "section": "Localisation",
-    "text": "Localisation"
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\n\nCroule: 600 mailles tirées aléatoirement chaque année sur toute la France. Le point d’écoute est défini comme l’ouverture d’au minimum 1 ha la plus proche du centroïde du carré.\nBaguage: Zone définie par le bagueur."
   },
   {
     "objectID": "becasse.html#temporalité",
@@ -221,7 +221,7 @@
     "href": "onde.html#localisation",
     "title": "ONDE",
     "section": "Localisation",
-    "text": "Localisation\n\nCarteTableau des sites"
+    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\n60 stations fixes représentatives des situations hydrologiques des petits cours d’eau (rangs de Strahler 1 à 4) de chaque département"
   },
   {
     "objectID": "onde.html#temporalité",

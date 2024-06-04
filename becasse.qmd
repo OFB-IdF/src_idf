@@ -1,6 +1,6 @@
 ---
 title: "Réseau Bécasse"
-date: 2024-05-31
+date: 2024-06-04
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -41,6 +41,8 @@ Fédérations de chasse<br>Club national des Bécassiers
 # Le suivi
 
 ## Localisation
+:::::::::::::: {.columns}
+::: {.column width="72%"}
 
 ```{r, echo=FALSE}
 FichesSRC::creer_carte(
@@ -51,7 +53,15 @@ FichesSRC::creer_carte(
   )
 ```
 
-
+:::
+:::{.column width="5%"}
+:::
+:::{.column width="23%"}
+### Type de suivi
+- Croule: 600 mailles tirées aléatoirement chaque année sur toute la France. Le point d’écoute est défini comme l’ouverture d’au minimum 1 ha la plus proche du centroïde du carré.<br>
+- Baguage: Zone définie par le bagueur.
+:::
+::::::::::::::
 ## Temporalité
 :::::::::::::: {.columns}
 ::: {.column width="67%"}
