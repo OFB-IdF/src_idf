@@ -47,14 +47,25 @@ ENS<br>Syndicats de rivière
 :::::::::::::: {.columns}
 ::: {.column width="67%"}
 
+::: panel-tabset
+### Carte
 ```{r, echo=FALSE}
 FichesSRC::creer_carte(
-  departements = '91',
+  departements = '77, 91',
   region = '11',
-  stations = NA,
+  stations = 'data-raw/lineaire_castor.gpkg',
   web = TRUE
   )
 ```
+
+### Tableau des sites
+```{r, echo=FALSE}
+FichesSRC::creer_tableau_stations(
+  stations = 'data-raw/lineaire_castor.gpkg'
+  )
+```
+
+:::
 
 :::
 :::{.column width="3%"}
@@ -78,7 +89,7 @@ FichesSRC::creer_calendrier('11,12,1,2,3')
 ::: {.column width="5%"}
 :::
 ::: {.column width="28%"}
-
+Prospections hivernales avant la reprise de la végétation
 :::
 ::::::::::::::
 
@@ -89,17 +100,17 @@ FichesSRC::creer_calendrier('11,12,1,2,3')
 ::: {.column width="33%"}
 <b>National</b>
 
-
+Animation<br>Base de données<br>Formation
 :::
 ::: {.column width="33%"}
 <b>Régional</b>
 
-
+Coordination<br>Remontée des données au national
 :::
 ::: {.column width="33%"}
 <b>Départemental</b>
 
-
+Prospections
 :::
 ::::::::::::::
 
@@ -110,14 +121,14 @@ FichesSRC::creer_calendrier('11,12,1,2,3')
 ::: {.column width="60%"}
 ### Principe
 
-
+Recherche d'indices de présence (bois coupé, écorçage, hutte…) en prospection sur l'eau et à pied en berge
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="35%"}
 ### Matériel
 
-
+kayak<br>gilet de sauvetage<br>jumelles<br>appareil photo
 :::
 ::::::::::::::
 
@@ -127,7 +138,7 @@ FichesSRC::creer_calendrier('11,12,1,2,3')
 ::: {.column width="60%"}
 ### Saisie
 
-
+Remplissage des fiches terrains et transmission à l'animateur régional
 :::
 ::: {.column width="5%"}
 :::
@@ -145,7 +156,7 @@ FichesSRC::creer_calendrier('11,12,1,2,3')
   <a href="https://professionnels.ofb.fr/fr/reseau-castor">Le réseau castor</a><br>
   <a href="https://professionnels.ofb.fr/fr/doc-fiches-especes/castor-deurope-castor-fiber">Fiche espèce</a><br>
   
-  
-  
+  <a href="https://ged.ofb.fr/share/page/site/dridf-rseau-partenarial-castor/dashboard"> Site Alfresco du Réseau Castor IdF</a><br>
+  <a href="https://ged.ofb.fr/share/s/giB4EPFIRPmsQZiGFeYY0A"> Protocole</a><br>
   
 </div>
