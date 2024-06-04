@@ -29,7 +29,7 @@ Les données sont valorisées dans les flash infos loup, dans les bilans saisonn
 ::: {.column width="5%"}
 :::
 ::: {.column width="20%"}
-![](Logo-xl-reseau-Loup-lynx-558x374.jpg (558×374) (loupfrance.fr)){width=100%}
+![](https://www.loupfrance.fr/wp-content/uploads/Logo-xl-reseau-Loup-lynx-558x374.jpg){width=100%}
 
 <b>Animation nationale</b>:<br>Nicolas Jean<br><br><b>Animation régionale</b>:<br>Samuel Dembski<br><br>Courriel du réseau:<br><a href='mailto:reseau.loup-lynx@ofb.gouv.fr'>reseau.loup-lynx@ofb.gouv.fr</a>
 
@@ -108,7 +108,7 @@ Constats<br>Suivi<br>Prélèvements
 ::: {.column width="60%"}
 ### Principe
 
-9 fiches de signalement, dites « fiches indices » sont disponibles. Chaque fiche est liée à un type d’évènement signalé (observation visuelle, photo, empreintes et piste, excrément/poils, hurlement, cadavre de proie sauvage, cadavre de proie domestique, urine/sang, cadavre<br>Si prélèvement de matériel biologique, stockage dans un congélateur spécifique. Eviter la congélation/décongélation de l’ADN. Délai de 48h maximum après l’évènement pour des analyses de cadavres.<br>
+9 fiches de signalement, dites « fiches indices » sont disponibles. Chaque fiche est liée à un type d’évènement signalé (observation visuelle, photo, empreintes et piste, excrément/poils, hurlement, cadavre de proie sauvage, cadavre de proie domestique, urine/sang, cadavre)<br>Si prélèvement de matériel biologique, stockage dans un congélateur spécifique. Eviter la congélation/décongélation de l’ADN. Délai de 48h maximum après l’évènement pour des analyses de cadavres.<br>
 :::
 ::: {.column width="5%"}
 :::
@@ -144,6 +144,6 @@ Selon la situation, plusieurs choses peuvent être nécessaires  (voir matériel
   
   
   <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Loup\Guide réflexe réseau Loup Lynx_DRIDF_v2.3.pdf">Guide réflexe (serveur DR)</a><br>
-  texte: Kit nouveaux territoires (serveur DR):lien:\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Loup\01_Documentation\KIT_Nouveaux_Territoires.pdf<br>
+  <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Loup\01_Documentation\KIT_Nouveaux_Territoires.pdf"> Kit nouveaux territoires (serveur DR)</a><br>
   <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Loup">Fiches de signalement</a><br>
 </div>

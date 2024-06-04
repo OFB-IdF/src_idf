@@ -1,0 +1,150 @@
+---
+title: "Dispositif national de suivi des bocages"
+date: 2024-06-04
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+---
+
+:::::::::::::: {.columns}
+::: {.column width="75%"}
+
+<a href="bocage.xlsx" class="btn btn-primary" download>
+  <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
+</a>
+
+# Description
+
+Le bocage est un paysage verdoyant de parcelles délimitées par des haies vives. De nombreux bocages ont disparus après la seconde guerre mondiale avec de grandes opérations de remembrement. Cependant, les haies et bocages sont des milieux privilégiés par de nombreuses espèces, et des facteurs de continuité écologique. Les deux premières phases du suivi ont été réalisées en 2020 avec la création d’une cartographie des territoires bocagers sur l’échelle de la France. Un protocole de suivi qualitatif et un référentiel national des haies sont maintenant développés pour les différents types de bocages.
+
+
+## Objectif
+
+Relevés sur le terrain pour caractériser les haies. 
+
+## Utilisation
+
+Suivi de l’évolution des haies et bocages. Aide pour les documents de planification, politiques agricoles. Cibler les zones pour la mise en place de mesures de restauration. Promouvoir la gestion durable des milieux bocagers.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="20%"}
+![](NA){width=100%}
+
+<b>Animation nationale</b>:<br>Sophie Morin<br><br><b>Animation régionale</b>:<br>Samuel Dembski
+
+<b>Partenaires</b>
+
+IGN
+:::
+::::::::::::::
+
+# Le suivi
+
+## Localisation
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+```{r, echo=FALSE}
+FichesSRC::creer_carte(
+  departements = '75,77,78,91,92,93,94,95',
+  region = '11',
+  stations = NA,
+  web = TRUE
+  )
+```
+
+:::
+:::{.column width="3%"}
+:::
+:::{.column width="30%"}
+### Type de suivi
+Quadrats de 1km²
+:::
+::::::::::::::
+## Temporalité
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+
+```{r, echo=FALSE}
+FichesSRC::creer_calendrier('Possible:1,2,3,4,5,6,7,8,9,10,11,12
+Préférable:5,6,7,8,9')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="28%"}
+
+:::
+::::::::::::::
+
+# Logistique
+
+## Rôles
+:::::::::::::: {.columns}
+::: {.column width="33%"}
+<b>National</b>
+
+Animation<br>Base de données
+:::
+::: {.column width="33%"}
+<b>Régional</b>
+
+Coordination
+:::
+::: {.column width="33%"}
+<b>Départemental</b>
+
+Prospections
+:::
+::::::::::::::
+
+## Correspondants
+
+## Protocole
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Principe
+
+Protocole national de relevé qualitatif  des haies. <br>A l’échelle d’un carré ou quadrat de 1 km².<br><br>- Localisation des haies, des alignements d’arbres et des différents types d’occupation du sol présents<br> <br>- Description de l’état des fonctionnalités écologiques des haies : épaisseur, présence de bande enherbée, de bois mort, de lianes, micros-habitats, diversité d’essences, état sanitaire des végétaux, etc.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Matériel
+
+<br>- Le fond orthophoto du carré fourni <br>- Un support rigide pour fixer les documents de terrain et un stylo <br>- Les fiches de description des haies du carré à l’échelle de 1km²<br>- Un smartphone pour se repérer si nécessaire et faire de la prise de vue <br>- Télémètre<br>- Guide botanique<br>- Fiche de terrain
+:::
+::::::::::::::
+
+## Les données
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Saisie
+
+<br>- relevés de terrain<br>- Transmission des fiches
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Diffusion
+
+<a href='https://www.geoportail.gouv.fr'>https://www.geoportail.gouv.fr</a><br><br><a href='https://geoservices.ign.fr/bdhaie'>https://geoservices.ign.fr/bdhaie</a>
+:::
+::::::::::::::
+
+<hr>
+
+<div class="card">
+  <b>En savoir plus</b><br>
+  <a href="http://www.set-revue.fr/caracteriser-et-suivre-qualitativement-et-quantitativement-les-haies-et-le-bocage-en-France">Présentation du dispositif</a><br>
+  <a href="http://www.polebocage.fr/IMG/pdf/dsb_4pages_v11.pdf">Plaquette d'information</a><br>
+  <a href="https://ged.ofb.fr/share/page/site/ple-bocage-faune-sauvage">Atlas des densités de haies</a><br>
+  
+  
+  
+</div>
