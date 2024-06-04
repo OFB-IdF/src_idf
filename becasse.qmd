@@ -59,8 +59,7 @@ FichesSRC::creer_carte(
 :::
 :::{.column width="30%"}
 ### Type de suivi
-- Croule: 600 mailles tirées aléatoirement chaque année sur toute la France. Le point d’écoute est défini comme l’ouverture d’au minimum 1 ha la plus proche du centroïde du carré.<br>
-- Baguage: Zone définie par le bagueur.
+<br>- Croule: 600 mailles tirées aléatoirement chaque année sur toute la France. Le point d’écoute est défini comme l’ouverture d’au minimum 1 ha la plus proche du centroïde du carré.<br><br>- Baguage: Zone définie par le bagueur.
 :::
 ::::::::::::::
 ## Temporalité
@@ -110,17 +109,14 @@ Baguage<br>Ecoute<br>Saisie
 ::: {.column width="60%"}
 ### Principe
 
-- Croule: recherche et écoute de mâles chanteurs. L'observateur doit être en place 30min avant le coucher du soleil et rester pendant deux heures<br>
-- Baguage: Les suivis se déroulent la nuit. Les bagueurs doivent réaliser au moins 9 soirées par saison. Ne pas éblouir les individus en vol ! Attention à la sécurité des bagueurs !<br>
-- Suivi de l'habitat des populations hivernantes: Les observations doivent se faire dans la mesure du possible dans des conditions météorologiques favorables: ni pluie, ni vent, ni orage
+<br>- Croule: recherche et écoute de mâles chanteurs. L'observateur doit être en place 30min avant le coucher du soleil et rester pendant deux heures<br><br>- Baguage: Les suivis se déroulent la nuit. Les bagueurs doivent réaliser au moins 9 soirées par saison. Ne pas éblouir les individus en vol ! Attention à la sécurité des bagueurs !<br><br>- Suivi de l'habitat des populations hivernantes: Les observations doivent se faire dans la mesure du possible dans des conditions météorologiques favorables: ni pluie, ni vent, ni orage
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="35%"}
 ### Matériel
 
-- Croule:<br>∙ montre, jumelles, torche<br>∙ carnet<br>∙ fiche terrain<br>
-- Baguage:<br>∙ épuisette<br>∙ matériel de baguage
+<br>- Croule:<br>∙ montre, jumelles, torche<br>∙ carnet<br>∙ fiche terrain<br><br>- Baguage:<br>∙ épuisette<br>∙ matériel de baguage
 :::
 ::::::::::::::
 
@@ -130,19 +126,14 @@ Baguage<br>Ecoute<br>Saisie
 ::: {.column width="60%"}
 ### Saisie
 
-- Remplissage des fiches de terrain<br>
-- Croule: transmission de la fiche de terrain et des données au plus tard le 15 juillet<br>
-- Données de baguage saisies sur: <a href='https://becasse.ofb.fr'>https://becasse.ofb.fr</a>
+<br>- Remplissage des fiches de terrain<br><br>- Croule: transmission de la fiche de terrain et des données au plus tard le 15 juillet<br><br>- Données de baguage saisies sur: <a href='https://becasse.ofb.fr'>https://becasse.ofb.fr</a>
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="35%"}
 ### Diffusion
 
-- Articles de recherche
-- Lettres d'informations
-- Bilan annuel
-- Cartes de densité
+<br>- Articles de recherche<br>- Lettres d'informations<br>- Bilan annuel<br>- Cartes de densité
 :::
 ::::::::::::::
 

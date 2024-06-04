@@ -20,10 +20,7 @@ Le Castor d'Europe est un mammifère semi-aquatique, et l'un des plus grand rong
 
 ## Objectif
 
-Les objectifs du réseau ont été fixés par le ministère en charge de l’écologie :
-- assurer le suivi de la colonisation du castor sur le réseau hydrographique français ;
-- accompagnement sur la question des dommages;
-- vigilance sur l'arrivée du castor canadien
+Les objectifs du réseau ont été fixés par le ministère en charge de l’écologie :<br>- assurer le suivi de la colonisation du castor sur le réseau hydrographique français ;<br>- accompagnement sur la question des dommages;<br>- vigilance sur l'arrivée du castor canadien
 
 ## Utilisation
 
@@ -129,11 +126,7 @@ Recherche d'indices de présence (bois coupé, écorçage, hutte…) en prospect
 ::: {.column width="35%"}
 ### Matériel
 
-- embarquation (ex. kayak)
-- gilet de sauvetage
-- jumelles
-- appareil photo
-- GPS
+<br>- embarquation (ex. kayak)<br>- gilet de sauvetage<br>- jumelles<br>- appareil photo<br>- GPS
 :::
 ::::::::::::::
 

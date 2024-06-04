@@ -88,8 +88,7 @@ Suivi complémentaire: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12')
 ::: {.column width="5%"}
 :::
 ::: {.column width="28%"}
-- Suivi usuel: 1 fois par mois, le 25 (+/- 2 jours)<br>
-- Suivi complémentaire: potentiellement toute l'année, en fonction des conditions hydrologiques
+<br>- Suivi usuel: 1 fois par mois, le 25 (+/- 2 jours)<br><br>- Suivi complémentaire: potentiellement toute l'année, en fonction des conditions hydrologiques
 :::
 ::::::::::::::
 
@@ -145,8 +144,7 @@ Saisie des observations sur <a href='https://onde.ofb.fr'>https://onde.ofb.fr</a
 ::: {.column width="35%"}
 ### Diffusion
 
-- Grand public:<br><a href='http://www.onde.eaufrance.fr'>www.onde.eaufrance.fr</a><br><a href='http://www.data.eaufrance.fr'>www.data.eaufrance.fr</a><br>
-- Interne:<br><a href='https://ofb-idf.github.io/PRR_ONDE/'>https://ofb-idf.github.io/PRR_ONDE/</a>
+<br>- Grand public:<br><a href='http://www.onde.eaufrance.fr'>www.onde.eaufrance.fr</a><br><a href='http://www.data.eaufrance.fr'>www.data.eaufrance.fr</a><br><br>- Interne:<br><a href='https://ofb-idf.github.io/PRR_ONDE/'>https://ofb-idf.github.io/PRR_ONDE/</a>
 :::
 ::::::::::::::
 
