@@ -1,0 +1,149 @@
+---
+title: "Réseau Loup/lynx"
+date: 2024-06-04
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+---
+
+:::::::::::::: {.columns}
+::: {.column width="75%"}
+
+<a href="loup.xlsx" class="btn btn-primary" download>
+  <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
+</a>
+
+# Description
+
+Espèce protégée depuis 1979 par la convention de Berne et recolonisant petit à petit le pays, le loup gris est encore très peu présent  en Ile-de-France. Le réseau Loup est déployé au niveau « Sentinelle » depuis 2017, et différentes procédures peuvent être mise en place en cas de signalement ou de détection d’un individu.
+
+
+## Objectif
+
+Veille, constats de dommages, observations opportunistes et prospections.
+
+## Utilisation
+
+Les données sont valorisées dans les flash infos loup, dans les bilans saisonniers et annuels. Cela permet d’avoir une connaissance sur la population de loups et son aire de répartition et d’accompagner les acteurs et victimes éventuelles.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="20%"}
+![](Logo-xl-reseau-Loup-lynx-558x374.jpg (558×374) (loupfrance.fr)){width=100%}
+
+<b>Animation nationale</b>:<br>Nicolas Jean<br><br><b>Animation régionale</b>:<br>Samuel Dembski<br><br>Courriel du réseau:<br><a href='mailto:reseau.loup-lynx@ofb.gouv.fr'>reseau.loup-lynx@ofb.gouv.fr</a>
+
+<b>Partenaires</b>
+
+DRIEAT/DDT<br>Préfecture
+:::
+::::::::::::::
+
+# Le suivi
+
+## Localisation
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+```{r, echo=FALSE}
+FichesSRC::creer_carte(
+  departements = '75,77,78,91,92,93,94,95',
+  region = '11',
+  stations = NA,
+  web = TRUE
+  )
+```
+
+:::
+:::{.column width="3%"}
+:::
+:::{.column width="30%"}
+### Type de suivi
+Opportuniste
+:::
+::::::::::::::
+## Temporalité
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+
+```{r, echo=FALSE}
+FichesSRC::creer_calendrier('1,2,3,4,5,6,7,8,9,10,11,12')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="28%"}
+Sur signalement
+:::
+::::::::::::::
+
+# Logistique
+
+## Rôles
+:::::::::::::: {.columns}
+::: {.column width="33%"}
+<b>National</b>
+
+Base de données<br>Synthèse<br>Harmonisation des protocoles
+:::
+::: {.column width="33%"}
+<b>Régional</b>
+
+Centralisation<br>Formation<br>Analyse de signalement
+:::
+::: {.column width="33%"}
+<b>Départemental</b>
+
+Constats<br>Suivi<br>Prélèvements
+:::
+::::::::::::::
+
+## Correspondants
+
+## Protocole
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Principe
+
+9 fiches de signalement, dites « fiches indices » sont disponibles. Chaque fiche est liée à un type d’évènement signalé (observation visuelle, photo, empreintes et piste, excrément/poils, hurlement, cadavre de proie sauvage, cadavre de proie domestique, urine/sang, cadavre<br>Si prélèvement de matériel biologique, stockage dans un congélateur spécifique. Eviter la congélation/décongélation de l’ADN. Délai de 48h maximum après l’évènement pour des analyses de cadavres.<br>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Matériel
+
+Selon la situation, plusieurs choses peuvent être nécessaires  (voir matériel détaillé pour chaque cas): <br>Fiche adaptée<br>Appareil photo et GPS<br><br>Si présence d’un cadavre: <br>Gants, scalpel, sac de récupération d’indice, feutre indélébile<br>Housse mortuaire<br>Masque, gel hydroalcoolique<br><br>Prendre systématiquement le kit matériel complet et l’ensemble des fiches du réseau pour tout signalement.
+:::
+::::::::::::::
+
+## Les données
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Saisie
+
+<br>- Réception du témoignage et prise de contact.<br><br>- Compléter la ou les fiches indices adéquates et fournir une carte de localisation (1/25000ème), si possible des coordonnées GPS en Lambert 93 et tout élément pertinent (photo, vidéo, échantillons).<br><br>- Transmettre cela à l’animateur régional du réseau et au service Connaissance de la Direction Régionale.<br><br>- Analyse et classement de l’évènement, transmission des résultats à la DDT.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Diffusion
+
+<a href='https://www.loupfrance.fr'>https://www.loupfrance.fr</a>
+:::
+::::::::::::::
+
+<hr>
+
+<div class="card">
+  <b>En savoir plus</b><br>
+  <a href="https://agriculture.gouv.fr/plan-loup-un-nouveau-cadre-national-dactions-pour-renforcer-la-coexistence-du-loup-et-des-activites"> Plan loup</a><br>
+  
+  
+  <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Loup\Guide réflexe réseau Loup Lynx_DRIDF_v2.3.pdf">Guide réflexe (serveur DR)</a><br>
+  texte: Kit nouveaux territoires (serveur DR):lien:\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Loup\01_Documentation\KIT_Nouveaux_Territoires.pdf<br>
+  <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Loup">Fiches de signalement</a><br>
+</div>
