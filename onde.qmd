@@ -42,7 +42,7 @@ Conseils départementaux<br>DREAL
 
 ## Localisation
 :::::::::::::: {.columns}
-::: {.column width="72%"}
+::: {.column width="67%"}
 
 ::: panel-tabset
 ### Carte
@@ -65,9 +65,9 @@ FichesSRC::creer_tableau_stations(
 :::
 
 :::
-:::{.column width="5%"}
+:::{.column width="3%"}
 :::
-:::{.column width="23%"}
+:::{.column width="30%"}
 ### Type de suivi
 60 stations fixes représentatives des situations hydrologiques des petits cours d'eau (rangs de Strahler 1 à 4) de chaque département
 :::

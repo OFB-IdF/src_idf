@@ -45,7 +45,7 @@ ENS<br>Syndicats de rivière
 
 ## Localisation
 :::::::::::::: {.columns}
-::: {.column width="72%"}
+::: {.column width="67%"}
 
 ```{r, echo=FALSE}
 FichesSRC::creer_carte(
@@ -57,9 +57,9 @@ FichesSRC::creer_carte(
 ```
 
 :::
-:::{.column width="5%"}
+:::{.column width="3%"}
 :::
-:::{.column width="23%"}
+:::{.column width="30%"}
 ### Type de suivi
 Prospection de linéaires de cours d'eau à la recherche d'indices de présence
 :::
