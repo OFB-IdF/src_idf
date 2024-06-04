@@ -129,7 +129,11 @@ Recherche d'indices de présence (bois coupé, écorçage, hutte…) en prospect
 ::: {.column width="35%"}
 ### Matériel
 
-kayak<br>gilet de sauvetage<br>jumelles<br>appareil photo
+- embarquation (ex. kayak)
+- gilet de sauvetage
+- jumelles
+- appareil photo
+- GPS
 :::
 ::::::::::::::
 
@@ -139,7 +143,7 @@ kayak<br>gilet de sauvetage<br>jumelles<br>appareil photo
 ::: {.column width="60%"}
 ### Saisie
 
-Remplissage des fiches terrains et transmission à l'animateur régional
+Remplissage des fiches terrains<br>Bancarisation régionale<br>Transmission au national 
 :::
 ::: {.column width="5%"}
 :::
