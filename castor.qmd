@@ -15,7 +15,7 @@ include-in-header:
 
 # Description
 
-Le Castor d'Europe est un mammifère semi-aquatique, et l'un des plus grand rongeur de la planète.<br>Cette espèce protégée est une "ingénieure des écosystèmes" au travers des différents aménagements qu'elle réalise dans les cours d'eau.
+Quasi disparu en Europe au début du 20ème siècle, la prise de mesure de protection du Castor d’Europe à partir de 1909 puis son classement en « espèce protégée » en 1968 a permis leur reconquête du territoire. L’ Ile-de-France est l’un des fronts de colonisation, induisant un suivi annuel et précis permettant de détecter la présence, suivre la distribution de l’espèce et la protéger en conséquence (notamment via l’interdiction de piégeage).
 
 
 ## Objectif
@@ -31,11 +31,11 @@ Raportage Directive européenne Habitat Faune Flore<br>Régulation des dispositi
 ::: {.column width="20%"}
 ![](data-raw/logo_castor.jpg){width=100%}
 
-<b>Animation nationale</b>:<br>Paul Hurel<br><br><b>Suivi scientifique</b>:<br>Yoann Bressan<br><br><b>Animation régionale</b>:<br>Cédric Mondy
+<b>Animation nationale</b>:<br>Paul Hurel<br><br><b>Suivi scientifique</b>:<br>Yoann Bressan<br><br>Couriel du réseau:<br><a href='mailto:reseau.castor@ofb.gouv.fr'>reseau.castor@ofb.gouv.fr</a><br><br><b>Animation régionale</b>:<br>Cédric Mondy
 
 <b>Partenaires</b>
 
-ENS<br>Syndicats de rivière
+Conseils départementaux (ENS)<br>Syndicats de rivière
 :::
 ::::::::::::::
 
@@ -87,7 +87,7 @@ FichesSRC::creer_calendrier('11,12,1,2,3')
 ::: {.column width="5%"}
 :::
 ::: {.column width="28%"}
-Prospections hivernales avant la reprise de la végétation
+Prospections préférentiellement hivernales avant la reprise de la végétation
 :::
 ::::::::::::::
 
@@ -108,7 +108,7 @@ Coordination<br>Remontée des données au national
 ::: {.column width="33%"}
 <b>Départemental</b>
 
-Prospections
+Prospections<br>(Constats de dommage)
 :::
 ::::::::::::::
 
@@ -136,7 +136,7 @@ Recherche d'indices de présence (bois coupé, écorçage, hutte…) en prospect
 ::: {.column width="60%"}
 ### Saisie
 
-Remplissage des fiches terrains<br>Bancarisation régionale<br>Transmission au national 
+Remplissage des fiches terrains<br>Bancarisation régionale<br>Transmission au national qui effectue une validation et consolidation nationale des données
 :::
 ::: {.column width="5%"}
 :::
@@ -156,5 +156,5 @@ Remplissage des fiches terrains<br>Bancarisation régionale<br>Transmission au n
   
   <a href="https://ged.ofb.fr/share/page/site/dridf-rseau-partenarial-castor/dashboard"> Site Alfresco du Réseau Castor IdF</a><br>
   <a href="https://ged.ofb.fr/share/s/giB4EPFIRPmsQZiGFeYY0A"> Protocole</a><br>
-  
+  <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Castor\04_ArretesPiegeage">Arrêtés piégeage (Serveur DR)</a><br>
 </div>
