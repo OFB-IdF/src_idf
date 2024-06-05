@@ -1,0 +1,168 @@
+---
+title: "Caractérisation hydromorphologique des cours d’eau"
+date: 2024-06-05
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+---
+
+:::::::::::::: {.columns}
+::: {.column width="75%"}
+
+<a href="hydromorphologie.xlsx" class="btn btn-primary" download>
+  <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
+</a>
+
+# Description
+
+L’hydromorphologie des cours d’eau est une des composante majeure de son état de santé. Ces caractéristiques dépendent des conditions naturelles et paysagères et peuvent être altérées par les activités humaines. Carhyce est le protocole de recueil de données hydromorphologiques à l'échelle d’une station sur les cours d'eau prospectables à pied. Les données sont standardisées et comparables dans le temps et d’un site à l’autre. 
+
+
+## Objectif
+
+Relever les caractéristiques morphologique du cours d’eau au travers de différents ateliers : Définition de la station ; Granulométrie ; Pente de la ligne d’eau ; Débit ; Transects ; Caractérisation de la zone riparienne ; Colmatage…
+
+## Utilisation
+
+Quantifier l'altération hydromorphologique des cours d'eau. Orienter les mesures de gestion. Définir un cadre de travail lors d'opérations de restauration.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="20%"}
+![](https://carhyce.eaufrance.fr/images/icone_carhyce.png){width=100%}
+
+<b>Animation nationale</b>:<br>Karl Kreutzenberger<br><br><b>Animation régionale</b>:<br>Samuel Dembski
+
+<b>Partenaires</b>
+
+DRIEAT/DDT<br>Agence de l'eau
+:::
+::::::::::::::
+
+# Le suivi
+
+## Localisation
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+```{r, echo=FALSE}
+FichesSRC::creer_carte(
+  departements = '75, 77, 78, 91, 92, 93, 94, 95',
+  region = '11',
+  stations = NA,
+  web = TRUE
+  )
+```
+
+:::
+:::{.column width="3%"}
+:::
+:::{.column width="30%"}
+### Type de suivi
+Stations des réseaux DCE<br><br>Sites suivis dans le cadre d'opérations de restauration
+:::
+::::::::::::::
+## Temporalité
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+
+```{r, echo=FALSE}
+FichesSRC::creer_calendrier('5,6,7,8,9')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="28%"}
+Pour les stations DCE: tout les 6 ans<br><br>Les relevés sont à effectuer en période d'étiage
+:::
+::::::::::::::
+
+# Logistique
+
+## Rôles
+:::::::::::::: {.columns}
+::: {.column width="33%"}
+<b>National</b>
+
+Animation<br>Base de données
+:::
+::: {.column width="33%"}
+<b>Régional</b>
+
+Animation
+:::
+::: {.column width="33%"}
+<b>Départemental</b>
+
+Relevés de terrain
+:::
+::::::::::::::
+
+## Compétences et formations
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
+
+```{r, echo=FALSE, fig.width=3, fig.height=1}
+FichesSRC::creer_graphe_expertise('Maitrise', '5')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="60%"}
+Formation Carhyce  pour la mise en œuvre du protocole et la saisie des données dans l’application – 3 j
+:::
+::::::::::::::
+
+
+## Correspondants
+
+## Protocole
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Principe
+
+Définition de la station (Appréciation visuelle du cours d’eau, géolocalisation, précise évaluation des grandeurs caractéristiques).<br> <br>Granulométrie (Mesure de 100 éléments sur le radier présentant la granulométrie la plus grossière). <br><br>Pente de la ligne d’eau (Mesure du denivelé entre le niveau d’eau à l’amont et à l’aval de la station avec au moins 3 points intermédiaires).<br><br>Débit. <br><br>Transects  (Matérialisation de 15 transects perpendiculaires à l’écoulement, espacés de la largeur à plein bord).<br><br>Colmatage  (Appréhender l’intensité du colmatage). 
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Matériel
+
+Obligatoire<br>- Appareil photo, Barre à mine , Bâtonnets , Clinomètre , Courantomètre , GPS , Gabarit , Jalons-repères , Mires , Masse ou massette <br>Niveau à bulle, mire à bulles et trépied, Pied à coulisse ou réglet, Piquets métalliques , Planche et crayon , Ruban de mesure (30 m) , Télémètre , Topofil et bobine.<br><br>- Matériel hygiène et sécurité<br><br>- Fiche de recueil<br><br>Optionnel<br>Calculatrice , Machette , Règle de maçon à bulle , Talkies-walkies (paire) 
+:::
+::::::::::::::
+
+## Les données
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Saisie
+
+<br>- Relevés des données sur le terrain<br>- Saisie des données dans l’application web Carhyce (<a href='https://carhyce.eaufrance.fr/'>https://carhyce.eaufrance.fr/</a>)<br><br>Tous les 6 mois, les données migrent vers la plateforme IED (Interface d’Exploitation des Données), où elles sont traitées et mises en forme, permettant leur visualisation sous forme de graphiques.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Diffusion
+
+Naïades:<br><a href='https://naiades.eaufrance.fr/acces-donnees#/hydromorphologie'>https://naiades.eaufrance.fr/acces-donnees#/hydromorphologie</a><br><br>Interface d'Exploitation des Données Carhyce:<br><a href='https://analytics.huma-num.fr/ied_carhyce/'>https://analytics.huma-num.fr/ied_carhyce/</a>
+:::
+::::::::::::::
+
+<hr>
+
+<div class="card">
+  <b>En savoir plus</b><br>
+  <a href="https://professionnels.ofb.fr/sites/default/files/GP2017_Carhyce_Plaquette.pdf">Plaquette de présentation</a><br>
+  <a href="https://www.dailymotion.com/video/x4ij5lc">Vidéo de présentation</a><br>
+  
+  <a href="https://www.documentation.eauetbiodiversite.fr/notice/carhyce-caracterisation-hydromorphologique-des-cours-d-eau-protocole-de-recueil-de-donnees-hydromorp0">Protocole</a><br>
+  <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Hydromorphologie\Cours_Eau[CarHyCE]\01_Documentation">Fiches Méthodologiques (serveur DR)</a><br>
+  
+</div>

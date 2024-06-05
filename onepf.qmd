@@ -109,7 +109,7 @@ Prospection<br>Saisie des données
 ::: {.column width="35%"}
 
 ```{r, echo=FALSE, fig.width=3, fig.height=1}
-FichesSRC::creer_graphe_expertise('Maitrise', '')
+FichesSRC::creer_graphe_expertise('Maitrise', '1')
 ```
 
 

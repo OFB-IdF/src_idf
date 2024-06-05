@@ -107,7 +107,7 @@ Constats<br>Suivi<br>Prélèvements
 ::: {.column width="35%"}
 
 ```{r, echo=FALSE, fig.width=3, fig.height=1}
-FichesSRC::creer_graphe_expertise('Maitrise', '2-3j')
+FichesSRC::creer_graphe_expertise('Maitrise', '1')
 ```
 
 

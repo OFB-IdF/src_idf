@@ -280,6 +280,20 @@
     "text": "Les données\n\n\n\nSaisie\n- Réception du témoignage et prise de contact.- Compléter la ou les fiches indices adéquates et fournir une carte de localisation (1/25000ème), si possible des coordonnées GPS en Lambert 93 et tout élément pertinent (photo, vidéo, échantillons).- Transmettre cela à l’animateur régional du réseau et au service Connaissance de la Direction Régionale.- Analyse et classement de l’évènement, transmission des résultats à la DDT.\n\n\n\n\n\nDiffusion\nhttps://www.loupfrance.fr\n\n\n\n\n\nEn savoir plus  Plan loup\nGuide réflexe (serveur DR)  Kit nouveaux territoires (serveur DR) Fiches de signalement"
   },
   {
+    "objectID": "about.html#livrets",
+    "href": "about.html#livrets",
+    "title": "Les services territoriaux",
+    "section": "Livrets",
+    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
+  },
+  {
+    "objectID": "about.html#tableaux-de-bord",
+    "href": "about.html#tableaux-de-bord",
+    "title": "Les services territoriaux",
+    "section": "Tableaux de bord",
+    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
+  },
+  {
     "objectID": "bocage.html",
     "href": "bocage.html",
     "title": "Dispositif national de suivi des bocages",
@@ -350,18 +364,74 @@
     "text": "Les données\n\n\n\nSaisie\n- relevés de terrain- Transmission des fiches\n\n\n\n\n\nDiffusion\nhttps://www.geoportail.gouv.frhttps://geoservices.ign.fr/bdhaie\n\n\n\n\n\nEn savoir plus Présentation du dispositif Plaquette d’information Atlas des densités de haies"
   },
   {
-    "objectID": "about.html#livrets",
-    "href": "about.html#livrets",
-    "title": "Les services territoriaux",
-    "section": "Livrets",
-    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
+    "objectID": "hydromorphologie.html",
+    "href": "hydromorphologie.html",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "",
+    "text": "Télécharger la fiche \n\n\nL’hydromorphologie des cours d’eau est une des composante majeure de son état de santé. Ces caractéristiques dépendent des conditions naturelles et paysagères et peuvent être altérées par les activités humaines. Carhyce est le protocole de recueil de données hydromorphologiques à l’échelle d’une station sur les cours d’eau prospectables à pied. Les données sont standardisées et comparables dans le temps et d’un site à l’autre.\n\n\nRelever les caractéristiques morphologique du cours d’eau au travers de différents ateliers : Définition de la station ; Granulométrie ; Pente de la ligne d’eau ; Débit ; Transects ; Caractérisation de la zone riparienne ; Colmatage…\n\n\n\nQuantifier l’altération hydromorphologique des cours d’eau. Orienter les mesures de gestion. Définir un cadre de travail lors d’opérations de restauration.\n\n\n\n\n\n\nAnimation nationale:Karl KreutzenbergerAnimation régionale:Samuel Dembski\nPartenaires\nDRIEAT/DDTAgence de l’eau"
   },
   {
-    "objectID": "about.html#tableaux-de-bord",
-    "href": "about.html#tableaux-de-bord",
-    "title": "Les services territoriaux",
-    "section": "Tableaux de bord",
-    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
+    "objectID": "hydromorphologie.html#objectif",
+    "href": "hydromorphologie.html#objectif",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "",
+    "text": "Relever les caractéristiques morphologique du cours d’eau au travers de différents ateliers : Définition de la station ; Granulométrie ; Pente de la ligne d’eau ; Débit ; Transects ; Caractérisation de la zone riparienne ; Colmatage…"
+  },
+  {
+    "objectID": "hydromorphologie.html#utilisation",
+    "href": "hydromorphologie.html#utilisation",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "",
+    "text": "Quantifier l’altération hydromorphologique des cours d’eau. Orienter les mesures de gestion. Définir un cadre de travail lors d’opérations de restauration."
+  },
+  {
+    "objectID": "hydromorphologie.html#localisation",
+    "href": "hydromorphologie.html#localisation",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nStations des réseaux DCESites suivis dans le cadre d’opérations de restauration"
+  },
+  {
+    "objectID": "hydromorphologie.html#temporalité",
+    "href": "hydromorphologie.html#temporalité",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Temporalité",
+    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPour les stations DCE: tout les 6 ansLes relevés sont à effectuer en période d’étiage"
+  },
+  {
+    "objectID": "hydromorphologie.html#rôles",
+    "href": "hydromorphologie.html#rôles",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nAnimation\n\nDépartemental\nRelevés de terrain"
+  },
+  {
+    "objectID": "hydromorphologie.html#compétences-et-formations",
+    "href": "hydromorphologie.html#compétences-et-formations",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation Carhyce pour la mise en œuvre du protocole et la saisie des données dans l’application – 3 j"
+  },
+  {
+    "objectID": "hydromorphologie.html#correspondants",
+    "href": "hydromorphologie.html#correspondants",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Correspondants",
+    "text": "Correspondants"
+  },
+  {
+    "objectID": "hydromorphologie.html#protocole",
+    "href": "hydromorphologie.html#protocole",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\nDéfinition de la station (Appréciation visuelle du cours d’eau, géolocalisation, précise évaluation des grandeurs caractéristiques). Granulométrie (Mesure de 100 éléments sur le radier présentant la granulométrie la plus grossière). Pente de la ligne d’eau (Mesure du denivelé entre le niveau d’eau à l’amont et à l’aval de la station avec au moins 3 points intermédiaires).Débit. Transects (Matérialisation de 15 transects perpendiculaires à l’écoulement, espacés de la largeur à plein bord).Colmatage (Appréhender l’intensité du colmatage).\n\n\n\n\n\nMatériel\nObligatoire- Appareil photo, Barre à mine , Bâtonnets , Clinomètre , Courantomètre , GPS , Gabarit , Jalons-repères , Mires , Masse ou massette Niveau à bulle, mire à bulles et trépied, Pied à coulisse ou réglet, Piquets métalliques , Planche et crayon , Ruban de mesure (30 m) , Télémètre , Topofil et bobine.- Matériel hygiène et sécurité- Fiche de recueilOptionnelCalculatrice , Machette , Règle de maçon à bulle , Talkies-walkies (paire)"
+  },
+  {
+    "objectID": "hydromorphologie.html#les-données",
+    "href": "hydromorphologie.html#les-données",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\n- Relevés des données sur le terrain- Saisie des données dans l’application web Carhyce (https://carhyce.eaufrance.fr/)Tous les 6 mois, les données migrent vers la plateforme IED (Interface d’Exploitation des Données), où elles sont traitées et mises en forme, permettant leur visualisation sous forme de graphiques.\n\n\n\n\n\nDiffusion\nNaïades:https://naiades.eaufrance.fr/acces-donnees#/hydromorphologieInterface d’Exploitation des Données Carhyce:https://analytics.huma-num.fr/ied_carhyce/\n\n\n\n\n\nEn savoir plus Plaquette de présentation Vidéo de présentation\nProtocole Fiches Méthodologiques (serveur DR)"
   },
   {
     "objectID": "index.html",
