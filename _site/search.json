@@ -42,6 +42,13 @@
     "text": "Rôles\n\n\nNational\nAnimationBase de donnéesFormation\n\nRégional\nCoordinationRemontée des données au national\n\nDépartemental\nProspections(Constats de dommage)"
   },
   {
+    "objectID": "castor.html#compétences-et-formations",
+    "href": "castor.html#compétences-et-formations",
+    "title": "Suivi du castor d’Europe",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation Petit et Méso-Carnivores et Castor(Formation dommage)"
+  },
+  {
     "objectID": "castor.html#correspondants",
     "href": "castor.html#correspondants",
     "title": "Suivi du castor d’Europe",
@@ -103,6 +110,13 @@
     "title": "Réseau Bécasse",
     "section": "Rôles",
     "text": "Rôles\n\n\nNational\nAnimationBase de donnéesFormation\n\nRégional\nCoordination\n\nDépartemental\nBaguageEcouteSaisie"
+  },
+  {
+    "objectID": "becasse.html#compétences-et-formations",
+    "href": "becasse.html#compétences-et-formations",
+    "title": "Réseau Bécasse",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarte de bagueur (formation spécifique et plus de 10 soirées de baguage encadrées)Reconnaissance chants"
   },
   {
     "objectID": "becasse.html#correspondants",
@@ -168,6 +182,13 @@
     "text": "Rôles\n\n\nNational\nAnimation\n\nRégional\nCoordination\n\nDépartemental\nProspectionSaisie des données"
   },
   {
+    "objectID": "onepf.html#compétences-et-formations",
+    "href": "onepf.html#compétences-et-formations",
+    "title": "Observatoire National de l’écosystème prairie de fauche",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations"
+  },
+  {
     "objectID": "onepf.html#correspondants",
     "href": "onepf.html#correspondants",
     "title": "Observatoire National de l’écosystème prairie de fauche",
@@ -231,6 +252,13 @@
     "text": "Rôles\n\n\nNational\nBase de donnéesSynthèseHarmonisation des protocoles\n\nRégional\nCentralisationFormationAnalyse de signalement\n\nDépartemental\nConstatsSuiviPrélèvements"
   },
   {
+    "objectID": "loup.html#compétences-et-formations",
+    "href": "loup.html#compétences-et-formations",
+    "title": "Réseau Loup/lynx",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- Formation constat de dommage (1,5 jours)- Formation correspondant de réseau ( 3 jours)"
+  },
+  {
     "objectID": "loup.html#correspondants",
     "href": "loup.html#correspondants",
     "title": "Réseau Loup/lynx",
@@ -292,6 +320,13 @@
     "title": "Dispositif national de suivi des bocages",
     "section": "Rôles",
     "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordination\n\nDépartemental\nProspections"
+  },
+  {
+    "objectID": "bocage.html#compétences-et-formations",
+    "href": "bocage.html#compétences-et-formations",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- Connaissance en botanique- Connaissance en ornithologie"
   },
   {
     "objectID": "bocage.html#correspondants",
@@ -425,6 +460,13 @@
     "title": "ONDE",
     "section": "Rôles",
     "text": "Rôles\n\n\nNational\nPilotage\n\nRégional\nPilotageTransmissionAnimation\n\nDépartemental\nObservationSaisie"
+  },
+  {
+    "objectID": "onde.html#compétences-et-formations",
+    "href": "onde.html#compétences-et-formations",
+    "title": "ONDE",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- Information sur le protocole terrain et présentation de l’application de saisie- Droit de saisie à la demande"
   },
   {
     "objectID": "onde.html#correspondants",

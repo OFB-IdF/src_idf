@@ -1,6 +1,6 @@
 ---
 title: "Dispositif national de suivi des bocages"
-date: 2024-06-04
+date: 2024-06-05
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -101,6 +101,25 @@ Coordination
 Prospections
 :::
 ::::::::::::::
+
+## Compétences et formations
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
+
+```{r, echo=FALSE, fig.width=3, fig.height=1}
+FichesSRC::creer_graphe_expertise('Maitrise', 'NA')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="60%"}
+<br>- Connaissance en botanique<br>- Connaissance en ornithologie
+:::
+::::::::::::::
+
 
 ## Correspondants
 

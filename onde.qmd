@@ -1,6 +1,6 @@
 ---
 title: "ONDE"
-date: 2024-06-04
+date: 2024-06-05
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -112,6 +112,25 @@ Pilotage<br>Transmission<br>Animation
 Observation<br>Saisie
 :::
 ::::::::::::::
+
+## Compétences et formations
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
+
+```{r, echo=FALSE, fig.width=3, fig.height=1}
+FichesSRC::creer_graphe_expertise('Initié', '1j')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="60%"}
+<br>- Information sur le protocole terrain et présentation de l'application de saisie<br>- Droit de saisie à la demande
+:::
+::::::::::::::
+
 
 ## Correspondants
 
