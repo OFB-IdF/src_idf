@@ -29,7 +29,7 @@ Suivi de l’évolution des haies et bocages. Aide pour les documents de planifi
 ::: {.column width="5%"}
 :::
 ::: {.column width="20%"}
-![](NA){width=100%}
+
 
 <b>Animation nationale</b>:<br>Sophie Morin<br><br><b>Animation régionale</b>:<br>Samuel Dembski
 

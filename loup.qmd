@@ -29,7 +29,7 @@ Les données sont valorisées dans les flash infos loup, dans les bilans saisonn
 ::: {.column width="5%"}
 :::
 ::: {.column width="20%"}
-![](https://www.loupfrance.fr/wp-content/uploads/Logo-xl-reseau-Loup-lynx-558x374.jpg){width=100%}
+![](https://www.loupfrance.fr/wp-content/uploads/Logo-xl-reseau-Loup-lynx-558x374.jpg)
 
 <b>Animation nationale</b>:<br>Nicolas Jean<br><br><b>Animation régionale</b>:<br>Samuel Dembski<br><br>Courriel du réseau:<br><a href='mailto:reseau.loup-lynx@ofb.gouv.fr'>reseau.loup-lynx@ofb.gouv.fr</a>
 

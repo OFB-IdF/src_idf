@@ -161,193 +161,74 @@
     "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivis hydrobiologiques en Île-de-France\nSuivi des étiages (ONDE) en Île-de-France\nFaune protégée d’Île-de-France"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Les missions de l’OFB",
+    "objectID": "onepf.html",
+    "href": "onepf.html",
+    "title": "Observatoire National de l’écosystème prairie de fauche",
     "section": "",
-    "text": "Texte d’introduction"
+    "text": "Télécharger la fiche \n\n\nL’ONEPF a été crée avec le constat que les périodes de fenaisons de plus en plus précoces et l’altération des prairies de fauches sont défavorables aux nombreuses d’oiseaux qui l’utilisent pour la reproduction.\n\n\nSuivi de l’avifaune prairiale et de l’évolution de la gestion des prairies de fauche. Echantillonnage de référence nationale. Etude de l’impact de la fauche sur les populations d’avifaune prairiale.\n\n\n\nOrientation des politiques publiques agro –environnementales, programmes de recherche, études complémentaires.\n\n\n\n\n\nAnimation nationale:xxxxSuivi scientifique:Laurence CurtetAnimation régionale:Samuel Dembski\nPartenaires\nFédération de chasseLPO"
   },
   {
-    "objectID": "index.html#mammifères",
-    "href": "index.html#mammifères",
-    "title": "Les missions de l’OFB",
-    "section": "Mammifères",
-    "text": "Mammifères\n\nChat forestier\nCastor\nOngulés sauvages\nLoup"
-  },
-  {
-    "objectID": "index.html#avifaune",
-    "href": "index.html#avifaune",
-    "title": "Les missions de l’OFB",
-    "section": "Avifaune",
-    "text": "Avifaune\n\nBécasse\nSTOC/SHOC\nPrairies de fauche"
-  },
-  {
-    "objectID": "index.html#hydrobiologie",
-    "href": "index.html#hydrobiologie",
-    "title": "Les missions de l’OFB",
-    "section": "Hydrobiologie",
-    "text": "Hydrobiologie\n\nPoissons\nMacroinvertébrés\nDiatomées\nMacrophytes"
-  },
-  {
-    "objectID": "index.html#autres-espèces",
-    "href": "index.html#autres-espèces",
-    "title": "Les missions de l’OFB",
-    "section": "Autres espèces",
-    "text": "Autres espèces\n\nEcrevisses\nBivalves\nAmphibiens\nPetits et moyens carnivores\nSurveillance moléculaire de la biodiversité terrestre"
-  },
-  {
-    "objectID": "hydromorphologie.html",
-    "href": "hydromorphologie.html",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "objectID": "onepf.html#objectif",
+    "href": "onepf.html#objectif",
+    "title": "Observatoire National de l’écosystème prairie de fauche",
     "section": "",
-    "text": "Télécharger la fiche \n\n\nL’hydromorphologie des cours d’eau est une des composante majeure de son état de santé. Ces caractéristiques dépendent des conditions naturelles et paysagères et peuvent être altérées par les activités humaines. Carhyce est le protocole de recueil de données hydromorphologiques à l’échelle d’une station sur les cours d’eau prospectables à pied. Les données sont standardisées et comparables dans le temps et d’un site à l’autre.\n\n\nRelever les caractéristiques morphologique du cours d’eau au travers de différents ateliers : Définition de la station ; Granulométrie ; Pente de la ligne d’eau ; Débit ; Transects ; Caractérisation de la zone riparienne ; Colmatage…\n\n\n\nQuantifier l’altération hydromorphologique des cours d’eau. Orienter les mesures de gestion. Définir un cadre de travail lors d’opérations de restauration.\n\n\n\n\n\n\nAnimation nationale:Karl KreutzenbergerAnimation régionale:Samuel Dembski\nPartenaires\nDRIEAT/DDTAgence de l’eau"
+    "text": "Suivi de l’avifaune prairiale et de l’évolution de la gestion des prairies de fauche. Echantillonnage de référence nationale. Etude de l’impact de la fauche sur les populations d’avifaune prairiale."
   },
   {
-    "objectID": "hydromorphologie.html#objectif",
-    "href": "hydromorphologie.html#objectif",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "objectID": "onepf.html#utilisation",
+    "href": "onepf.html#utilisation",
+    "title": "Observatoire National de l’écosystème prairie de fauche",
     "section": "",
-    "text": "Relever les caractéristiques morphologique du cours d’eau au travers de différents ateliers : Définition de la station ; Granulométrie ; Pente de la ligne d’eau ; Débit ; Transects ; Caractérisation de la zone riparienne ; Colmatage…"
+    "text": "Orientation des politiques publiques agro –environnementales, programmes de recherche, études complémentaires."
   },
   {
-    "objectID": "hydromorphologie.html#utilisation",
-    "href": "hydromorphologie.html#utilisation",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
-    "section": "",
-    "text": "Quantifier l’altération hydromorphologique des cours d’eau. Orienter les mesures de gestion. Définir un cadre de travail lors d’opérations de restauration."
-  },
-  {
-    "objectID": "hydromorphologie.html#localisation",
-    "href": "hydromorphologie.html#localisation",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "objectID": "onepf.html#localisation",
+    "href": "onepf.html#localisation",
+    "title": "Observatoire National de l’écosystème prairie de fauche",
     "section": "Localisation",
-    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nStations des réseaux DCESites suivis dans le cadre d’opérations de restauration"
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nStations d’une aire de 200m autour d’un point de la prairie de fauche (environ 12 ha chacun.)"
   },
   {
-    "objectID": "hydromorphologie.html#temporalité",
-    "href": "hydromorphologie.html#temporalité",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "objectID": "onepf.html#temporalité",
+    "href": "onepf.html#temporalité",
+    "title": "Observatoire National de l’écosystème prairie de fauche",
     "section": "Temporalité",
-    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPour les stations DCE: tout les 6 ansLes relevés sont à effectuer en période d’étiage"
+    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTous les ans: - Relevés des calendriers de fenaison : évaluation du pourcentage fauché. 20 juin, 1er juillet, 15 juillet (+- 2 jours).- Comptage visuel et auditif des oiseaux : Indice ponctuel d’abondance (IPA), 2 fois.Tous les 5 ans: Relevés de végétation et enquête agricole ."
   },
   {
-    "objectID": "hydromorphologie.html#rôles",
-    "href": "hydromorphologie.html#rôles",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "objectID": "onepf.html#rôles",
+    "href": "onepf.html#rôles",
+    "title": "Observatoire National de l’écosystème prairie de fauche",
     "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nAnimation\n\nDépartemental\nRelevés de terrain"
+    "text": "Rôles\n\n\nNational\nAnimation\n\nRégional\nCoordination\n\nDépartemental\nProspectionSaisie des données"
   },
   {
-    "objectID": "hydromorphologie.html#compétences-et-formations",
-    "href": "hydromorphologie.html#compétences-et-formations",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "objectID": "onepf.html#compétences-et-formations",
+    "href": "onepf.html#compétences-et-formations",
+    "title": "Observatoire National de l’écosystème prairie de fauche",
     "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation Carhyce pour la mise en œuvre du protocole et la saisie des données dans l’application – 3 j"
+    "text": "Compétences et formations"
   },
   {
-    "objectID": "hydromorphologie.html#correspondants",
-    "href": "hydromorphologie.html#correspondants",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "objectID": "onepf.html#correspondants",
+    "href": "onepf.html#correspondants",
+    "title": "Observatoire National de l’écosystème prairie de fauche",
     "section": "Correspondants",
     "text": "Correspondants"
   },
   {
-    "objectID": "hydromorphologie.html#protocole",
-    "href": "hydromorphologie.html#protocole",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "objectID": "onepf.html#protocole",
+    "href": "onepf.html#protocole",
+    "title": "Observatoire National de l’écosystème prairie de fauche",
     "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\nDéfinition de la station (Appréciation visuelle du cours d’eau, géolocalisation, précise évaluation des grandeurs caractéristiques). Granulométrie (Mesure de 100 éléments sur le radier présentant la granulométrie la plus grossière). Pente de la ligne d’eau (Mesure du denivelé entre le niveau d’eau à l’amont et à l’aval de la station avec au moins 3 points intermédiaires).Débit. Transects (Matérialisation de 15 transects perpendiculaires à l’écoulement, espacés de la largeur à plein bord).Colmatage (Appréhender l’intensité du colmatage).\n\n\n\n\n\nMatériel\nObligatoire- Appareil photo, Barre à mine , Bâtonnets , Clinomètre , Courantomètre , GPS , Gabarit , Jalons-repères , Mires , Masse ou massette Niveau à bulle, mire à bulles et trépied, Pied à coulisse ou réglet, Piquets métalliques , Planche et crayon , Ruban de mesure (30 m) , Télémètre , Topofil et bobine.- Matériel hygiène et sécurité- Fiche de recueilOptionnelCalculatrice , Machette , Règle de maçon à bulle , Talkies-walkies (paire)"
+    "text": "Protocole\n\n\n\nPrincipe\nLa méthode retenue est celle des Indices Ponctuels d’Abondance (I.P.A.), adaptée ici au cas particulier des oiseaux prairiaux qui sont mieux détectables visuellement que les oiseaux forestiers. Cette méthode est surtout orientée vers l’échantillonnage des peuplements de passereauxLe nombre d’individus par espèce est recensé par un observateur immobile, au centre de chaque station, pendant une durée de 15 minutes. Les oiseaux sont repérés soit à la jumelle, soit par leurs cris ou leurs chants. Le recensement en un même point est à réaliser deux fois chaque année, dans la première puis la seconde moitié de la saison de nidification (avant la fenaison).\n\n\n\n\n\nMatériel\nGénéral:- Fiches de terrain- jumellesRelevés de végétation:- Mètre- Quadrillage"
   },
   {
-    "objectID": "hydromorphologie.html#les-données",
-    "href": "hydromorphologie.html#les-données",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "objectID": "onepf.html#les-données",
+    "href": "onepf.html#les-données",
+    "title": "Observatoire National de l’écosystème prairie de fauche",
     "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\n- Relevés des données sur le terrain- Saisie des données dans l’application web Carhyce (https://carhyce.eaufrance.fr/)Tous les 6 mois, les données migrent vers la plateforme IED (Interface d’Exploitation des Données), où elles sont traitées et mises en forme, permettant leur visualisation sous forme de graphiques.\n\n\n\n\n\nDiffusion\nNaïades:https://naiades.eaufrance.fr/acces-donnees#/hydromorphologieInterface d’Exploitation des Données Carhyce:https://analytics.huma-num.fr/ied_carhyce/\n\n\n\n\n\nEn savoir plus Plaquette de présentation Vidéo de présentation\nProtocole Fiches Méthodologiques (serveur DR)"
-  },
-  {
-    "objectID": "bocage.html",
-    "href": "bocage.html",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "",
-    "text": "Télécharger la fiche \n\n\nLe bocage est un paysage verdoyant de parcelles délimitées par des haies vives. De nombreux bocages ont disparus après la seconde guerre mondiale avec de grandes opérations de remembrement. Cependant, les haies et bocages sont des milieux privilégiés par de nombreuses espèces, et des facteurs de continuité écologique. Les deux premières phases du suivi ont été réalisées en 2020 avec la création d’une cartographie des territoires bocagers sur l’échelle de la France. Un protocole de suivi qualitatif et un référentiel national des haies sont maintenant développés pour les différents types de bocages.\n\n\nRelevés sur le terrain pour caractériser les haies.\n\n\n\nSuivi de l’évolution des haies et bocages. Aide pour les documents de planification, politiques agricoles. Cibler les zones pour la mise en place de mesures de restauration. Promouvoir la gestion durable des milieux bocagers.\n\n\n\n\n\n\nAnimation nationale:Sophie MorinAnimation régionale:Samuel Dembski\nPartenaires\nIGN"
-  },
-  {
-    "objectID": "bocage.html#objectif",
-    "href": "bocage.html#objectif",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "",
-    "text": "Relevés sur le terrain pour caractériser les haies."
-  },
-  {
-    "objectID": "bocage.html#utilisation",
-    "href": "bocage.html#utilisation",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "",
-    "text": "Suivi de l’évolution des haies et bocages. Aide pour les documents de planification, politiques agricoles. Cibler les zones pour la mise en place de mesures de restauration. Promouvoir la gestion durable des milieux bocagers."
-  },
-  {
-    "objectID": "bocage.html#localisation",
-    "href": "bocage.html#localisation",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Localisation",
-    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nQuadrats de 1km²"
-  },
-  {
-    "objectID": "bocage.html#temporalité",
-    "href": "bocage.html#temporalité",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Temporalité",
-    "text": "Temporalité"
-  },
-  {
-    "objectID": "bocage.html#rôles",
-    "href": "bocage.html#rôles",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordination\n\nDépartemental\nProspections"
-  },
-  {
-    "objectID": "bocage.html#compétences-et-formations",
-    "href": "bocage.html#compétences-et-formations",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- Connaissance en botanique- Connaissance en ornithologie"
-  },
-  {
-    "objectID": "bocage.html#correspondants",
-    "href": "bocage.html#correspondants",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Correspondants",
-    "text": "Correspondants"
-  },
-  {
-    "objectID": "bocage.html#protocole",
-    "href": "bocage.html#protocole",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\nProtocole national de relevé qualitatif des haies. A l’échelle d’un carré ou quadrat de 1 km².- Localisation des haies, des alignements d’arbres et des différents types d’occupation du sol présents - Description de l’état des fonctionnalités écologiques des haies : épaisseur, présence de bande enherbée, de bois mort, de lianes, micros-habitats, diversité d’essences, état sanitaire des végétaux, etc.\n\n\n\n\n\nMatériel\n- Le fond orthophoto du carré fourni - Un support rigide pour fixer les documents de terrain et un stylo - Les fiches de description des haies du carré à l’échelle de 1km²- Un smartphone pour se repérer si nécessaire et faire de la prise de vue - Télémètre- Guide botanique- Fiche de terrain"
-  },
-  {
-    "objectID": "bocage.html#les-données",
-    "href": "bocage.html#les-données",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\n- relevés de terrain- Transmission des fiches\n\n\n\n\n\nDiffusion\nhttps://www.geoportail.gouv.frhttps://geoservices.ign.fr/bdhaie\n\n\n\n\n\nEn savoir plus Présentation du dispositif Plaquette d’information Atlas des densités de haies"
-  },
-  {
-    "objectID": "about.html#livrets",
-    "href": "about.html#livrets",
-    "title": "Les services territoriaux",
-    "section": "Livrets",
-    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
-  },
-  {
-    "objectID": "about.html#tableaux-de-bord",
-    "href": "about.html#tableaux-de-bord",
-    "title": "Les services territoriaux",
-    "section": "Tableaux de bord",
-    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
+    "text": "Les données\n\n\n\nSaisie\n\n\n\n\n\nDiffusion\n- Bulletin de liaison de l’ONEPF- Articles scientifiques\n\n\n\n\n\nEn savoir plus PNA Outarde canepière (2020-2029)\n Protocole et fiches (Serveur DR)"
   },
   {
     "objectID": "loup.html",
@@ -420,74 +301,263 @@
     "text": "Les données\n\n\n\nSaisie\n- Réception du témoignage et prise de contact.- Compléter la ou les fiches indices adéquates et fournir une carte de localisation (1/25000ème), si possible des coordonnées GPS en Lambert 93 et tout élément pertinent (photo, vidéo, échantillons).- Transmettre cela à l’animateur régional du réseau et au service Connaissance de la Direction Régionale.- Analyse et classement de l’évènement, transmission des résultats à la DDT.\n\n\n\n\n\nDiffusion\nhttps://www.loupfrance.fr\n\n\n\n\n\nEn savoir plus  Plan loup\nGuide réflexe (serveur DR)  Kit nouveaux territoires (serveur DR) Fiches de signalement"
   },
   {
-    "objectID": "onepf.html",
-    "href": "onepf.html",
-    "title": "Observatoire National de l’écosystème prairie de fauche",
-    "section": "",
-    "text": "Télécharger la fiche \n\n\nL’ONEPF a été crée avec le constat que les périodes de fenaisons de plus en plus précoces et l’altération des prairies de fauches sont défavorables aux nombreuses d’oiseaux qui l’utilisent pour la reproduction.\n\n\nSuivi de l’avifaune prairiale et de l’évolution de la gestion des prairies de fauche. Echantillonnage de référence nationale. Etude de l’impact de la fauche sur les populations d’avifaune prairiale.\n\n\n\nOrientation des politiques publiques agro –environnementales, programmes de recherche, études complémentaires.\n\n\n\n\n\n\nAnimation nationale:xxxxSuivi scientifique:Laurence CurtetAnimation régionale:Samuel Dembski\nPartenaires\nFédération de chasseLPO"
+    "objectID": "about.html#livrets",
+    "href": "about.html#livrets",
+    "title": "Les services territoriaux",
+    "section": "Livrets",
+    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
   },
   {
-    "objectID": "onepf.html#objectif",
-    "href": "onepf.html#objectif",
-    "title": "Observatoire National de l’écosystème prairie de fauche",
-    "section": "",
-    "text": "Suivi de l’avifaune prairiale et de l’évolution de la gestion des prairies de fauche. Echantillonnage de référence nationale. Etude de l’impact de la fauche sur les populations d’avifaune prairiale."
+    "objectID": "about.html#tableaux-de-bord",
+    "href": "about.html#tableaux-de-bord",
+    "title": "Les services territoriaux",
+    "section": "Tableaux de bord",
+    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
   },
   {
-    "objectID": "onepf.html#utilisation",
-    "href": "onepf.html#utilisation",
-    "title": "Observatoire National de l’écosystème prairie de fauche",
+    "objectID": "bocage.html",
+    "href": "bocage.html",
+    "title": "Dispositif national de suivi des bocages",
     "section": "",
-    "text": "Orientation des politiques publiques agro –environnementales, programmes de recherche, études complémentaires."
+    "text": "Télécharger la fiche \n\n\nLe bocage est un paysage verdoyant de parcelles délimitées par des haies vives. De nombreux bocages ont disparus après la seconde guerre mondiale avec de grandes opérations de remembrement. Cependant, les haies et bocages sont des milieux privilégiés par de nombreuses espèces, et des facteurs de continuité écologique. Les deux premières phases du suivi ont été réalisées en 2020 avec la création d’une cartographie des territoires bocagers sur l’échelle de la France. Un protocole de suivi qualitatif et un référentiel national des haies sont maintenant développés pour les différents types de bocages.\n\n\nRelevés sur le terrain pour caractériser les haies.\n\n\n\nSuivi de l’évolution des haies et bocages. Aide pour les documents de planification, politiques agricoles. Cibler les zones pour la mise en place de mesures de restauration. Promouvoir la gestion durable des milieux bocagers.\n\n\n\n\n\nAnimation nationale:Sophie MorinAnimation régionale:Samuel Dembski\nPartenaires\nIGN"
   },
   {
-    "objectID": "onepf.html#localisation",
-    "href": "onepf.html#localisation",
-    "title": "Observatoire National de l’écosystème prairie de fauche",
+    "objectID": "bocage.html#objectif",
+    "href": "bocage.html#objectif",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "",
+    "text": "Relevés sur le terrain pour caractériser les haies."
+  },
+  {
+    "objectID": "bocage.html#utilisation",
+    "href": "bocage.html#utilisation",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "",
+    "text": "Suivi de l’évolution des haies et bocages. Aide pour les documents de planification, politiques agricoles. Cibler les zones pour la mise en place de mesures de restauration. Promouvoir la gestion durable des milieux bocagers."
+  },
+  {
+    "objectID": "bocage.html#localisation",
+    "href": "bocage.html#localisation",
+    "title": "Dispositif national de suivi des bocages",
     "section": "Localisation",
-    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nStations d’une aire de 200m autour d’un point de la prairie de fauche (environ 12 ha chacun.)"
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nQuadrats de 1km²"
   },
   {
-    "objectID": "onepf.html#temporalité",
-    "href": "onepf.html#temporalité",
-    "title": "Observatoire National de l’écosystème prairie de fauche",
+    "objectID": "bocage.html#temporalité",
+    "href": "bocage.html#temporalité",
+    "title": "Dispositif national de suivi des bocages",
     "section": "Temporalité",
-    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTous les ans: - Relevés des calendriers de fenaison : évaluation du pourcentage fauché. 20 juin, 1er juillet, 15 juillet (+- 2 jours).- Comptage visuel et auditif des oiseaux : Indice ponctuel d’abondance (IPA), 2 fois.Tous les 5 ans: Relevés de végétation et enquête agricole ."
+    "text": "Temporalité"
   },
   {
-    "objectID": "onepf.html#rôles",
-    "href": "onepf.html#rôles",
-    "title": "Observatoire National de l’écosystème prairie de fauche",
+    "objectID": "bocage.html#rôles",
+    "href": "bocage.html#rôles",
+    "title": "Dispositif national de suivi des bocages",
     "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimation\n\nRégional\nCoordination\n\nDépartemental\nProspectionSaisie des données"
+    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordination\n\nDépartemental\nProspections"
   },
   {
-    "objectID": "onepf.html#compétences-et-formations",
-    "href": "onepf.html#compétences-et-formations",
-    "title": "Observatoire National de l’écosystème prairie de fauche",
+    "objectID": "bocage.html#compétences-et-formations",
+    "href": "bocage.html#compétences-et-formations",
+    "title": "Dispositif national de suivi des bocages",
     "section": "Compétences et formations",
-    "text": "Compétences et formations"
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- Connaissance en botanique- Connaissance en ornithologie"
   },
   {
-    "objectID": "onepf.html#correspondants",
-    "href": "onepf.html#correspondants",
-    "title": "Observatoire National de l’écosystème prairie de fauche",
+    "objectID": "bocage.html#correspondants",
+    "href": "bocage.html#correspondants",
+    "title": "Dispositif national de suivi des bocages",
     "section": "Correspondants",
     "text": "Correspondants"
   },
   {
-    "objectID": "onepf.html#protocole",
-    "href": "onepf.html#protocole",
-    "title": "Observatoire National de l’écosystème prairie de fauche",
+    "objectID": "bocage.html#protocole",
+    "href": "bocage.html#protocole",
+    "title": "Dispositif national de suivi des bocages",
     "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\nLa méthode retenue est celle des Indices Ponctuels d’Abondance (I.P.A.), adaptée ici au cas particulier des oiseaux prairiaux qui sont mieux détectables visuellement que les oiseaux forestiers. Cette méthode est surtout orientée vers l’échantillonnage des peuplements de passereauxLe nombre d’individus par espèce est recensé par un observateur immobile, au centre de chaque station, pendant une durée de 15 minutes. Les oiseaux sont repérés soit à la jumelle, soit par leurs cris ou leurs chants. Le recensement en un même point est à réaliser deux fois chaque année, dans la première puis la seconde moitié de la saison de nidification (avant la fenaison).\n\n\n\n\n\nMatériel\nGénéral:- Fiches de terrain- jumellesRelevés de végétation:- Mètre- Quadrillage"
+    "text": "Protocole\n\n\n\nPrincipe\nProtocole national de relevé qualitatif des haies. A l’échelle d’un carré ou quadrat de 1 km².- Localisation des haies, des alignements d’arbres et des différents types d’occupation du sol présents - Description de l’état des fonctionnalités écologiques des haies : épaisseur, présence de bande enherbée, de bois mort, de lianes, micros-habitats, diversité d’essences, état sanitaire des végétaux, etc.\n\n\n\n\n\nMatériel\n- Le fond orthophoto du carré fourni - Un support rigide pour fixer les documents de terrain et un stylo - Les fiches de description des haies du carré à l’échelle de 1km²- Un smartphone pour se repérer si nécessaire et faire de la prise de vue - Télémètre- Guide botanique- Fiche de terrain"
   },
   {
-    "objectID": "onepf.html#les-données",
-    "href": "onepf.html#les-données",
-    "title": "Observatoire National de l’écosystème prairie de fauche",
+    "objectID": "bocage.html#les-données",
+    "href": "bocage.html#les-données",
+    "title": "Dispositif national de suivi des bocages",
     "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\n\n\n\n\n\nDiffusion\n- Bulletin de liaison de l’ONEPF- Articles scientifiques\n\n\n\n\n\nEn savoir plus PNA Outarde canepière (2020-2029)\n Protocole et fiches (Serveur DR)"
+    "text": "Les données\n\n\n\nSaisie\n- relevés de terrain- Transmission des fiches\n\n\n\n\n\nDiffusion\nhttps://www.geoportail.gouv.frhttps://geoservices.ign.fr/bdhaie\n\n\n\n\n\nEn savoir plus Présentation du dispositif Plaquette d’information Atlas des densités de haies"
+  },
+  {
+    "objectID": "hydromorphologie.html",
+    "href": "hydromorphologie.html",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "",
+    "text": "Télécharger la fiche \n\n\nL’hydromorphologie des cours d’eau est une des composante majeure de son état de santé. Ces caractéristiques dépendent des conditions naturelles et paysagères et peuvent être altérées par les activités humaines. Carhyce est le protocole de recueil de données hydromorphologiques à l’échelle d’une station sur les cours d’eau prospectables à pied. Les données sont standardisées et comparables dans le temps et d’un site à l’autre.\n\n\nRelever les caractéristiques morphologique du cours d’eau au travers de différents ateliers : Définition de la station ; Granulométrie ; Pente de la ligne d’eau ; Débit ; Transects ; Caractérisation de la zone riparienne ; Colmatage…\n\n\n\nQuantifier l’altération hydromorphologique des cours d’eau. Orienter les mesures de gestion. Définir un cadre de travail lors d’opérations de restauration.\n\n\n\n\n\n\nAnimation nationale:Karl KreutzenbergerAnimation régionale:Samuel Dembski\nPartenaires\nDRIEAT/DDTAgence de l’eau"
+  },
+  {
+    "objectID": "hydromorphologie.html#objectif",
+    "href": "hydromorphologie.html#objectif",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "",
+    "text": "Relever les caractéristiques morphologique du cours d’eau au travers de différents ateliers : Définition de la station ; Granulométrie ; Pente de la ligne d’eau ; Débit ; Transects ; Caractérisation de la zone riparienne ; Colmatage…"
+  },
+  {
+    "objectID": "hydromorphologie.html#utilisation",
+    "href": "hydromorphologie.html#utilisation",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "",
+    "text": "Quantifier l’altération hydromorphologique des cours d’eau. Orienter les mesures de gestion. Définir un cadre de travail lors d’opérations de restauration."
+  },
+  {
+    "objectID": "hydromorphologie.html#localisation",
+    "href": "hydromorphologie.html#localisation",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nStations des réseaux DCESites suivis dans le cadre d’opérations de restauration"
+  },
+  {
+    "objectID": "hydromorphologie.html#temporalité",
+    "href": "hydromorphologie.html#temporalité",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Temporalité",
+    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPour les stations DCE: tout les 6 ansLes relevés sont à effectuer en période d’étiage"
+  },
+  {
+    "objectID": "hydromorphologie.html#rôles",
+    "href": "hydromorphologie.html#rôles",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nAnimation\n\nDépartemental\nRelevés de terrain"
+  },
+  {
+    "objectID": "hydromorphologie.html#compétences-et-formations",
+    "href": "hydromorphologie.html#compétences-et-formations",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation Carhyce pour la mise en œuvre du protocole et la saisie des données dans l’application – 3 j"
+  },
+  {
+    "objectID": "hydromorphologie.html#correspondants",
+    "href": "hydromorphologie.html#correspondants",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Correspondants",
+    "text": "Correspondants"
+  },
+  {
+    "objectID": "hydromorphologie.html#protocole",
+    "href": "hydromorphologie.html#protocole",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\nDéfinition de la station (Appréciation visuelle du cours d’eau, géolocalisation, précise évaluation des grandeurs caractéristiques). Granulométrie (Mesure de 100 éléments sur le radier présentant la granulométrie la plus grossière). Pente de la ligne d’eau (Mesure du denivelé entre le niveau d’eau à l’amont et à l’aval de la station avec au moins 3 points intermédiaires).Débit. Transects (Matérialisation de 15 transects perpendiculaires à l’écoulement, espacés de la largeur à plein bord).Colmatage (Appréhender l’intensité du colmatage).\n\n\n\n\n\nMatériel\nObligatoire- Appareil photo, Barre à mine , Bâtonnets , Clinomètre , Courantomètre , GPS , Gabarit , Jalons-repères , Mires , Masse ou massette Niveau à bulle, mire à bulles et trépied, Pied à coulisse ou réglet, Piquets métalliques , Planche et crayon , Ruban de mesure (30 m) , Télémètre , Topofil et bobine.- Matériel hygiène et sécurité- Fiche de recueilOptionnelCalculatrice , Machette , Règle de maçon à bulle , Talkies-walkies (paire)"
+  },
+  {
+    "objectID": "hydromorphologie.html#les-données",
+    "href": "hydromorphologie.html#les-données",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\n- Relevés des données sur le terrain- Saisie des données dans l’application web Carhyce (https://carhyce.eaufrance.fr/)Tous les 6 mois, les données migrent vers la plateforme IED (Interface d’Exploitation des Données), où elles sont traitées et mises en forme, permettant leur visualisation sous forme de graphiques.\n\n\n\n\n\nDiffusion\nNaïades:https://naiades.eaufrance.fr/acces-donnees#/hydromorphologieInterface d’Exploitation des Données Carhyce:https://analytics.huma-num.fr/ied_carhyce/\n\n\n\n\n\nEn savoir plus Plaquette de présentation Vidéo de présentation\nProtocole Fiches Méthodologiques (serveur DR)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Les missions de l’OFB",
+    "section": "",
+    "text": "Texte d’introduction"
+  },
+  {
+    "objectID": "index.html#mammifères",
+    "href": "index.html#mammifères",
+    "title": "Les missions de l’OFB",
+    "section": "Mammifères",
+    "text": "Mammifères\n\nChat forestier\nCastor\nOngulés sauvages\nLoup"
+  },
+  {
+    "objectID": "index.html#avifaune",
+    "href": "index.html#avifaune",
+    "title": "Les missions de l’OFB",
+    "section": "Avifaune",
+    "text": "Avifaune\n\nBécasse\nSTOC/SHOC\nPrairies de fauche"
+  },
+  {
+    "objectID": "index.html#hydrobiologie",
+    "href": "index.html#hydrobiologie",
+    "title": "Les missions de l’OFB",
+    "section": "Hydrobiologie",
+    "text": "Hydrobiologie\n\nPoissons\nMacroinvertébrés\nDiatomées\nMacrophytes"
+  },
+  {
+    "objectID": "index.html#autres-espèces",
+    "href": "index.html#autres-espèces",
+    "title": "Les missions de l’OFB",
+    "section": "Autres espèces",
+    "text": "Autres espèces\n\nEcrevisses\nBivalves\nAmphibiens\nPetits et moyens carnivores\nSurveillance moléculaire de la biodiversité terrestre"
+  },
+  {
+    "objectID": "pmc.html",
+    "href": "pmc.html",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "",
+    "text": "Télécharger la fiche \n\n\nLe réseau Petits et mésocarnivores (PMC) suit l’évolution de la répartition des populations de 14 espèces de carnivores en France métropolitaine, aux statuts règlementaires et de conservation variés. Les connaissances acquises grâce à ce réseau interne permettent à l’Office français de la biodiversité (OFB) d’apporter une expertise technique et scientifique sur ces espèces à tous les niveaux : départemental, régional, national et européen\n\n\n- Suivre l’évolution de l’aire de répartitions des 14 espèces, la dynamique de certaines populations et améliorer les connaissances sur leur écologie.- Former et partager les connaissances sur l’écologie de ces espèces.- Apporter une expertise technique et des conseils pour la gestion des espèces, évaluer la mise en œuvre des règlementations.\n\n\n\n- Rapportages européens (DHFF, EEE)- Listes rouges de l’UICN- Classement ‘Espèces susceptibles d’occasionner des dégâts (ESOD)’\n\n\n\n\n\nAnimation nationale:Paul HurelSuivi scientifique:Yoann BressanRéférente technique:Laurence HenryAnimateur régional:Cédric Mondy\nPartenaires"
+  },
+  {
+    "objectID": "pmc.html#objectif",
+    "href": "pmc.html#objectif",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "",
+    "text": "- Suivre l’évolution de l’aire de répartitions des 14 espèces, la dynamique de certaines populations et améliorer les connaissances sur leur écologie.- Former et partager les connaissances sur l’écologie de ces espèces.- Apporter une expertise technique et des conseils pour la gestion des espèces, évaluer la mise en œuvre des règlementations."
+  },
+  {
+    "objectID": "pmc.html#utilisation",
+    "href": "pmc.html#utilisation",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "",
+    "text": "- Rapportages européens (DHFF, EEE)- Listes rouges de l’UICN- Classement ‘Espèces susceptibles d’occasionner des dégâts (ESOD)’"
+  },
+  {
+    "objectID": "pmc.html#localisation",
+    "href": "pmc.html#localisation",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nOpportuniste"
+  },
+  {
+    "objectID": "pmc.html#temporalité",
+    "href": "pmc.html#temporalité",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Temporalité",
+    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpportuniste"
+  },
+  {
+    "objectID": "pmc.html#rôles",
+    "href": "pmc.html#rôles",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nAnimationFormation\n\nDépartemental\nObservationsRecueil de signalementSaisie des données"
+  },
+  {
+    "objectID": "pmc.html#compétences-et-formations",
+    "href": "pmc.html#compétences-et-formations",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation de 3 jours sur les petits et moyens carnivores et l’utilisation de l’outil rezo-pmcc"
+  },
+  {
+    "objectID": "pmc.html#correspondants",
+    "href": "pmc.html#correspondants",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Correspondants",
+    "text": "Correspondants"
+  },
+  {
+    "objectID": "pmc.html#protocole",
+    "href": "pmc.html#protocole",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\n\n\n\n\n\nMatériel\nEn général:- Accès à l’outil Rezo-PMCC (appli smartphone ou site internet)Prélèvement tissu pour analyse génétique:- kit de prélèvement PMCC (gants, tube Eppendorf, alcool, ciseaux)- fiche adaptée"
+  },
+  {
+    "objectID": "pmc.html#les-données",
+    "href": "pmc.html#les-données",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\n\n\n\n\n\nDiffusion\nArticles de recherchePortail cartographique: https://professionnels.ofb.fr/fr/node/1089\n\n\n\n\n\nEn savoir plus Page du réseau\nSite de saisie Rezo-PMCC  Documents sur les classements ESOD (serveur DR)"
   },
   {
     "objectID": "becasse.html",
@@ -564,7 +634,7 @@
     "href": "chat.html",
     "title": "Suivi du chat forestier",
     "section": "",
-    "text": "Télécharger la fiche \n\n\nPrésent au sud et à l’est de l’Ile-de-France, le chat forestier est protégé depuis 1979. Son abondance et sa répartition sont étudiés dans le cadre du réseau PMCC. Cependant, des études plus spécifiques sont parfois menées, utilisant des pièges à des points définis.\n\n\nIdentifier les zones de présence de l’espèce et évaluer le degré d’hybridation avec le chat domestique\n\n\n\nLes résultats des observations sont valorisés en cartes d’abondance et de répartition, articles scientifiques et rapports. Evaluation de l’état de conservation dans le cadre de la directive DHFF.\n\n\n\n\n\n\nAnimation nationale:Paul hurelSuivi scientifique:Yoann BressanSandrine RuetteAnimateur régional:Cédric Mondy\nPartenaires\nONFARBConseils départementaux (ENS)Réserve de la BasséeIle-de-France NatureCPIE Boucles de la Marne"
+    "text": "Télécharger la fiche \n\n\nPrésent au sud et à l’est de l’Ile-de-France, le chat forestier est protégé depuis 1979. Son abondance et sa répartition sont étudiés dans le cadre du réseau PMCC. Cependant, des études plus spécifiques sont parfois menées, utilisant des pièges à des points définis.\n\n\nIdentifier les zones de présence de l’espèce et évaluer le degré d’hybridation avec le chat domestique\n\n\n\nLes résultats des observations sont valorisés en cartes d’abondance et de répartition, articles scientifiques et rapports. Evaluation de l’état de conservation dans le cadre de la directive DHFF.\n\n\n\n\n\nAnimation nationale:Paul hurelSuivi scientifique:Yoann BressanSandrine RuetteAnimateur régional:Cédric Mondy\nPartenaires\nONFARBConseils départementaux (ENS)Réserve de la BasséeIle-de-France NatureCPIE Boucles de la Marne"
   },
   {
     "objectID": "chat.html#objectif",

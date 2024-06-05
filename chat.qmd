@@ -29,7 +29,7 @@ Les résultats des observations sont valorisés en cartes d’abondance et de r�
 ::: {.column width="5%"}
 :::
 ::: {.column width="20%"}
-![](NA){width=100%}
+
 
 <b>Animation nationale</b>:<br>Paul hurel<br><br><b>Suivi scientifique</b>:<br>Yoann Bressan<br>Sandrine Ruette<br><br>Animateur régional:<br>Cédric Mondy
 
@@ -47,7 +47,7 @@ ONF<br>ARB<br>Conseils départementaux (ENS)<br>Réserve de la Bassée<br>Ile-de
 
 ```{r, echo=FALSE}
 FichesSRC::creer_carte(
-  departements = '77.91',
+  departements = '77, 91',
   region = '11',
   stations = NA,
   web = TRUE

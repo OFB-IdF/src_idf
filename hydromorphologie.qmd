@@ -29,7 +29,7 @@ Quantifier l'altération hydromorphologique des cours d'eau. Orienter les mesure
 ::: {.column width="5%"}
 :::
 ::: {.column width="20%"}
-![](https://carhyce.eaufrance.fr/images/icone_carhyce.png){width=100%}
+![](https://carhyce.eaufrance.fr/images/icone_carhyce.png)
 
 <b>Animation nationale</b>:<br>Karl Kreutzenberger<br><br><b>Animation régionale</b>:<br>Samuel Dembski
 

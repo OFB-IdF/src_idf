@@ -29,7 +29,7 @@ Contribution aux Bulletins de Situation Hydrologique (BSH): donnée complémenta
 ::: {.column width="5%"}
 :::
 ::: {.column width="20%"}
-![](https://www.eaufrance.fr/sites/default/files/2018-05/onde.png){width=100%}
+![](https://www.eaufrance.fr/sites/default/files/2018-05/onde.png)
 
 <b>Animation nationale</b>:<br>Céline Nowak<br><br><b>Animation régionale</b>:<br>Samuel Dembski
 
