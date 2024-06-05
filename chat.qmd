@@ -1,0 +1,168 @@
+---
+title: "Suivi du chat forestier"
+date: 2024-06-05
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+---
+
+:::::::::::::: {.columns}
+::: {.column width="75%"}
+
+<a href="chat.xlsx" class="btn btn-primary" download>
+  <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
+</a>
+
+# Description
+
+Présent au sud et à l’est de l’Ile-de-France, le chat forestier est protégé depuis 1979. Son abondance et sa répartition sont étudiés dans le cadre du réseau PMCC. Cependant, des études plus spécifiques sont parfois menées, utilisant des pièges à des points définis.
+
+
+## Objectif
+
+Identifier les zones de présence de l'espèce et évaluer le degré d'hybridation avec le chat domestique
+
+## Utilisation
+
+Les résultats des observations sont valorisés en cartes d’abondance et de répartition, articles scientifiques et rapports. Evaluation de l’état de conservation dans le cadre de la directive DHFF.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="20%"}
+![](NA){width=100%}
+
+<b>Animation nationale</b>:<br>Paul hurel<br><br><b>Suivi scientifique</b>:<br>Yoann Bressan<br>Sandrine Ruette<br><br>Animateur régional:<br>Cédric Mondy
+
+<b>Partenaires</b>
+
+ONF<br>ARB<br>Conseils départementaux (ENS)<br>Réserve de la Bassée<br>Ile-de-France Nature<br>CPIE Boucles de la Marne
+:::
+::::::::::::::
+
+# Le suivi
+
+## Localisation
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+```{r, echo=FALSE}
+FichesSRC::creer_carte(
+  departements = '77.91',
+  region = '11',
+  stations = NA,
+  web = TRUE
+  )
+```
+
+:::
+:::{.column width="3%"}
+:::
+:::{.column width="30%"}
+### Type de suivi
+Secteurs d'étude d'environ 100km²  comprenant des lisières forestières au contact de prairies. <br>Chaque secteur est suivi par un minimum de six dispositifs
+:::
+::::::::::::::
+## Temporalité
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+
+```{r, echo=FALSE}
+FichesSRC::creer_calendrier('12,1,2,3')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="28%"}
+Relevés toutes les deux semaines pendant 3 mois
+:::
+::::::::::::::
+
+# Logistique
+
+## Rôles
+:::::::::::::: {.columns}
+::: {.column width="33%"}
+<b>National</b>
+
+Animation<br>Validation des observations<br>Analyses génétiques<br>Base de données
+:::
+::: {.column width="33%"}
+<b>Régional</b>
+
+Animation<br>Valorisation
+:::
+::: {.column width="33%"}
+<b>Départemental</b>
+
+Prospections<br>Recueil de signalement<br>Saisie des données
+:::
+::::::::::::::
+
+## Compétences et formations
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
+
+```{r, echo=FALSE, fig.width=3, fig.height=1}
+FichesSRC::creer_graphe_expertise('Maitrise', '1')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="60%"}
+Formation de 3 jours sur les petits et moyens carnivores et l'utilisation de l'outil rezo-pmcc
+:::
+::::::::::::::
+
+
+## Correspondants
+
+## Protocole
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Principe
+
+Signalement de collision:<br>- Récupération de tissus et envoi pour analyse<br><br>Suivi pièges photographiques:<br>- Pose de dispositifs (piège photo + piège à poil + attractif à base de valériane)<br>- Relevés des photos et poils éventuels<br>- Stérilisation du piège à poil et recharge en attractif
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Matériel
+
+Signalement de collision:<br>- kit de prélèvement PMCC (gants, tube Eppendorf, alcool, ciseaux)<br>- fiche adaptée<br><br>Suivi pièges photographiques:<br>- pièges photographiques<br>- brosses métalliques (pièges à poils)<br>- attractif à base de valériane<br>- gants, pinces à épiler, enveloppes<br>- fiche adaptée
+:::
+::::::::::::::
+
+## Les données
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Saisie
+
+Saisie des observations sur l'application Rezo-PMCC (pour les observations annexes: saisie sur Rezo-PMCC ou Oison en fonction des espèces)<br><br>Transmission des prélèvements à la DRAS pour analyses génétiques<br><br>Validation des observations sur photo sur la base du phénotype
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Diffusion
+
+SINP national (<a href='https://openobs.mnhn.fr'>https://openobs.mnhn.fr</a>) ou régional (<a href='https://geonature.arb-idf.fr/geonature/'>https://geonature.arb-idf.fr/geonature/</a>)
+:::
+::::::::::::::
+
+<hr>
+
+<div class="card">
+  <b>En savoir plus</b><br>
+  <a href="https://professionnels.ofb.fr/fr/doc-fiches-especes/chat-forestier-felis-silvestris-silvestris">Fiche Espèce</a><br>
+  <a href="https://oai-gem.ofb.fr/exl-php/document-affiche/ofb_recherche_oai/OUVRE_DOC/49974?fic=doc00073302.pdf">Plaquette de présentation de l'étude</a><br>
+  <a href="https://youtu.be/UopppCJfUHA?feature=shared">Vidéo en collaboration avec le MNHN</a><br>
+  <a href="https://ged.ofb.fr/share/page/site/etude-chat-forestier-idf/dashboard">Site Alfresco de l'étude</a><br>
+  <a href="https://ged.ofb.fr/share/s/sY4zG36QS1aDJ34fKNlrhw">Protocole</a><br>
+  
+</div>
