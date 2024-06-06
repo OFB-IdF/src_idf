@@ -18,7 +18,7 @@ format:
 # Description
 
 :::::::::::::: {.columns}
-::: {.column width="7%"}
+::: {.column width="70%"}
 Espèce protégée depuis 1979 par la convention de Berne et recolonisant petit à petit le pays, le loup gris est encore très peu présent  en Ile-de-France. Le réseau Loup est déployé au niveau « Sentinelle » depuis 2017, et différentes procédures peuvent être mise en place en cas de signalement ou de détection d’un individu.
 
 

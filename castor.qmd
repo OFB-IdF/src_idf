@@ -18,7 +18,7 @@ format:
 # Description
 
 :::::::::::::: {.columns}
-::: {.column width="7%"}
+::: {.column width="70%"}
 Quasi disparu en Europe au début du 20ème siècle, la prise de mesure de protection du Castor d’Europe à partir de 1909 puis son classement en « espèce protégée » en 1968 a permis leur reconquête du territoire. L’ Ile-de-France est l’un des fronts de colonisation, induisant un suivi annuel et précis permettant de détecter la présence, suivre la distribution de l’espèce et la protéger en conséquence (notamment via l’interdiction de piégeage).
 
 

@@ -18,7 +18,7 @@ format:
 # Description
 
 :::::::::::::: {.columns}
-::: {.column width="7%"}
+::: {.column width="70%"}
 L’hydromorphologie des cours d’eau est une des composante majeure de son état de santé. Ces caractéristiques dépendent des conditions naturelles et paysagères et peuvent être altérées par les activités humaines. Carhyce est le protocole de recueil de données hydromorphologiques à l'échelle d’une station sur les cours d'eau prospectables à pied. Les données sont standardisées et comparables dans le temps et d’un site à l’autre. 
 
 

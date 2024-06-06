@@ -18,7 +18,7 @@ format:
 # Description
 
 :::::::::::::: {.columns}
-::: {.column width="7%"}
+::: {.column width="70%"}
 Caractériser les étiages estivaux par l'observation visuelle du niveau d'écoulement d'un réseau de petits cours d'eau. 
 
 

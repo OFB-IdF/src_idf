@@ -18,7 +18,7 @@ format:
 # Description
 
 :::::::::::::: {.columns}
-::: {.column width="7%"}
+::: {.column width="70%"}
 Présent au sud et à l’est de l’Ile-de-France, le chat forestier est protégé depuis 1979. Son abondance et sa répartition sont étudiés dans le cadre du réseau PMCC. Cependant, des études plus spécifiques sont parfois menées, utilisant des pièges à des points définis.
 
 

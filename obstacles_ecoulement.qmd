@@ -18,7 +18,7 @@ format:
 # Description
 
 :::::::::::::: {.columns}
-::: {.column width="7%"}
+::: {.column width="70%"}
 Le ROE permet d’avoir une information spatialisée sur les obstacles à l’écoulement des cours d’eau d’origine humaine (caractéristiques, usages, gestion). Cette information peut être complétée dans la BDOE.
 
 
