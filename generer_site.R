@@ -8,7 +8,7 @@ FichesSRC::creer_toutes_fiches(
     region = 11
     )
 
-quarto::quarto_render()
+quarto::quarto_render(as_job = FALSE)
 
 readLines("_site/index.html") %>%
     stringr::str_replace(
