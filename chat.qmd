@@ -31,7 +31,7 @@ Les résultats des observations sont valorisés en cartes d’abondance et de r�
 ::: {.column width="25%"}
 
 
-<b>Animation nationale</b>:<br>Paul hurel<br><br><b>Suivi scientifique</b>:<br>Yoann Bressan<br>Sandrine Ruette<br><br>Animateur régional:<br>Cédric Mondy
+<b>Animation nationale</b>:<br>Paul Hurel<br><br><b>Suivi scientifique</b>:<br>Yoann Bressan<br>Sandrine Ruette<br><br><b>Animation régionale</b>:<br>Cédric Mondy
 
 <b>Partenaires</b>
 

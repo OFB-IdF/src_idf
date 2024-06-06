@@ -31,7 +31,7 @@ Connaître la répartition, l’abondance et la démographie des espèces. Suivi
 ::: {.column width="25%"}
 ![](https://becasse.ofb.fr/style/images/logo_becasse.jpg)
 
-<b>Animation nationale</b>:<br>Maxime Passerault<br><br><b>Suivi scientifique</b>:<br>Kévin Le Rest<br><br><b>Animation régionale</b>:<br>Samuel Dembski<br><br>Courriel du réseau:<br><a href='mailto:reseau.becasse@ofb.gouv.fr'>reseau.becasse@ofb.gouv.fr</a>
+Courriel du réseau:<br><a href='mailto:reseau.becasse@ofb.gouv.fr'>reseau.becasse@ofb.gouv.fr</a><br><br><b>Animation nationale</b>:<br>Maxime Passerault<br><br><b>Suivi scientifique</b>:<br>Kévin Le Rest<br><br><b>Animation régionale</b>:<br>Samuel Dembski
 
 <b>Partenaires</b>
 
