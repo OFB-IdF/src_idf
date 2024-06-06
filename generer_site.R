@@ -19,7 +19,7 @@ readLines("_site/index.html") %>%
 
 list.files("_site", pattern = ".html", full.names = TRUE) %>%
     purrr::walk(
-        function(path) {
+        .f = function(path) {
             readLines(path) %>%
                 stringr::str_replace(
                     pattern = '<h2 id="toc-title">On this page</h2>',
