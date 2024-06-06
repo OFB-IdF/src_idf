@@ -1,6 +1,6 @@
 ---
 title: "Réseau Petits et méso-carnivores"
-date: 2024-06-05
+date: 2024-06-06
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -47,7 +47,7 @@ Le réseau Petits et mésocarnivores (PMC) suit l’évolution de la répartitio
 
 ```{r, echo=FALSE}
 FichesSRC::creer_carte(
-  departements = '75,77,78,95,91,94',
+  departements = '75,77,78,95,91, 92,93,94',
   region = '11',
   stations = NA,
   web = TRUE
@@ -144,7 +144,7 @@ En général:<br>- Accès à l'outil Rezo-PMCC (appli smartphone ou site interne
 ::: {.column width="60%"}
 ### Saisie
 
-
+Saisie des observations sur l'application Rezo-PMCC<br><br>Pour les espèces d'identification délicate ou en limite/en dehors de leur aire de distribution: validation manuelle, utilisation possible de la génétique
 :::
 ::: {.column width="5%"}
 :::
