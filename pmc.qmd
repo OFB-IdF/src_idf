@@ -31,7 +31,7 @@ Le réseau Petits et mésocarnivores (PMC) suit l’évolution de la répartitio
 ::: {.column width="20%"}
 
 
-<b>Animation nationale</b>:<br>Paul Hurel<br><br><b>Suivi scientifique</b>:<br>Yoann Bressan<br><br>Référence technique:<br>Laurence Henry<br><br><b>Animation régionale</b>:<br>Cédric Mondy
+<b>Animation nationale</b>:<br>Paul Hurel<br><br><b>Suivi scientifique</b>:<br>Yoann Bressan<br><br><b>Référence technique</b>:<br>Laurence Henry<br><br><b>Animation régionale</b>:<br>Cédric Mondy
 
 <b>Partenaires</b>
 
