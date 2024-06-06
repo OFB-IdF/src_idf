@@ -108,7 +108,7 @@ Animation locale<br>Saisie<br>Validation
 ::: {.column width="35%"}
 
 ```{r, echo=FALSE, fig.width=3, fig.height=1}
-FichesSRC::creer_graphe_expertise('Pratique', '1')
+FichesSRC::creer_graphe_expertise('Formé', '1')
 ```
 
 
