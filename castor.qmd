@@ -1,10 +1,11 @@
 ---
 title: "Suivi du castor d'Europe"
-date: 2024-06-06
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 ---
+
+<small>Fiche éditée le 2024-06-06</small>
 
 :::::::::::::: {.columns}
 ::: {.column width="75%"}

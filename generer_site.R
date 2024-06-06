@@ -8,7 +8,9 @@ FichesSRC::creer_toutes_fiches(
     region = 11
     )
 
-quarto::quarto_render()
+quarto::quarto_render(as_job = FALSE)
+
+Sys.sleep(5)
 
 readLines("_site/index.html") %>%
     stringr::str_replace(
@@ -16,6 +18,8 @@ readLines("_site/index.html") %>%
         replacement = '<a href="https://www.ofb.gouv.fr" class="navbar-brand navbar-brand-logo">'
     ) %>%
     writeLines("_site/index.html")
+
+Sys.sleep(5)
 
 list.files("_site", pattern = ".html", full.names = TRUE) %>%
     purrr::walk(
