@@ -3,10 +3,6 @@ title: "Caractérisation hydromorphologique des cours d’eau"
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-format:
-  html:
-    toc: true
-    toc-title: "Menu"
 ---
 
 <a href="hydromorphologie.xlsx" class="btn btn-primary" download>

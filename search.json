@@ -301,74 +301,18 @@
     "text": "Les données\n\n\n\nSaisie\n- Réception du témoignage et prise de contact.- Compléter la ou les fiches indices adéquates et fournir une carte de localisation (1/25000ème), si possible des coordonnées GPS en Lambert 93 et tout élément pertinent (photo, vidéo, échantillons).- Transmettre cela à l’animateur régional du réseau et au service Connaissance de la Direction Régionale.- Analyse et classement de l’évènement, transmission des résultats à la DDT.\n\n\n\n\n\nDiffusion\nhttps://www.loupfrance.fr\n\n\n\n\n\nEn savoir plus  Plan loup\nGuide réflexe (serveur DR)  Kit nouveaux territoires (serveur DR) Fiches de signalement"
   },
   {
-    "objectID": "bocage.html",
-    "href": "bocage.html",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "",
-    "text": "Télécharger la fiche\nFiche éditée le 2024-06-06"
+    "objectID": "about.html#livrets",
+    "href": "about.html#livrets",
+    "title": "Les services territoriaux",
+    "section": "Livrets",
+    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
   },
   {
-    "objectID": "bocage.html#objectif",
-    "href": "bocage.html#objectif",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Objectif",
-    "text": "Objectif\nRelevés sur le terrain pour caractériser les haies."
-  },
-  {
-    "objectID": "bocage.html#utilisation",
-    "href": "bocage.html#utilisation",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Utilisation",
-    "text": "Utilisation\nSuivi de l’évolution des haies et bocages. Aide pour les documents de planification, politiques agricoles. Cibler les zones pour la mise en place de mesures de restauration. Promouvoir la gestion durable des milieux bocagers."
-  },
-  {
-    "objectID": "bocage.html#localisation",
-    "href": "bocage.html#localisation",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Localisation",
-    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nQuadrats de 1km²"
-  },
-  {
-    "objectID": "bocage.html#temporalité",
-    "href": "bocage.html#temporalité",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Temporalité",
-    "text": "Temporalité"
-  },
-  {
-    "objectID": "bocage.html#rôles",
-    "href": "bocage.html#rôles",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordination\n\nDépartemental\nProspections"
-  },
-  {
-    "objectID": "bocage.html#compétences-et-formations",
-    "href": "bocage.html#compétences-et-formations",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- Connaissance en botanique- Connaissance en ornithologie"
-  },
-  {
-    "objectID": "bocage.html#correspondants",
-    "href": "bocage.html#correspondants",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Correspondants",
-    "text": "Correspondants"
-  },
-  {
-    "objectID": "bocage.html#protocole",
-    "href": "bocage.html#protocole",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\nProtocole national de relevé qualitatif des haies. A l’échelle d’un carré ou quadrat de 1 km².- Localisation des haies, des alignements d’arbres et des différents types d’occupation du sol présents - Description de l’état des fonctionnalités écologiques des haies : épaisseur, présence de bande enherbée, de bois mort, de lianes, micros-habitats, diversité d’essences, état sanitaire des végétaux, etc.\n\n\n\n\n\nMatériel\n- Le fond orthophoto du carré fourni - Un support rigide pour fixer les documents de terrain et un stylo - Les fiches de description des haies du carré à l’échelle de 1km²- Un smartphone pour se repérer si nécessaire et faire de la prise de vue - Télémètre- Guide botanique- Fiche de terrain"
-  },
-  {
-    "objectID": "bocage.html#les-données",
-    "href": "bocage.html#les-données",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\n- relevés de terrain- Transmission des fiches\n\n\n\n\n\nDiffusion\nhttps://www.geoportail.gouv.frhttps://geoservices.ign.fr/bdhaie\n\n\n\n\n\nEn savoir plus Présentation du dispositif Plaquette d’information Atlas des densités de haies"
+    "objectID": "about.html#tableaux-de-bord",
+    "href": "about.html#tableaux-de-bord",
+    "title": "Les services territoriaux",
+    "section": "Tableaux de bord",
+    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
   },
   {
     "objectID": "obstacles_ecoulement.html",
@@ -439,6 +383,76 @@
     "title": "Obstacles à l’Ecoulement",
     "section": "Les données",
     "text": "Les données\n\n\n\nSaisie\nSaisie sur GéObs (https://geobs.eaufrance.fr/)Validation obligatoire par un agent de l’OFB disposant du profil validation\n\n\n\n\n\nDiffusion\nSandre:http://www.sandre.eaufrance.fr\n\n\n\n\n\nEn savoir plus La continuité écologique des cours d’eau Dataviz nationale\nBilans (serveur DR) La méthode ICE"
+  },
+  {
+    "objectID": "bocage.html",
+    "href": "bocage.html",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "",
+    "text": "Télécharger la fiche\nFiche éditée le 2024-06-06"
+  },
+  {
+    "objectID": "bocage.html#objectif",
+    "href": "bocage.html#objectif",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Objectif",
+    "text": "Objectif\nRelevés sur le terrain pour caractériser les haies."
+  },
+  {
+    "objectID": "bocage.html#utilisation",
+    "href": "bocage.html#utilisation",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Utilisation",
+    "text": "Utilisation\nSuivi de l’évolution des haies et bocages. Aide pour les documents de planification, politiques agricoles. Cibler les zones pour la mise en place de mesures de restauration. Promouvoir la gestion durable des milieux bocagers."
+  },
+  {
+    "objectID": "bocage.html#localisation",
+    "href": "bocage.html#localisation",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nQuadrats de 1km²"
+  },
+  {
+    "objectID": "bocage.html#temporalité",
+    "href": "bocage.html#temporalité",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Temporalité",
+    "text": "Temporalité"
+  },
+  {
+    "objectID": "bocage.html#rôles",
+    "href": "bocage.html#rôles",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordination\n\nDépartemental\nProspections"
+  },
+  {
+    "objectID": "bocage.html#compétences-et-formations",
+    "href": "bocage.html#compétences-et-formations",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- Connaissance en botanique- Connaissance en ornithologie"
+  },
+  {
+    "objectID": "bocage.html#correspondants",
+    "href": "bocage.html#correspondants",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Correspondants",
+    "text": "Correspondants"
+  },
+  {
+    "objectID": "bocage.html#protocole",
+    "href": "bocage.html#protocole",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\nProtocole national de relevé qualitatif des haies. A l’échelle d’un carré ou quadrat de 1 km².- Localisation des haies, des alignements d’arbres et des différents types d’occupation du sol présents - Description de l’état des fonctionnalités écologiques des haies : épaisseur, présence de bande enherbée, de bois mort, de lianes, micros-habitats, diversité d’essences, état sanitaire des végétaux, etc.\n\n\n\n\n\nMatériel\n- Le fond orthophoto du carré fourni - Un support rigide pour fixer les documents de terrain et un stylo - Les fiches de description des haies du carré à l’échelle de 1km²- Un smartphone pour se repérer si nécessaire et faire de la prise de vue - Télémètre- Guide botanique- Fiche de terrain"
+  },
+  {
+    "objectID": "bocage.html#les-données",
+    "href": "bocage.html#les-données",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\n- relevés de terrain- Transmission des fiches\n\n\n\n\n\nDiffusion\nhttps://www.geoportail.gouv.frhttps://geoservices.ign.fr/bdhaie\n\n\n\n\n\nEn savoir plus Présentation du dispositif Plaquette d’information Atlas des densités de haies"
   },
   {
     "objectID": "hydromorphologie.html",

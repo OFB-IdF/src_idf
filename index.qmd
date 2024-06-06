@@ -1,8 +1,5 @@
 ---
 title: "Les missions de l'OFB"
-format: 
-    html:
-        toc-title: "Menu"
 ---
 
 *Texte d'introduction*
