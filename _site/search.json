@@ -315,6 +315,76 @@
     "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
   },
   {
+    "objectID": "obstacles_ecoulement.html",
+    "href": "obstacles_ecoulement.html",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "",
+    "text": "Télécharger la fiche \n\n\nLe ROE permet d’avoir une information spatialisée sur les obstacles à l’écoulement des cours d’eau d’origine humaine (caractéristiques, usages, gestion). Cette information peut être complétée dans la BDOE.\n\n\nCollecter des informations objectives sur le nombre, la localisation et les caractéristiques des obstacles à l’écoulement sur les cours d’eau\n\n\n\nElaboration d’un référentiel national et un socle commun d’information. Estimer la pression ouvrage sur les cours d’eau. Suivi des politiques de restauration de la continuité écologiqueCalcul d’indicateurs de continuité écologique\n\n\n\n\n\nAnimation nationale: Karl KreutzenbergerAnimation régionale:Cédric MondyAssistance:assistance.geobs@ofb.gouv.fr\nPartenaires\nAgence de l’eauDRIEATSyndicats de rivièreFédérations de pêche"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#objectif",
+    "href": "obstacles_ecoulement.html#objectif",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "",
+    "text": "Collecter des informations objectives sur le nombre, la localisation et les caractéristiques des obstacles à l’écoulement sur les cours d’eau"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#utilisation",
+    "href": "obstacles_ecoulement.html#utilisation",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "",
+    "text": "Elaboration d’un référentiel national et un socle commun d’information. Estimer la pression ouvrage sur les cours d’eau. Suivi des politiques de restauration de la continuité écologiqueCalcul d’indicateurs de continuité écologique"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#localisation",
+    "href": "obstacles_ecoulement.html#localisation",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#temporalité",
+    "href": "obstacles_ecoulement.html#temporalité",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Temporalité",
+    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpportuniste ou plannifiéA l’étiage pour la caractérisation des hauteurs de chute"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#rôles",
+    "href": "obstacles_ecoulement.html#rôles",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordinationContribution à l’évaluation des politiques publiques mises en place au niveau du bassinFormation\n\nDépartemental\nAnimation localeSaisieValidation"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#compétences-et-formations",
+    "href": "obstacles_ecoulement.html#compétences-et-formations",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\nWarning: Removed 1 row containing missing values or values outside the scale range\n(`geom_text()`).\n\n\n\n\n\n\n\n\n\n\n\n\nOutil Géobs:- Consultation: sur demande- Saisie: Information dispensée par les agents de la DR- Validation: Correspondants continuité formés"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#correspondants",
+    "href": "obstacles_ecoulement.html#correspondants",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Correspondants",
+    "text": "Correspondants"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#protocole",
+    "href": "obstacles_ecoulement.html#protocole",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\n\n\n\n\n\nMatériel\n- Fiche terrain- GPS- Appareil photo- Mire ou autre équipement permettant de mesurer la hauteur de chute"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#les-données",
+    "href": "obstacles_ecoulement.html#les-données",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\nSaisie sur GéObs (https://geobs.eaufrance.fr/)Validation obligatoire par un agent de l’OFB disposant du profil validation\n\n\n\n\n\nDiffusion\nSandre:http://www.sandre.eaufrance.fr\n\n\n\n\n\nEn savoir plus La continuité écologique des cours d’eau Dataviz nationale\nBilans (serveur DR) La méthode ICE"
+  },
+  {
     "objectID": "bocage.html",
     "href": "bocage.html",
     "title": "Dispositif national de suivi des bocages",

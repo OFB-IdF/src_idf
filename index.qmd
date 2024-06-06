@@ -52,7 +52,7 @@ title: "Les missions de l'OFB"
 
 -   [Suivi thermique](thermie.html)
 
--   [Continuités écologiques](continuites.html)
+-   [Obstacles à l'écoulement et continuités aquatiques](obstacles_ecoulement.html)
 
 -   [Hydromorphologie](hydromorphologie.html)
 
