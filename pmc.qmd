@@ -144,7 +144,7 @@ En général:<br>- Accès à l'outil Rezo-PMCC (appli smartphone ou site interne
 ::: {.column width="60%"}
 ### Saisie
 
-Saisie des observations sur l'application Rezo-PMCC<br><br>Pour les espèces d'identification délicate ou en limite/en dehors de leur aire de distribution: validation manuelle, utilisation possible de la génétique
+Saisie des observations sur l'application Rezo-PMCC (<a href='https://geo.ofb.fr/rezopmcc'>https://geo.ofb.fr/rezopmcc</a>)<br><br>Pour les espèces d'identification délicate ou en limite/en dehors de leur aire de distribution: validation manuelle, utilisation possible de la génétique
 :::
 ::: {.column width="5%"}
 :::
@@ -162,7 +162,7 @@ Articles de recherche<br>Portail cartographique: <a href='https://professionnels
   <a href="https://professionnels.ofb.fr/fr/reseau-petits-meso-carnivores">Page du réseau</a><br>
   
   
-  <a href="https://geo.ofb.fr/adws/app/a7e35981-0ec6-11eb-9154-93c04439bf0b/index.html">Site de saisie Rezo-PMCC</a><br>
   <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\PMC\ESOD"> Documents sur les classements ESOD (serveur DR)</a><br>
+  
   
 </div>
