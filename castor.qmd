@@ -3,19 +3,22 @@ title: "Suivi du castor d'Europe"
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+format:
+  html:
+    toc: true
+    toc-title: "Menu"
 ---
-
-<small>Fiche éditée le 2024-06-06</small>
-
-:::::::::::::: {.columns}
-::: {.column width="75%"}
 
 <a href="castor.xlsx" class="btn btn-primary" download>
   <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
 </a>
 
+<small>Fiche éditée le 2024-06-06</small>
+
 # Description
 
+:::::::::::::: {.columns}
+::: {.column width="7%"}
 Quasi disparu en Europe au début du 20ème siècle, la prise de mesure de protection du Castor d’Europe à partir de 1909 puis son classement en « espèce protégée » en 1968 a permis leur reconquête du territoire. L’ Ile-de-France est l’un des fronts de colonisation, induisant un suivi annuel et précis permettant de détecter la présence, suivre la distribution de l’espèce et la protéger en conséquence (notamment via l’interdiction de piégeage).
 
 
@@ -29,7 +32,7 @@ Raportage Directive européenne Habitat Faune Flore<br>Régulation des dispositi
 :::
 ::: {.column width="5%"}
 :::
-::: {.column width="20%"}
+::: {.column width="25%"}
 ![](data-raw/logo_castor.jpg)
 
 <b>Animation nationale</b>:<br>Paul Hurel<br><br><b>Suivi scientifique</b>:<br>Yoann Bressan<br><br>Couriel du réseau:<br><a href='mailto:reseau.castor@ofb.gouv.fr'>reseau.castor@ofb.gouv.fr</a><br><br><b>Animation régionale</b>:<br>Cédric Mondy

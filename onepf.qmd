@@ -3,19 +3,22 @@ title: "Observatoire National de l’écosystème prairie de fauche"
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+format:
+  html:
+    toc: true
+    toc-title: "Menu"
 ---
-
-<small>Fiche éditée le 2024-06-06</small>
-
-:::::::::::::: {.columns}
-::: {.column width="75%"}
 
 <a href="onepf.xlsx" class="btn btn-primary" download>
   <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
 </a>
 
+<small>Fiche éditée le 2024-06-06</small>
+
 # Description
 
+:::::::::::::: {.columns}
+::: {.column width="7%"}
 L’ONEPF a été crée avec le constat que les périodes de fenaisons de plus en plus précoces et l’altération des prairies de fauches sont défavorables aux nombreuses d’oiseaux qui l’utilisent pour la reproduction.
 
 
@@ -29,7 +32,7 @@ Orientation des politiques publiques agro –environnementales, programmes de re
 :::
 ::: {.column width="5%"}
 :::
-::: {.column width="20%"}
+::: {.column width="25%"}
 
 
 <b>Animation nationale</b>:<br>xxxx<br><br><b>Suivi scientifique</b>:<br>Laurence Curtet<br><br><b>Animation régionale</b>:<br>Samuel Dembski

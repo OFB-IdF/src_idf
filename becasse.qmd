@@ -3,19 +3,22 @@ title: "Réseau Bécasse"
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+format:
+  html:
+    toc: true
+    toc-title: "Menu"
 ---
-
-<small>Fiche éditée le 2024-06-06</small>
-
-:::::::::::::: {.columns}
-::: {.column width="75%"}
 
 <a href="becasse.xlsx" class="btn btn-primary" download>
   <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
 </a>
 
+<small>Fiche éditée le 2024-06-06</small>
+
 # Description
 
+:::::::::::::: {.columns}
+::: {.column width="7%"}
 La Bécasse des bois est une espèce de limicole forestier largement répandue en Eurasie. Migratrice, une bonne part des effectifs européens hiverne en France. Elle est chassable d’octobre à février et plusieurs suivis annuels sont mis en place.
 
 
@@ -29,7 +32,7 @@ Connaître la répartition, l’abondance et la démographie des espèces. Suivi
 :::
 ::: {.column width="5%"}
 :::
-::: {.column width="20%"}
+::: {.column width="25%"}
 ![](https://becasse.ofb.fr/style/images/logo_becasse.jpg)
 
 <b>Animation nationale</b>:<br>Maxime Passerault<br><br><b>Suivi scientifique</b>:<br>Kévin Le Rest<br><br><b>Animation régionale</b>:<br>Samuel Dembski<br><br>Courriel du réseau:<br><a href='mailto:reseau.becasse@ofb.gouv.fr'>reseau.becasse@ofb.gouv.fr</a>

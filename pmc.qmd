@@ -3,19 +3,22 @@ title: "Réseau Petits et méso-carnivores"
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+format:
+  html:
+    toc: true
+    toc-title: "Menu"
 ---
-
-<small>Fiche éditée le 2024-06-06</small>
-
-:::::::::::::: {.columns}
-::: {.column width="75%"}
 
 <a href="pmc.xlsx" class="btn btn-primary" download>
   <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
 </a>
 
+<small>Fiche éditée le 2024-06-06</small>
+
 # Description
 
+:::::::::::::: {.columns}
+::: {.column width="7%"}
 Le réseau Petits et mésocarnivores (PMC) suit l’évolution de la répartition des populations de 14 espèces de carnivores en France métropolitaine, aux statuts règlementaires et de conservation variés. Les connaissances acquises grâce à ce réseau interne permettent à l’Office français de la biodiversité (OFB) d’apporter une expertise technique et scientifique sur ces espèces à tous les niveaux : départemental, régional, national et européen
 
 
@@ -29,7 +32,7 @@ Le réseau Petits et mésocarnivores (PMC) suit l’évolution de la répartitio
 :::
 ::: {.column width="5%"}
 :::
-::: {.column width="20%"}
+::: {.column width="25%"}
 
 
 <b>Animation nationale</b>:<br>Paul Hurel<br><br><b>Suivi scientifique</b>:<br>Yoann Bressan<br><br><b>Référence technique</b>:<br>Laurence Henry<br><br><b>Animation régionale</b>:<br>Cédric Mondy

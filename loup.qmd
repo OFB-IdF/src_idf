@@ -3,19 +3,22 @@ title: "Réseau Loup/lynx"
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+format:
+  html:
+    toc: true
+    toc-title: "Menu"
 ---
-
-<small>Fiche éditée le 2024-06-06</small>
-
-:::::::::::::: {.columns}
-::: {.column width="75%"}
 
 <a href="loup.xlsx" class="btn btn-primary" download>
   <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
 </a>
 
+<small>Fiche éditée le 2024-06-06</small>
+
 # Description
 
+:::::::::::::: {.columns}
+::: {.column width="7%"}
 Espèce protégée depuis 1979 par la convention de Berne et recolonisant petit à petit le pays, le loup gris est encore très peu présent  en Ile-de-France. Le réseau Loup est déployé au niveau « Sentinelle » depuis 2017, et différentes procédures peuvent être mise en place en cas de signalement ou de détection d’un individu.
 
 
@@ -29,7 +32,7 @@ Les données sont valorisées dans les flash infos loup, dans les bilans saisonn
 :::
 ::: {.column width="5%"}
 :::
-::: {.column width="20%"}
+::: {.column width="25%"}
 ![](https://www.loupfrance.fr/wp-content/uploads/Logo-xl-reseau-Loup-lynx-558x374.jpg)
 
 <b>Animation nationale</b>:<br>Nicolas Jean<br><br><b>Animation régionale</b>:<br>Samuel Dembski<br><br>Courriel du réseau:<br><a href='mailto:reseau.loup-lynx@ofb.gouv.fr'>reseau.loup-lynx@ofb.gouv.fr</a>
