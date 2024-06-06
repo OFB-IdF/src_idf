@@ -5,7 +5,6 @@ website:
   title: "La connaissance à l'OFB en Île-de-France"
   navbar:
     left:
-      - href: index.qmd
       - productions.qmd
     logo: logo.png
     favicon: favicon.png
