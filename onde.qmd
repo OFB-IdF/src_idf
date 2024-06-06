@@ -5,11 +5,24 @@ include-in-header:
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 ---
 
+:::::::::::::: {.columns}
+::: {.column width="70%"}
 <a href="onde.xlsx" class="btn btn-primary" download>
   <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
 </a>
 
 <small>Fiche éditée le 2024-06-06</small>
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+<img src="https://www.eaufrance.fr/sites/default/files/2018-05/onde.png" style="max-width:100%; max-height:150px; ">
+
+:::
+::::::::::::::
+
+
 
 # Description
 
@@ -29,8 +42,6 @@ Contribution aux Bulletins de Situation Hydrologique (BSH): donnée complémenta
 ::: {.column width="5%"}
 :::
 ::: {.column width="25%"}
-![](https://www.eaufrance.fr/sites/default/files/2018-05/onde.png)
-
 <b>Animation nationale</b>:<br>Céline Nowak<br><br><b>Animation régionale</b>:<br>Samuel Dembski
 
 <b>Partenaires</b>
@@ -104,7 +115,7 @@ Pilotage
 ::: {.column width="33%"}
 <b>Régional</b>
 
-Pilotage<br>Transmission<br>Animation
+Coordination<br>Transmission
 :::
 ::: {.column width="33%"}
 <b>Départemental</b>

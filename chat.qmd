@@ -5,11 +5,24 @@ include-in-header:
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 ---
 
+:::::::::::::: {.columns}
+::: {.column width="70%"}
 <a href="chat.xlsx" class="btn btn-primary" download>
   <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
 </a>
 
 <small>Fiche éditée le 2024-06-06</small>
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+
+
+:::
+::::::::::::::
+
+
 
 # Description
 
@@ -29,8 +42,6 @@ Les résultats des observations sont valorisés en cartes d’abondance et de r�
 ::: {.column width="5%"}
 :::
 ::: {.column width="25%"}
-
-
 <b>Animation nationale</b>:<br>Paul Hurel<br><br><b>Suivi scientifique</b>:<br>Yoann Bressan<br>Sandrine Ruette<br><br><b>Animation régionale</b>:<br>Cédric Mondy
 
 <b>Partenaires</b>
@@ -92,7 +103,7 @@ Animation<br>Validation des observations<br>Analyses génétiques<br>Base de don
 ::: {.column width="33%"}
 <b>Régional</b>
 
-Animation<br>Valorisation
+Coordination<br>Valorisation
 :::
 ::: {.column width="33%"}
 <b>Départemental</b>
