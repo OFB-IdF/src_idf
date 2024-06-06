@@ -15,4 +15,16 @@ readLines("_site/index.html") %>%
         pattern = '<a href="./index.html" class="navbar-brand navbar-brand-logo">',
         replacement = '<a href="https://www.ofb.gouv.fr" class="navbar-brand navbar-brand-logo">'
     ) %>%
-    writeLines("_site/index.html", )
+    writeLines("_site/index.html")
+
+list.files("_site", pattern = ".html", full.names = TRUE) %>%
+    purrr::walk(
+        function(path) {
+            readLines(path) %>%
+                stringr::str_replace(
+                    pattern = '<h2 id="toc-title">On this page</h2>',
+                    replacement = '<h2 id="toc-title">Menu</h2>'
+                ) %>%
+                writeLines(path)
+        }
+    )
