@@ -11,7 +11,7 @@ include-in-header:
   <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
 </a>
 
-<small>Fiche éditée le 2024-06-10</small>
+<small>Fiche éditée le 2024-07-01</small>
 
 :::
 ::: {.column width="5%"}
