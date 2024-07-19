@@ -43,7 +43,7 @@ Raportage Directive européenne Habitat Faune Flore<br>Régulation des dispositi
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Courriel du réseau</b>:<br><a href='mailto:reseau.castor@ofb.gouv.fr'>reseau.castor@ofb.gouv.fr</a><br><br><b>Animation nationale</b>:<br>Paul HUREL<br><br><b>Suivi scientifique</b>:<br>Yoann BRESSAN<br><br><b>Animation régionale</b>:<br>Cédric MONDY<br><br><b>Correspondants départementaux</b>:<br>PPC: <br>77: Anne-Gaëlle BLANC<br>78-95: Amandine EVRARD<br>91: Cyril KLEINPRINZ
+<b>Animation nationale</b>:<br>Paul HUREL<br><br><b>Suivi scientifique</b>:<br>Yoann BRESSAN<br><br><b>Animation régionale</b>:<br>Cédric MONDY<br><br><b>Correspondants départementaux</b>:<br>PPC: <br>77: Anne-Gaëlle BLANC<br>78-95: Amandine EVRARD<br>91: Cyril KLEINPRINZ<br><br><b>Courriel du réseau</b>:<br><a href='mailto:reseau.castor@ofb.gouv.fr'>reseau.castor@ofb.gouv.fr</a>
 
 <b>Partenaires</b>
 
