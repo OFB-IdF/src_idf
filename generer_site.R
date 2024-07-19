@@ -18,6 +18,10 @@ list.files("_site", pattern = ".html", full.names = TRUE) %>%
         pattern = '<a href="./index.html" class="navbar-brand navbar-brand-logo">',
         replacement = '<a href="https://www.ofb.gouv.fr" class="navbar-brand navbar-brand-logo">'
     ) %>%
+                stringr::str_replace(
+                    pattern = '<a class="navbar-brand" href="./index.html">',
+                    replacement = '<a class="navbar-brand">'
+                ) %>%
     writeLines(path)
         }
     )

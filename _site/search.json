@@ -1,80 +1,31 @@
 [
   {
-    "objectID": "obstacles_ecoulement.html",
-    "href": "obstacles_ecoulement.html",
-    "title": "Obstacles à l’Ecoulement",
+    "objectID": "productions.html",
+    "href": "productions.html",
+    "title": "Nos productions",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-01"
+    "text": "Etude du chat forestier en Île-de-France"
   },
   {
-    "objectID": "obstacles_ecoulement.html#objectif",
-    "href": "obstacles_ecoulement.html#objectif",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Objectif",
-    "text": "Objectif\nCollecter des informations objectives sur le nombre, la localisation et les caractéristiques des obstacles à l’écoulement sur les cours d’eau"
+    "objectID": "productions.html#livrets",
+    "href": "productions.html#livrets",
+    "title": "Nos productions",
+    "section": "",
+    "text": "Etude du chat forestier en Île-de-France"
   },
   {
-    "objectID": "obstacles_ecoulement.html#utilisation",
-    "href": "obstacles_ecoulement.html#utilisation",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Utilisation",
-    "text": "Utilisation\nElaboration d’un référentiel national et un socle commun d’information. Estimer la pression ouvrage sur les cours d’eau. Suivi des politiques de restauration de la continuité écologiqueCalcul d’indicateurs de continuité écologique"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#localisation",
-    "href": "obstacles_ecoulement.html#localisation",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Localisation",
-    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#temporalité",
-    "href": "obstacles_ecoulement.html#temporalité",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Temporalité",
-    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpportuniste ou plannifiéA l’étiage pour la caractérisation des hauteurs de chute"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#rôles",
-    "href": "obstacles_ecoulement.html#rôles",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordinationInterprétationFormation\n\nDépartemental\nAnimation localeSaisieValidation"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#compétences-et-formations",
-    "href": "obstacles_ecoulement.html#compétences-et-formations",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOutil Géobs:- Consultation: sur demande- Saisie: Information dispensée par les agents de la DR- Validation: Correspondants continuité formés"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#correspondants",
-    "href": "obstacles_ecoulement.html#correspondants",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Correspondants",
-    "text": "Correspondants"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#protocole",
-    "href": "obstacles_ecoulement.html#protocole",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\n\n\n\n\n\nMatériel\n- Fiche terrain- GPS- Appareil photo- Mire ou autre équipement permettant de mesurer la hauteur de chute"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#les-données",
-    "href": "obstacles_ecoulement.html#les-données",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nSaisie sur GéObs (https://geobs.eaufrance.fr/)Validation obligatoire par un agent de l’OFB disposant du profil validation\n\n\n\n\n\nDiffusion\nSandre:http://www.sandre.eaufrance.fr\n\n\n\n\n\nEn savoir plus La continuité écologique des cours d’eau Dataviz nationale\nBilans (serveur DR) La méthode ICE"
+    "objectID": "productions.html#tableaux-de-bord",
+    "href": "productions.html#tableaux-de-bord",
+    "title": "Nos productions",
+    "section": "Tableaux de bord",
+    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivis hydrobiologiques en Île-de-France\nSuivi des étiages (ONDE) en Île-de-France\nFaune protégée d’Île-de-France"
   },
   {
     "objectID": "loup.html",
     "href": "loup.html",
     "title": "Réseau Loup/lynx",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-01"
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
   },
   {
     "objectID": "loup.html#objectif",
@@ -140,25 +91,11 @@
     "text": "Les données\n\n\n\nSaisie\n- Réception du témoignage et prise de contact.- Compléter la ou les fiches indices adéquates et fournir une carte de localisation (1/25000ème), si possible des coordonnées GPS en Lambert 93 et tout élément pertinent (photo, vidéo, échantillons).- Transmettre cela à l’animateur régional du réseau et au service Connaissance de la Direction Régionale.- Analyse et classement de l’évènement, transmission des résultats à la DDT.\n\n\n\n\n\nDiffusion\nhttps://www.loupfrance.fr\n\n\n\n\n\nEn savoir plus  Plan loup\nGuide réflexe (serveur DR)  Kit nouveaux territoires (serveur DR) Fiches de signalement"
   },
   {
-    "objectID": "about.html#livrets",
-    "href": "about.html#livrets",
-    "title": "Les services territoriaux",
-    "section": "Livrets",
-    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
-  },
-  {
-    "objectID": "about.html#tableaux-de-bord",
-    "href": "about.html#tableaux-de-bord",
-    "title": "Les services territoriaux",
-    "section": "Tableaux de bord",
-    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
-  },
-  {
     "objectID": "chat.html",
     "href": "chat.html",
     "title": "Suivi du chat forestier",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-01"
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
   },
   {
     "objectID": "chat.html#objectif",
@@ -224,81 +161,11 @@
     "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur l’application Rezo-PMCC (pour les observations annexes: saisie sur Rezo-PMCC ou Oison en fonction des espèces)Transmission des prélèvements à la DRAS pour analyses génétiquesValidation des observations sur photo sur la base du phénotype\n\n\n\n\n\nDiffusion\nSINP national (https://openobs.mnhn.fr) ou régional (https://geonature.arb-idf.fr/geonature/)\n\n\n\n\n\nEn savoir plus Fiche Espèce Plaquette de présentation de l’étude Vidéo en collaboration avec le MNHN Site Alfresco de l’étude Protocole"
   },
   {
-    "objectID": "hydromorphologie.html",
-    "href": "hydromorphologie.html",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
-    "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-01"
-  },
-  {
-    "objectID": "hydromorphologie.html#objectif",
-    "href": "hydromorphologie.html#objectif",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
-    "section": "Objectif",
-    "text": "Objectif\nRelever les caractéristiques morphologique du cours d’eau au travers de différents ateliers : Définition de la station ; Granulométrie ; Pente de la ligne d’eau ; Débit ; Transects ; Caractérisation de la zone riparienne ; Colmatage…"
-  },
-  {
-    "objectID": "hydromorphologie.html#utilisation",
-    "href": "hydromorphologie.html#utilisation",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
-    "section": "Utilisation",
-    "text": "Utilisation\nQuantifier l’altération hydromorphologique des cours d’eau. Orienter les mesures de gestion. Définir un cadre de travail lors d’opérations de restauration."
-  },
-  {
-    "objectID": "hydromorphologie.html#localisation",
-    "href": "hydromorphologie.html#localisation",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
-    "section": "Localisation",
-    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nStations des réseaux DCESites suivis dans le cadre d’opérations de restauration"
-  },
-  {
-    "objectID": "hydromorphologie.html#temporalité",
-    "href": "hydromorphologie.html#temporalité",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
-    "section": "Temporalité",
-    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPour les stations DCE: tout les 6 ansLes relevés sont à effectuer en période d’étiage"
-  },
-  {
-    "objectID": "hydromorphologie.html#rôles",
-    "href": "hydromorphologie.html#rôles",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
-    "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordination\n\nDépartemental\nRelevés de terrain"
-  },
-  {
-    "objectID": "hydromorphologie.html#compétences-et-formations",
-    "href": "hydromorphologie.html#compétences-et-formations",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
-    "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation Carhyce pour la mise en œuvre du protocole et la saisie des données dans l’application – 3 j"
-  },
-  {
-    "objectID": "hydromorphologie.html#correspondants",
-    "href": "hydromorphologie.html#correspondants",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
-    "section": "Correspondants",
-    "text": "Correspondants"
-  },
-  {
-    "objectID": "hydromorphologie.html#protocole",
-    "href": "hydromorphologie.html#protocole",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
-    "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\nDéfinition de la station (Appréciation visuelle du cours d’eau, géolocalisation, précise évaluation des grandeurs caractéristiques). Granulométrie (Mesure de 100 éléments sur le radier présentant la granulométrie la plus grossière). Pente de la ligne d’eau (Mesure du denivelé entre le niveau d’eau à l’amont et à l’aval de la station avec au moins 3 points intermédiaires).Débit. Transects (Matérialisation de 15 transects perpendiculaires à l’écoulement, espacés de la largeur à plein bord).Colmatage (Appréhender l’intensité du colmatage).\n\n\n\n\n\nMatériel\nObligatoire- Appareil photo, Barre à mine , Bâtonnets , Clinomètre , Courantomètre , GPS , Gabarit , Jalons-repères , Mires , Masse ou massette Niveau à bulle, mire à bulles et trépied, Pied à coulisse ou réglet, Piquets métalliques , Planche et crayon , Ruban de mesure (30 m) , Télémètre , Topofil et bobine.- Matériel hygiène et sécurité- Fiche de recueilOptionnelCalculatrice , Machette , Règle de maçon à bulle , Talkies-walkies (paire)"
-  },
-  {
-    "objectID": "hydromorphologie.html#les-données",
-    "href": "hydromorphologie.html#les-données",
-    "title": "Caractérisation hydromorphologique des cours d’eau",
-    "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\n- Relevés des données sur le terrain- Saisie des données dans l’application web Carhyce (https://carhyce.eaufrance.fr/)Tous les 6 mois, les données migrent vers la plateforme IED (Interface d’Exploitation des Données), où elles sont traitées et mises en forme, permettant leur visualisation sous forme de graphiques.\n\n\n\n\n\nDiffusion\nNaïades:https://naiades.eaufrance.fr/acces-donnees#/hydromorphologieInterface d’Exploitation des Données Carhyce:https://analytics.huma-num.fr/ied_carhyce/\n\n\n\n\n\nEn savoir plus Plaquette de présentation Vidéo de présentation\nProtocole Fiches Méthodologiques (serveur DR)"
-  },
-  {
     "objectID": "onepf.html",
     "href": "onepf.html",
     "title": "Observatoire National de l’écosystème prairie de fauche",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-01"
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
   },
   {
     "objectID": "onepf.html#objectif",
@@ -364,256 +231,11 @@
     "text": "Les données\n\n\n\nSaisie\n\n\n\n\n\nDiffusion\n- Bulletin de liaison de l’ONEPF- Articles scientifiques\n\n\n\n\n\nEn savoir plus PNA Outarde canepière (2020-2029)\n Protocole et fiches (Serveur DR)"
   },
   {
-    "objectID": "pmc.html",
-    "href": "pmc.html",
-    "title": "Réseau Petits et méso-carnivores",
-    "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-01"
-  },
-  {
-    "objectID": "pmc.html#objectif",
-    "href": "pmc.html#objectif",
-    "title": "Réseau Petits et méso-carnivores",
-    "section": "Objectif",
-    "text": "Objectif\n- Suivre l’évolution de l’aire de répartitions des 14 espèces, la dynamique de certaines populations et améliorer les connaissances sur leur écologie.- Former et partager les connaissances sur l’écologie de ces espèces.- Apporter une expertise technique et des conseils pour la gestion des espèces, évaluer la mise en œuvre des règlementations."
-  },
-  {
-    "objectID": "pmc.html#utilisation",
-    "href": "pmc.html#utilisation",
-    "title": "Réseau Petits et méso-carnivores",
-    "section": "Utilisation",
-    "text": "Utilisation\n- Rapportages européens (DHFF, EEE)- Listes rouges de l’UICN- Classement ‘Espèces susceptibles d’occasionner des dégâts (ESOD)’"
-  },
-  {
-    "objectID": "pmc.html#localisation",
-    "href": "pmc.html#localisation",
-    "title": "Réseau Petits et méso-carnivores",
-    "section": "Localisation",
-    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nOpportuniste"
-  },
-  {
-    "objectID": "pmc.html#temporalité",
-    "href": "pmc.html#temporalité",
-    "title": "Réseau Petits et méso-carnivores",
-    "section": "Temporalité",
-    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpportuniste"
-  },
-  {
-    "objectID": "pmc.html#rôles",
-    "href": "pmc.html#rôles",
-    "title": "Réseau Petits et méso-carnivores",
-    "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nAnimationFormation\n\nDépartemental\nObservationsRecueil de signalementSaisie des données"
-  },
-  {
-    "objectID": "pmc.html#compétences-et-formations",
-    "href": "pmc.html#compétences-et-formations",
-    "title": "Réseau Petits et méso-carnivores",
-    "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation de 3 jours sur les petits et moyens carnivores et l’utilisation de l’outil rezo-pmcc"
-  },
-  {
-    "objectID": "pmc.html#correspondants",
-    "href": "pmc.html#correspondants",
-    "title": "Réseau Petits et méso-carnivores",
-    "section": "Correspondants",
-    "text": "Correspondants"
-  },
-  {
-    "objectID": "pmc.html#protocole",
-    "href": "pmc.html#protocole",
-    "title": "Réseau Petits et méso-carnivores",
-    "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\n\n\n\n\n\nMatériel\nEn général:- Accès à l’outil Rezo-PMCC (appli smartphone ou site internet)Prélèvement tissu pour analyse génétique:- kit de prélèvement PMCC (gants, tube Eppendorf, alcool, ciseaux)- fiche adaptée"
-  },
-  {
-    "objectID": "pmc.html#les-données",
-    "href": "pmc.html#les-données",
-    "title": "Réseau Petits et méso-carnivores",
-    "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur l’application Rezo-PMCC (https://geo.ofb.fr/rezopmcc)Pour les espèces d’identification délicate ou en limite/en dehors de leur aire de distribution: validation manuelle, utilisation possible de la génétique\n\n\n\n\n\nDiffusion\nArticles de recherchePortail cartographique: https://professionnels.ofb.fr/fr/node/1089\n\n\n\n\n\nEn savoir plus Page du réseau\n Documents sur les classements ESOD (serveur DR)"
-  },
-  {
-    "objectID": "castor.html",
-    "href": "castor.html",
-    "title": "Suivi du castor d’Europe",
-    "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-01"
-  },
-  {
-    "objectID": "castor.html#objectif",
-    "href": "castor.html#objectif",
-    "title": "Suivi du castor d’Europe",
-    "section": "Objectif",
-    "text": "Objectif\nLes objectifs du réseau ont été fixés par le ministère en charge de l’écologie :- assurer le suivi de la colonisation du castor sur le réseau hydrographique français ;- accompagnement sur la question des dommages;- vigilance sur l’arrivée du castor canadien"
-  },
-  {
-    "objectID": "castor.html#utilisation",
-    "href": "castor.html#utilisation",
-    "title": "Suivi du castor d’Europe",
-    "section": "Utilisation",
-    "text": "Utilisation\nRaportage Directive européenne Habitat Faune FloreRégulation des dispositifs de piègeage près des cours d’eau"
-  },
-  {
-    "objectID": "castor.html#localisation",
-    "href": "castor.html#localisation",
-    "title": "Suivi du castor d’Europe",
-    "section": "Localisation",
-    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nProspection de linéaires de cours d’eau à la recherche d’indices de présence"
-  },
-  {
-    "objectID": "castor.html#temporalité",
-    "href": "castor.html#temporalité",
-    "title": "Suivi du castor d’Europe",
-    "section": "Temporalité",
-    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProspections préférentiellement hivernales avant la reprise de la végétation"
-  },
-  {
-    "objectID": "castor.html#rôles",
-    "href": "castor.html#rôles",
-    "title": "Suivi du castor d’Europe",
-    "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimationBase de donnéesFormation\n\nRégional\nCoordinationRemontée des données au national\n\nDépartemental\nProspections(Constats de dommage)"
-  },
-  {
-    "objectID": "castor.html#compétences-et-formations",
-    "href": "castor.html#compétences-et-formations",
-    "title": "Suivi du castor d’Europe",
-    "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation Petit et Méso-Carnivores et Castor(Formation dommage)"
-  },
-  {
-    "objectID": "castor.html#correspondants",
-    "href": "castor.html#correspondants",
-    "title": "Suivi du castor d’Europe",
-    "section": "Correspondants",
-    "text": "Correspondants"
-  },
-  {
-    "objectID": "castor.html#protocole",
-    "href": "castor.html#protocole",
-    "title": "Suivi du castor d’Europe",
-    "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\nRecherche d’indices de présence (bois coupé, écorçage, hutte…) en prospection sur l’eau et à pied en berge\n\n\n\n\n\nMatériel\n- embarquation (ex. kayak)- gilet de sauvetage- jumelles- appareil photo- GPS"
-  },
-  {
-    "objectID": "castor.html#les-données",
-    "href": "castor.html#les-données",
-    "title": "Suivi du castor d’Europe",
-    "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nRemplissage des fiches terrainsBancarisation régionaleTransmission au national qui effectue une validation et consolidation nationale des données\n\n\n\n\n\nDiffusion\nhttps://carmen.carmencarto.fr/38/Castor.map\n\n\n\n\n\nEn savoir plus Le réseau castor Fiche espèce\n Site Alfresco du Réseau Castor IdF  Protocole Arrêtés piégeage (Serveur DR)"
-  },
-  {
-    "objectID": "becasse.html",
-    "href": "becasse.html",
-    "title": "Réseau Bécasse",
-    "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-01"
-  },
-  {
-    "objectID": "becasse.html#objectif",
-    "href": "becasse.html#objectif",
-    "title": "Réseau Bécasse",
-    "section": "Objectif",
-    "text": "Objectif\nBaguageEcoute des mâles chanteurs (qui croulent)Suivi de l’habitat"
-  },
-  {
-    "objectID": "becasse.html#utilisation",
-    "href": "becasse.html#utilisation",
-    "title": "Réseau Bécasse",
-    "section": "Utilisation",
-    "text": "Utilisation\nConnaître la répartition, l’abondance et la démographie des espèces. Suivi de l’évolution de la population. Valorisation dans des articles scientifiques, rapports. Etudes sur l’adaptation d’espèces au changements climatiques ."
-  },
-  {
-    "objectID": "becasse.html#localisation",
-    "href": "becasse.html#localisation",
-    "title": "Réseau Bécasse",
-    "section": "Localisation",
-    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\n- Croule: 600 mailles tirées aléatoirement chaque année sur toute la France. Le point d’écoute est défini comme l’ouverture d’au minimum 1 ha la plus proche du centroïde du carré.- Baguage: Zone définie par le bagueur."
-  },
-  {
-    "objectID": "becasse.html#temporalité",
-    "href": "becasse.html#temporalité",
-    "title": "Réseau Bécasse",
-    "section": "Temporalité",
-    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBaguage:3 soirées avant le 10 décembre4 soirées entre le 10 décembre et le 20 février2 soirées après le 20 février"
-  },
-  {
-    "objectID": "becasse.html#rôles",
-    "href": "becasse.html#rôles",
-    "title": "Réseau Bécasse",
-    "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimationBase de donnéesFormation\n\nRégional\nCoordination\n\nDépartemental\nBaguageEcouteSaisie"
-  },
-  {
-    "objectID": "becasse.html#compétences-et-formations",
-    "href": "becasse.html#compétences-et-formations",
-    "title": "Réseau Bécasse",
-    "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarte de bagueur (formation spécifique et plus de 10 soirées de baguage encadrées)Reconnaissance chants"
-  },
-  {
-    "objectID": "becasse.html#correspondants",
-    "href": "becasse.html#correspondants",
-    "title": "Réseau Bécasse",
-    "section": "Correspondants",
-    "text": "Correspondants"
-  },
-  {
-    "objectID": "becasse.html#protocole",
-    "href": "becasse.html#protocole",
-    "title": "Réseau Bécasse",
-    "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\n- Croule: recherche et écoute de mâles chanteurs. L’observateur doit être en place 30min avant le coucher du soleil et rester pendant deux heures- Baguage: Les suivis se déroulent la nuit. Les bagueurs doivent réaliser au moins 9 soirées par saison. Ne pas éblouir les individus en vol ! Attention à la sécurité des bagueurs !- Suivi de l’habitat des populations hivernantes: Les observations doivent se faire dans la mesure du possible dans des conditions météorologiques favorables: ni pluie, ni vent, ni orage\n\n\n\n\n\nMatériel\n- Croule:∙ montre, jumelles, torche∙ carnet∙ fiche terrain- Baguage:∙ épuisette∙ matériel de baguage"
-  },
-  {
-    "objectID": "becasse.html#les-données",
-    "href": "becasse.html#les-données",
-    "title": "Réseau Bécasse",
-    "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\n- Remplissage des fiches de terrain- Croule: transmission de la fiche de terrain et des données au plus tard le 15 juillet- Données de baguage saisies sur: https://becasse.ofb.fr\n\n\n\n\n\nDiffusion\n- Articles de recherche- Lettres d’informations- Bilan annuel- Cartes de densité\n\n\n\n\n\nEn savoir plus Présentation de la Bécasse des bois Site du Club national des Bécassiers\n Fiche observation croule (serveur DR)  Protocole de suivi Hivernage (capture et baguage)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Les missions de l’OFB",
-    "section": "",
-    "text": "Texte d’introduction"
-  },
-  {
-    "objectID": "index.html#mammifères",
-    "href": "index.html#mammifères",
-    "title": "Les missions de l’OFB",
-    "section": "Mammifères",
-    "text": "Mammifères\n\nChat forestier\nCastor\nOngulés sauvages\nLoup"
-  },
-  {
-    "objectID": "index.html#avifaune",
-    "href": "index.html#avifaune",
-    "title": "Les missions de l’OFB",
-    "section": "Avifaune",
-    "text": "Avifaune\n\nBécasse\nSTOC/SHOC\nPrairies de fauche"
-  },
-  {
-    "objectID": "index.html#hydrobiologie",
-    "href": "index.html#hydrobiologie",
-    "title": "Les missions de l’OFB",
-    "section": "Hydrobiologie",
-    "text": "Hydrobiologie\n\nPoissons\nMacroinvertébrés\nDiatomées\nMacrophytes"
-  },
-  {
-    "objectID": "index.html#autres-espèces",
-    "href": "index.html#autres-espèces",
-    "title": "Les missions de l’OFB",
-    "section": "Autres espèces",
-    "text": "Autres espèces\n\nEcrevisses\nBivalves\nAmphibiens\nPetits et moyens carnivores\nSurveillance moléculaire de la biodiversité terrestre"
-  },
-  {
     "objectID": "bocage.html",
     "href": "bocage.html",
     "title": "Dispositif national de suivi des bocages",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-01"
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
   },
   {
     "objectID": "bocage.html#objectif",
@@ -679,32 +301,11 @@
     "text": "Les données\n\n\n\nSaisie\n- relevés de terrain- Transmission des fiches\n\n\n\n\n\nDiffusion\nhttps://www.geoportail.gouv.frhttps://geoservices.ign.fr/bdhaie\n\n\n\n\n\nEn savoir plus Présentation du dispositif Plaquette d’information Atlas des densités de haies"
   },
   {
-    "objectID": "productions.html",
-    "href": "productions.html",
-    "title": "Nos productions",
-    "section": "",
-    "text": "Etude du chat forestier en Île-de-France"
-  },
-  {
-    "objectID": "productions.html#livrets",
-    "href": "productions.html#livrets",
-    "title": "Nos productions",
-    "section": "",
-    "text": "Etude du chat forestier en Île-de-France"
-  },
-  {
-    "objectID": "productions.html#tableaux-de-bord",
-    "href": "productions.html#tableaux-de-bord",
-    "title": "Nos productions",
-    "section": "Tableaux de bord",
-    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivis hydrobiologiques en Île-de-France\nSuivi des étiages (ONDE) en Île-de-France\nFaune protégée d’Île-de-France"
-  },
-  {
     "objectID": "onde.html",
     "href": "onde.html",
     "title": "ONDE",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-01"
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
   },
   {
     "objectID": "onde.html#objectif",
@@ -768,5 +369,404 @@
     "title": "ONDE",
     "section": "Les données",
     "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur https://onde.ofb.fr avant le 31 du mois de l’observation\n\n\n\n\n\nDiffusion\n- Grand public:www.onde.eaufrance.frwww.data.eaufrance.fr- Interne:https://ofb-idf.github.io/PRR_ONDE/\n\n\n\n\n\nEn savoir plus  Plaquette de présentation (serveur DR)  Bulletin de situation hydrologique Dataviz nationale  Guide d’utilisation du site onde.ofb.fr"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html",
+    "href": "obstacles_ecoulement.html",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "",
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#objectif",
+    "href": "obstacles_ecoulement.html#objectif",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Objectif",
+    "text": "Objectif\nCollecter des informations objectives sur le nombre, la localisation et les caractéristiques des obstacles à l’écoulement sur les cours d’eau"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#utilisation",
+    "href": "obstacles_ecoulement.html#utilisation",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Utilisation",
+    "text": "Utilisation\nElaboration d’un référentiel national et un socle commun d’information. Estimer la pression ouvrage sur les cours d’eau. Suivi des politiques de restauration de la continuité écologiqueCalcul d’indicateurs de continuité écologique"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#localisation",
+    "href": "obstacles_ecoulement.html#localisation",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#temporalité",
+    "href": "obstacles_ecoulement.html#temporalité",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Temporalité",
+    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpportuniste ou plannifiéA l’étiage pour la caractérisation des hauteurs de chute"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#rôles",
+    "href": "obstacles_ecoulement.html#rôles",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordinationInterprétationFormation\n\nDépartemental\nAnimation localeSaisieValidation"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#compétences-et-formations",
+    "href": "obstacles_ecoulement.html#compétences-et-formations",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOutil Géobs:- Consultation: sur demande- Saisie: Information dispensée par les agents de la DR- Validation: Correspondants continuité formés"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#correspondants",
+    "href": "obstacles_ecoulement.html#correspondants",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Correspondants",
+    "text": "Correspondants"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#protocole",
+    "href": "obstacles_ecoulement.html#protocole",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\n\n\n\n\n\nMatériel\n- Fiche terrain- GPS- Appareil photo- Mire ou autre équipement permettant de mesurer la hauteur de chute"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#les-données",
+    "href": "obstacles_ecoulement.html#les-données",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\nSaisie sur GéObs (https://geobs.eaufrance.fr/)Validation obligatoire par un agent de l’OFB disposant du profil validation\n\n\n\n\n\nDiffusion\nSandre:http://www.sandre.eaufrance.fr\n\n\n\n\n\nEn savoir plus La continuité écologique des cours d’eau Dataviz nationale\nBilans (serveur DR) La méthode ICE"
+  },
+  {
+    "objectID": "castor.html",
+    "href": "castor.html",
+    "title": "Suivi du castor d’Europe",
+    "section": "",
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+  },
+  {
+    "objectID": "castor.html#objectif",
+    "href": "castor.html#objectif",
+    "title": "Suivi du castor d’Europe",
+    "section": "Objectif",
+    "text": "Objectif\nLes objectifs du réseau ont été fixés par le ministère en charge de l’écologie :- assurer le suivi de la colonisation du castor sur le réseau hydrographique français ;- accompagnement sur la question des dommages;- vigilance sur l’arrivée du castor canadien"
+  },
+  {
+    "objectID": "castor.html#utilisation",
+    "href": "castor.html#utilisation",
+    "title": "Suivi du castor d’Europe",
+    "section": "Utilisation",
+    "text": "Utilisation\nRaportage Directive européenne Habitat Faune FloreRégulation des dispositifs de piègeage près des cours d’eau"
+  },
+  {
+    "objectID": "castor.html#localisation",
+    "href": "castor.html#localisation",
+    "title": "Suivi du castor d’Europe",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nProspection de linéaires de cours d’eau à la recherche d’indices de présence"
+  },
+  {
+    "objectID": "castor.html#temporalité",
+    "href": "castor.html#temporalité",
+    "title": "Suivi du castor d’Europe",
+    "section": "Temporalité",
+    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProspections préférentiellement hivernales avant la reprise de la végétation"
+  },
+  {
+    "objectID": "castor.html#rôles",
+    "href": "castor.html#rôles",
+    "title": "Suivi du castor d’Europe",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationBase de donnéesFormation\n\nRégional\nCoordinationRemontée des données au national\n\nDépartemental\nProspections(Constats de dommage)"
+  },
+  {
+    "objectID": "castor.html#compétences-et-formations",
+    "href": "castor.html#compétences-et-formations",
+    "title": "Suivi du castor d’Europe",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation Petit et Méso-Carnivores et Castor(Formation dommage)"
+  },
+  {
+    "objectID": "castor.html#correspondants",
+    "href": "castor.html#correspondants",
+    "title": "Suivi du castor d’Europe",
+    "section": "Correspondants",
+    "text": "Correspondants"
+  },
+  {
+    "objectID": "castor.html#protocole",
+    "href": "castor.html#protocole",
+    "title": "Suivi du castor d’Europe",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\nRecherche d’indices de présence (bois coupé, écorçage, hutte…) en prospection sur l’eau et à pied en berge\n\n\n\n\n\nMatériel\n- embarquation (ex. kayak)- gilet de sauvetage- jumelles- appareil photo- GPS"
+  },
+  {
+    "objectID": "castor.html#les-données",
+    "href": "castor.html#les-données",
+    "title": "Suivi du castor d’Europe",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\nRemplissage des fiches terrainsBancarisation régionaleTransmission au national qui effectue une validation et consolidation nationale des données\n\n\n\n\n\nDiffusion\nhttps://carmen.carmencarto.fr/38/Castor.map\n\n\n\n\n\nEn savoir plus Le réseau castor Fiche espèce\n Site Alfresco du Réseau Castor IdF  Protocole Arrêtés piégeage (Serveur DR)"
+  },
+  {
+    "objectID": "about.html#livrets",
+    "href": "about.html#livrets",
+    "title": "Les services territoriaux",
+    "section": "Livrets",
+    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
+  },
+  {
+    "objectID": "about.html#tableaux-de-bord",
+    "href": "about.html#tableaux-de-bord",
+    "title": "Les services territoriaux",
+    "section": "Tableaux de bord",
+    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
+  },
+  {
+    "objectID": "hydromorphologie.html",
+    "href": "hydromorphologie.html",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "",
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+  },
+  {
+    "objectID": "hydromorphologie.html#objectif",
+    "href": "hydromorphologie.html#objectif",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Objectif",
+    "text": "Objectif\nRelever les caractéristiques morphologique du cours d’eau au travers de différents ateliers : Définition de la station ; Granulométrie ; Pente de la ligne d’eau ; Débit ; Transects ; Caractérisation de la zone riparienne ; Colmatage…"
+  },
+  {
+    "objectID": "hydromorphologie.html#utilisation",
+    "href": "hydromorphologie.html#utilisation",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Utilisation",
+    "text": "Utilisation\nQuantifier l’altération hydromorphologique des cours d’eau. Orienter les mesures de gestion. Définir un cadre de travail lors d’opérations de restauration."
+  },
+  {
+    "objectID": "hydromorphologie.html#localisation",
+    "href": "hydromorphologie.html#localisation",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nStations des réseaux DCESites suivis dans le cadre d’opérations de restauration"
+  },
+  {
+    "objectID": "hydromorphologie.html#temporalité",
+    "href": "hydromorphologie.html#temporalité",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Temporalité",
+    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPour les stations DCE: tout les 6 ansLes relevés sont à effectuer en période d’étiage"
+  },
+  {
+    "objectID": "hydromorphologie.html#rôles",
+    "href": "hydromorphologie.html#rôles",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordination\n\nDépartemental\nRelevés de terrain"
+  },
+  {
+    "objectID": "hydromorphologie.html#compétences-et-formations",
+    "href": "hydromorphologie.html#compétences-et-formations",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation Carhyce pour la mise en œuvre du protocole et la saisie des données dans l’application – 3 j"
+  },
+  {
+    "objectID": "hydromorphologie.html#correspondants",
+    "href": "hydromorphologie.html#correspondants",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Correspondants",
+    "text": "Correspondants"
+  },
+  {
+    "objectID": "hydromorphologie.html#protocole",
+    "href": "hydromorphologie.html#protocole",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\nDéfinition de la station (Appréciation visuelle du cours d’eau, géolocalisation, précise évaluation des grandeurs caractéristiques). Granulométrie (Mesure de 100 éléments sur le radier présentant la granulométrie la plus grossière). Pente de la ligne d’eau (Mesure du denivelé entre le niveau d’eau à l’amont et à l’aval de la station avec au moins 3 points intermédiaires).Débit. Transects (Matérialisation de 15 transects perpendiculaires à l’écoulement, espacés de la largeur à plein bord).Colmatage (Appréhender l’intensité du colmatage).\n\n\n\n\n\nMatériel\nObligatoire- Appareil photo, Barre à mine , Bâtonnets , Clinomètre , Courantomètre , GPS , Gabarit , Jalons-repères , Mires , Masse ou massette Niveau à bulle, mire à bulles et trépied, Pied à coulisse ou réglet, Piquets métalliques , Planche et crayon , Ruban de mesure (30 m) , Télémètre , Topofil et bobine.- Matériel hygiène et sécurité- Fiche de recueilOptionnelCalculatrice , Machette , Règle de maçon à bulle , Talkies-walkies (paire)"
+  },
+  {
+    "objectID": "hydromorphologie.html#les-données",
+    "href": "hydromorphologie.html#les-données",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\n- Relevés des données sur le terrain- Saisie des données dans l’application web Carhyce (https://carhyce.eaufrance.fr/)Tous les 6 mois, les données migrent vers la plateforme IED (Interface d’Exploitation des Données), où elles sont traitées et mises en forme, permettant leur visualisation sous forme de graphiques.\n\n\n\n\n\nDiffusion\nNaïades:https://naiades.eaufrance.fr/acces-donnees#/hydromorphologieInterface d’Exploitation des Données Carhyce:https://analytics.huma-num.fr/ied_carhyce/\n\n\n\n\n\nEn savoir plus Plaquette de présentation Vidéo de présentation\nProtocole Fiches Méthodologiques (serveur DR)"
+  },
+  {
+    "objectID": "becasse.html",
+    "href": "becasse.html",
+    "title": "Réseau Bécasse",
+    "section": "",
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+  },
+  {
+    "objectID": "becasse.html#objectif",
+    "href": "becasse.html#objectif",
+    "title": "Réseau Bécasse",
+    "section": "Objectif",
+    "text": "Objectif\nBaguageEcoute des mâles chanteurs (qui croulent)Suivi de l’habitat"
+  },
+  {
+    "objectID": "becasse.html#utilisation",
+    "href": "becasse.html#utilisation",
+    "title": "Réseau Bécasse",
+    "section": "Utilisation",
+    "text": "Utilisation\nConnaître la répartition, l’abondance et la démographie des espèces. Suivi de l’évolution de la population. Valorisation dans des articles scientifiques, rapports. Etudes sur l’adaptation d’espèces au changements climatiques ."
+  },
+  {
+    "objectID": "becasse.html#localisation",
+    "href": "becasse.html#localisation",
+    "title": "Réseau Bécasse",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\n- Croule: 600 mailles tirées aléatoirement chaque année sur toute la France. Le point d’écoute est défini comme l’ouverture d’au minimum 1 ha la plus proche du centroïde du carré.- Baguage: Zone définie par le bagueur."
+  },
+  {
+    "objectID": "becasse.html#temporalité",
+    "href": "becasse.html#temporalité",
+    "title": "Réseau Bécasse",
+    "section": "Temporalité",
+    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBaguage:3 soirées avant le 10 décembre4 soirées entre le 10 décembre et le 20 février2 soirées après le 20 février"
+  },
+  {
+    "objectID": "becasse.html#rôles",
+    "href": "becasse.html#rôles",
+    "title": "Réseau Bécasse",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationBase de donnéesFormation\n\nRégional\nCoordination\n\nDépartemental\nBaguageEcouteSaisie"
+  },
+  {
+    "objectID": "becasse.html#compétences-et-formations",
+    "href": "becasse.html#compétences-et-formations",
+    "title": "Réseau Bécasse",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarte de bagueur (formation spécifique et plus de 10 soirées de baguage encadrées)Reconnaissance chants"
+  },
+  {
+    "objectID": "becasse.html#correspondants",
+    "href": "becasse.html#correspondants",
+    "title": "Réseau Bécasse",
+    "section": "Correspondants",
+    "text": "Correspondants"
+  },
+  {
+    "objectID": "becasse.html#protocole",
+    "href": "becasse.html#protocole",
+    "title": "Réseau Bécasse",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\n- Croule: recherche et écoute de mâles chanteurs. L’observateur doit être en place 30min avant le coucher du soleil et rester pendant deux heures- Baguage: Les suivis se déroulent la nuit. Les bagueurs doivent réaliser au moins 9 soirées par saison. Ne pas éblouir les individus en vol ! Attention à la sécurité des bagueurs !- Suivi de l’habitat des populations hivernantes: Les observations doivent se faire dans la mesure du possible dans des conditions météorologiques favorables: ni pluie, ni vent, ni orage\n\n\n\n\n\nMatériel\n- Croule:∙ montre, jumelles, torche∙ carnet∙ fiche terrain- Baguage:∙ épuisette∙ matériel de baguage"
+  },
+  {
+    "objectID": "becasse.html#les-données",
+    "href": "becasse.html#les-données",
+    "title": "Réseau Bécasse",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\n- Remplissage des fiches de terrain- Croule: transmission de la fiche de terrain et des données au plus tard le 15 juillet- Données de baguage saisies sur: https://becasse.ofb.fr\n\n\n\n\n\nDiffusion\n- Articles de recherche- Lettres d’informations- Bilan annuel- Cartes de densité\n\n\n\n\n\nEn savoir plus Présentation de la Bécasse des bois Site du Club national des Bécassiers\n Fiche observation croule (serveur DR)  Protocole de suivi Hivernage (capture et baguage)"
+  },
+  {
+    "objectID": "pmc.html",
+    "href": "pmc.html",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "",
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+  },
+  {
+    "objectID": "pmc.html#objectif",
+    "href": "pmc.html#objectif",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Objectif",
+    "text": "Objectif\n- Suivre l’évolution de l’aire de répartitions des 14 espèces, la dynamique de certaines populations et améliorer les connaissances sur leur écologie.- Former et partager les connaissances sur l’écologie de ces espèces.- Apporter une expertise technique et des conseils pour la gestion des espèces, évaluer la mise en œuvre des règlementations."
+  },
+  {
+    "objectID": "pmc.html#utilisation",
+    "href": "pmc.html#utilisation",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Utilisation",
+    "text": "Utilisation\n- Rapportages européens (DHFF, EEE)- Listes rouges de l’UICN- Classement ‘Espèces susceptibles d’occasionner des dégâts (ESOD)’"
+  },
+  {
+    "objectID": "pmc.html#localisation",
+    "href": "pmc.html#localisation",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nOpportuniste"
+  },
+  {
+    "objectID": "pmc.html#temporalité",
+    "href": "pmc.html#temporalité",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Temporalité",
+    "text": "Temporalité\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpportuniste"
+  },
+  {
+    "objectID": "pmc.html#rôles",
+    "href": "pmc.html#rôles",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nAnimationFormation\n\nDépartemental\nObservationsRecueil de signalementSaisie des données"
+  },
+  {
+    "objectID": "pmc.html#compétences-et-formations",
+    "href": "pmc.html#compétences-et-formations",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation de 3 jours sur les petits et moyens carnivores et l’utilisation de l’outil rezo-pmcc"
+  },
+  {
+    "objectID": "pmc.html#correspondants",
+    "href": "pmc.html#correspondants",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Correspondants",
+    "text": "Correspondants"
+  },
+  {
+    "objectID": "pmc.html#protocole",
+    "href": "pmc.html#protocole",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\n\n\n\n\n\nMatériel\nEn général:- Accès à l’outil Rezo-PMCC (appli smartphone ou site internet)Prélèvement tissu pour analyse génétique:- kit de prélèvement PMCC (gants, tube Eppendorf, alcool, ciseaux)- fiche adaptée"
+  },
+  {
+    "objectID": "pmc.html#les-données",
+    "href": "pmc.html#les-données",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur l’application Rezo-PMCC (https://geo.ofb.fr/rezopmcc)Pour les espèces d’identification délicate ou en limite/en dehors de leur aire de distribution: validation manuelle, utilisation possible de la génétique\n\n\n\n\n\nDiffusion\nArticles de recherchePortail cartographique: https://professionnels.ofb.fr/fr/node/1089\n\n\n\n\n\nEn savoir plus Page du réseau\n Documents sur les classements ESOD (serveur DR)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nos missions",
+    "section": "",
+    "text": "Texte d’introduction"
+  },
+  {
+    "objectID": "index.html#mammifères",
+    "href": "index.html#mammifères",
+    "title": "Nos missions",
+    "section": "Mammifères",
+    "text": "Mammifères\n\nChat forestier\nCastor\nOngulés sauvages\nLoup"
+  },
+  {
+    "objectID": "index.html#avifaune",
+    "href": "index.html#avifaune",
+    "title": "Nos missions",
+    "section": "Avifaune",
+    "text": "Avifaune\n\nBécasse\nSTOC/SHOC\nPrairies de fauche"
+  },
+  {
+    "objectID": "index.html#hydrobiologie",
+    "href": "index.html#hydrobiologie",
+    "title": "Nos missions",
+    "section": "Hydrobiologie",
+    "text": "Hydrobiologie\n\nPoissons\nMacroinvertébrés\nDiatomées\nMacrophytes"
+  },
+  {
+    "objectID": "index.html#autres-espèces",
+    "href": "index.html#autres-espèces",
+    "title": "Nos missions",
+    "section": "Autres espèces",
+    "text": "Autres espèces\n\nEcrevisses\nBivalves\nAmphibiens\nPetits et moyens carnivores\nSurveillance moléculaire de la biodiversité terrestre"
   }
 ]
