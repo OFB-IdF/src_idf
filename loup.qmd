@@ -43,7 +43,7 @@ Les données sont valorisées dans les flash infos loup, dans les bilans saisonn
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Courriel du réseau</b>:<br><a href='mailto:reseau.loup-lynx@ofb.gouv.fr'>reseau.loup-lynx@ofb.gouv.fr</a><br><br><b>Animation nationale</b>:<br>Nicolas Jean<br><br><b>Animation régionale</b>:<br>Samuel Dembski<br>
+<b>Animation nationale</b>:<br>Nicolas JEAN<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>PPC: Sylvain BERANGER<br>77: Corinne REVEL<br>78-95: Estelle DEBOST<br>91: Philippe TURQUIN<br><br><b>Courriel du réseau</b>:<br><a href='mailto:reseau.loup-lynx@ofb.gouv.fr'>reseau.loup-lynx@ofb.gouv.fr</a>
 
 <b>Partenaires</b>
 

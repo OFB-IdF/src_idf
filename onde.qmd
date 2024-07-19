@@ -43,7 +43,7 @@ Contribution aux Bulletins de Situation Hydrologique (BSH): donnée complémenta
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Animation nationale</b>:<br>Céline Nowak<br><br><b>Animation régionale</b>:<br>Samuel Dembski
+<b>Animation nationale</b>:<br>Céline NOWAK<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>PPC: Bérengère MONVOISIN<br>77: Cyrille BOST<br>78-95: Louis COQUELLE<br>91: Alice PACAUD
 
 <b>Partenaires</b>
 

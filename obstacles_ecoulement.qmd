@@ -43,7 +43,7 @@ Elaboration d’un référentiel national et un socle commun d’information. Es
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Animation nationale</b>: Karl Kreutzenberger<br><br><b>Animation régionale</b>:<br>Cédric Mondy<br><br><b>Assistance</b>:<br><a href='mailto:assistance.geobs@ofb.gouv.fr'>assistance.geobs@ofb.gouv.fr</a>
+<b>Animation nationale</b>: Karl KREUTZENBERGER<br><br><b>Animation régionale</b>:<br>Cédric MONDY<br><br><b>Correspondants départementaux</b>:<br>PPC: Bérengère MONVOISIN<br>77: Cyrille BOST<br>78-95: Angélique EGLOFF<br>91: Olivier MELART<br><br><b>Assistance</b>:<br><a href='mailto:assistance.geobs@ofb.gouv.fr'>assistance.geobs@ofb.gouv.fr</a>
 
 <b>Partenaires</b>
 

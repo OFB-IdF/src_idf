@@ -43,7 +43,7 @@ Les résultats des observations sont valorisés en cartes d’abondance et de r�
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Animation nationale</b>:<br>Paul Hurel<br><br><b>Suivi scientifique</b>:<br>Yoann Bressan<br>Sandrine Ruette<br><br><b>Animation régionale</b>:<br>Cédric Mondy
+<b>Animation nationale</b>:<br>Paul HUREL<br><br><b>Suivi scientifique</b>:<br>Yoann BRESSAN<br>Sandrine RUETTE<br><br><b>Animation régionale</b>:<br>Cédric MONDY<br><br><b>Correspondants départementaux</b>:<br>PPC: Sylvain BERANGER<br>77: Anne-Gaëlle BLANC<br>78-95: Amandine EVRARD<br>91: Cyril KLEINPRINZ
 
 <b>Partenaires</b>
 

@@ -43,7 +43,7 @@ Orientation des politiques publiques agro –environnementales, programmes de re
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Animation nationale</b>:<br>xxxx<br><br><b>Suivi scientifique</b>:<br>Laurence Curtet<br><br><b>Animation régionale</b>:<br>Samuel Dembski
+<b>Animation nationale</b>:<br>xxxx<br><br><b>Suivi scientifique</b>:<br>Laurence CURTET<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI
 
 <b>Partenaires</b>
 
