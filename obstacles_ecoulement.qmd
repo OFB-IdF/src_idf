@@ -43,7 +43,7 @@ Elaboration d’un référentiel national et un socle commun d’information. Es
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Animation nationale</b>: Karl KREUTZENBERGER<br><br><b>Animation régionale</b>:<br>Cédric MONDY<br><br><b>Correspondants départementaux</b>:<br>PPC: Bérengère MONVOISIN<br>77: Cyrille BOST<br>78-95: Angélique EGLOFF<br>91: Olivier MELART<br><br><b>Assistance</b>:<br><a href='mailto:assistance.geobs@ofb.gouv.fr'>assistance.geobs@ofb.gouv.fr</a>
+<b>Animation nationale</b>: <br>Karl KREUTZENBERGER<br><br><b>Animation régionale</b>:<br>Cédric MONDY<br><br><b>Correspondants départementaux</b>:<br>PPC: Bérengère MONVOISIN<br>77: Cyrille BOST<br>78-95: Angélique EGLOFF<br>91: Olivier MELART<br><br><b>Assistance</b>:<br><a href='mailto:assistance.geobs@ofb.gouv.fr'>assistance.geobs@ofb.gouv.fr</a>
 
 <b>Partenaires</b>
 
@@ -76,23 +76,14 @@ FichesSRC::creer_carte(
 :::
 ::::::::::::::
 ## Temporalité
-:::::::::::::: {.columns}
-::: {.column width="67%"}
+Opportuniste ou plannifié<br><br>A l'étiage pour la caractérisation des hauteurs de chute
 
 
-```{r, echo=FALSE}
+```{r, fig.height=2, fig.width=9, echo=FALSE}
 FichesSRC::creer_calendrier('Inventaire:1,2,3,4,5,6,7,8,9,10,11,12
-Hauteur de chute:5,6,7,8,9')
+Hauteur de chute:5,6,7,8,9', web = TRUE)
 ```
 
-
-:::
-::: {.column width="5%"}
-:::
-::: {.column width="28%"}
-Opportuniste ou plannifié<br><br>A l'étiage pour la caractérisation des hauteurs de chute
-:::
-::::::::::::::
 
 # Logistique
 

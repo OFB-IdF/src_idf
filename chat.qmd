@@ -76,22 +76,13 @@ Secteurs d'étude d'environ 100km²  comprenant des lisières forestières au co
 :::
 ::::::::::::::
 ## Temporalité
-:::::::::::::: {.columns}
-::: {.column width="67%"}
+Relevés toutes les deux semaines pendant 3 mois
 
 
-```{r, echo=FALSE}
-FichesSRC::creer_calendrier('12,1,2,3')
+```{r, fig.height=2, fig.width=9, echo=FALSE}
+FichesSRC::creer_calendrier('12,1,2,3', web = TRUE)
 ```
 
-
-:::
-::: {.column width="5%"}
-:::
-::: {.column width="28%"}
-Relevés toutes les deux semaines pendant 3 mois
-:::
-::::::::::::::
 
 # Logistique
 

@@ -76,24 +76,15 @@ Stations d’une aire de 200m autour d’un point de la prairie de fauche (envir
 :::
 ::::::::::::::
 ## Temporalité
-:::::::::::::: {.columns}
-::: {.column width="67%"}
+Tous les ans: <br>- Relevés des calendriers de fenaison :  évaluation du pourcentage fauché. 20 juin, 1er juillet, 15 juillet (+- 2 jours).<br>- Comptage visuel et auditif des oiseaux : Indice ponctuel d’abondance (IPA), 2 fois.<br><br>Tous les 5 ans: <br>Relevés de végétation et enquête agricole .
 
 
-```{r, echo=FALSE}
+```{r, fig.height=2, fig.width=9, echo=FALSE}
 FichesSRC::creer_calendrier('Calendrier fenaison:6,7
 IPA:4,5,6
-Relevé de végétation:5,7')
+Relevé de végétation:5,7', web = TRUE)
 ```
 
-
-:::
-::: {.column width="5%"}
-:::
-::: {.column width="28%"}
-Tous les ans: <br>- Relevés des calendriers de fenaison :  évaluation du pourcentage fauché. 20 juin, 1er juillet, 15 juillet (+- 2 jours).<br>- Comptage visuel et auditif des oiseaux : Indice ponctuel d’abondance (IPA), 2 fois.<br><br>Tous les 5 ans: <br>Relevés de végétation et enquête agricole .
-:::
-::::::::::::::
 
 # Logistique
 

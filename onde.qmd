@@ -87,23 +87,14 @@ FichesSRC::creer_tableau_stations(
 :::
 ::::::::::::::
 ## Temporalité
-:::::::::::::: {.columns}
-::: {.column width="67%"}
+<br>- Suivi usuel: 1 fois par mois, le 25 (+/- 2 jours)<br><br>- Suivi complémentaire: potentiellement toute l'année, en fonction des conditions hydrologiques
 
 
-```{r, echo=FALSE}
+```{r, fig.height=2, fig.width=9, echo=FALSE}
 FichesSRC::creer_calendrier('Suivi usuel: 5, 6, 7, 8, 9
-Suivi complémentaire: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12')
+Suivi complémentaire: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12', web = TRUE)
 ```
 
-
-:::
-::: {.column width="5%"}
-:::
-::: {.column width="28%"}
-<br>- Suivi usuel: 1 fois par mois, le 25 (+/- 2 jours)<br><br>- Suivi complémentaire: potentiellement toute l'année, en fonction des conditions hydrologiques
-:::
-::::::::::::::
 
 # Logistique
 

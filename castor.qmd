@@ -87,22 +87,13 @@ Prospection de linéaires de cours d'eau à la recherche d'indices de présence
 :::
 ::::::::::::::
 ## Temporalité
-:::::::::::::: {.columns}
-::: {.column width="67%"}
+Prospections préférentiellement hivernales avant la reprise de la végétation
 
 
-```{r, echo=FALSE}
-FichesSRC::creer_calendrier('11,12,1,2,3')
+```{r, fig.height=2, fig.width=9, echo=FALSE}
+FichesSRC::creer_calendrier('11,12,1,2,3', web = TRUE)
 ```
 
-
-:::
-::: {.column width="5%"}
-:::
-::: {.column width="28%"}
-Prospections préférentiellement hivernales avant la reprise de la végétation
-:::
-::::::::::::::
 
 # Logistique
 

@@ -76,22 +76,13 @@ Stations des réseaux DCE<br><br>Sites suivis dans le cadre d'opérations de res
 :::
 ::::::::::::::
 ## Temporalité
-:::::::::::::: {.columns}
-::: {.column width="67%"}
+Pour les stations DCE: tout les 6 ans<br><br>Les relevés sont à effectuer en période d'étiage
 
 
-```{r, echo=FALSE}
-FichesSRC::creer_calendrier('5,6,7,8,9')
+```{r, fig.height=2, fig.width=9, echo=FALSE}
+FichesSRC::creer_calendrier('5,6,7,8,9', web = TRUE)
 ```
 
-
-:::
-::: {.column width="5%"}
-:::
-::: {.column width="28%"}
-Pour les stations DCE: tout les 6 ans<br><br>Les relevés sont à effectuer en période d'étiage
-:::
-::::::::::::::
 
 # Logistique
 

@@ -76,23 +76,14 @@ FichesSRC::creer_carte(
 :::
 ::::::::::::::
 ## Temporalité
-:::::::::::::: {.columns}
-::: {.column width="67%"}
+Baguage:<br>3 soirées avant le 10 décembre<br>4 soirées entre le 10 décembre et le 20 février<br>2 soirées après le 20 février
 
 
-```{r, echo=FALSE}
+```{r, fig.height=2, fig.width=9, echo=FALSE}
 FichesSRC::creer_calendrier('Baguage:1,2,3,10,11,12
-Croule:5,6')
+Croule:5,6', web = TRUE)
 ```
 
-
-:::
-::: {.column width="5%"}
-:::
-::: {.column width="28%"}
-Baguage:<br>3 soirées avant le 10 décembre<br>4 soirées entre le 10 décembre et le 20 février<br>2 soirées après le 20 février
-:::
-::::::::::::::
 
 # Logistique
 
