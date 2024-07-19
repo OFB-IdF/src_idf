@@ -5,6 +5,7 @@ website:
   title: "La connaissance à l'OFB en Île-de-France"
   navbar:
     left:
+      - index.qmd
       - productions.qmd
     logo: logo.png
   favicon: favicon.png
@@ -15,6 +16,7 @@ format:
     css: styles.css
     toc: true
     toc-title: "Menu"
+    toc-depth: 2
 
 editor: visual
 
