@@ -23,11 +23,10 @@ include-in-header:
 ::::::::::::::
 
 
-
+:::::::::::::: {.columns}
+::: {.column width="65%"}
 # Description
 
-:::::::::::::: {.columns}
-::: {.column width="70%"}
 L’hydromorphologie des cours d’eau est une des composante majeure de son état de santé. Ces caractéristiques dépendent des conditions naturelles et paysagères et peuvent être altérées par les activités humaines. Carhyce est le protocole de recueil de données hydromorphologiques à l'échelle d’une station sur les cours d'eau prospectables à pied. Les données sont standardisées et comparables dans le temps et d’un site à l’autre. 
 
 
@@ -41,12 +40,15 @@ Quantifier l'altération hydromorphologique des cours d'eau. Orienter les mesure
 :::
 ::: {.column width="5%"}
 :::
-::: {.column width="25%"}
+::: {.column width="30%"}
+# Animation
+<small>
 <b>Animation nationale</b>:<br>Karl Kreutzenberger<br><br><b>Animation régionale</b>:<br>Samuel Dembski
 
 <b>Partenaires</b>
 
 DRIEAT/DDT<br>Agence de l'eau
+</small>
 :::
 ::::::::::::::
 
@@ -130,8 +132,6 @@ Formation Carhyce  pour la mise en œuvre du protocole et la saisie des données
 :::
 ::::::::::::::
 
-
-## Correspondants
 
 ## Protocole
 :::::::::::::: {.columns}

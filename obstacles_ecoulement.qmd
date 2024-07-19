@@ -23,11 +23,10 @@ include-in-header:
 ::::::::::::::
 
 
-
+:::::::::::::: {.columns}
+::: {.column width="65%"}
 # Description
 
-:::::::::::::: {.columns}
-::: {.column width="70%"}
 Le ROE permet d’avoir une information spatialisée sur les obstacles à l’écoulement des cours d’eau d’origine humaine (caractéristiques, usages, gestion). Cette information peut être complétée dans la BDOE.
 
 
@@ -41,12 +40,15 @@ Elaboration d’un référentiel national et un socle commun d’information. Es
 :::
 ::: {.column width="5%"}
 :::
-::: {.column width="25%"}
+::: {.column width="30%"}
+# Animation
+<small>
 <b>Animation nationale</b>: Karl Kreutzenberger<br><br><b>Animation régionale</b>:<br>Cédric Mondy<br><br><b>Assistance</b>:<br><a href='mailto:assistance.geobs@ofb.gouv.fr'>assistance.geobs@ofb.gouv.fr</a>
 
 <b>Partenaires</b>
 
 Agence de l'eau<br>DRIEAT<br>Syndicats de rivière<br>Fédérations de pêche
+</small>
 :::
 ::::::::::::::
 
@@ -131,8 +133,6 @@ Outil Géobs:<br>- Consultation: sur demande<br>- Saisie: Information dispensée
 :::
 ::::::::::::::
 
-
-## Correspondants
 
 ## Protocole
 :::::::::::::: {.columns}

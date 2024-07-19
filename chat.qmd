@@ -23,11 +23,10 @@ include-in-header:
 ::::::::::::::
 
 
-
+:::::::::::::: {.columns}
+::: {.column width="65%"}
 # Description
 
-:::::::::::::: {.columns}
-::: {.column width="70%"}
 Présent au sud et à l’est de l’Ile-de-France, le chat forestier est protégé depuis 1979. Son abondance et sa répartition sont étudiés dans le cadre du réseau PMCC. Cependant, des études plus spécifiques sont parfois menées, utilisant des pièges à des points définis.
 
 
@@ -41,12 +40,15 @@ Les résultats des observations sont valorisés en cartes d’abondance et de r�
 :::
 ::: {.column width="5%"}
 :::
-::: {.column width="25%"}
+::: {.column width="30%"}
+# Animation
+<small>
 <b>Animation nationale</b>:<br>Paul Hurel<br><br><b>Suivi scientifique</b>:<br>Yoann Bressan<br>Sandrine Ruette<br><br><b>Animation régionale</b>:<br>Cédric Mondy
 
 <b>Partenaires</b>
 
 ONF<br>ARB<br>Conseils départementaux (ENS)<br>Réserve de la Bassée<br>Ile-de-France Nature<br>CPIE Boucles de la Marne
+</small>
 :::
 ::::::::::::::
 
@@ -130,8 +132,6 @@ Formation de 3 jours sur les petits et moyens carnivores et l'utilisation de l'o
 :::
 ::::::::::::::
 
-
-## Correspondants
 
 ## Protocole
 :::::::::::::: {.columns}

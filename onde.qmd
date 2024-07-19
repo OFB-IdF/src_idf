@@ -23,11 +23,10 @@ include-in-header:
 ::::::::::::::
 
 
-
+:::::::::::::: {.columns}
+::: {.column width="65%"}
 # Description
 
-:::::::::::::: {.columns}
-::: {.column width="70%"}
 Caractériser les étiages estivaux par l'observation visuelle du niveau d'écoulement d'un réseau de petits cours d'eau. 
 
 
@@ -41,12 +40,15 @@ Contribution aux Bulletins de Situation Hydrologique (BSH): donnée complémenta
 :::
 ::: {.column width="5%"}
 :::
-::: {.column width="25%"}
+::: {.column width="30%"}
+# Animation
+<small>
 <b>Animation nationale</b>:<br>Céline Nowak<br><br><b>Animation régionale</b>:<br>Samuel Dembski
 
 <b>Partenaires</b>
 
 Conseils départementaux<br>DREAL
+</small>
 :::
 ::::::::::::::
 
@@ -142,8 +144,6 @@ FichesSRC::creer_graphe_expertise('Initié', '1')
 :::
 ::::::::::::::
 
-
-## Correspondants
 
 ## Protocole
 :::::::::::::: {.columns}

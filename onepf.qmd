@@ -23,11 +23,10 @@ include-in-header:
 ::::::::::::::
 
 
-
+:::::::::::::: {.columns}
+::: {.column width="65%"}
 # Description
 
-:::::::::::::: {.columns}
-::: {.column width="70%"}
 L’ONEPF a été crée avec le constat que les périodes de fenaisons de plus en plus précoces et l’altération des prairies de fauches sont défavorables aux nombreuses d’oiseaux qui l’utilisent pour la reproduction.
 
 
@@ -41,12 +40,15 @@ Orientation des politiques publiques agro –environnementales, programmes de re
 :::
 ::: {.column width="5%"}
 :::
-::: {.column width="25%"}
+::: {.column width="30%"}
+# Animation
+<small>
 <b>Animation nationale</b>:<br>xxxx<br><br><b>Suivi scientifique</b>:<br>Laurence Curtet<br><br><b>Animation régionale</b>:<br>Samuel Dembski
 
 <b>Partenaires</b>
 
 Fédération de chasse<br>LPO
+</small>
 :::
 ::::::::::::::
 
@@ -132,8 +134,6 @@ FichesSRC::creer_graphe_expertise('Maitrise', '1')
 :::
 ::::::::::::::
 
-
-## Correspondants
 
 ## Protocole
 :::::::::::::: {.columns}

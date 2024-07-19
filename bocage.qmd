@@ -23,11 +23,10 @@ include-in-header:
 ::::::::::::::
 
 
-
+:::::::::::::: {.columns}
+::: {.column width="65%"}
 # Description
 
-:::::::::::::: {.columns}
-::: {.column width="70%"}
 Le bocage est un paysage verdoyant de parcelles délimitées par des haies vives. De nombreux bocages ont disparus après la seconde guerre mondiale avec de grandes opérations de remembrement. Cependant, les haies et bocages sont des milieux privilégiés par de nombreuses espèces, et des facteurs de continuité écologique. Les deux premières phases du suivi ont été réalisées en 2020 avec la création d’une cartographie des territoires bocagers sur l’échelle de la France. Un protocole de suivi qualitatif et un référentiel national des haies sont maintenant développés pour les différents types de bocages.
 
 
@@ -41,12 +40,15 @@ Suivi de l’évolution des haies et bocages. Aide pour les documents de planifi
 :::
 ::: {.column width="5%"}
 :::
-::: {.column width="25%"}
+::: {.column width="30%"}
+# Animation
+<small>
 <b>Animation nationale</b>:<br>Sophie Morin<br><br><b>Animation régionale</b>:<br>Samuel Dembski
 
 <b>Partenaires</b>
 
 IGN
+</small>
 :::
 ::::::::::::::
 
@@ -131,8 +133,6 @@ FichesSRC::creer_graphe_expertise('Maitrise', '1')
 :::
 ::::::::::::::
 
-
-## Correspondants
 
 ## Protocole
 :::::::::::::: {.columns}

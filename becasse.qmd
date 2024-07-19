@@ -23,11 +23,10 @@ include-in-header:
 ::::::::::::::
 
 
-
+:::::::::::::: {.columns}
+::: {.column width="65%"}
 # Description
 
-:::::::::::::: {.columns}
-::: {.column width="70%"}
 La Bécasse des bois est une espèce de limicole forestier largement répandue en Eurasie. Migratrice, une bonne part des effectifs européens hiverne en France. Elle est chassable d’octobre à février et plusieurs suivis annuels sont mis en place.
 
 
@@ -41,12 +40,15 @@ Connaître la répartition, l’abondance et la démographie des espèces. Suivi
 :::
 ::: {.column width="5%"}
 :::
-::: {.column width="25%"}
+::: {.column width="30%"}
+# Animation
+<small>
 <b>Courriel du réseau</b>:<br><a href='mailto:reseau.becasse@ofb.gouv.fr'>reseau.becasse@ofb.gouv.fr</a><br><br><b>Animation nationale</b>:<br>Maxime Passerault<br><br><b>Suivi scientifique</b>:<br>Kévin Le Rest<br><br><b>Animation régionale</b>:<br>Samuel Dembski
 
 <b>Partenaires</b>
 
 Fédérations de chasse<br>Club national des Bécassiers
+</small>
 :::
 ::::::::::::::
 
@@ -131,8 +133,6 @@ Carte de bagueur (formation spécifique et plus de 10 soirées de baguage encadr
 :::
 ::::::::::::::
 
-
-## Correspondants
 
 ## Protocole
 :::::::::::::: {.columns}
