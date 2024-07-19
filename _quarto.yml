@@ -7,6 +7,7 @@ website:
     left:
       - index.qmd
       - productions.qmd
+      - calendrier.qmd
     logo: logo.png
   favicon: favicon.png
 

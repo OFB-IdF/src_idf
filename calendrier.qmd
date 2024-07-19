@@ -1,0 +1,14 @@
+---
+title: "Calendrier"
+---
+
+```{r, include=FALSE}
+'%>%' <- dplyr::"%>%"
+nombre_suivis <- FichesSRC::charger_informations("data-raw/metadata.xlsx") %>% 
+    dplyr::filter(!is.na(intitule)) %>% 
+    nrow()
+```
+
+```{r, echo=FALSE, fig.height=(nombre_suivis)}
+FichesSRC::creer_calendrier_global("data-raw/metadata.xlsx")
+```
