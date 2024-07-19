@@ -210,193 +210,18 @@
     "text": "Les données\n\n\n\nSaisie\n\n\n\n\n\nDiffusion\n- Bulletin de liaison de l’ONEPF- Articles scientifiques\n\n\n\n\n\nEn savoir plus PNA Outarde canepière (2020-2029)\n Protocole et fiches (Serveur DR)"
   },
   {
-    "objectID": "bocage.html",
-    "href": "bocage.html",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+    "objectID": "about.html#livrets",
+    "href": "about.html#livrets",
+    "title": "Les services territoriaux",
+    "section": "Livrets",
+    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
   },
   {
-    "objectID": "bocage.html#objectif",
-    "href": "bocage.html#objectif",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Objectif",
-    "text": "Objectif\nRelevés sur le terrain pour caractériser les haies."
-  },
-  {
-    "objectID": "bocage.html#utilisation",
-    "href": "bocage.html#utilisation",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Utilisation",
-    "text": "Utilisation\nSuivi de l’évolution des haies et bocages. Aide pour les documents de planification, politiques agricoles. Cibler les zones pour la mise en place de mesures de restauration. Promouvoir la gestion durable des milieux bocagers."
-  },
-  {
-    "objectID": "bocage.html#localisation",
-    "href": "bocage.html#localisation",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Localisation",
-    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nQuadrats de 1km²"
-  },
-  {
-    "objectID": "bocage.html#temporalité",
-    "href": "bocage.html#temporalité",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Temporalité",
-    "text": "Temporalité"
-  },
-  {
-    "objectID": "bocage.html#rôles",
-    "href": "bocage.html#rôles",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordination\n\nDépartemental\nProspections"
-  },
-  {
-    "objectID": "bocage.html#compétences-et-formations",
-    "href": "bocage.html#compétences-et-formations",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- Connaissance en botanique- Connaissance en ornithologie"
-  },
-  {
-    "objectID": "bocage.html#protocole",
-    "href": "bocage.html#protocole",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\nProtocole national de relevé qualitatif des haies. A l’échelle d’un carré ou quadrat de 1 km².- Localisation des haies, des alignements d’arbres et des différents types d’occupation du sol présents - Description de l’état des fonctionnalités écologiques des haies : épaisseur, présence de bande enherbée, de bois mort, de lianes, micros-habitats, diversité d’essences, état sanitaire des végétaux, etc.\n\n\n\n\n\nMatériel\n- Le fond orthophoto du carré fourni - Un support rigide pour fixer les documents de terrain et un stylo - Les fiches de description des haies du carré à l’échelle de 1km²- Un smartphone pour se repérer si nécessaire et faire de la prise de vue - Télémètre- Guide botanique- Fiche de terrain"
-  },
-  {
-    "objectID": "bocage.html#les-données",
-    "href": "bocage.html#les-données",
-    "title": "Dispositif national de suivi des bocages",
-    "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\n- relevés de terrain- Transmission des fiches\n\n\n\n\n\nDiffusion\nhttps://www.geoportail.gouv.frhttps://geoservices.ign.fr/bdhaie\n\n\n\n\n\nEn savoir plus Présentation du dispositif Plaquette d’information Atlas des densités de haies"
-  },
-  {
-    "objectID": "onde.html",
-    "href": "onde.html",
-    "title": "ONDE",
-    "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
-  },
-  {
-    "objectID": "onde.html#objectif",
-    "href": "onde.html#objectif",
-    "title": "ONDE",
-    "section": "Objectif",
-    "text": "Objectif\nApprécier et suivre l’évolution des conditions d’écoulement d’un ensemble de cours d’eau"
-  },
-  {
-    "objectID": "onde.html#utilisation",
-    "href": "onde.html#utilisation",
-    "title": "ONDE",
-    "section": "Utilisation",
-    "text": "Utilisation\nContribution aux Bulletins de Situation Hydrologique (BSH): donnée complémentaire pour caractériser la situation hydrologique d’un territoire."
-  },
-  {
-    "objectID": "onde.html#localisation",
-    "href": "onde.html#localisation",
-    "title": "ONDE",
-    "section": "Localisation",
-    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\n60 stations fixes représentatives des situations hydrologiques des petits cours d’eau (rangs de Strahler 1 à 4) de chaque département"
-  },
-  {
-    "objectID": "onde.html#temporalité",
-    "href": "onde.html#temporalité",
-    "title": "ONDE",
-    "section": "Temporalité",
-    "text": "Temporalité\n- Suivi usuel: 1 fois par mois, le 25 (+/- 2 jours)- Suivi complémentaire: potentiellement toute l’année, en fonction des conditions hydrologiques"
-  },
-  {
-    "objectID": "onde.html#rôles",
-    "href": "onde.html#rôles",
-    "title": "ONDE",
-    "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nPilotage\n\nRégional\nCoordinationTransmission\n\nDépartemental\nObservationSaisie"
-  },
-  {
-    "objectID": "onde.html#compétences-et-formations",
-    "href": "onde.html#compétences-et-formations",
-    "title": "ONDE",
-    "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- Information sur le protocole terrain et présentation de l’application de saisie- Droit de saisie à la demande"
-  },
-  {
-    "objectID": "onde.html#protocole",
-    "href": "onde.html#protocole",
-    "title": "ONDE",
-    "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\nObservation visuelle selon les modalités suivantes:∙ Ecoulement visible (acceptable ou faible)∙ Ecoulement non visible∙ Assec⚠️ L’appréciation peut varier selon les observateurs.\n\n\n\n\n\nMatériel\nFiche terrain"
-  },
-  {
-    "objectID": "onde.html#les-données",
-    "href": "onde.html#les-données",
-    "title": "ONDE",
-    "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur https://onde.ofb.fr avant le 31 du mois de l’observation\n\n\n\n\n\nDiffusion\n- Grand public:www.onde.eaufrance.frwww.data.eaufrance.fr- Interne:https://ofb-idf.github.io/PRR_ONDE/\n\n\n\n\n\nEn savoir plus  Plaquette de présentation (serveur DR)  Bulletin de situation hydrologique Dataviz nationale  Guide d’utilisation du site onde.ofb.fr"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html",
-    "href": "obstacles_ecoulement.html",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#objectif",
-    "href": "obstacles_ecoulement.html#objectif",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Objectif",
-    "text": "Objectif\nCollecter des informations objectives sur le nombre, la localisation et les caractéristiques des obstacles à l’écoulement sur les cours d’eau"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#utilisation",
-    "href": "obstacles_ecoulement.html#utilisation",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Utilisation",
-    "text": "Utilisation\nElaboration d’un référentiel national et un socle commun d’information. Estimer la pression ouvrage sur les cours d’eau. Suivi des politiques de restauration de la continuité écologiqueCalcul d’indicateurs de continuité écologique"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#localisation",
-    "href": "obstacles_ecoulement.html#localisation",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Localisation",
-    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#temporalité",
-    "href": "obstacles_ecoulement.html#temporalité",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Temporalité",
-    "text": "Temporalité\nOpportuniste ou plannifiéA l’étiage pour la caractérisation des hauteurs de chute"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#rôles",
-    "href": "obstacles_ecoulement.html#rôles",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordinationInterprétationFormation\n\nDépartemental\nAnimation localeSaisieValidation"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#compétences-et-formations",
-    "href": "obstacles_ecoulement.html#compétences-et-formations",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOutil Géobs:- Consultation: sur demande- Saisie: Information dispensée par les agents de la DR- Validation: Correspondants continuité formés"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#protocole",
-    "href": "obstacles_ecoulement.html#protocole",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\n\n\n\n\n\nMatériel\n- Fiche terrain- GPS- Appareil photo- Mire ou autre équipement permettant de mesurer la hauteur de chute"
-  },
-  {
-    "objectID": "obstacles_ecoulement.html#les-données",
-    "href": "obstacles_ecoulement.html#les-données",
-    "title": "Obstacles à l’Ecoulement",
-    "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nSaisie sur GéObs (https://geobs.eaufrance.fr/)Validation obligatoire par un agent de l’OFB disposant du profil validation\n\n\n\n\n\nDiffusion\nSandre:http://www.sandre.eaufrance.fr\n\n\n\n\n\nEn savoir plus La continuité écologique des cours d’eau Dataviz nationale\nBilans (serveur DR) La méthode ICE"
+    "objectID": "about.html#tableaux-de-bord",
+    "href": "about.html#tableaux-de-bord",
+    "title": "Les services territoriaux",
+    "section": "Tableaux de bord",
+    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
   },
   {
     "objectID": "castor.html",
@@ -462,18 +287,193 @@
     "text": "Les données\n\n\n\nSaisie\nRemplissage des fiches terrainsBancarisation régionaleTransmission au national qui effectue une validation et consolidation nationale des données\n\n\n\n\n\nDiffusion\nhttps://carmen.carmencarto.fr/38/Castor.map\n\n\n\n\n\nEn savoir plus Le réseau castor Fiche espèce\n Site Alfresco du Réseau Castor IdF  Protocole Arrêtés piégeage (Serveur DR)"
   },
   {
-    "objectID": "about.html#livrets",
-    "href": "about.html#livrets",
-    "title": "Les services territoriaux",
-    "section": "Livrets",
-    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
+    "objectID": "obstacles_ecoulement.html",
+    "href": "obstacles_ecoulement.html",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "",
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
   },
   {
-    "objectID": "about.html#tableaux-de-bord",
-    "href": "about.html#tableaux-de-bord",
-    "title": "Les services territoriaux",
-    "section": "Tableaux de bord",
-    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
+    "objectID": "obstacles_ecoulement.html#objectif",
+    "href": "obstacles_ecoulement.html#objectif",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Objectif",
+    "text": "Objectif\nCollecter des informations objectives sur le nombre, la localisation et les caractéristiques des obstacles à l’écoulement sur les cours d’eau"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#utilisation",
+    "href": "obstacles_ecoulement.html#utilisation",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Utilisation",
+    "text": "Utilisation\nElaboration d’un référentiel national et un socle commun d’information. Estimer la pression ouvrage sur les cours d’eau. Suivi des politiques de restauration de la continuité écologiqueCalcul d’indicateurs de continuité écologique"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#localisation",
+    "href": "obstacles_ecoulement.html#localisation",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#temporalité",
+    "href": "obstacles_ecoulement.html#temporalité",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Temporalité",
+    "text": "Temporalité\nOpportuniste ou plannifiéA l’étiage pour la caractérisation des hauteurs de chute"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#rôles",
+    "href": "obstacles_ecoulement.html#rôles",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordinationInterprétationFormation\n\nDépartemental\nAnimation localeSaisieValidation"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#compétences-et-formations",
+    "href": "obstacles_ecoulement.html#compétences-et-formations",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOutil Géobs:- Consultation: sur demande- Saisie: Information dispensée par les agents de la DR- Validation: Correspondants continuité formés"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#protocole",
+    "href": "obstacles_ecoulement.html#protocole",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\n\n\n\n\n\nMatériel\n- Fiche terrain- GPS- Appareil photo- Mire ou autre équipement permettant de mesurer la hauteur de chute"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#les-données",
+    "href": "obstacles_ecoulement.html#les-données",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\nSaisie sur GéObs (https://geobs.eaufrance.fr/)Validation obligatoire par un agent de l’OFB disposant du profil validation\n\n\n\n\n\nDiffusion\nSandre:http://www.sandre.eaufrance.fr\n\n\n\n\n\nEn savoir plus La continuité écologique des cours d’eau Dataviz nationale\nBilans (serveur DR) La méthode ICE"
+  },
+  {
+    "objectID": "onde.html",
+    "href": "onde.html",
+    "title": "ONDE",
+    "section": "",
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+  },
+  {
+    "objectID": "onde.html#objectif",
+    "href": "onde.html#objectif",
+    "title": "ONDE",
+    "section": "Objectif",
+    "text": "Objectif\nApprécier et suivre l’évolution des conditions d’écoulement d’un ensemble de cours d’eau"
+  },
+  {
+    "objectID": "onde.html#utilisation",
+    "href": "onde.html#utilisation",
+    "title": "ONDE",
+    "section": "Utilisation",
+    "text": "Utilisation\nContribution aux Bulletins de Situation Hydrologique (BSH): donnée complémentaire pour caractériser la situation hydrologique d’un territoire."
+  },
+  {
+    "objectID": "onde.html#localisation",
+    "href": "onde.html#localisation",
+    "title": "ONDE",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\n60 stations fixes représentatives des situations hydrologiques des petits cours d’eau (rangs de Strahler 1 à 4) de chaque département"
+  },
+  {
+    "objectID": "onde.html#temporalité",
+    "href": "onde.html#temporalité",
+    "title": "ONDE",
+    "section": "Temporalité",
+    "text": "Temporalité\n- Suivi usuel: 1 fois par mois, le 25 (+/- 2 jours)- Suivi complémentaire: potentiellement toute l’année, en fonction des conditions hydrologiques"
+  },
+  {
+    "objectID": "onde.html#rôles",
+    "href": "onde.html#rôles",
+    "title": "ONDE",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nPilotage\n\nRégional\nCoordinationTransmission\n\nDépartemental\nObservationSaisie"
+  },
+  {
+    "objectID": "onde.html#compétences-et-formations",
+    "href": "onde.html#compétences-et-formations",
+    "title": "ONDE",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- Information sur le protocole terrain et présentation de l’application de saisie- Droit de saisie à la demande"
+  },
+  {
+    "objectID": "onde.html#protocole",
+    "href": "onde.html#protocole",
+    "title": "ONDE",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\nObservation visuelle selon les modalités suivantes:∙ Ecoulement visible (acceptable ou faible)∙ Ecoulement non visible∙ Assec⚠️ L’appréciation peut varier selon les observateurs.\n\n\n\n\n\nMatériel\nFiche terrain"
+  },
+  {
+    "objectID": "onde.html#les-données",
+    "href": "onde.html#les-données",
+    "title": "ONDE",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur https://onde.ofb.fr avant le 31 du mois de l’observation\n\n\n\n\n\nDiffusion\n- Grand public:www.onde.eaufrance.frwww.data.eaufrance.fr- Interne:https://ofb-idf.github.io/PRR_ONDE/\n\n\n\n\n\nEn savoir plus  Plaquette de présentation (serveur DR)  Bulletin de situation hydrologique Dataviz nationale  Guide d’utilisation du site onde.ofb.fr"
+  },
+  {
+    "objectID": "bocage.html",
+    "href": "bocage.html",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "",
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+  },
+  {
+    "objectID": "bocage.html#objectif",
+    "href": "bocage.html#objectif",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Objectif",
+    "text": "Objectif\nRelevés sur le terrain pour caractériser les haies."
+  },
+  {
+    "objectID": "bocage.html#utilisation",
+    "href": "bocage.html#utilisation",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Utilisation",
+    "text": "Utilisation\nSuivi de l’évolution des haies et bocages. Aide pour les documents de planification, politiques agricoles. Cibler les zones pour la mise en place de mesures de restauration. Promouvoir la gestion durable des milieux bocagers."
+  },
+  {
+    "objectID": "bocage.html#localisation",
+    "href": "bocage.html#localisation",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nQuadrats de 1km²"
+  },
+  {
+    "objectID": "bocage.html#temporalité",
+    "href": "bocage.html#temporalité",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Temporalité",
+    "text": "Temporalité"
+  },
+  {
+    "objectID": "bocage.html#rôles",
+    "href": "bocage.html#rôles",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordination\n\nDépartemental\nProspections"
+  },
+  {
+    "objectID": "bocage.html#compétences-et-formations",
+    "href": "bocage.html#compétences-et-formations",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- Connaissance en botanique- Connaissance en ornithologie"
+  },
+  {
+    "objectID": "bocage.html#protocole",
+    "href": "bocage.html#protocole",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\nProtocole national de relevé qualitatif des haies. A l’échelle d’un carré ou quadrat de 1 km².- Localisation des haies, des alignements d’arbres et des différents types d’occupation du sol présents - Description de l’état des fonctionnalités écologiques des haies : épaisseur, présence de bande enherbée, de bois mort, de lianes, micros-habitats, diversité d’essences, état sanitaire des végétaux, etc.\n\n\n\n\n\nMatériel\n- Le fond orthophoto du carré fourni - Un support rigide pour fixer les documents de terrain et un stylo - Les fiches de description des haies du carré à l’échelle de 1km²- Un smartphone pour se repérer si nécessaire et faire de la prise de vue - Télémètre- Guide botanique- Fiche de terrain"
+  },
+  {
+    "objectID": "bocage.html#les-données",
+    "href": "bocage.html#les-données",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\n- relevés de terrain- Transmission des fiches\n\n\n\n\n\nDiffusion\nhttps://www.geoportail.gouv.frhttps://geoservices.ign.fr/bdhaie\n\n\n\n\n\nEn savoir plus Présentation du dispositif Plaquette d’information Atlas des densités de haies"
   },
   {
     "objectID": "hydromorphologie.html",
