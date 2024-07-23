@@ -6,8 +6,8 @@ website:
   navbar:
     left:
       - index.qmd
-      - productions.qmd
       - calendrier.qmd
+      - productions.qmd
       - ressources.qmd
     logo: logo.png
   favicon: favicon.png
