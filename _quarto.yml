@@ -8,6 +8,7 @@ website:
       - index.qmd
       - productions.qmd
       - calendrier.qmd
+      - ressources.qmd
     logo: logo.png
   favicon: favicon.png
 
