@@ -1,5 +1,5 @@
 ---
-title: "Nos missions"
+title: "Missions"
 ---
 
 *Texte d'introduction*
