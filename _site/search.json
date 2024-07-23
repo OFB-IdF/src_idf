@@ -2,21 +2,21 @@
   {
     "objectID": "productions.html",
     "href": "productions.html",
-    "title": "Nos productions",
+    "title": "Productions",
     "section": "",
     "text": "Etude du chat forestier en Île-de-France\n\n\n\n\n\nSuivis hydrobiologiques en Île-de-France\nSuivi des étiages (ONDE) en Île-de-France\nFaune protégée d’Île-de-France"
   },
   {
     "objectID": "productions.html#productions-régionales",
     "href": "productions.html#productions-régionales",
-    "title": "Nos productions",
+    "title": "Productions",
     "section": "",
     "text": "Etude du chat forestier en Île-de-France\n\n\n\n\n\nSuivis hydrobiologiques en Île-de-France\nSuivi des étiages (ONDE) en Île-de-France\nFaune protégée d’Île-de-France"
   },
   {
     "objectID": "productions.html#contributions-à-des-productions-nationales",
     "href": "productions.html#contributions-à-des-productions-nationales",
-    "title": "Nos productions",
+    "title": "Productions",
     "section": "Contributions à des productions nationales",
     "text": "Contributions à des productions nationales\n\nVisualisation des données de pêche à l’électricité issues de Aspe"
   },
@@ -25,7 +25,7 @@
     "href": "loup.html",
     "title": "Réseau Loup/lynx",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-23"
   },
   {
     "objectID": "loup.html#objectif",
@@ -88,7 +88,7 @@
     "href": "chat.html",
     "title": "Suivi du chat forestier",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-23"
   },
   {
     "objectID": "chat.html#objectif",
@@ -147,11 +147,74 @@
     "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur l’application Rezo-PMCC (pour les observations annexes: saisie sur Rezo-PMCC ou Oison en fonction des espèces)Transmission des prélèvements à la DRAS pour analyses génétiquesValidation des observations sur photo sur la base du phénotype\n\n\n\n\n\nDiffusion\nSINP national (https://openobs.mnhn.fr) ou régional (https://geonature.arb-idf.fr/geonature/)\n\n\n\n\n\nEn savoir plus Fiche Espèce Plaquette de présentation de l’étude Vidéo en collaboration avec le MNHN Site Alfresco de l’étude Protocole"
   },
   {
+    "objectID": "becasse.html",
+    "href": "becasse.html",
+    "title": "Réseau Bécasse",
+    "section": "",
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-23"
+  },
+  {
+    "objectID": "becasse.html#objectif",
+    "href": "becasse.html#objectif",
+    "title": "Réseau Bécasse",
+    "section": "Objectif",
+    "text": "Objectif\nBaguageEcoute des mâles chanteurs (qui croulent)Suivi de l’habitat"
+  },
+  {
+    "objectID": "becasse.html#utilisation",
+    "href": "becasse.html#utilisation",
+    "title": "Réseau Bécasse",
+    "section": "Utilisation",
+    "text": "Utilisation\nConnaître la répartition, l’abondance et la démographie des espèces. Suivi de l’évolution de la population. Valorisation dans des articles scientifiques, rapports. Etudes sur l’adaptation d’espèces au changements climatiques ."
+  },
+  {
+    "objectID": "becasse.html#localisation",
+    "href": "becasse.html#localisation",
+    "title": "Réseau Bécasse",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\n- Croule: 600 mailles tirées aléatoirement chaque année sur toute la France. Le point d’écoute est défini comme l’ouverture d’au minimum 1 ha la plus proche du centroïde du carré.- Baguage: Zone définie par le bagueur."
+  },
+  {
+    "objectID": "becasse.html#temporalité",
+    "href": "becasse.html#temporalité",
+    "title": "Réseau Bécasse",
+    "section": "Temporalité",
+    "text": "Temporalité\nBaguage:3 soirées avant le 10 décembre4 soirées entre le 10 décembre et le 20 février2 soirées après le 20 février"
+  },
+  {
+    "objectID": "becasse.html#rôles",
+    "href": "becasse.html#rôles",
+    "title": "Réseau Bécasse",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationBase de donnéesFormation\n\nRégional\nCoordination\n\nDépartemental\nBaguageEcouteSaisie"
+  },
+  {
+    "objectID": "becasse.html#compétences-et-formations",
+    "href": "becasse.html#compétences-et-formations",
+    "title": "Réseau Bécasse",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarte de bagueur (formation spécifique et plus de 10 soirées de baguage encadrées)Reconnaissance chants"
+  },
+  {
+    "objectID": "becasse.html#protocole",
+    "href": "becasse.html#protocole",
+    "title": "Réseau Bécasse",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\n- Croule: recherche et écoute de mâles chanteurs. L’observateur doit être en place 30min avant le coucher du soleil et rester pendant deux heures- Baguage: Les suivis se déroulent la nuit. Les bagueurs doivent réaliser au moins 9 soirées par saison. Ne pas éblouir les individus en vol ! Attention à la sécurité des bagueurs !- Suivi de l’habitat des populations hivernantes: Les observations doivent se faire dans la mesure du possible dans des conditions météorologiques favorables: ni pluie, ni vent, ni orage\n\n\n\n\n\nMatériel\n- Croule:∙ montre, jumelles, torche∙ carnet∙ fiche terrain- Baguage:∙ épuisette∙ matériel de baguage"
+  },
+  {
+    "objectID": "becasse.html#les-données",
+    "href": "becasse.html#les-données",
+    "title": "Réseau Bécasse",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\n- Remplissage des fiches de terrain- Croule: transmission de la fiche de terrain et des données au plus tard le 15 juillet- Données de baguage saisies sur: https://becasse.ofb.fr\n\n\n\n\n\nDiffusion\n- Articles de recherche- Lettres d’informations- Bilan annuel- Cartes de densité\n\n\n\n\n\nEn savoir plus Présentation de la Bécasse des bois Site du Club national des Bécassiers\n Fiche observation croule (serveur DR)  Protocole de suivi Hivernage (capture et baguage)"
+  },
+  {
     "objectID": "onepf.html",
     "href": "onepf.html",
     "title": "Observatoire National de l’écosystème prairie de fauche",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-23"
   },
   {
     "objectID": "onepf.html#objectif",
@@ -228,7 +291,7 @@
     "href": "castor.html",
     "title": "Suivi du castor d’Europe",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-23"
   },
   {
     "objectID": "castor.html#objectif",
@@ -291,7 +354,7 @@
     "href": "obstacles_ecoulement.html",
     "title": "Obstacles à l’Ecoulement",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-23"
   },
   {
     "objectID": "obstacles_ecoulement.html#objectif",
@@ -354,7 +417,7 @@
     "href": "onde.html",
     "title": "ONDE",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-23"
   },
   {
     "objectID": "onde.html#objectif",
@@ -417,7 +480,7 @@
     "href": "bocage.html",
     "title": "Dispositif national de suivi des bocages",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-23"
   },
   {
     "objectID": "bocage.html#objectif",
@@ -480,7 +543,7 @@
     "href": "hydromorphologie.html",
     "title": "Caractérisation hydromorphologique des cours d’eau",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-23"
   },
   {
     "objectID": "hydromorphologie.html#objectif",
@@ -539,74 +602,25 @@
     "text": "Les données\n\n\n\nSaisie\n- Relevés des données sur le terrain- Saisie des données dans l’application web Carhyce (https://carhyce.eaufrance.fr/)Tous les 6 mois, les données migrent vers la plateforme IED (Interface d’Exploitation des Données), où elles sont traitées et mises en forme, permettant leur visualisation sous forme de graphiques.\n\n\n\n\n\nDiffusion\nNaïades:https://naiades.eaufrance.fr/acces-donnees#/hydromorphologieInterface d’Exploitation des Données Carhyce:https://analytics.huma-num.fr/ied_carhyce/\n\n\n\n\n\nEn savoir plus Plaquette de présentation Vidéo de présentation\nProtocole Fiches Méthodologiques (serveur DR)"
   },
   {
-    "objectID": "becasse.html",
-    "href": "becasse.html",
-    "title": "Réseau Bécasse",
+    "objectID": "ressources.html",
+    "href": "ressources.html",
+    "title": "Ressources",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+    "text": "Tableau des experts"
   },
   {
-    "objectID": "becasse.html#objectif",
-    "href": "becasse.html#objectif",
-    "title": "Réseau Bécasse",
-    "section": "Objectif",
-    "text": "Objectif\nBaguageEcoute des mâles chanteurs (qui croulent)Suivi de l’habitat"
-  },
-  {
-    "objectID": "becasse.html#utilisation",
-    "href": "becasse.html#utilisation",
-    "title": "Réseau Bécasse",
-    "section": "Utilisation",
-    "text": "Utilisation\nConnaître la répartition, l’abondance et la démographie des espèces. Suivi de l’évolution de la population. Valorisation dans des articles scientifiques, rapports. Etudes sur l’adaptation d’espèces au changements climatiques ."
-  },
-  {
-    "objectID": "becasse.html#localisation",
-    "href": "becasse.html#localisation",
-    "title": "Réseau Bécasse",
-    "section": "Localisation",
-    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\n- Croule: 600 mailles tirées aléatoirement chaque année sur toute la France. Le point d’écoute est défini comme l’ouverture d’au minimum 1 ha la plus proche du centroïde du carré.- Baguage: Zone définie par le bagueur."
-  },
-  {
-    "objectID": "becasse.html#temporalité",
-    "href": "becasse.html#temporalité",
-    "title": "Réseau Bécasse",
-    "section": "Temporalité",
-    "text": "Temporalité\nBaguage:3 soirées avant le 10 décembre4 soirées entre le 10 décembre et le 20 février2 soirées après le 20 février"
-  },
-  {
-    "objectID": "becasse.html#rôles",
-    "href": "becasse.html#rôles",
-    "title": "Réseau Bécasse",
-    "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimationBase de donnéesFormation\n\nRégional\nCoordination\n\nDépartemental\nBaguageEcouteSaisie"
-  },
-  {
-    "objectID": "becasse.html#compétences-et-formations",
-    "href": "becasse.html#compétences-et-formations",
-    "title": "Réseau Bécasse",
-    "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarte de bagueur (formation spécifique et plus de 10 soirées de baguage encadrées)Reconnaissance chants"
-  },
-  {
-    "objectID": "becasse.html#protocole",
-    "href": "becasse.html#protocole",
-    "title": "Réseau Bécasse",
-    "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\n- Croule: recherche et écoute de mâles chanteurs. L’observateur doit être en place 30min avant le coucher du soleil et rester pendant deux heures- Baguage: Les suivis se déroulent la nuit. Les bagueurs doivent réaliser au moins 9 soirées par saison. Ne pas éblouir les individus en vol ! Attention à la sécurité des bagueurs !- Suivi de l’habitat des populations hivernantes: Les observations doivent se faire dans la mesure du possible dans des conditions météorologiques favorables: ni pluie, ni vent, ni orage\n\n\n\n\n\nMatériel\n- Croule:∙ montre, jumelles, torche∙ carnet∙ fiche terrain- Baguage:∙ épuisette∙ matériel de baguage"
-  },
-  {
-    "objectID": "becasse.html#les-données",
-    "href": "becasse.html#les-données",
-    "title": "Réseau Bécasse",
-    "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\n- Remplissage des fiches de terrain- Croule: transmission de la fiche de terrain et des données au plus tard le 15 juillet- Données de baguage saisies sur: https://becasse.ofb.fr\n\n\n\n\n\nDiffusion\n- Articles de recherche- Lettres d’informations- Bilan annuel- Cartes de densité\n\n\n\n\n\nEn savoir plus Présentation de la Bécasse des bois Site du Club national des Bécassiers\n Fiche observation croule (serveur DR)  Protocole de suivi Hivernage (capture et baguage)"
+    "objectID": "ressources.html#liste-des-experts-naturalistes-de-patrinat",
+    "href": "ressources.html#liste-des-experts-naturalistes-de-patrinat",
+    "title": "Ressources",
+    "section": "",
+    "text": "Tableau des experts"
   },
   {
     "objectID": "pmc.html",
     "href": "pmc.html",
     "title": "Réseau Petits et méso-carnivores",
     "section": "",
-    "text": "Télécharger la fiche \nFiche éditée le 2024-07-19"
+    "text": "Télécharger la fiche \nFiche éditée le 2024-07-23"
   },
   {
     "objectID": "pmc.html#objectif",
@@ -667,35 +681,35 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Nos missions",
+    "title": "Missions",
     "section": "",
     "text": "Texte d’introduction"
   },
   {
     "objectID": "index.html#mammifères",
     "href": "index.html#mammifères",
-    "title": "Nos missions",
+    "title": "Missions",
     "section": "Mammifères",
     "text": "Mammifères\n\nChat forestier\nCastor\nOngulés sauvages\nLoup"
   },
   {
     "objectID": "index.html#avifaune",
     "href": "index.html#avifaune",
-    "title": "Nos missions",
+    "title": "Missions",
     "section": "Avifaune",
     "text": "Avifaune\n\nBécasse\nSTOC/SHOC\nPrairies de fauche"
   },
   {
     "objectID": "index.html#hydrobiologie",
     "href": "index.html#hydrobiologie",
-    "title": "Nos missions",
+    "title": "Missions",
     "section": "Hydrobiologie",
     "text": "Hydrobiologie\n\nPoissons\nMacroinvertébrés\nDiatomées\nMacrophytes"
   },
   {
     "objectID": "index.html#autres-espèces",
     "href": "index.html#autres-espèces",
-    "title": "Nos missions",
+    "title": "Missions",
     "section": "Autres espèces",
     "text": "Autres espèces\n\nEcrevisses\nBivalves\nAmphibiens\nPetits et moyens carnivores\nSurveillance moléculaire de la biodiversité terrestre"
   }
