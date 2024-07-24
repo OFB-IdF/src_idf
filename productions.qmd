@@ -14,9 +14,16 @@ title: "Productions"
 
 -   [Etude du chat forestier en Île-de-France](https://oai-gem.ofb.fr/exl-php/document-affiche/ofb_recherche_oai/OUVRE_DOC/49974?fic=doc00073302.pdf){target="'_blank'"}
 
-### Vidéos
+### Conférences et vidéos
 
--   [Un félin sauvage en Île-de-France ? Le retour du chat forestier (MNHN-OFB)](https://www.youtube.com/watch?v=UopppCJfUHA){target="_blank"}
+-   [Un félin sauvage en Île-de-France ? Le retour du chat forestier (MNHN-OFB, 2024)](https://www.youtube.com/watch?v=UopppCJfUHA){target="_blank"}
+-   [Sur les traces du chat forestier en Île-de-France](https://www.youtube.com/watch?v=0P0JTVxUEBA&t=7670s){target="_blank"} (Rencontres naturalistes ARB, 2022)
+-   [Castor, les dents de la rivière](https://www.facebook.com/Montauger/videos/castor-les-dents-de-la-rivière/2857221884547378/){target="_blank"} (conférence Domaine de Montauger, ENS 91, 2021)
+
+## Contributions à des productions régionales
+
+-   [Liste rouge régionale des poissons d'Île-de-France](https://www.arb-idf.fr/fileadmin/DataStorageKit/ARB/Articles/fichiers/Rencontres_naturalistes_2023/02_Presentation_resultats_LRR_Poissons.pdf){target="_blank"} (ARB, à venir)
+-   [Restaurer les continuités écologiques en Île-de-France](https://www.institutparisregion.fr/nos-travaux/publications/restaurer-les-continuites-ecologiques-en-ile-de-france/){target="_blank"} (IPR, 2021)
 
 ## Contributions à des productions nationales
 
