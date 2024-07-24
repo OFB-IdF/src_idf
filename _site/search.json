@@ -308,67 +308,67 @@
     "text": "Les données\n\n\n\nSaisie\n- relevés de terrain- Transmission des fiches\n\n\n\n\n\nDiffusion\nhttps://www.geoportail.gouv.frhttps://geoservices.ign.fr/bdhaie\n\n\n\n\n\nEn savoir plus Présentation du dispositif Plaquette d’information Atlas des densités de haies"
   },
   {
-    "objectID": "onde.html",
-    "href": "onde.html",
-    "title": "ONDE",
+    "objectID": "castor.html",
+    "href": "castor.html",
+    "title": "Suivi du castor d’Europe",
     "section": "",
     "text": "Télécharger la fiche \nFiche éditée le 2024-07-24"
   },
   {
-    "objectID": "onde.html#objectif",
-    "href": "onde.html#objectif",
-    "title": "ONDE",
+    "objectID": "castor.html#objectif",
+    "href": "castor.html#objectif",
+    "title": "Suivi du castor d’Europe",
     "section": "Objectif",
-    "text": "Objectif\nApprécier et suivre l’évolution des conditions d’écoulement d’un ensemble de cours d’eau"
+    "text": "Objectif\nLes objectifs du réseau ont été fixés par le ministère en charge de l’écologie :- assurer le suivi de la colonisation du castor sur le réseau hydrographique français ;- accompagnement sur la question des dommages;- vigilance sur l’arrivée du castor canadien"
   },
   {
-    "objectID": "onde.html#utilisation",
-    "href": "onde.html#utilisation",
-    "title": "ONDE",
+    "objectID": "castor.html#utilisation",
+    "href": "castor.html#utilisation",
+    "title": "Suivi du castor d’Europe",
     "section": "Utilisation",
-    "text": "Utilisation\nContribution aux Bulletins de Situation Hydrologique (BSH): donnée complémentaire pour caractériser la situation hydrologique d’un territoire."
+    "text": "Utilisation\nRaportage Directive européenne Habitat Faune FloreRégulation des dispositifs de piègeage près des cours d’eau"
   },
   {
-    "objectID": "onde.html#localisation",
-    "href": "onde.html#localisation",
-    "title": "ONDE",
+    "objectID": "castor.html#localisation",
+    "href": "castor.html#localisation",
+    "title": "Suivi du castor d’Europe",
     "section": "Localisation",
-    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\n60 stations fixes représentatives des situations hydrologiques des petits cours d’eau (rangs de Strahler 1 à 4) de chaque département"
+    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nProspection de linéaires de cours d’eau à la recherche d’indices de présence"
   },
   {
-    "objectID": "onde.html#temporalité",
-    "href": "onde.html#temporalité",
-    "title": "ONDE",
+    "objectID": "castor.html#temporalité",
+    "href": "castor.html#temporalité",
+    "title": "Suivi du castor d’Europe",
     "section": "Temporalité",
-    "text": "Temporalité\n- Suivi usuel: 1 fois par mois, le 25 (+/- 2 jours)- Suivi complémentaire: potentiellement toute l’année, en fonction des conditions hydrologiques"
+    "text": "Temporalité\nProspections préférentiellement hivernales avant la reprise de la végétation"
   },
   {
-    "objectID": "onde.html#rôles",
-    "href": "onde.html#rôles",
-    "title": "ONDE",
+    "objectID": "castor.html#rôles",
+    "href": "castor.html#rôles",
+    "title": "Suivi du castor d’Europe",
     "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nPilotage\n\nRégional\nCoordinationTransmission\n\nDépartemental\nObservationSaisie"
+    "text": "Rôles\n\n\nNational\nAnimationBase de donnéesFormation\n\nRégional\nCoordinationRemontée des données au national\n\nDépartemental\nProspections(Constats de dommage)"
   },
   {
-    "objectID": "onde.html#compétences-et-formations",
-    "href": "onde.html#compétences-et-formations",
-    "title": "ONDE",
+    "objectID": "castor.html#compétences-et-formations",
+    "href": "castor.html#compétences-et-formations",
+    "title": "Suivi du castor d’Europe",
     "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- Information sur le protocole terrain et présentation de l’application de saisie- Droit de saisie à la demande"
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation Petit et Méso-Carnivores et Castor(Formation dommage)"
   },
   {
-    "objectID": "onde.html#protocole",
-    "href": "onde.html#protocole",
-    "title": "ONDE",
+    "objectID": "castor.html#protocole",
+    "href": "castor.html#protocole",
+    "title": "Suivi du castor d’Europe",
     "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\nObservation visuelle selon les modalités suivantes:∙ Ecoulement visible (acceptable ou faible)∙ Ecoulement non visible∙ Assec⚠️ L’appréciation peut varier selon les observateurs.\n\n\n\n\n\nMatériel\nFiche terrain"
+    "text": "Protocole\n\n\n\nPrincipe\nRecherche d’indices de présence (bois coupé, écorçage, hutte…) en prospection sur l’eau et à pied en berge\n\n\n\n\n\nMatériel\n- embarquation (ex. kayak)- gilet de sauvetage- jumelles- appareil photo- GPS"
   },
   {
-    "objectID": "onde.html#les-données",
-    "href": "onde.html#les-données",
-    "title": "ONDE",
+    "objectID": "castor.html#les-données",
+    "href": "castor.html#les-données",
+    "title": "Suivi du castor d’Europe",
     "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur https://onde.ofb.fr avant le 31 du mois de l’observation\n\n\n\n\n\nDiffusion\n- Grand public:www.onde.eaufrance.frwww.data.eaufrance.fr- Interne:https://ofb-idf.github.io/PRR_ONDE/\n\n\n\n\n\nEn savoir plus  Plaquette de présentation (serveur DR)  Bulletin de situation hydrologique Dataviz nationale  Guide d’utilisation du site onde.ofb.fr"
+    "text": "Les données\n\n\n\nSaisie\nRemplissage des fiches terrainsBancarisation régionaleTransmission au national qui effectue une validation et consolidation nationale des données\n\n\n\n\n\nDiffusion\nhttps://carmen.carmencarto.fr/38/Castor.map\n\n\n\n\n\nEn savoir plus Le réseau castor Fiche espèce\n Site Alfresco du Réseau Castor IdF  Protocole Arrêtés piégeage (Serveur DR)"
   },
   {
     "objectID": "obstacles_ecoulement.html",
@@ -434,81 +434,67 @@
     "text": "Les données\n\n\n\nSaisie\nSaisie sur GéObs (https://geobs.eaufrance.fr/)Validation obligatoire par un agent de l’OFB disposant du profil validation\n\n\n\n\n\nDiffusion\nSandre:http://www.sandre.eaufrance.fr\n\n\n\n\n\nEn savoir plus La continuité écologique des cours d’eau Dataviz nationale\nBilans (serveur DR) La méthode ICE"
   },
   {
-    "objectID": "castor.html",
-    "href": "castor.html",
-    "title": "Suivi du castor d’Europe",
+    "objectID": "onde.html",
+    "href": "onde.html",
+    "title": "ONDE",
     "section": "",
     "text": "Télécharger la fiche \nFiche éditée le 2024-07-24"
   },
   {
-    "objectID": "castor.html#objectif",
-    "href": "castor.html#objectif",
-    "title": "Suivi du castor d’Europe",
+    "objectID": "onde.html#objectif",
+    "href": "onde.html#objectif",
+    "title": "ONDE",
     "section": "Objectif",
-    "text": "Objectif\nLes objectifs du réseau ont été fixés par le ministère en charge de l’écologie :- assurer le suivi de la colonisation du castor sur le réseau hydrographique français ;- accompagnement sur la question des dommages;- vigilance sur l’arrivée du castor canadien"
+    "text": "Objectif\nApprécier et suivre l’évolution des conditions d’écoulement d’un ensemble de cours d’eau"
   },
   {
-    "objectID": "castor.html#utilisation",
-    "href": "castor.html#utilisation",
-    "title": "Suivi du castor d’Europe",
+    "objectID": "onde.html#utilisation",
+    "href": "onde.html#utilisation",
+    "title": "ONDE",
     "section": "Utilisation",
-    "text": "Utilisation\nRaportage Directive européenne Habitat Faune FloreRégulation des dispositifs de piègeage près des cours d’eau"
+    "text": "Utilisation\nContribution aux Bulletins de Situation Hydrologique (BSH): donnée complémentaire pour caractériser la situation hydrologique d’un territoire."
   },
   {
-    "objectID": "castor.html#localisation",
-    "href": "castor.html#localisation",
-    "title": "Suivi du castor d’Europe",
+    "objectID": "onde.html#localisation",
+    "href": "onde.html#localisation",
+    "title": "ONDE",
     "section": "Localisation",
-    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nProspection de linéaires de cours d’eau à la recherche d’indices de présence"
+    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\n60 stations fixes représentatives des situations hydrologiques des petits cours d’eau (rangs de Strahler 1 à 4) de chaque département"
   },
   {
-    "objectID": "castor.html#temporalité",
-    "href": "castor.html#temporalité",
-    "title": "Suivi du castor d’Europe",
+    "objectID": "onde.html#temporalité",
+    "href": "onde.html#temporalité",
+    "title": "ONDE",
     "section": "Temporalité",
-    "text": "Temporalité\nProspections préférentiellement hivernales avant la reprise de la végétation"
+    "text": "Temporalité\n- Suivi usuel: 1 fois par mois, le 25 (+/- 2 jours)- Suivi complémentaire: potentiellement toute l’année, en fonction des conditions hydrologiques"
   },
   {
-    "objectID": "castor.html#rôles",
-    "href": "castor.html#rôles",
-    "title": "Suivi du castor d’Europe",
+    "objectID": "onde.html#rôles",
+    "href": "onde.html#rôles",
+    "title": "ONDE",
     "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimationBase de donnéesFormation\n\nRégional\nCoordinationRemontée des données au national\n\nDépartemental\nProspections(Constats de dommage)"
+    "text": "Rôles\n\n\nNational\nPilotage\n\nRégional\nCoordinationTransmission\n\nDépartemental\nObservationSaisie"
   },
   {
-    "objectID": "castor.html#compétences-et-formations",
-    "href": "castor.html#compétences-et-formations",
-    "title": "Suivi du castor d’Europe",
+    "objectID": "onde.html#compétences-et-formations",
+    "href": "onde.html#compétences-et-formations",
+    "title": "ONDE",
     "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation Petit et Méso-Carnivores et Castor(Formation dommage)"
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- Information sur le protocole terrain et présentation de l’application de saisie- Droit de saisie à la demande"
   },
   {
-    "objectID": "castor.html#protocole",
-    "href": "castor.html#protocole",
-    "title": "Suivi du castor d’Europe",
+    "objectID": "onde.html#protocole",
+    "href": "onde.html#protocole",
+    "title": "ONDE",
     "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\nRecherche d’indices de présence (bois coupé, écorçage, hutte…) en prospection sur l’eau et à pied en berge\n\n\n\n\n\nMatériel\n- embarquation (ex. kayak)- gilet de sauvetage- jumelles- appareil photo- GPS"
+    "text": "Protocole\n\n\n\nPrincipe\nObservation visuelle selon les modalités suivantes:∙ Ecoulement visible (acceptable ou faible)∙ Ecoulement non visible∙ Assec⚠️ L’appréciation peut varier selon les observateurs.\n\n\n\n\n\nMatériel\nFiche terrain"
   },
   {
-    "objectID": "castor.html#les-données",
-    "href": "castor.html#les-données",
-    "title": "Suivi du castor d’Europe",
+    "objectID": "onde.html#les-données",
+    "href": "onde.html#les-données",
+    "title": "ONDE",
     "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nRemplissage des fiches terrainsBancarisation régionaleTransmission au national qui effectue une validation et consolidation nationale des données\n\n\n\n\n\nDiffusion\nhttps://carmen.carmencarto.fr/38/Castor.map\n\n\n\n\n\nEn savoir plus Le réseau castor Fiche espèce\n Site Alfresco du Réseau Castor IdF  Protocole Arrêtés piégeage (Serveur DR)"
-  },
-  {
-    "objectID": "about.html#livrets",
-    "href": "about.html#livrets",
-    "title": "Les services territoriaux",
-    "section": "Livrets",
-    "text": "Livrets\n\nEtude du chat forestier en Île-de-France"
-  },
-  {
-    "objectID": "about.html#tableaux-de-bord",
-    "href": "about.html#tableaux-de-bord",
-    "title": "Les services territoriaux",
-    "section": "Tableaux de bord",
-    "text": "Tableaux de bord\n\nVisualisation des données de pêche à l’électricité issues de Aspe\nSuivi des étiages (ONDE) en Île-de-France"
+    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur https://onde.ofb.fr avant le 31 du mois de l’observation\n\n\n\n\n\nDiffusion\n- Grand public:www.onde.eaufrance.frwww.data.eaufrance.fr- Interne:https://ofb-idf.github.io/PRR_ONDE/\n\n\n\n\n\nEn savoir plus  Plaquette de présentation (serveur DR)  Bulletin de situation hydrologique Dataviz nationale  Guide d’utilisation du site onde.ofb.fr"
   },
   {
     "objectID": "onepf.html",
