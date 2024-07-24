@@ -110,11 +110,17 @@ Prospection<br>Saisie des données
 ## Ressources nécessaires
 
 :::::::::::::: {.columns}
-::: {.column width="50%"}
-<img src="www/history.png" height="50">  
+::: {.column width="10%"}
+<img src="www/history.png" height="50">
 :::
-::: {.column width="50%"}
-<img src="www/standing-up-man.png" height="50">  1
+::: {.column width="40%"}
+  
+:::
+::: {.column width="10%"}
+<img src="www/standing-up-man.png" height="50">
+:::
+::: {.column width="40%"}
+  1
 :::
 ::::::::::::::
 
