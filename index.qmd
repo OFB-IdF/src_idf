@@ -2,8 +2,6 @@
 title: "Missions"
 ---
 
-*Texte d'introduction*
-
 # Conservation des espèces et habitats
 
 ## Mammifères

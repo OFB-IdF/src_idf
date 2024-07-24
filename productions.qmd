@@ -4,15 +4,19 @@ title: "Productions"
 
 ## Productions régionales
 
-### Livrets
-
--   [Etude du chat forestier en Île-de-France](https://oai-gem.ofb.fr/exl-php/document-affiche/ofb_recherche_oai/OUVRE_DOC/49974?fic=doc00073302.pdf){target="'_blank'"}
-
 ### Tableaux de bord
 
 -   [Suivis hydrobiologiques en Île-de-France](https://ofbidf.shinyapps.io/HydrobioIdF/){target="'_blank'"}
 -   [Suivi des étiages (ONDE) en Île-de-France](https://ofb-idf.github.io/PRR_ONDE/){target="'_blank'"}
 -   [Faune protégée d'Île-de-France](https://ofbidf.shinyapps.io/EspecesProtegeesIDF/){target="'_blank'"}
+
+### Livrets
+
+-   [Etude du chat forestier en Île-de-France](https://oai-gem.ofb.fr/exl-php/document-affiche/ofb_recherche_oai/OUVRE_DOC/49974?fic=doc00073302.pdf){target="'_blank'"}
+
+### Vidéos
+
+-   [Un félin sauvage en Île-de-France ? Le retour du chat forestier (MNHN-OFB)](https://www.youtube.com/watch?v=UopppCJfUHA){target="_blank"}
 
 ## Contributions à des productions nationales
 
