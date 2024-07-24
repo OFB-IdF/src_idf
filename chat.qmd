@@ -158,6 +158,8 @@ Signalement de collision:<br>- kit de prélèvement PMCC (gants, tube Eppendorf,
 :::
 ::::::::::::::
 
+
+
 ## Les données
 
 :::::::::::::: {.columns}
