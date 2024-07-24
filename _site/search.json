@@ -70,6 +70,13 @@
     "text": "Rôles\n\n\nNational\nBase de donnéesSynthèseHarmonisation des protocoles\n\nRégional\nCentralisationFormationAnalyse de signalement\n\nDépartemental\nConstatsSuiviPrélèvements"
   },
   {
+    "objectID": "loup.html#ressources-nécessaires",
+    "href": "loup.html#ressources-nécessaires",
+    "title": "Réseau Loup/lynx",
+    "section": "Ressources nécessaires",
+    "text": "Ressources nécessaires\n\n\n variable\n\n 1"
+  },
+  {
     "objectID": "loup.html#compétences-et-formations",
     "href": "loup.html#compétences-et-formations",
     "title": "Réseau Loup/lynx",
@@ -131,6 +138,13 @@
     "title": "Suivi du chat forestier",
     "section": "Rôles",
     "text": "Rôles\n\n\nNational\nAnimationValidation des observationsAnalyses génétiquesBase de données\n\nRégional\nCoordinationValorisation\n\nDépartemental\nProspectionsRecueil de signalementSaisie des données"
+  },
+  {
+    "objectID": "chat.html#ressources-nécessaires",
+    "href": "chat.html#ressources-nécessaires",
+    "title": "Suivi du chat forestier",
+    "section": "Ressources nécessaires",
+    "text": "Ressources nécessaires\n\n\n 1/2 journée\n\n 1"
   },
   {
     "objectID": "chat.html#compétences-et-formations",
@@ -224,6 +238,13 @@
     "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordination\n\nDépartemental\nRelevés de terrain"
   },
   {
+    "objectID": "hydromorphologie.html#ressources-nécessaires",
+    "href": "hydromorphologie.html#ressources-nécessaires",
+    "title": "Caractérisation hydromorphologique des cours d’eau",
+    "section": "Ressources nécessaires",
+    "text": "Ressources nécessaires\n\n\n 1/2 journée\n\n 5"
+  },
+  {
     "objectID": "hydromorphologie.html#compétences-et-formations",
     "href": "hydromorphologie.html#compétences-et-formations",
     "title": "Caractérisation hydromorphologique des cours d’eau",
@@ -285,6 +306,13 @@
     "title": "Dispositif national de suivi des bocages",
     "section": "Rôles",
     "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordination\n\nDépartemental\nProspections"
+  },
+  {
+    "objectID": "bocage.html#ressources-nécessaires",
+    "href": "bocage.html#ressources-nécessaires",
+    "title": "Dispositif national de suivi des bocages",
+    "section": "Ressources nécessaires",
+    "text": "Ressources nécessaires\n\n\n Variable\n\n 1"
   },
   {
     "objectID": "bocage.html#compétences-et-formations",
@@ -350,6 +378,13 @@
     "text": "Rôles\n\n\nNational\nAnimationBase de donnéesFormation\n\nRégional\nCoordinationRemontée des données au national\n\nDépartemental\nProspections(Constats de dommage)"
   },
   {
+    "objectID": "castor.html#ressources-nécessaires",
+    "href": "castor.html#ressources-nécessaires",
+    "title": "Suivi du castor d’Europe",
+    "section": "Ressources nécessaires",
+    "text": "Ressources nécessaires\n\n\n 1/2 journée\n\n 1-2"
+  },
+  {
     "objectID": "castor.html#compétences-et-formations",
     "href": "castor.html#compétences-et-formations",
     "title": "Suivi du castor d’Europe",
@@ -411,6 +446,13 @@
     "title": "Obstacles à l’Ecoulement",
     "section": "Rôles",
     "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nCoordinationInterprétationFormation\n\nDépartemental\nAnimation localeSaisieValidation"
+  },
+  {
+    "objectID": "obstacles_ecoulement.html#ressources-nécessaires",
+    "href": "obstacles_ecoulement.html#ressources-nécessaires",
+    "title": "Obstacles à l’Ecoulement",
+    "section": "Ressources nécessaires",
+    "text": "Ressources nécessaires\n\n\n variable\n\n 1"
   },
   {
     "objectID": "obstacles_ecoulement.html#compétences-et-formations",
@@ -476,6 +518,13 @@
     "text": "Rôles\n\n\nNational\nPilotage\n\nRégional\nCoordinationTransmission\n\nDépartemental\nObservationSaisie"
   },
   {
+    "objectID": "onde.html#ressources-nécessaires",
+    "href": "onde.html#ressources-nécessaires",
+    "title": "ONDE",
+    "section": "Ressources nécessaires",
+    "text": "Ressources nécessaires\n\n\n &lt; 5 minutes\n\n 1"
+  },
+  {
     "objectID": "onde.html#compétences-et-formations",
     "href": "onde.html#compétences-et-formations",
     "title": "ONDE",
@@ -537,6 +586,13 @@
     "title": "Observatoire National de l’écosystème prairie de fauche",
     "section": "Rôles",
     "text": "Rôles\n\n\nNational\nAnimation\n\nRégional\nCoordination\n\nDépartemental\nProspectionSaisie des données"
+  },
+  {
+    "objectID": "onepf.html#ressources-nécessaires",
+    "href": "onepf.html#ressources-nécessaires",
+    "title": "Observatoire National de l’écosystème prairie de fauche",
+    "section": "Ressources nécessaires",
+    "text": "Ressources nécessaires\n\n\n\n\n 1"
   },
   {
     "objectID": "onepf.html#compétences-et-formations",
@@ -602,6 +658,13 @@
     "text": "Rôles\n\n\nNational\nAnimationBase de donnéesFormation\n\nRégional\nCoordination\n\nDépartemental\nBaguageEcouteSaisie"
   },
   {
+    "objectID": "becasse.html#ressources-nécessaires",
+    "href": "becasse.html#ressources-nécessaires",
+    "title": "Réseau Bécasse",
+    "section": "Ressources nécessaires",
+    "text": "Ressources nécessaires\n\n\n Croule: 2hBaguage: Variable\n\n 2-3"
+  },
+  {
     "objectID": "becasse.html#compétences-et-formations",
     "href": "becasse.html#compétences-et-formations",
     "title": "Réseau Bécasse",
@@ -663,6 +726,13 @@
     "title": "Réseau Petits et méso-carnivores",
     "section": "Rôles",
     "text": "Rôles\n\n\nNational\nAnimationBase de données\n\nRégional\nAnimationFormation\n\nDépartemental\nObservationsRecueil de signalementSaisie des données"
+  },
+  {
+    "objectID": "pmc.html#ressources-nécessaires",
+    "href": "pmc.html#ressources-nécessaires",
+    "title": "Réseau Petits et méso-carnivores",
+    "section": "Ressources nécessaires",
+    "text": "Ressources nécessaires\n\n\n Variable\n\n 1"
   },
   {
     "objectID": "pmc.html#compétences-et-formations",

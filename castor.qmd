@@ -116,13 +116,25 @@ Prospections<br>(Constats de dommage)
 :::
 ::::::::::::::
 
+## Ressources nécessaires
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+<img src="www/history.png" height="50">  1/2 journée
+:::
+::: {.column width="50%"}
+<img src="www/standing-up-man.png" height="50">  1-2
+:::
+::::::::::::::
+
+
 ## Compétences et formations
 
 :::::::::::::: {.columns}
 ::: {.column width="35%"}
 
 ```{r, echo=FALSE, fig.width=3, fig.height=1}
-FichesSRC::creer_graphe_expertise('Maitrise', '1-2')
+FichesSRC::creer_graphe_expertise('Maitrise')
 ```
 
 

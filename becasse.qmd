@@ -106,13 +106,25 @@ Baguage<br>Ecoute<br>Saisie
 :::
 ::::::::::::::
 
+## Ressources nécessaires
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+<img src="www/history.png" height="50">  Croule: 2h<br>Baguage: Variable
+:::
+::: {.column width="50%"}
+<img src="www/standing-up-man.png" height="50">  2-3
+:::
+::::::::::::::
+
+
 ## Compétences et formations
 
 :::::::::::::: {.columns}
 ::: {.column width="35%"}
 
 ```{r, echo=FALSE, fig.width=3, fig.height=1}
-FichesSRC::creer_graphe_expertise('Maitrise', '2-3')
+FichesSRC::creer_graphe_expertise('Maitrise')
 ```
 
 

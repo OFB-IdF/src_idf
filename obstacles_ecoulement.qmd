@@ -106,13 +106,25 @@ Animation locale<br>Saisie<br>Validation
 :::
 ::::::::::::::
 
+## Ressources nécessaires
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+<img src="www/history.png" height="50">  variable
+:::
+::: {.column width="50%"}
+<img src="www/standing-up-man.png" height="50">  1
+:::
+::::::::::::::
+
+
 ## Compétences et formations
 
 :::::::::::::: {.columns}
 ::: {.column width="35%"}
 
 ```{r, echo=FALSE, fig.width=3, fig.height=1}
-FichesSRC::creer_graphe_expertise('Formé', '1')
+FichesSRC::creer_graphe_expertise('Formé')
 ```
 
 
