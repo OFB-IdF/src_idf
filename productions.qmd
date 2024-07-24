@@ -14,6 +14,10 @@ title: "Productions"
 -   [Suivi des étiages (ONDE) en Île-de-France](https://ofb-idf.github.io/PRR_ONDE/){target="'_blank'"}
 -   [Faune protégée d'Île-de-France](https://ofbidf.shinyapps.io/EspecesProtegeesIDF/){target="'_blank'"}
 
+### Vidéos
+
+-   [Un félin sauvage en Île-de-France ? Le retour du chat forestier (MNHN-OFB)](https://www.youtube.com/watch?v=UopppCJfUHA){target="_blank"}
+
 ## Contributions à des productions nationales
 
 -   [Visualisation des données de pêche à l'électricité issues de Aspe](https://ofbidf.shinyapps.io/AspeDashboard/){target="'_blank'"}
