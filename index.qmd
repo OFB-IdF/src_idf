@@ -10,6 +10,8 @@ title: "Missions"
 
 -   [Castor](castor.html)
 
+-   [Petits et moyens carnivores](pmc.html)
+
 -   [Ongulés sauvages](ongules.html)
 
 -   [Loup](loup.html)
@@ -40,8 +42,6 @@ title: "Missions"
 
 -   [Amphibiens](amphibiens.html)
 
--   [Petits et moyens carnivores](pmc.html)
-
 -   [Surveillance moléculaire de la biodiversité terrestre](adne.html)
 
 # Préservation - Restauration du fonctionnement des écosystèmes
@@ -59,4 +59,5 @@ title: "Missions"
 # Connaissance et gestion des risques
 
 -   [Sagir](sagir.html)
+
 -   [Espèces exotiques envahissantes](eee.html)
