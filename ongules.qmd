@@ -1,0 +1,190 @@
+---
+title: "Réseau Ongulés sauvages"
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+---
+
+:::::::::::::: {.columns}
+::: {.column width="70%"}
+<a href="ongules.xlsx" class="btn btn-primary" download>
+  <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
+</a>
+
+<small>Fiche éditée le 2024-12-09</small>
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+
+
+:::
+::::::::::::::
+
+
+:::::::::::::: {.columns}
+::: {.column width="65%"}
+# Description
+
+Le réseau a pour but de récolter les informations utiles pour suivre les 14 espèces d'ongulés sauvages présentes en France hexagonale
+
+
+## Objectif
+
+L’ensemble des données récoltées permet de mesurer de façon régulière des variables biologiques d’intérêt, telles que les aires de présence, les tendances d’évolution ou l’état de santé des populations d’ongulés sauvages en France métropolitaine. En parallèle, d’autres données connexes, telles les prélèvements cynégétiques ou les modalités de gestion des populations, sont régulièrement enregistrées.
+
+## Utilisation
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="30%"}
+# Animation
+<small>
+<b>Animation nationale</b>: XXXX<br><br><b>Animation régionale</b>: Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>PPC:<br>77:<br>78-95:<br>91<br><br><b>Courriel du réseau</b>: <a href='mailto:reseau.ongules-sauvages@ofb.gouv.fr'>reseau.ongules-sauvages@ofb.gouv.fr</a>
+
+<b>Partenaires</b>
+
+Fédérations de chasse
+</small>
+:::
+::::::::::::::
+
+# Le suivi
+
+## Localisation
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+```{r, echo=FALSE}
+FichesSRC::creer_carte(
+  departements = '75,77,78,91,92,93,94,95',
+  region = '11',
+  stations = NA,
+  web = TRUE
+  )
+```
+
+:::
+:::{.column width="3%"}
+:::
+:::{.column width="30%"}
+### Type de suivi
+
+:::
+::::::::::::::
+## Temporalité
+
+
+
+```{r, fig.height=2, fig.width=9, echo=FALSE}
+FichesSRC::creer_calendrier('1,2,3,4,5,6,7,8,9,10,11,12', web = TRUE)
+```
+
+
+# Logistique
+
+## Rôles
+:::::::::::::: {.columns}
+::: {.column width="33%"}
+<b>National</b>
+
+
+:::
+::: {.column width="33%"}
+<b>Régional</b>
+
+
+:::
+::: {.column width="33%"}
+<b>Départemental</b>
+
+
+:::
+::::::::::::::
+
+## Ressources nécessaires
+
+:::::::::::::: {.columns}
+::: {.column width="10%"}
+<img src="www/history.png" height="50">
+:::
+::: {.column width="40%"}
+  
+:::
+::: {.column width="10%"}
+<img src="www/standing-up-man.png" height="50">
+:::
+::: {.column width="40%"}
+  
+:::
+::::::::::::::
+
+
+## Compétences et formations
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
+
+```{r, echo=FALSE, fig.width=3, fig.height=1}
+FichesSRC::creer_graphe_expertise('NA')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="60%"}
+
+:::
+::::::::::::::
+
+
+## Protocole
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Principe
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Matériel
+
+
+:::
+::::::::::::::
+
+
+
+## Les données
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Saisie
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Diffusion
+
+<br>- Articles de recherche<br>- Lettres d'informations<br>- Bilan annuel<br>- Cartes de densité
+:::
+::::::::::::::
+
+<hr>
+
+<div class="card">
+  <b>En savoir plus</b><br>
+  <a href="https://professionnels.ofb.fr/fr/doc-dataviz/dataviz-presence-ongules-sauvages-en-France">Dataviz: Présence des ongulés sauvages en France</a><br>
+  <a href="https://professionnels.ofb.fr/fr/node/869">Fiches de synthèse des suivis</a><br>
+  <a href="https://carmen.carmencarto.fr/38/Ongules_sauvages.map#"> Cartes de répartition</a><br>
+  <a href="https://professionnels.ofb.fr/fr/node/1281">Lettre d'information</a><br>
+  <a href="https://professionnels.ofb.fr/node/1431"> Page du réseau sur le portail technique</a><br>
+  
+</div>
