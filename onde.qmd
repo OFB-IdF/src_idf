@@ -11,7 +11,7 @@ include-in-header:
   <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
 </a>
 
-<small>Fiche éditée le 2024-07-24</small>
+<small>Fiche éditée le 2024-12-09</small>
 
 :::
 ::: {.column width="5%"}
@@ -43,7 +43,7 @@ Contribution aux Bulletins de Situation Hydrologique (BSH): donnée complémenta
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Animation nationale</b>:<br>Céline NOWAK<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>PPC: Bérengère MONVOISIN<br>77: Cyrille BOST<br>78-95: Louis COQUELLE<br>91: Alice PACAUD
+<b>Animation nationale</b>:<br>Céline NOWAK<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>PPC: <br>77: Cyrille BOST<br>78-95: Paul RIVAUD<br>91: Alice PACAUD
 
 <b>Partenaires</b>
 

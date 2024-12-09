@@ -11,7 +11,7 @@ include-in-header:
   <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
 </a>
 
-<small>Fiche éditée le 2024-07-24</small>
+<small>Fiche éditée le 2024-12-09</small>
 
 :::
 ::: {.column width="5%"}
@@ -32,7 +32,7 @@ Le ROE permet d’avoir une information spatialisée sur les obstacles à l’é
 
 ## Objectif
 
-Collecter des informations objectives sur le nombre, la localisation et les caractéristiques des obstacles à l'écoulement sur les cours d'eau
+Collecter et animer la collecte d'informations objectives sur le nombre, la localisation et les caractéristiques des obstacles à l'écoulement sur les cours d'eau
 
 ## Utilisation
 
@@ -43,11 +43,11 @@ Elaboration d’un référentiel national et un socle commun d’information. Es
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Animation nationale</b>: <br>Karl KREUTZENBERGER<br><br><b>Animation régionale</b>:<br>Cédric MONDY<br><br><b>Correspondants départementaux</b>:<br>PPC: Bérengère MONVOISIN<br>77: Cyrille BOST<br>78-95: Angélique EGLOFF<br>91: Olivier MELART<br><br><b>Assistance</b>:<br><a href='mailto:assistance.geobs@ofb.gouv.fr'>assistance.geobs@ofb.gouv.fr</a>
+<b>Animation nationale</b>: <br>Karl KREUTZENBERGER<br><br><b>Animation régionale</b>:<br>Cédric MONDY<br><br><b>Correspondants départementaux</b>:<br>PPC: <br>77: Cyrille BOST<br>78-95: Angélique EGLOFF<br>91: Sébastien LANGUILLE<br><br><b>Assistance</b>:<br><a href='mailto:assistance.geobs@ofb.gouv.fr'>assistance.geobs@ofb.gouv.fr</a>
 
 <b>Partenaires</b>
 
-Agence de l'eau<br>DRIEAT<br>Syndicats de rivière<br>Fédérations de pêche
+Agence de l'eau<br>DRIEAT<br>Syndicats de rivière<br>Fédérations de pêche<br>Collectivités
 </small>
 :::
 ::::::::::::::

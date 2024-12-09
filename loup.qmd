@@ -11,7 +11,7 @@ include-in-header:
   <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
 </a>
 
-<small>Fiche éditée le 2024-07-24</small>
+<small>Fiche éditée le 2024-12-09</small>
 
 :::
 ::: {.column width="5%"}
@@ -43,7 +43,7 @@ Les données sont valorisées dans les flash infos loup, dans les bilans saisonn
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Animation nationale</b>:<br>Nicolas JEAN<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>PPC: Sylvain BERANGER<br>77: Corinne REVEL<br>78-95: Estelle DEBOST<br>91: Philippe TURQUIN<br><br><b>Courriel du réseau</b>:<br><a href='mailto:reseau.loup-lynx@ofb.gouv.fr'>reseau.loup-lynx@ofb.gouv.fr</a>
+<b>Animation nationale</b>:<br>Nicolas JEAN<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>PPC: <br>77: Corinne REVEL<br>       Julien CURE<br>78-95: Estelle DEBOST<br>91: Philippe TURQUIN<br><br><b>Courriel du réseau</b>:<br><a href='mailto:reseau.loup-lynx@ofb.gouv.fr'>reseau.loup-lynx@ofb.gouv.fr</a>
 
 <b>Partenaires</b>
 
