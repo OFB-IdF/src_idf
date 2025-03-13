@@ -17,6 +17,14 @@ FichesSRC::creer_toutes_fiches(
     region = 11
     )
 
+metadata <- openxlsx2::read_xlsx("data-raw/metadata.xlsx") |>
+    dplyr::filter(publiable == "oui")
+
+brew::brew(
+    file = "data-raw/index_template.qmd",
+    output = "index.qmd"
+)
+
 quarto::quarto_render(as_job = FALSE)
 
 FichesSRC::ajuster_html(dossier = "_site")

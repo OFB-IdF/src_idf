@@ -1,0 +1,37 @@
+---
+title: "Missions"
+---
+
+<%
+    completer_suivis <- function(suivis, groupe) {
+    if (nrow(dplyr::filter(metadata, suivi %in% suivis)) > 0) 
+        cat(paste0(groupe, "\n\n"))
+    input <- ""
+    for(suivi_x in suivis) {
+            if (suivi_x  %in% metadata$suivi) {
+                input <- paste0(
+                    input, 
+                    "-   [",
+                    dplyr::filter(metadata, suivi == suivi_x) |>
+                        dplyr::pull(intitule),
+                    "](", suivi_x, ".html)\n\n"
+                    )
+            }
+        }
+    cat(input)
+}
+%>
+
+# Conservation des espèces et habitats
+
+<% completer_suivis(c("chat", "castor", "pmc", "ongules", "loup"), groupe = "## Mammifères") %>
+
+<% completer_suivis(c("becasse", "stoc", "onepf"), groupe = "## Avifaune") %>
+
+<% completer_suivis(c("poissons", "macroinvertebres", "diatomees", "macrophytes"), groupe = "## Hydrobiologie") %>
+
+<% completer_suivis(c("ecrevisses", "bivalves", "amphibiens", "adne"), groupe = "## Autres espèces") %>
+
+<% completer_suivis(c("onde", "thermie", "obstacles_ecoulement", "hydromorphologie", "bocage"), groupe = "# Préservation - Restauration du fonctionnement des écosystèmes") %>
+
+<% completer_suivis(c("sagir", "eee"), groupe = "# Connaissance et gestion des risques") %>
