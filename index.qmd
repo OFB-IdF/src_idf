@@ -14,17 +14,13 @@ title: "Missions"
 
 -   [Réseau Petits et méso-carnivores](pmc.html)
 
--   [Réseau Ongulés sauvages](ongules.html)
-
--   [Réseau Loup/lynx](loup.html)
+-   [Réseau Loup/Lynx (loup)](loup.html)
 
 
 
 ## Avifaune
 
 -   [Réseau Bécasse](becasse.html)
-
--   [Observatoire National de l’écosystème prairie de fauche](onepf.html)
 
 
 
@@ -34,13 +30,13 @@ title: "Missions"
 
 # Préservation - Restauration du fonctionnement des écosystèmes
 
--   [ONDE](onde.html)
+-   [Observatoire national des étiages (ONDE)](onde.html)
 
--   [Obstacles à l'Ecoulement](obstacles_ecoulement.html)
+-   [Obstacles à l'Ecoulement (ROE/BDOE)](obstacles_ecoulement.html)
 
--   [Caractérisation hydromorphologique des cours d’eau](hydromorphologie.html)
+-   [Caractérisation hydromorphologique des cours d’eau (CarHyCE)](hydromorphologie.html)
 
--   [Dispositif national de suivi des bocages](bocage.html)
+-   [Dispositif national de suivi des bocages (DNSB)](bocage.html)
 
 
 

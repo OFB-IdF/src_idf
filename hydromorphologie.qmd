@@ -1,5 +1,5 @@
 ---
-title: "Caractérisation hydromorphologique des cours d’eau"
+title: "Caractérisation hydromorphologique des cours d’eau (CarHyCE)"
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -11,7 +11,7 @@ include-in-header:
   <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
 </a>
 
-<small>Fiche éditée le 2025-03-13</small>
+<small>Fiche éditée le 2025-03-14</small>
 
 :::
 ::: {.column width="5%"}

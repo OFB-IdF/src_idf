@@ -1,5 +1,5 @@
 ---
-title: "ONDE"
+title: "Observatoire national des étiages (ONDE)"
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -11,7 +11,7 @@ include-in-header:
   <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
 </a>
 
-<small>Fiche éditée le 2025-03-13</small>
+<small>Fiche éditée le 2025-03-14</small>
 
 :::
 ::: {.column width="5%"}
@@ -27,27 +27,27 @@ include-in-header:
 ::: {.column width="65%"}
 # Description
 
-Caractériser les étiages estivaux par l'observation visuelle du niveau d'écoulement d'un réseau de petits cours d'eau. 
+L'Observatoire national des étiages (ONDE), mis en place en 2012, est un dispositif permettant de surveiller et de comprendre l'assèchement des cours d'eau, en complément des suivis existants (i.e. stations hydrométriques). L’acquisition de données relatives à l’écoulement des cours d’eau permet d’apprécier une situation hydrologique à un moment donné, mais également d’analyser l’évolution des phénomènes hydrologiques dans le temps. Les observations réalisées sont ainsi utiles aux pouvoirs publics pour la régulation des usages de l'eau et la gestion de cette ressource en période de sécheresse, afin notamment de limiter les impacts sur la faune et la flore aquatiques. Onde caractérise les étiages estivaux par l'observation visuelle du niveau d'écoulement de certains petits cours d'eau.
 
 
 ## Objectif
 
-Apprécier et suivre l'évolution des conditions d'écoulement d'un ensemble de cours d'eau
+Apprécier et suivre l'évolution des conditions d'écoulement.<br>Aider à l'anticipation et à la gestion des situations de crise.
 
 ## Utilisation
 
-Contribution aux Bulletins de Situation Hydrologique (BSH): donnée complémentaire pour caractériser la situation hydrologique d’un territoire.
+Point de situation sur les secteurs en étiage lors des comités ressource en eau (CRE).<br>Les seuils de déclenchement des mesures de restriction en eau peuvent s'appuyer sur ces observations.<br>Contribution aux Bulletins de Situation Hydrologique (BSH): donnée complémentaire pour caractériser la situation hydrologique d’un territoire.
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Animation nationale</b>:<br>Céline NOWAK<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>PPC: <br>77: Cyrille BOST<br>78-95: Paul RIVAUD<br>91: Alice PACAUD
+<b>Animation nationale</b>:<br>Céline NOWAK<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>PPC: Arnaud LOIZE<br>77: Cyrille BOST<br>78-95: Paul RIVAUD<br>91: Alice PACAUD<br><br><b>Assistance</b>:<br><a href='mailto:assistance.onde@ofb.gouv.fr'>assistance.onde@ofb.gouv.fr</a>
 
 <b>Partenaires</b>
 
-Conseils départementaux<br>DREAL
+DRIEAT/DDT
 </small>
 :::
 ::::::::::::::
@@ -83,11 +83,11 @@ FichesSRC::creer_tableau_stations(
 :::
 :::{.column width="30%"}
 ### Type de suivi
-60 stations fixes représentatives des situations hydrologiques des petits cours d'eau (rangs de Strahler 1 à 4) de chaque département
+Stations fixes représentatives des situations hydrologiques des petits cours d'eau (rangs de Strahler 1 à 4) d'un département ; 60 stations en Ile-de-France
 :::
 ::::::::::::::
 ## Temporalité
-<br>- Suivi usuel: 1 fois par mois, le 25 (+/- 2 jours)<br><br>- Suivi complémentaire: potentiellement toute l'année, en fonction des conditions hydrologiques
+Suivi usuel: 1 fois par mois, le 25 (+/- 2 jours)<br><br>Suivi complémentaire: en fonction des conditions hydrologiques et/ou à la demande de la DDT
 
 
 ```{r, fig.height=2, fig.width=9, echo=FALSE}
@@ -103,17 +103,17 @@ Suivi complémentaire: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12', web = TRUE)
 ::: {.column width="33%"}
 <b>National</b>
 
-Pilotage
+Animation & Communication<br>Fourniture d'éléments techniques sur la sécheresse<br>Gestion des données
 :::
 ::: {.column width="33%"}
 <b>Régional</b>
 
-Coordination<br>Transmission
+Coordination<br>Synthèse des données<br>Contribution au BSH
 :::
 ::: {.column width="33%"}
 <b>Départemental</b>
 
-Observation<br>Saisie
+Observation<br>Saisie des données<br>Diffusion et présentation des données en CRE<br>Intégration de ONDE dans les ACS
 :::
 ::::::::::::::
 
@@ -124,7 +124,7 @@ Observation<br>Saisie
 <img src="www/history.png" height="50">
 :::
 ::: {.column width="40%"}
-  < 5 minutes
+  < 5mn / station
 :::
 ::: {.column width="10%"}
 <img src="www/standing-up-man.png" height="50">
@@ -149,7 +149,7 @@ FichesSRC::creer_graphe_expertise('Initié')
 ::: {.column width="5%"}
 :::
 ::: {.column width="60%"}
-<br>- Information sur le protocole terrain et présentation de l'application de saisie<br>- Droit de saisie à la demande
+Information sur le protocole terrain<br>Droit de saisie à la demande
 :::
 ::::::::::::::
 
@@ -166,7 +166,7 @@ Observation visuelle selon les modalités suivantes:<br>∙ Ecoulement visible (
 ::: {.column width="35%"}
 ### Matériel
 
-Fiche terrain
+Catalogue des stations (si disponible)
 :::
 ::::::::::::::
 
@@ -179,14 +179,14 @@ ROE
 ::: {.column width="60%"}
 ### Saisie
 
-Saisie des observations sur <a href='https://onde.ofb.fr'>https://onde.ofb.fr</a> avant le 31 du mois de l'observation
+Saisie des observations sur <a href='https://onde.ofb.fr'>https://onde.ofb.fr</a> avant la fin du mois de l'observation
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="35%"}
 ### Diffusion
 
-<br>- Grand public:<br><a href='http://www.onde.eaufrance.fr'>www.onde.eaufrance.fr</a><br><a href='http://www.data.eaufrance.fr'>www.data.eaufrance.fr</a><br><br>- Interne:<br><a href='https://ofb-idf.github.io/PRR_ONDE/'>https://ofb-idf.github.io/PRR_ONDE/</a>
+Grand public: <a href='http://www.onde.eaufrance.fr'>www.onde.eaufrance.fr</a><br><a href='https://hubeau.eaufrance.fr/page/api-ecoulement'>https://hubeau.eaufrance.fr/page/api-ecoulement</a><br><a href='https://data.ofb.fr/catalogue/data-eaufrance/fre/catalog.search#/metadata/1006fb89-6dfe-4063-b601-0c510ad31077'>https://data.ofb.fr/catalogue/data-eaufrance/fre/catalog.search#/metadata/1006fb89-6dfe-4063-b601-0c510ad31077</a><br><br>Interne (NE PAS DIFFUSER): <a href='https://ofb-idf.github.io/PRR_ONDE/'>https://ofb-idf.github.io/PRR_ONDE/</a>
 :::
 ::::::::::::::
 
@@ -195,9 +195,9 @@ Saisie des observations sur <a href='https://onde.ofb.fr'>https://onde.ofb.fr</a
 <div class="card">
   <b>En savoir plus</b><br>
   <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\ONDE\01_Documentation\ONDE_fiche technique.pdf"> Plaquette de présentation (serveur DR)</a><br>
-  <a href="https://www.eaufrance.fr/publications/bsh"> Bulletin de situation hydrologique</a><br>
+  <a href="https://www.ofb.gouv.fr/la-gestion-de-la-secheresse-en-8-questions-reponses">La gestion de la sécheresse en 8 questions – réponses</a><br>
   <a href="https://professionnels.ofb.fr/fr/doc-dataviz/dataviz-lassechement-estival-cours-deau-metropole-2012-2022">Dataviz nationale</a><br>
-  <a href="https://onde.ofb.fr/onde/accueil.action"> Guide d'utilisation du site onde.ofb.fr</a><br>
-  
-  
+  <a href="https://intranet.ofb.fr/gestion-quantitative-de-leau-et-des-secheresses">Gestion quantitative de l'eau et des sécheresses</a><br>
+  <a href="https://intranet.ofb.fr/sites/default/files/Ressources/Th%C3%A9matiques/s%C3%A9cheresse/Fiches%20techniques_manquedeau_faune%20aquatique.pdf">Fiches de synthèse de l'impact du manque d'eau sur la biodiversité</a><br>
+  <a href="https://www.drieat.ile-de-france.developpement-durable.gouv.fr/bulletin-de-suivi-hydrologique-d-ile-de-france-r4864.html"> Bulletin de suivi hydrologique d'Ile-de-France</a><br>
 </div>

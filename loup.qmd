@@ -1,5 +1,5 @@
 ---
-title: "Réseau Loup/lynx"
+title: "Réseau Loup/Lynx (loup)"
 include-in-header:
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -11,7 +11,7 @@ include-in-header:
   <i class="fas fa-file-arrow-down"></i> Télécharger la fiche
 </a>
 
-<small>Fiche éditée le 2025-03-13</small>
+<small>Fiche éditée le 2025-03-14</small>
 
 :::
 ::: {.column width="5%"}
@@ -27,23 +27,23 @@ include-in-header:
 ::: {.column width="65%"}
 # Description
 
-Espèce protégée depuis 1979 par la convention de Berne et recolonisant petit à petit le pays, le loup gris est encore très peu présent  en Ile-de-France. Le réseau Loup est déployé au niveau « Sentinelle » depuis 2017, et différentes procédures peuvent être mise en place en cas de signalement ou de détection d’un individu.
+Espèce protégée (convention de Berne), recolonisant progressivement la France, le loup gris (Canis lupus) est encore très peu observé en Ile-de-France. Comme pour tous les territoires en front de colonisation, le réseau Loup est déployé au niveau « Sentinelle » depuis 2017, et différentes procédures peuvent alors être mises en place en cas de signalement ou de détection d’un grand canidé.
 
 
 ## Objectif
 
-Veille, constats de dommages, observations opportunistes et prospections.
+Veille<br>Observations opportunistes et recueil d'indices<br>Constats de dommages
 
 ## Utilisation
 
-Les données sont valorisées dans les flash infos loup, dans les bilans saisonniers et annuels. Cela permet d’avoir une connaissance sur la population de loups et son aire de répartition et d’accompagner les acteurs et victimes éventuelles.
+Les données contribuent à la mise en oeuvre du PNA Loup notamment pour l'estimation annuelle de l'effectif de loups en France. Elles sont également valorisées dans les flash infos loup, les bilans saisonniers ou annuels et contribuent à de nombreux travaux scientifiques. Tout cela permet de mieux connaître la population de loups (aire de répartition, démographie) et de suivre son évolution afin d’accompagner les acteurs et d'aider à la mise en place de mesures de protection.
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Animation nationale</b>:<br>Nicolas JEAN<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>PPC: <br>77: Corinne REVEL<br>       Julien CURE<br>78-95: Estelle DEBOST<br>91: Philippe TURQUIN<br><br><b>Courriel du réseau</b>:<br><a href='mailto:reseau.loup-lynx@ofb.gouv.fr'>reseau.loup-lynx@ofb.gouv.fr</a>
+<b>Animation nationale</b>:<br>Nicolas JEAN<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>PPC: Arnaud LOIZE<br>77: Corinne REVEL<br>       Julien CURE<br>78-95: Estelle DEBOST<br>91: Philippe TURQUIN<br><br><b>Courriel du réseau</b>:<br><a href='mailto:reseau.loup-lynx@ofb.gouv.fr'>reseau.loup-lynx@ofb.gouv.fr</a>
 
 <b>Partenaires</b>
 
@@ -91,17 +91,17 @@ FichesSRC::creer_calendrier('1,2,3,4,5,6,7,8,9,10,11,12', web = TRUE)
 ::: {.column width="33%"}
 <b>National</b>
 
-Base de données<br>Synthèse<br>Harmonisation des protocoles
+Rapportage PNA<br>Animation & Communication<br>Méthodologie<br>Production bilans<br>Gestion des données
 :::
 ::: {.column width="33%"}
 <b>Régional</b>
 
-Centralisation<br>Formation<br>Analyse de signalement
+Centralisation et analyse des signalements<br>Saisie des données<br>Formation
 :::
 ::: {.column width="33%"}
 <b>Départemental</b>
 
-Constats<br>Suivi<br>Prélèvements
+Recueil d'indices<br>Constat de dommages<br>Cellule de veille
 :::
 ::::::::::::::
 
@@ -137,7 +137,7 @@ FichesSRC::creer_graphe_expertise('Maitrise')
 ::: {.column width="5%"}
 :::
 ::: {.column width="60%"}
-<br>- Formation constat de dommage (1,5 jours)<br>- Formation correspondant de réseau ( 3 jours)
+Formation correspondant de réseau ( 3 jours)<br>Formation constat de dommage (1,5 jours)
 :::
 ::::::::::::::
 
@@ -147,14 +147,14 @@ FichesSRC::creer_graphe_expertise('Maitrise')
 ::: {.column width="60%"}
 ### Principe
 
-9 fiches de signalement, dites « fiches indices » sont disponibles. Chaque fiche est liée à un type d’évènement signalé (observation visuelle, photo, empreintes et piste, excrément/poils, hurlement, cadavre de proie sauvage, cadavre de proie domestique, urine/sang, cadavre)<br>Si prélèvement de matériel biologique, stockage dans un congélateur spécifique. Eviter la congélation/décongélation de l’ADN. Délai de 48h maximum après l’évènement pour des analyses de cadavres.<br>
+9 « fiches indices » liées chacune à un type d’évènement (observation visuelle, photo, empreintes/piste, excrément/poils, hurlement, cadavre de proie sauvage, cadavre de proie domestique, urine/sang, cadavre) sont disponibles et doivent être renseignées par le correspondant après entretien avec l'observateur.<br>La localisation précise (coordonnées géographiques) de l'observation est systématiquement relevée.<br>Stockage des prélèvements de matériel biologique dans un congélateur spécifique. Eviter la congélation/décongélation pour les analyses ADN. Délai de 48h max pour analyse de cadavre.
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="35%"}
 ### Matériel
 
-Selon la situation, plusieurs choses peuvent être nécessaires  (voir matériel détaillé pour chaque cas): <br>Fiche adaptée<br>Appareil photo et GPS<br><br>Si présence d’un cadavre: <br>Gants, scalpel, sac de récupération d’indice, feutre indélébile<br>Housse mortuaire<br>Masque, gel hydroalcoolique<br><br>Prendre systématiquement le kit matériel complet et l’ensemble des fiches du réseau pour tout signalement.
+Pour chaque signalement, prendre le kit matériel adapté selon la situation (cf. matériel détaillé pour chaque cas dans le guide réflexe).<br><br>De manière systématique prévoir:<br>fiche adaptée, GPS, appareil photo.<br><br>Pour le prélèvement de matériel biologique prévoir: <br>sac de récupération d’indice, feutre indélébile, gants, scalpel, masque, gel hydroalcoolique.
 :::
 ::::::::::::::
 
@@ -167,14 +167,14 @@ SAGIR
 ::: {.column width="60%"}
 ### Saisie
 
-<br>- Réception du témoignage et prise de contact.<br><br>- Compléter la ou les fiches indices adéquates et fournir une carte de localisation (1/25000ème), si possible des coordonnées GPS en Lambert 93 et tout élément pertinent (photo, vidéo, échantillons).<br><br>- Transmettre cela à l’animateur régional du réseau et au service Connaissance de la Direction Régionale.<br><br>- Analyse et classement de l’évènement, transmission des résultats à la DDT.
+Le correspondant départemental complète la ou les fiches indices adéquates à partir du témoignage de l'observateur et fournit une carte de localisation, avec si possible des coordonnées GPS et tout élément pertinent (photo/vidéo, échantillons).<br><br>Transmettre les éléments à l’animateur régional du réseau pour expertise.<br><br>Classement de l’évènement après analyse, et transmission du résultat à la DDT par le correspondant départemental.
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="35%"}
 ### Diffusion
 
-<a href='https://www.loupfrance.fr'>https://www.loupfrance.fr</a>
+<a href='https://www.loupfrance.fr/carte-des-indices-de-presence-transmis-au-reseau-loup-lynx/'>https://www.loupfrance.fr/carte-des-indices-de-presence-transmis-au-reseau-loup-lynx/</a>
 :::
 ::::::::::::::
 
@@ -182,10 +182,10 @@ SAGIR
 
 <div class="card">
   <b>En savoir plus</b><br>
-  <a href="https://agriculture.gouv.fr/plan-loup-un-nouveau-cadre-national-dactions-pour-renforcer-la-coexistence-du-loup-et-des-activites"> Plan loup</a><br>
+  <a href="https://www.loupfrance.fr">Site d'information</a><br>
+  <a href="https://agriculture.gouv.fr/plan-loup-un-nouveau-cadre-national-dactions-pour-renforcer-la-coexistence-du-loup-et-des-activites">Plan loup</a><br>
   
-  
-  <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Loup\Guide réflexe réseau Loup Lynx_DRIDF_v2.3.pdf">Guide réflexe (serveur DR)</a><br>
-  <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Loup\01_Documentation\KIT_Nouveaux_Territoires.pdf"> Kit nouveaux territoires (serveur DR)</a><br>
-  <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Loup">Fiches de signalement</a><br>
+  <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Loup\Guide réflexe réseau Loup Lynx_DRIDF_v2.4.pdf">Guide réflexe (serveur DR)</a><br>
+  <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Loup\01_Documentation\KIT_Nouveaux_Territoires.pdf">Kit nouveaux territoires (serveur DR)</a><br>
+  <a href="\\ad.intra\dfs\COMMUNS\REGIONS\IDF\DR\05_CONNAISSANCE\Loup">Fiches indice (serveur DR)</a><br>
 </div>
