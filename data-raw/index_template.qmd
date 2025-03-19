@@ -1,26 +1,29 @@
 ---
 title: "Missions"
+header-includes:
+  - <script data-goatcounter="https://ofb-idf.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 ---
 
-<%
-    completer_suivis <- function(suivis, groupe) {
-    if (nrow(dplyr::filter(metadata, suivi %in% suivis)) > 0) 
-        cat(paste0(groupe, "\n\n"))
-    input <- ""
+<% completer_suivis <- function(suivis, groupe) {
+    if (nrow(dplyr::filter(metadata, suivi %in% suivis)) > 0)
+        cat(paste0(groupe, "\n\n")) 
+    input <- "" 
     for(suivi_x in suivis) {
-            if (suivi_x  %in% metadata$suivi) {
-                input <- paste0(
-                    input, 
-                    "-   [",
-                    dplyr::filter(metadata, suivi == suivi_x) |>
-                        dplyr::pull(intitule),
-                    "](", suivi_x, ".html)\n\n"
-                    )
-            }
+        if (suivi_x %in% metadata$suivi) {
+            input <- paste0(
+                input,
+                "- [",
+                dplyr::filter(metadata, suivi == suivi_x) |>
+                    dplyr::pull(intitule),
+                "](", 
+                suivi_x, 
+                ".html)\n\n"
+                )
         }
-    cat(input)
-}
-%>
+    } 
+    cat(input) 
+} %>
 
 # Conservation des espèces et habitats
 
