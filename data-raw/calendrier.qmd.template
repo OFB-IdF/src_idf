@@ -6,12 +6,12 @@ header-includes:
 ---
 
 ```{r, include=FALSE}
-'%>%' <- dplyr::"%>%"
-nombre_suivis <- FichesSRC::charger_informations("data-raw/metadata.xlsx") %>% 
-    dplyr::filter(!is.na(intitule)) %>% 
+nombre_suivis <- FichesSRC::charger_suivis("<%=metadata%>")  |>
+    dplyr::filter(publiable == "oui") |>
     nrow()
+calendrier <- FichesSRC::creer_calendrier_global("<%=metadata%>")
 ```
 
 ```{r, echo=FALSE, fig.height=(nombre_suivis)}
-FichesSRC::creer_calendrier_global("data-raw/metadata.xlsx")
+calendrier
 ```

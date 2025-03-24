@@ -6,16 +6,15 @@ header-includes:
 ---
 
 <% completer_suivis <- function(suivis, groupe) {
-    if (nrow(dplyr::filter(metadata, suivi %in% suivis)) > 0)
+    if (nrow(dplyr::filter(intitules, suivi %in% suivis)) > 0)
         cat(paste0(groupe, "\n\n")) 
     input <- "" 
     for(suivi_x in suivis) {
-        if (suivi_x %in% metadata$suivi) {
+        if (suivi_x %in% intitules$suivi) {
             input <- paste0(
                 input,
                 "- [",
-                dplyr::filter(metadata, suivi == suivi_x) |>
-                    dplyr::pull(intitule),
+                dplyr::filter(intitules, suivi == suivi_x)$intitule,
                 "](", 
                 suivi_x, 
                 ".html)\n\n"

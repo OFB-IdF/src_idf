@@ -1,6 +1,4 @@
-pak::pkg_install("OFB-IdF/FichesSRC")
-
-'%>%' <- dplyr::'%>%'
+# pak::pkg_install("OFB-IdF/FichesSRC")
 
 purrr::walk(
     paste0("www/", c("history.png", "standing-up-man.png")),
@@ -11,17 +9,29 @@ purrr::walk(
     }
 )
 
-metadata <- openxlsx2::read_xlsx("data-raw/metadata.xlsx") |>
-    dplyr::filter(publiable == "oui")
+metadata <- "16U2L1TXC7ZtkEPT2QBquJWDEDXPEvt1PDaQp6SlhF4Q"
+
+intitules <- FichesSRC::charger_suivis(metadata)
+intitules <- intitules |>
+  dplyr::left_join(
+    intitules$suivi |>
+      purrr::map(
+        function(suivi_x) {
+          info_x <- FichesSRC::charger_informations(metadata, suivi_x, 11)
+          tibble::tibble(suivi = info_x$suivi, intitule = info_x$intitule)
+        }
+      ) |>
+      purrr::list_rbind(),
+    by = "suivi"
+  )
 
 FichesSRC::creer_toutes_fiches(
-    fichier_info = "data-raw/metadata.xlsx",
+    metadata,
     dossier_fiches = getwd(),
     region = 11
     )
 
-metadata$suivi |>
-    paste0(".qmd") |>
+paste0(intitules$suivi, ".qmd") |>
     purrr::walk(
         function(fiche) {
             fiche_txt <- readLines(fiche)
@@ -50,10 +60,16 @@ metadata$suivi |>
     )
 
 brew::brew(
-    file = "data-raw/index_template.qmd",
+    file = "data-raw/index.qmd.template",
     output = "index.qmd"
+)
+brew::brew(
+  file = "data-raw/calendrier.qmd.template",
+  output = "calendrier.qmd"
 )
 
 quarto::quarto_render(as_job = FALSE)
 
 FichesSRC::ajuster_html(dossier = "_site")
+
+
