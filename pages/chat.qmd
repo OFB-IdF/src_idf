@@ -1,0 +1,199 @@
+---
+title: "Suivi du Chat forestier"
+include-in-header:
+  - text: |
+  - text: |
+      <script data-goatcounter="https://ofb-idf.goatcounter.com/count"
+      async src="//gc.zgo.at/count.js"></script>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+---
+
+:::::::::::::: {.columns}
+::: {.column width="70%"}
+<small>Fiche éditée le 2025-03-27</small>
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+
+
+:::
+::::::::::::::
+
+
+:::::::::::::: {.columns}
+::: {.column width="65%"}
+# Description
+
+Le chat forestier (Felis sylvestris) fait l'objet d'une protection nationale depuis 1976. La confusion avec le chat domestique est fréquente.<br>Son suivi au niveau national  est réalisé de manière opportuniste dans le cadre du réseau PMCC (e.g. observations, mortalité routière). <br>En Île-de-France, ce suivi opportuniste est complété par une étude dédiée.
+
+
+## Objectif
+
+Suivi de l'évolution de la répartition et précision des limites de l'aire de répartition en Île-de-France.<br>Etude de l'hybridation avec le chat domestique.
+
+## Utilisation
+
+Cartes de répartition.<br>Evaluation du statut de conservation.<br>Prise en compte de l'espèce dans les politiques de conservation et l'évaluation des continuités écologiques territoriales.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="30%"}
+# Animation
+<small>
+<b>Suivi scientifique</b>:<br>Yoann BRESSAN<br>Maëlle TEYSSEIRE<br><br><b>Animation régionale</b>:<br>Cédric MONDY<br><br><b>Correspondants départementaux</b>:<br>77: Anne-Gaëlle BLANC<br>91: Cyril KLEINPRINZ<br>
+
+<b>Partenaires</b>
+
+ONF<br>ARB<br>Conseils départementaux (ENS)<br>Réserve de la Bassée<br>Ile-de-France Nature<br>CPIE Boucles de la Marne
+</small>
+:::
+::::::::::::::
+
+# Le suivi
+
+## Localisation
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+```{r, echo=FALSE}
+FichesSRC::creer_carte(
+  departements = '77, 91',
+  region = '11',
+  stations = NA,
+  web = TRUE
+  )
+```
+
+:::
+:::{.column width="3%"}
+:::
+:::{.column width="30%"}
+### Type de suivi
+Recherche ciblée<br>Secteurs d'étude d'environ 100km²  comprenant des lisières forestières au contact de prairies. <br>Chaque secteur est suivi par un minimum de six dispositifs
+:::
+::::::::::::::
+## Temporalité
+
+
+```{r, fig.height=1, fig.width=6, echo=FALSE}
+FichesSRC::creer_calendrier(
+  data.frame(
+    mois = c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12),
+    mois_lettre = c('J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D'),
+    action = c('NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'),
+    action_realisee = c(TRUE, TRUE, TRUE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, TRUE),
+    semestre = c('premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'second', 'second', 'second', 'second', 'second', 'second')
+  ) |>
+  dplyr::mutate(
+    action = stringr::str_replace(action, pattern = 'NA', replacement = "")
+  ),
+  web = TRUE)
+```
+
+# Logistique
+
+## Rôles
+:::::::::::::: {.columns}
+::: {.column width="33%"}
+<b>National</b>
+
+Animation<br>Validation des observations<br>Analyses génétiques<br>Base de données
+:::
+::: {.column width="33%"}
+<b>Régional</b>
+
+Coordination<br>Valorisation
+:::
+::: {.column width="33%"}
+<b>Départemental</b>
+
+Prospections<br>Recueil de signalement<br>Saisie des données
+:::
+::::::::::::::
+
+## Ressources nécessaires
+
+:::::::::::::: {.columns}
+::: {.column width="10%"}
+<img src="www/history.png" height="50">
+:::
+::: {.column width="40%"}
+  1/2 journée
+:::
+::: {.column width="10%"}
+<img src="www/standing-up-man.png" height="50">
+:::
+::: {.column width="40%"}
+  1.0
+:::
+::::::::::::::
+
+
+## Compétences et formations
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
+
+```{r, echo=FALSE, fig.width=3, fig.height=1}
+FichesSRC::creer_graphe_expertise('maitrise')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="60%"}
+Formation de 3 jours sur les petits et moyens carnivores et l'utilisation de l'outil rezo-pmcc
+:::
+::::::::::::::
+
+
+## Protocole
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Principe
+
+Signalement de collision:<br>- Récupération de tissus et envoi pour analyse<br><br>Suivi pièges photographiques:<br>- Pose de dispositifs (piège photo + piège à poil + attractif à base de valériane)<br>- Relevés des photos et poils éventuels<br>- Stérilisation du piège à poil et recharge en attractif<br>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Matériel
+
+Signalement de collision:<br>- kit de prélèvement PMCC (gants, tube Eppendorf, alcool, ciseaux)<br>- fiche adaptée<br><br>Suivi pièges photographiques:<br>- pièges photographiques<br>- brosses métalliques (pièges à poils)<br>- attractif à base de valériane<br>- gants, pinces à épiler, enveloppes<br>- fiche adaptée
+:::
+::::::::::::::
+
+
+
+## Les données
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Saisie
+
+Saisie des observations sur l'application Rezo-PMCC (pour les observations annexes: saisie sur Rezo-PMCC ou Oison en fonction des espèces)<br><br>Transmission des prélèvements à la DRAS pour analyses génétiques<br><br>Validation des observations sur photo sur la base du phénotype
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Diffusion
+
+<a href='https://openobs.mnhn.fr/' target='_blank'>SINP national</a><br><a href='https://geonature.arb-idf.fr/geonature/#/synthese' target='_blank'>Géonat'IdF (CA: Etude Chat forestier) </a>
+:::
+::::::::::::::
+
+<hr>
+
+<div class="card">
+  <b>En savoir plus</b><br>
+  <a href='https://professionnels.ofb.fr/fr/doc-fiches-especes/chat-forestier-felis-silvestris-silvestris' target='_blank'>Fiche espèce</a><br>
+  <a href='https://oai-gem.ofb.fr/exl-php/document-affiche/ofb_recherche_oai/OUVRE_DOC/49974?fic=doc00073302.pdf' target='_blank'>Livret de présentation de l'étude IdF</a><br>
+  <a href='https://www.youtube.com/watch?v=UopppCJfUHA' target='_blank'>Vidéo MNHN</a><br>
+  <a href='https://ged.ofb.fr/share/page/site/etude-chat-forestier-idf/dashboard' target='_blank'>SiteAlfresco de l'étude IdF</a><br>
+  <a href='https://ged.ofb.fr/share/s/sY4zG36QS1aDJ34fKNlrhw' target='_blank'>Protocole</a><br>
+  <a href='\\SVFCVIN1\DRIDF\05_CONNAISSANCE\PMC\Chat_Forestier
+' target='_blank'>Serveur DR</a><br>
+</div>

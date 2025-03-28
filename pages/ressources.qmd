@@ -1,0 +1,35 @@
+---
+title: "Ressources"
+header-includes:
+  - <script data-goatcounter= https://ofb-idf.goatcounter.com/count 
+        async src="//gc.zgo.at/count.js"></script>
+---
+
+## Ressources OFB
+
+-   [Panorama des ressources internet](www/Repertoire%20ressources%20internet_2020.pdf){target="_blank"}
+-   [Portail applicatif de l'OFB (intranet)](https://intranet.ofb.fr/repertoire-des-applications-et-ressources-pour-la-connaissance){target="_blank"}
+-   [Les cartes de répartition d'espèces (Carmen)](https://professionnels.ofb.fr/fr/node/1089){target="_blank"}
+-   [Les centres de ressources](https://professionnels.ofb.fr/fr/node/137){target="_blank"}
+-   [La toile Eaufrance](https://www.eaufrance.fr/sites/default/files/Infographie_dynamique_EF.pdf){target="_blank"}
+-   [L'Observatoire national de la biodiversité](https://naturefrance.fr){target="_blank"}
+
+### Patrinat
+
+-   [Le site de Patrinat](http://www.patrinat.fr/fr){target="_blank"}
+-   [Tableau des experts naturalistes](www/experts.html){target="_blank"}
+
+## En région
+
+### Les outils régionaux
+
+-   
+
+### Les partenaires régionaux
+
+-   
+
+## Autres ressources
+
+-   [INPN OpenObs](https://openobs.mnhn.fr){target="_blank"}: Portail français d'accès aux données d'observation sur les espèces
+

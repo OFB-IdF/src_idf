@@ -1,0 +1,209 @@
+---
+title: "Suivi du Castor d'Europe"
+include-in-header:
+  - text: |
+  - text: |
+      <script data-goatcounter="https://ofb-idf.goatcounter.com/count"
+      async src="//gc.zgo.at/count.js"></script>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+---
+
+:::::::::::::: {.columns}
+::: {.column width="70%"}
+<small>Fiche éditée le 2025-03-27</small>
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+<img src="logo_castor.jpg" style="max-width:100%; max-height:150px; ">
+
+:::
+::::::::::::::
+
+
+:::::::::::::: {.columns}
+::: {.column width="65%"}
+# Description
+
+L'OFB est chargé de suivre l'évolution de la répartition du Castor d'Europe (Castor fiber), espèce protégée en France depuis 1968, en s'appuyant sur un réseau de correspondant, s'ouvrant progressivement aux partenaires.<br>L'Île-de-France est située en limite d'aire de répartition, la présence de l'espèce étant confirmée sur la rivière Essonne.				<br>					<br>					<br>					<br>
+
+
+## Objectif
+
+<br>- Suivre l’évolution spatio-temporelle du Castor européen<br>- Étudier la structure génétique de la population de Castor européen<br>- Former des agents constatant les dégâts<br>- Réaliser des expertises techniques pour les administrations 
+
+## Utilisation
+
+<br>- Rapportage de la Directive européenne Habitat Faune Flore<br>- Régulation du piégeage près des cours d'eau colonisés<br>- Apport de connaissances (enquêtes) sur les caractéristiques de l'espèce et de ses aménagements, notamment pour la gestion des conflits
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="30%"}
+# Animation
+<small>
+<b>Animation nationale</b>:<br>Paul HUREL<br><br><b>Suivi scientifique</b>:<br>Yoann BRESSAN<br><br><b>Animation régionale</b>:<br>Cédric MONDY<br><br><b>Correspondants départementaux</b>:<br>77: Cyrille BOST<br>91: Cyril KLEINPRINZ<br><br><b>Courriel du réseau</b>:<br><a href='mailto:reseau.castor@ofb.gouv.fr'>reseau.castor@ofb.gouv.fr</a>
+
+<b>Partenaires</b>
+
+Conseils départementaux (ENS)<br>Syndicats de rivière
+</small>
+:::
+::::::::::::::
+
+# Le suivi
+
+## Localisation
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+::: panel-tabset
+### Carte
+```{r, echo=FALSE}
+FichesSRC::creer_carte(
+  departements = '77, 91',
+  region = '11',
+  stations = 'stations_castor.gpkg',
+  web = TRUE
+  )
+```
+
+### Tableau des sites
+```{r, echo=FALSE}
+FichesSRC::creer_tableau_stations(
+  stations = 'stations_castor.gpkg'
+  )
+```
+
+:::
+
+:::
+:::{.column width="3%"}
+:::
+:::{.column width="30%"}
+### Type de suivi
+Prospection de linéaires de cours d'eau à la recherche d'indices de présence
+:::
+::::::::::::::
+## Temporalité
+Prospections préférentiellement hivernales avant la reprise de la végétation
+
+```{r, fig.height=1, fig.width=6, echo=FALSE}
+FichesSRC::creer_calendrier(
+  data.frame(
+    mois = c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12),
+    mois_lettre = c('J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D'),
+    action = c('NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'),
+    action_realisee = c(TRUE, TRUE, TRUE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, TRUE, TRUE),
+    semestre = c('premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'second', 'second', 'second', 'second', 'second', 'second')
+  ) |>
+  dplyr::mutate(
+    action = stringr::str_replace(action, pattern = 'NA', replacement = "")
+  ),
+  web = TRUE)
+```
+
+# Logistique
+
+## Rôles
+:::::::::::::: {.columns}
+::: {.column width="33%"}
+<b>National</b>
+
+Animation<br>Base de données<br>Formation
+:::
+::: {.column width="33%"}
+<b>Régional</b>
+
+Coordination<br>Remontée des données au national
+:::
+::: {.column width="33%"}
+<b>Départemental</b>
+
+Prospections<br>(Constats de dommage)
+:::
+::::::::::::::
+
+## Ressources nécessaires
+
+:::::::::::::: {.columns}
+::: {.column width="10%"}
+<img src="www/history.png" height="50">
+:::
+::: {.column width="40%"}
+  1/2 journée
+:::
+::: {.column width="10%"}
+<img src="www/standing-up-man.png" height="50">
+:::
+::: {.column width="40%"}
+  2025-02-01
+:::
+::::::::::::::
+
+
+## Compétences et formations
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
+
+```{r, echo=FALSE, fig.width=3, fig.height=1}
+FichesSRC::creer_graphe_expertise('maitrise')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="60%"}
+Formation Petit et Méso-Carnivores et Castor<br>(Formation dommage)
+:::
+::::::::::::::
+
+
+## Protocole
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Principe
+
+Recherche d'indices de présence (bois coupé, écorçage, hutte…) en prospection sur l'eau et à pied en berge le long d'un linéaire de cours d'eau.<br>La nature et la localisation des indices sont reportés sur une fiche terrain
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Matériel
+
+<br>- embarquation (ex. kayak)<br>- gilet de sauvetage<br>- jumelles<br>- appareil photo<br>- GPS
+:::
+::::::::::::::
+
+
+
+## Les données
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Saisie
+
+Observations opportunistes: Saisie dans l'application Rezo PMCC<br><br>Remplissage des fiches terrains<br><br>Bancarisation régionale<br><br>Transmission au national qui effectue une validation et consolidation nationale des données
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Diffusion
+
+<a href='https://carmen.carmencarto.fr/38/Castor.map' target='_blank'>Carte nationale de présence</a>
+:::
+::::::::::::::
+
+<hr>
+
+<div class="card">
+  <b>En savoir plus</b><br>
+  <a href='https://professionnels.ofb.fr/fr/reseau-castor' target='_blank'>Le réseau Castor</a><br>
+  <a href='https://professionnels.ofb.fr/fr/doc-fiches-especes/castor-deurope-castor-fiber' target='_blank'>Fiche espèce</a><br>
+  
+  <a href='https://ged.ofb.fr/share/page/site/dridf-rseau-partenarial-castor/dashboard' target='_blank'>Site du réseau castor IdF</a><br>
+  <a href='https://ged.ofb.fr/share/s/giB4EPFIRPmsQZiGFeYY0A' target='_blank'>Protocole</a><br>
+  <a href='http://geo.ofb.fr/rezopmcc' target='_blank'>Rezo PMCC</a><br>
+</div>

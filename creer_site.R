@@ -2,6 +2,11 @@ pak::pkg_install("OFB-IdF/FichesSRC")
 
 # FichesSRC::recuperer_fiches_excel()
 
+FichesSRC::initier_site(
+  dossier_travail = "pages",
+  goatcounter_id = "ofb-idf"
+)
+
 FichesSRC::generer_site(
   fichier_infos = "suivis_connaissance",
   source_fichier = "google_sheet",

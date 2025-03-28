@@ -1,0 +1,198 @@
+---
+title: "Réseau Loup/Lynx"
+include-in-header:
+  - text: |
+  - text: |
+      <script data-goatcounter="https://ofb-idf.goatcounter.com/count"
+      async src="//gc.zgo.at/count.js"></script>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+---
+
+:::::::::::::: {.columns}
+::: {.column width="70%"}
+<small>Fiche éditée le 2025-03-27</small>
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+<img src="logo_loup.png" style="max-width:100%; max-height:150px; ">
+
+:::
+::::::::::::::
+
+
+:::::::::::::: {.columns}
+::: {.column width="65%"}
+# Description
+
+Espèce protégée (convention de Berne), recolonisant progressivement la France, le loup gris (Canis lupus) est encore très peu observé en Ile-de-France. Comme pour tous les territoires en front de colonisation, le réseau Loup est déployé au niveau « Sentinelle » depuis 2017, et différentes procédures peuvent alors être mises en place en cas de signalement ou de détection d’un grand canidé.
+
+
+## Objectif
+
+Veille<br>Observations opportunistes et recueil d’indices<br>Constats de dommages
+
+## Utilisation
+
+Les données contribuent à la mise en oeuvre du PNA Loup notamment pour l’estimation annuelle de l’effectif de loups en France. Elles sont également valorisées dans les flash infos loup, les bilans saisonniers ou annuels et contribuent à de nombreux travaux scientifiques. Tout cela permet de mieux connaître la population de loups (aire de répartition, démographie) et de suivre son évolution afin d’accompagner les acteurs et d’aider à la mise en place de mesures de protection.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="30%"}
+# Animation
+<small>
+<b>Animation nationale</b>:<br>Nicolas JEAN<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>PPC: Arnaud LOIZE<br>77: Corinne REVEL/Julien CURE<br>78-95: Estelle DEBOST<br>91: Philippe TURQUIN<br><br><b>Courriel du réseau</b>:<br><a href='mailto:reseau.loup-lynx@ofb.gouv.fr'>reseau.loup-lynx@ofb.gouv.fr</a>
+
+<b>Partenaires</b>
+
+DRIEAT/DDT<br>Préfectures
+</small>
+:::
+::::::::::::::
+
+# Le suivi
+
+## Localisation
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+```{r, echo=FALSE}
+FichesSRC::creer_carte(
+  departements = '75, 77, 78, 91, 92, 93, 94, 95',
+  region = '11',
+  stations = NA,
+  web = TRUE
+  )
+```
+
+:::
+:::{.column width="3%"}
+:::
+:::{.column width="30%"}
+### Type de suivi
+Opportuniste
+:::
+::::::::::::::
+## Temporalité
+sur signalement
+
+```{r, fig.height=1, fig.width=6, echo=FALSE}
+FichesSRC::creer_calendrier(
+  data.frame(
+    mois = c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12),
+    mois_lettre = c('J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D'),
+    action = c('NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'),
+    action_realisee = c(TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE),
+    semestre = c('premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'second', 'second', 'second', 'second', 'second', 'second')
+  ) |>
+  dplyr::mutate(
+    action = stringr::str_replace(action, pattern = 'NA', replacement = "")
+  ),
+  web = TRUE)
+```
+
+# Logistique
+
+## Rôles
+:::::::::::::: {.columns}
+::: {.column width="33%"}
+<b>National</b>
+
+Rapportage PNA<br>Animation & Communication<br>Méthodologie<br>Production bilans<br>Gestion des données
+:::
+::: {.column width="33%"}
+<b>Régional</b>
+
+Centralisation et analyse des signalements<br>Saisie des données<br>Formation
+:::
+::: {.column width="33%"}
+<b>Départemental</b>
+
+Recueil d’indices<br>Constat de dommages<br>Cellule de veille
+:::
+::::::::::::::
+
+## Ressources nécessaires
+
+:::::::::::::: {.columns}
+::: {.column width="10%"}
+<img src="www/history.png" height="50">
+:::
+::: {.column width="40%"}
+  variable
+:::
+::: {.column width="10%"}
+<img src="www/standing-up-man.png" height="50">
+:::
+::: {.column width="40%"}
+  1.0
+:::
+::::::::::::::
+
+
+## Compétences et formations
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
+
+```{r, echo=FALSE, fig.width=3, fig.height=1}
+FichesSRC::creer_graphe_expertise('maitrise')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="60%"}
+Formation correspondant de réseau ( 3 jours)<br>Formation constat de dommage (1,5 jours)
+:::
+::::::::::::::
+
+
+## Protocole
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Principe
+
+9 « fiches indices » liées chacune à un type d’évènement (observation visuelle, photo, empreintes/piste, excrément/poils, hurlement, cadavre de proie sauvage, cadavre de proie domestique, urine/sang, cadavre) sont disponibles et doivent être renseignées par le correspondant après entretien avec l’observateur.<br><br>La localisation précise (coordonnées géographiques) de l’observation est systématiquement relevée.<br><br>Stockage des prélèvements de matériel biologique dans un congélateur spécifique. Eviter la congélation/décongélation pour les analyses ADN. Délai de 48h max pour analyse de cadavre.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Matériel
+
+Pour chaque signalement, prendre le kit matériel adapté selon la situation (cf. matériel détaillé pour chaque cas dans le guide réflexe).<br><br>De manière systématique prévoir:<br>fiche adaptée, GPS, appareil photo.<br><br>Pour le prélèvement de matériel biologique prévoir:<br>sac de récupération d’indice, feutre indélébile, gants, scalpel, masque, gel hydroalcoolique.
+:::
+::::::::::::::
+
+
+
+## Les données
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Saisie
+
+Le correspondant départemental complète la ou les fiches indices adéquates à partir du témoignage de l’observateur et fournit une carte de localisation, avec si possible des coordonnées GPS et tout élément pertinent (photo/vidéo, échantillons).<br><br>Transmettre les éléments à l’animateur régional du réseau pour expertise.<br><br>Classement de l’évènement après analyse, et transmission du résultat à la DDT par le correspondant départemental.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Diffusion
+
+<a href='https://www.loupfrance.fr/carte-des-indices-de-presence-transmis-au-reseau-loup-lynx/' target='_blank'>Carte des indices de présence</a>
+:::
+::::::::::::::
+
+<hr>
+
+<div class="card">
+  <b>En savoir plus</b><br>
+  <a href='https://www.loupfrance.fr/' target='_blank'>Site d'information</a><br>
+  <a href='https://agriculture.gouv.fr/plan-loup-un-nouveau-cadre-national-dactions-pour-renforcer-la-coexistence-du-loup-et-des-activites' target='_blank'>Plan loup</a><br>
+  
+  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/Loup' target='_blank'>Serveur DR</a><br>
+  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/Loup/Guide%20r%C3%A9flexe%20r%C3%A9seau%20Loup%20Lynx_DRIDF_v2.4.pdf' target='_blank'>Guide réflexe (serveur DR)</a><br>
+  
+</div>

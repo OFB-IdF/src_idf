@@ -1,0 +1,209 @@
+---
+title: "Réseau Bécasse"
+include-in-header:
+  - text: |
+  - text: |
+      <script data-goatcounter="https://ofb-idf.goatcounter.com/count"
+      async src="//gc.zgo.at/count.js"></script>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+---
+
+:::::::::::::: {.columns}
+::: {.column width="70%"}
+<small>Fiche éditée le 2025-03-27</small>
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+<img src="logo_becasse.png" style="max-width:100%; max-height:150px; ">
+
+:::
+::::::::::::::
+
+
+:::::::::::::: {.columns}
+::: {.column width="65%"}
+# Description
+
+La Bécasse des bois (Scolopax rusticola) est un limicole forestier, migrateur dont une part des effectifs hiverne en France, et chassable de l’ouverture générale jusqu’au 20 février. Le réseau Bécasse collecte des informations sur l’état de la population des Bécasses des bois en France au moyen de plusieurs suivis.
+
+
+## Objectif
+
+Enquête croule (suivi des effectifs nicheurs)<br>Baguage (suivi des effectifs migrateurs et hivernants)
+
+## Utilisation
+
+Evaluer l’évolution démographique de l’espèce<br>Identifier et quantifier les mécanismes influençant cette démographie<br>Proposer des mesures de gestion d’une espèce exploitée
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="30%"}
+# Animation
+<small>
+<b>Animation nationale</b>:<br>Maxime PASSERAULT<br><br><b>Suivi scientifique</b>:<br>Kévin LE REST<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Courriel du réseau</b>:<br><a href='mailto:reseau.becasse@ofb.gouv.fr'>reseau.becasse@ofb.gouv.fr</a>
+
+<b>Partenaires</b>
+
+Fédérations de chasse
+</small>
+:::
+::::::::::::::
+
+# Le suivi
+
+## Localisation
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+::: panel-tabset
+### Carte
+```{r, echo=FALSE}
+FichesSRC::creer_carte(
+  departements = '77, 78, 91, 95',
+  region = '11',
+  stations = 'stations_becasse.gpkg',
+  web = TRUE
+  )
+```
+
+### Tableau des sites
+```{r, echo=FALSE}
+FichesSRC::creer_tableau_stations(
+  stations = 'stations_becasse.gpkg'
+  )
+```
+
+:::
+
+:::
+:::{.column width="3%"}
+:::
+:::{.column width="30%"}
+### Type de suivi
+Croule: le point d’écoute est défini comme l’ouverture (plantation, coupe, clairière, etc.) d’une surface minimum de 1 ha, la plus proche du centroïde du carré. Mailles carrées tirées aléatoirement chaque année parmi les habitats susceptibles d’accueillir l’espèce. 600 points d’écoutes sur toute la France ; 15 points en Ile-de-France en 2024.<br><br>Baguage: zone définie par le bagueur.
+:::
+::::::::::::::
+## Temporalité
+Croule: 1 soirée/maille entre le 15 mai et le 30 juin<br>Baguage: 3 soirées avant le 10 décembre / 4 soirées entre le 10 décembre et le 20 février / 2 soirées après le 20 février
+
+```{r, fig.height=1, fig.width=6, echo=FALSE}
+FichesSRC::creer_calendrier(
+  data.frame(
+    mois = c(1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10, 11, 11, 12, 12),
+    mois_lettre = c('J', 'J', 'F', 'F', 'M', 'M', 'A', 'A', 'M', 'M', 'J', 'J', 'J', 'J', 'A', 'A', 'S', 'S', 'O', 'O', 'N', 'N', 'D', 'D'),
+    action = c('croule', 'baguage', 'croule', 'baguage', 'croule', 'baguage', 'croule', 'baguage', 'croule', 'baguage', 'croule', 'baguage', 'croule', 'baguage', 'croule', 'baguage', 'croule', 'baguage', 'croule', 'baguage', 'croule', 'baguage', 'croule', 'baguage'),
+    action_realisee = c(FALSE, TRUE, FALSE, TRUE, FALSE, TRUE, FALSE, FALSE, TRUE, FALSE, TRUE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, TRUE, FALSE, TRUE),
+    semestre = c('premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second')
+  ) |>
+  dplyr::mutate(
+    action = stringr::str_replace(action, pattern = 'NA', replacement = "")
+  ),
+  web = TRUE)
+```
+
+# Logistique
+
+## Rôles
+:::::::::::::: {.columns}
+::: {.column width="33%"}
+<b>National</b>
+
+Animation & Communication<br>Méthodologie<br>Gestion des données<br>Formation
+:::
+::: {.column width="33%"}
+<b>Régional</b>
+
+Coordination
+:::
+::: {.column width="33%"}
+<b>Départemental</b>
+
+Suivi des points croule<br>Baguage<br>Saisie des données
+:::
+::::::::::::::
+
+## Ressources nécessaires
+
+:::::::::::::: {.columns}
+::: {.column width="10%"}
+<img src="www/history.png" height="50">
+:::
+::: {.column width="40%"}
+  Croule: 2h<br>Baguage: variable
+:::
+::: {.column width="10%"}
+<img src="www/standing-up-man.png" height="50">
+:::
+::: {.column width="40%"}
+  Croule: 1-2<br>Baguage: au moins 2
+:::
+::::::::::::::
+
+
+## Compétences et formations
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
+
+```{r, echo=FALSE, fig.width=3, fig.height=1}
+FichesSRC::creer_graphe_expertise('maitrise')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="60%"}
+Reconnaissance chants (croule)<br>Baguage : carte de bagueur (formation spécifique et plus de 10 soirées de baguage encadrées)
+:::
+::::::::::::::
+
+
+## Protocole
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Principe
+
+Croule: recherche et écoute de mâles chanteurs. L’observateur doit être en place 30 mn avant le coucher du soleil et rester pendant deux heures. Tous les contacts visuels ou auditifs (en précisant l’horaire de chacun) durant cette période doivent être notés. Privilégier des conditions météorologiques favorables: pas de pluie, pas de vent, pas d’orage.<br><br>Baguage: les opérations capture-marquage sont réalisées de nuit. Ne pas éblouir les oiseaux en vol ! Les bagueurs doivent réaliser au moins 9 soirées par saison.<br>Rappel des consignes de sécurité: ne pas sortir par temps d’orage, ni s’apporcher des lignes électriques !
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Matériel
+
+Croule:<br>∙ montre, jumelles, torche<br>∙ fiche terrain<br><br>Baguage:<br>∙ épuisette<br>∙ matériel de baguage
+:::
+::::::::::::::
+
+
+
+## Les données
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Saisie
+
+Remplissage des fiches de terrain<br><br>Croule: saisie des données et transmission des fiches au plus tard le 15 juillet via l’outil <a href='https://reseau-becasse.shinyapps.io/enquete-croule/'>https://reseau-becasse.shinyapps.io/enquete-croule/</a><br><br>Baguage: données saisies sur <a href='https://becasse.ofb.fr'>https://becasse.ofb.fr</a><br><br>Que faire en cas de recapture d’une bécasse avec une bague métallique? Transmettre l’information à <a href='mailto:reseau.becasse@ofb.gouv.fr'>reseau.becasse@ofb.gouv.fr</a> avec les informations nécessaires
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Diffusion
+
+<a href='https://professionnels.ofb.fr/fr/node/1273' target='_blank'>Lettres d'information</a>
+:::
+::::::::::::::
+
+<hr>
+
+<div class="card">
+  <b>En savoir plus</b><br>
+  <a href='https://professionnels.ofb.fr/fr/reseau-becasse' target='_blank'>Réseau Bécasse</a><br>
+  <a href='https://professionnels.ofb.fr/fr/doc-fiches-especes/becasse-bois-scolopax-rusticola' target='_blank'>Fiche espèce</a><br>
+  <a href='https://inpn.mnhn.fr/docs/cahab/fiches/Becasse-desbois.pdf' target='_blank'>Cahiers d'Habitat "Oiseaux"</a><br>
+  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/Bécasse/' target='_blank'>Serveur DR</a><br>
+  <a href='https://drive.google.com/file/d/1PqClJnFQb2zpZGFF9P2s93YpivuMclmu/view' target='_blank'>Protocole de suivi Hivernage (capture et baguage)</a><br>
+  
+</div>

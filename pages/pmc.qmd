@@ -1,0 +1,198 @@
+---
+title: "Réseau Petits et Méso-Carnivores"
+include-in-header:
+  - text: |
+  - text: |
+      <script data-goatcounter="https://ofb-idf.goatcounter.com/count"
+      async src="//gc.zgo.at/count.js"></script>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+---
+
+:::::::::::::: {.columns}
+::: {.column width="70%"}
+<small>Fiche éditée le 2025-03-27</small>
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+
+
+:::
+::::::::::::::
+
+
+:::::::::::::: {.columns}
+::: {.column width="65%"}
+# Description
+
+Le réseau Petits et mésocarnivores (PMC) suit l’évolution de la répartition des populations de 14 espèces de carnivores en France métropolitaine, aux statuts règlementaires et de conservation variés.
+
+
+## Objectif
+
+<br>- Suivre l’évolution de l’aire de répartitions des 14 espèces, la dynamique de certaines populations et améliorer les connaissances sur leur écologie.<br>- Former et partager les connaissances sur l’écologie de ces espèces.<br>- Apporter une expertise technique et des conseils pour la gestion des espèces, évaluer la mise en œuvre des règlementations.
+
+## Utilisation
+
+<br>- Rapportages européens (DHFF, EEE)<br>- Listes rouges de l’UICN<br>- Classement ‘Espèces susceptibles d’occasionner des dégâts (ESOD)’
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="30%"}
+# Animation
+<small>
+<b>Animation nationale</b>:<br>Paul HUREL<br><br><b>Suivi scientifique</b>:<br>Yoann BRESSAN<br>Laurence HENRY<br>Maëlle TEYSSEIRE<br><br><b>Animation régionale</b>:<br>Cédric MONDY<br><br><b>Correspondants départementaux</b>:<br>PPC:<br>77: Anne-Gaëlle BLANC<br>78-95: Jennifer BONHOMME<br>91: Cyril KLEINPRINZ
+
+<b>Partenaires</b>
+
+
+</small>
+:::
+::::::::::::::
+
+# Le suivi
+
+## Localisation
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+```{r, echo=FALSE}
+FichesSRC::creer_carte(
+  departements = '75, 77, 78, 91, 92, 93, 94, 95',
+  region = '11',
+  stations = NA,
+  web = TRUE
+  )
+```
+
+:::
+:::{.column width="3%"}
+:::
+:::{.column width="30%"}
+### Type de suivi
+Opportuniste
+:::
+::::::::::::::
+## Temporalité
+
+
+```{r, fig.height=1, fig.width=6, echo=FALSE}
+FichesSRC::creer_calendrier(
+  data.frame(
+    mois = c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12),
+    mois_lettre = c('J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D'),
+    action = c('NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA'),
+    action_realisee = c(TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE),
+    semestre = c('premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'second', 'second', 'second', 'second', 'second', 'second')
+  ) |>
+  dplyr::mutate(
+    action = stringr::str_replace(action, pattern = 'NA', replacement = "")
+  ),
+  web = TRUE)
+```
+
+# Logistique
+
+## Rôles
+:::::::::::::: {.columns}
+::: {.column width="33%"}
+<b>National</b>
+
+Animation<br>Formation<br>Gestion des bases de données
+:::
+::: {.column width="33%"}
+<b>Régional</b>
+
+Animation
+:::
+::: {.column width="33%"}
+<b>Départemental</b>
+
+Observations<br>Recueil de signalement<br>Saisie des données
+:::
+::::::::::::::
+
+## Ressources nécessaires
+
+:::::::::::::: {.columns}
+::: {.column width="10%"}
+<img src="www/history.png" height="50">
+:::
+::: {.column width="40%"}
+  variable
+:::
+::: {.column width="10%"}
+<img src="www/standing-up-man.png" height="50">
+:::
+::: {.column width="40%"}
+  1.0
+:::
+::::::::::::::
+
+
+## Compétences et formations
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
+
+```{r, echo=FALSE, fig.width=3, fig.height=1}
+FichesSRC::creer_graphe_expertise('formé')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="60%"}
+Formation de 3 jours sur les petits et moyens carnivores et l’utilisation de l’outil rezo-pmcc
+:::
+::::::::::::::
+
+
+## Protocole
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Principe
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Matériel
+
+En général:<br>- Accès à l’outil Rezo-PMCC (appli smartphone ou site internet)<br><br>Prélèvement tissu pour analyse génétique:<br>- kit de prélèvement PMCC (gants, tube Eppendorf, alcool, ciseaux)<br>- fiche adaptée
+:::
+::::::::::::::
+
+
+
+## Les données
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Saisie
+
+Saisie des observations sur l’application Rezo-PMCC<br><br>Pour les espèces d’identification délicate ou en limite/en dehors de leur aire de distribution: validation manuelle, utilisation possible de la génétique
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Diffusion
+
+<a href='https://professionnels.ofb.fr/fr/node/1089' target='_blank'>Portail cartographique</a>
+:::
+::::::::::::::
+
+<hr>
+
+<div class="card">
+  <b>En savoir plus</b><br>
+  <a href='https://professionnels.ofb.fr/fr/reseau-petits-meso-carnivores' target='_blank'>Réseau PMCC</a><br>
+  
+  
+  <a href='http://geo.ofb.fr/rezopmcc' target='_blank'>Rezo PMCC</a><br>
+  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/PMC' target='_blank'>Serveur DR</a><br>
+  
+</div>

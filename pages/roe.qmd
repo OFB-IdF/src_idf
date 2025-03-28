@@ -1,0 +1,198 @@
+---
+title: "Caractérisation des obstacles à l'écoulement"
+include-in-header:
+  - text: |
+  - text: |
+      <script data-goatcounter="https://ofb-idf.goatcounter.com/count"
+      async src="//gc.zgo.at/count.js"></script>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+---
+
+:::::::::::::: {.columns}
+::: {.column width="70%"}
+<small>Fiche éditée le 2025-03-27</small>
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+
+
+:::
+::::::::::::::
+
+
+:::::::::::::: {.columns}
+::: {.column width="65%"}
+# Description
+
+Le ROE permet d’avoir une information spatialisée sur les obstacles à l’écoulement des cours d’eau d’origine humaine (caractéristiques, usages, gestion). Cette information peut être complétée dans la BDOE.
+
+
+## Objectif
+
+Collecter et animer la collecte d’informations objectives sur le nombre, la localisation et les caractéristiques des obstacles à l’écoulement sur les cours d’eau
+
+## Utilisation
+
+Elaboration d’un référentiel national et un socle commun d’information. Estimer la pression ouvrage sur les cours d’eau.<br>Suivi des politiques de restauration de la continuité écologique<br>Calcul d’indicateurs de continuité écologique
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="30%"}
+# Animation
+<small>
+<b>Animation nationale</b>:<br>Karl KREUTZENBERGER<br><br><b>Animation régionale</b>:<br>Cédric MONDY<br><br><b>Correspondants départementaux</b>:<br>PPC:<br>77: Cyrille BOST<br>78-95: Angélique EGLOFF<br>91: Sébastien LANGUILLE<br><br><b>Assistance</b>:<br><a href='mailto:assistance.geobs@ofb.gouv.fr'>assistance.geobs@ofb.gouv.fr</a>
+
+<b>Partenaires</b>
+
+Agence de l’eau<br>DRIEAT<br>Syndicats de rivière<br>Fédérations de pêche<br>Collectivités
+</small>
+:::
+::::::::::::::
+
+# Le suivi
+
+## Localisation
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+```{r, echo=FALSE}
+FichesSRC::creer_carte(
+  departements = '75, 77, 78, 91, 92, 93, 94, 95',
+  region = '11',
+  stations = NA,
+  web = TRUE
+  )
+```
+
+:::
+:::{.column width="3%"}
+:::
+:::{.column width="30%"}
+### Type de suivi
+Opportuniste ou plannifié
+:::
+::::::::::::::
+## Temporalité
+A l'étiage pour la caractérisation des hauteurs de chute
+
+```{r, fig.height=1, fig.width=6, echo=FALSE}
+FichesSRC::creer_calendrier(
+  data.frame(
+    mois = c(1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10, 11, 11, 12, 12),
+    mois_lettre = c('J', 'J', 'F', 'F', 'M', 'M', 'A', 'A', 'M', 'M', 'J', 'J', 'J', 'J', 'A', 'A', 'S', 'S', 'O', 'O', 'N', 'N', 'D', 'D'),
+    action = c('hauteur de chute', 'inventaire', 'hauteur de chute', 'inventaire', 'hauteur de chute', 'inventaire', 'hauteur de chute', 'inventaire', 'hauteur de chute', 'inventaire', 'hauteur de chute', 'inventaire', 'hauteur de chute', 'inventaire', 'hauteur de chute', 'inventaire', 'hauteur de chute', 'inventaire', 'hauteur de chute', 'inventaire', 'hauteur de chute', 'inventaire', 'hauteur de chute', 'inventaire'),
+    action_realisee = c(FALSE, TRUE, FALSE, TRUE, FALSE, TRUE, FALSE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, FALSE, TRUE, FALSE, TRUE, FALSE, TRUE),
+    semestre = c('premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second')
+  ) |>
+  dplyr::mutate(
+    action = stringr::str_replace(action, pattern = 'NA', replacement = "")
+  ),
+  web = TRUE)
+```
+
+# Logistique
+
+## Rôles
+:::::::::::::: {.columns}
+::: {.column width="33%"}
+<b>National</b>
+
+Animation<br>Base de données
+:::
+::: {.column width="33%"}
+<b>Régional</b>
+
+Animation<br>Base de données
+:::
+::: {.column width="33%"}
+<b>Départemental</b>
+
+Animation locale<br>Saisie<br>Validation
+:::
+::::::::::::::
+
+## Ressources nécessaires
+
+:::::::::::::: {.columns}
+::: {.column width="10%"}
+<img src="www/history.png" height="50">
+:::
+::: {.column width="40%"}
+  variable
+:::
+::: {.column width="10%"}
+<img src="www/standing-up-man.png" height="50">
+:::
+::: {.column width="40%"}
+  1.0
+:::
+::::::::::::::
+
+
+## Compétences et formations
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
+
+```{r, echo=FALSE, fig.width=3, fig.height=1}
+FichesSRC::creer_graphe_expertise('formé')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="60%"}
+Outil Géobs:<br>- Consultation: sur demande<br>- Saisie: Information dispensée par les agents de la DR<br>- Validation: Correspondants continuité formés
+:::
+::::::::::::::
+
+
+## Protocole
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Principe
+
+Caractérisation physique des ouvrages et de leurs annexes (dispositifs de franchissement...)<br><br>Caractérisation de leurs usages et modes de gestion<br><br>Animation du réseau de partenaires
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Matériel
+
+<br>- Fiche terrain<br>- GPS<br>- Appareil photo<br>- Mire ou autre équipement permettant de mesurer la hauteur de chute
+:::
+::::::::::::::
+
+
+
+## Les données
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Saisie
+
+Remontée de données des partenaires<br><br>Saisie sur GéObs (<a href='https://geobs.eaufrance.fr/'>https://geobs.eaufrance.fr/</a>)<br><br>Validation obligatoire par un agent de l’OFB disposant du profil validation
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Diffusion
+
+<a href='https://www.sandre.eaufrance.fr/atlas/srv/fre/catalog.search#/metadata/59057026-b40c-4cf9-9e3e-7296e0aa1a78' target='_blank'>Catalogue de données du Sandre</a>
+:::
+::::::::::::::
+
+<hr>
+
+<div class="card">
+  <b>En savoir plus</b><br>
+  <a href='https://www.ofb.gouv.fr/la-continuite-ecologique-des-cours-deau' target='_blank'>La continuité écologique des cours d'eau</a><br>
+  <a href='https://professionnels.ofb.fr/fr/doc-dataviz/dataviz-mieux-connaitre-ouvrages-qui-jalonnent-nos-cours-deau' target='_blank'>Dataviz nationale</a><br>
+  
+  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/ROE/04_Bilans' target='_blank'>Bilans (serveur DR)</a><br>
+  <a href='https://professionnels.ofb.fr/fr/node/387' target='_blank'>La méthode ICE</a><br>
+  
+</div>
