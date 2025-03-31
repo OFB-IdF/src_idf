@@ -1,0 +1,33 @@
+name: Mise-a-jour et deploiement du tableau de bord sur GitHub Pages
+on:
+  push:
+    branches: [ main, master ]
+  schedule:
+    # Exécution hebdomadaire le lundi à 02:00 UTC
+    - cron: '0 2 * * 1'
+  workflow_dispatch: # Permet le déclenchement manuel depuis l'interface GitHub
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Run deploiement.R in Docker
+        run: |
+          docker run --volume ${{ github.workspace }}:/workspace --workdir /workspace --env GOOGLE_SERVICE_ACCOUNT_JSON="$GOOGLE_SERVICE_ACCOUNT_JSON" ofbidf/fiches-src /workspace/deploiement.R
+
+      - name: Set correct permissions for the tableau_de_bord directory
+        run: sudo chmod -R 755 tableau_de_bord
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: tableau_de_bord/_site
+          clean: false

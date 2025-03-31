@@ -202,7 +202,7 @@ Remplissage des fiches de terrain<br><br>Croule: saisie des données et transmis
   <b>En savoir plus</b><br>
   <a href='https://professionnels.ofb.fr/fr/reseau-becasse' target='_blank'>Réseau Bécasse</a><br>
   <a href='https://professionnels.ofb.fr/fr/doc-fiches-especes/becasse-bois-scolopax-rusticola' target='_blank'>Fiche espèce</a><br>
-  <a href='https://inpn.mnhn.fr/docs/cahab/fiches/Becasse-desbois.pdf' target='_blank'>Cahiers d'Habitat "Oiseaux"</a><br>
+  <a href='https://inpn.mnhn.fr/docs/cahab/fiches/Becasse-desbois.pdf' target='_blank'>Cahiers d'Habitat Oiseaux</a><br>
   <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/Bécasse/' target='_blank'>Serveur DR</a><br>
   <a href='https://drive.google.com/file/d/1PqClJnFQb2zpZGFF9P2s93YpivuMclmu/view' target='_blank'>Protocole de suivi Hivernage (capture et baguage)</a><br>
   
