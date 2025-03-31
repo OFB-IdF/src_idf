@@ -70,179 +70,102 @@
     "text": "Les données\n\n\n\nSaisie\nObservations opportunistes: Saisie dans l’application Rezo PMCCRemplissage des fiches terrainsBancarisation régionaleTransmission au national qui effectue une validation et consolidation nationale des données\n\n\n\n\n\nDiffusion\nCarte nationale de présence\n\n\n\n\n\nEn savoir plus Le réseau Castor Fiche espèce\nSite du réseau castor IdF Protocole Rezo PMCC"
   },
   {
-    "objectID": "ressources.html",
-    "href": "ressources.html",
-    "title": "Ressources",
-    "section": "",
-    "text": "Panorama des ressources internet\nPortail applicatif de l’OFB (intranet)\nLes cartes de répartition d’espèces (Carmen)\nLes centres de ressources\nLa toile Eaufrance\nL’Observatoire national de la biodiversité\n\n\n\n\nLe site de Patrinat\nTableau des experts naturalistes"
-  },
-  {
-    "objectID": "ressources.html#ressources-ofb",
-    "href": "ressources.html#ressources-ofb",
-    "title": "Ressources",
-    "section": "",
-    "text": "Panorama des ressources internet\nPortail applicatif de l’OFB (intranet)\nLes cartes de répartition d’espèces (Carmen)\nLes centres de ressources\nLa toile Eaufrance\nL’Observatoire national de la biodiversité\n\n\n\n\nLe site de Patrinat\nTableau des experts naturalistes"
-  },
-  {
-    "objectID": "ressources.html#en-île-de-france",
-    "href": "ressources.html#en-île-de-france",
-    "title": "Ressources",
-    "section": "En Île-de-France",
-    "text": "En Île-de-France\n\nLes outils régionaux\n\nGéonat’IdF (plateforme régionale du SINP)\nAtlas dynamique de la biodiversité en Île-de-France\nLobelia (outil CBN)\nGéo-Seine-Normandie, le portail de la gestion de l’eau\n\n\n\nLes partenaires régionaux\n\nL’Agence Régionale de la Biodiversité Île-de-France\nLe Conservatoire Botanique National du Bassin Parisien\nL’Agence de l’eau Seine Normandie"
-  },
-  {
-    "objectID": "ressources.html#autres-ressources",
-    "href": "ressources.html#autres-ressources",
-    "title": "Ressources",
-    "section": "Autres ressources",
-    "text": "Autres ressources\n\nINPN OpenObs: Portail français d’accès aux données d’observation sur les espèces"
-  },
-  {
-    "objectID": "pmc.html",
-    "href": "pmc.html",
-    "title": "Réseau Petits et Méso-Carnivores",
+    "objectID": "becasse.html",
+    "href": "becasse.html",
+    "title": "Réseau Bécasse",
     "section": "",
     "text": "Fiche éditée le 2025-03-27"
   },
   {
-    "objectID": "pmc.html#objectif",
-    "href": "pmc.html#objectif",
-    "title": "Réseau Petits et Méso-Carnivores",
+    "objectID": "becasse.html#objectif",
+    "href": "becasse.html#objectif",
+    "title": "Réseau Bécasse",
     "section": "Objectif",
-    "text": "Objectif\n- Suivre l’évolution de l’aire de répartitions des 14 espèces, la dynamique de certaines populations et améliorer les connaissances sur leur écologie.- Former et partager les connaissances sur l’écologie de ces espèces.- Apporter une expertise technique et des conseils pour la gestion des espèces, évaluer la mise en œuvre des règlementations."
+    "text": "Objectif\nEnquête croule (suivi des effectifs nicheurs)Baguage (suivi des effectifs migrateurs et hivernants)"
   },
   {
-    "objectID": "pmc.html#utilisation",
-    "href": "pmc.html#utilisation",
-    "title": "Réseau Petits et Méso-Carnivores",
+    "objectID": "becasse.html#utilisation",
+    "href": "becasse.html#utilisation",
+    "title": "Réseau Bécasse",
     "section": "Utilisation",
-    "text": "Utilisation\n- Rapportages européens (DHFF, EEE)- Listes rouges de l’UICN- Classement ‘Espèces susceptibles d’occasionner des dégâts (ESOD)’"
+    "text": "Utilisation\nEvaluer l’évolution démographique de l’espèceIdentifier et quantifier les mécanismes influençant cette démographieProposer des mesures de gestion d’une espèce exploitée"
   },
   {
-    "objectID": "pmc.html#localisation",
-    "href": "pmc.html#localisation",
-    "title": "Réseau Petits et Méso-Carnivores",
+    "objectID": "becasse.html#localisation",
+    "href": "becasse.html#localisation",
+    "title": "Réseau Bécasse",
     "section": "Localisation",
-    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nOpportuniste"
+    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nCroule: le point d’écoute est défini comme l’ouverture (plantation, coupe, clairière, etc.) d’une surface minimum de 1 ha, la plus proche du centroïde du carré. Mailles carrées tirées aléatoirement chaque année parmi les habitats susceptibles d’accueillir l’espèce. 600 points d’écoutes sur toute la France ; 15 points en Ile-de-France en 2024.Baguage: zone définie par le bagueur."
   },
   {
-    "objectID": "pmc.html#temporalité",
-    "href": "pmc.html#temporalité",
-    "title": "Réseau Petits et Méso-Carnivores",
+    "objectID": "becasse.html#temporalité",
+    "href": "becasse.html#temporalité",
+    "title": "Réseau Bécasse",
     "section": "Temporalité",
-    "text": "Temporalité"
+    "text": "Temporalité\nCroule: 1 soirée/maille entre le 15 mai et le 30 juinBaguage: 3 soirées avant le 10 décembre / 4 soirées entre le 10 décembre et le 20 février / 2 soirées après le 20 février"
   },
   {
-    "objectID": "pmc.html#rôles",
-    "href": "pmc.html#rôles",
-    "title": "Réseau Petits et Méso-Carnivores",
+    "objectID": "becasse.html#rôles",
+    "href": "becasse.html#rôles",
+    "title": "Réseau Bécasse",
     "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimationFormationGestion des bases de données\n\nRégional\nAnimation\n\nDépartemental\nObservationsRecueil de signalementSaisie des données"
+    "text": "Rôles\n\n\nNational\nAnimation & CommunicationMéthodologieGestion des donnéesFormation\n\nRégional\nCoordination\n\nDépartemental\nSuivi des points crouleBaguageSaisie des données"
   },
   {
-    "objectID": "pmc.html#ressources-nécessaires",
-    "href": "pmc.html#ressources-nécessaires",
-    "title": "Réseau Petits et Méso-Carnivores",
+    "objectID": "becasse.html#ressources-nécessaires",
+    "href": "becasse.html#ressources-nécessaires",
+    "title": "Réseau Bécasse",
     "section": "Ressources nécessaires",
-    "text": "Ressources nécessaires\n\n\n\n\nvariable\n\n\n\n1.0"
+    "text": "Ressources nécessaires\n\n\n\n\nCroule: 2hBaguage: variable\n\n\n\nCroule: 1-2Baguage: au moins 2"
   },
   {
-    "objectID": "pmc.html#compétences-et-formations",
-    "href": "pmc.html#compétences-et-formations",
-    "title": "Réseau Petits et Méso-Carnivores",
+    "objectID": "becasse.html#compétences-et-formations",
+    "href": "becasse.html#compétences-et-formations",
+    "title": "Réseau Bécasse",
     "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation de 3 jours sur les petits et moyens carnivores et l’utilisation de l’outil rezo-pmcc"
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReconnaissance chants (croule)Baguage : carte de bagueur (formation spécifique et plus de 10 soirées de baguage encadrées)"
   },
   {
-    "objectID": "pmc.html#protocole",
-    "href": "pmc.html#protocole",
-    "title": "Réseau Petits et Méso-Carnivores",
+    "objectID": "becasse.html#protocole",
+    "href": "becasse.html#protocole",
+    "title": "Réseau Bécasse",
     "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\n\n\n\n\n\nMatériel\nEn général:- Accès à l’outil Rezo-PMCC (appli smartphone ou site internet)Prélèvement tissu pour analyse génétique:- kit de prélèvement PMCC (gants, tube Eppendorf, alcool, ciseaux)- fiche adaptée"
+    "text": "Protocole\n\n\n\nPrincipe\nCroule: recherche et écoute de mâles chanteurs. L’observateur doit être en place 30 mn avant le coucher du soleil et rester pendant deux heures. Tous les contacts visuels ou auditifs (en précisant l’horaire de chacun) durant cette période doivent être notés. Privilégier des conditions météorologiques favorables: pas de pluie, pas de vent, pas d’orage.Baguage: les opérations capture-marquage sont réalisées de nuit. Ne pas éblouir les oiseaux en vol ! Les bagueurs doivent réaliser au moins 9 soirées par saison.Rappel des consignes de sécurité: ne pas sortir par temps d’orage, ni s’apporcher des lignes électriques !\n\n\n\n\n\nMatériel\nCroule:∙ montre, jumelles, torche∙ fiche terrainBaguage:∙ épuisette∙ matériel de baguage"
   },
   {
-    "objectID": "pmc.html#les-données",
-    "href": "pmc.html#les-données",
-    "title": "Réseau Petits et Méso-Carnivores",
+    "objectID": "becasse.html#les-données",
+    "href": "becasse.html#les-données",
+    "title": "Réseau Bécasse",
     "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur l’application Rezo-PMCCPour les espèces d’identification délicate ou en limite/en dehors de leur aire de distribution: validation manuelle, utilisation possible de la génétique\n\n\n\n\n\nDiffusion\nPortail cartographique\n\n\n\n\n\nEn savoir plus Réseau PMCC\nRezo PMCC Serveur DR"
+    "text": "Les données\n\n\n\nSaisie\nRemplissage des fiches de terrainCroule: saisie des données et transmission des fiches au plus tard le 15 juillet via l’outil https://reseau-becasse.shinyapps.io/enquete-croule/Baguage: données saisies sur https://becasse.ofb.frQue faire en cas de recapture d’une bécasse avec une bague métallique? Transmettre l’information à reseau.becasse@ofb.gouv.fr avec les informations nécessaires\n\n\n\n\n\nDiffusion\nLettres d’information\n\n\n\n\n\nEn savoir plus Réseau Bécasse Fiche espèce Cahiers d’Habitat Oiseaux Serveur DR Protocole de suivi Hivernage (capture et baguage)"
   },
   {
-    "objectID": "onde.html",
-    "href": "onde.html",
-    "title": "Observatoire national des étiages (ONDE)",
+    "objectID": "productions.html",
+    "href": "productions.html",
+    "title": "Productions",
     "section": "",
-    "text": "Fiche éditée le 2025-03-27"
+    "text": "Suivis hydrobiologiques en Île-de-France\nSuivi des étiages (ONDE) en Île-de-France\nFaune protégée d’Île-de-France\n\n\n\n\n\nEtude du chat forestier en Île-de-France\n\n\n\n\n\nUn félin sauvage en Île-de-France ? Le retour du chat forestier (MNHN-OFB, 2024)\nSur les traces du chat forestier en Île-de-France (Rencontres naturalistes ARB, 2022)\nLe retour du Castor en Île-de-France (Reportage terrain, France Culture, 2025)\nCastor, les dents de la rivière (conférence Domaine de Montauger, ENS 91, 2021)"
   },
   {
-    "objectID": "onde.html#objectif",
-    "href": "onde.html#objectif",
-    "title": "Observatoire national des étiages (ONDE)",
-    "section": "Objectif",
-    "text": "Objectif\nApprécier et suivre l’évolution des conditions d’écoulement.Aider à l’anticipation et à la gestion des situations de crise."
-  },
-  {
-    "objectID": "onde.html#utilisation",
-    "href": "onde.html#utilisation",
-    "title": "Observatoire national des étiages (ONDE)",
-    "section": "Utilisation",
-    "text": "Utilisation\nPoint de situation sur les secteurs en étiage lors des comités ressource en eau (CRE).Les seuils de déclenchement des mesures de restriction en eau peuvent s’appuyer sur ces observations.Contribution aux Bulletins de Situation Hydrologique (BSH): donnée complémentaire pour caractériser la situation hydrologique d’un territoire."
-  },
-  {
-    "objectID": "onde.html#localisation",
-    "href": "onde.html#localisation",
-    "title": "Observatoire national des étiages (ONDE)",
-    "section": "Localisation",
-    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nStations fixes représentatives des situations hydrologiques des petits cours d’eau (rangs de Strahler 1 à 4) d’un département60 stations en Ile-de-France"
-  },
-  {
-    "objectID": "onde.html#temporalité",
-    "href": "onde.html#temporalité",
-    "title": "Observatoire national des étiages (ONDE)",
-    "section": "Temporalité",
-    "text": "Temporalité\nSuivi usuel: 1 fois par mois, le 25 (+/- 2 jours)Suivi complémentaire: en fonction des conditions hydrologiques"
-  },
-  {
-    "objectID": "onde.html#rôles",
-    "href": "onde.html#rôles",
-    "title": "Observatoire national des étiages (ONDE)",
-    "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimation & CommunicationFourniture d’éléments techniques sur la sécheresseGestion des données\n\nRégional\nCoordinationSynthèse des donnéesContribution au BSH\n\nDépartemental\nObservationSaisie des donnéesDiffusion et présentation des données en CREIntégration de ONDE dans les ACS"
-  },
-  {
-    "objectID": "onde.html#ressources-nécessaires",
-    "href": "onde.html#ressources-nécessaires",
-    "title": "Observatoire national des étiages (ONDE)",
-    "section": "Ressources nécessaires",
-    "text": "Ressources nécessaires\n\n\n\n\n&lt; 5mn/station\n\n\n\n1.0"
-  },
-  {
-    "objectID": "onde.html#compétences-et-formations",
-    "href": "onde.html#compétences-et-formations",
-    "title": "Observatoire national des étiages (ONDE)",
-    "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInformation sur le protocole terrainDroit de saisie à la demande"
-  },
-  {
-    "objectID": "onde.html#protocole",
-    "href": "onde.html#protocole",
-    "title": "Observatoire national des étiages (ONDE)",
-    "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\nObservation visuelle selon les modalités suivantes:∙ Ecoulement visible (acceptable ou faible)∙ Ecoulement non visible∙ Assec⚠️ L’appréciation peut varier selon les observateurs.\n\n\n\n\n\nMatériel\nCatalogue des stations (si disponible)"
-  },
-  {
-    "objectID": "onde.html#les-données",
-    "href": "onde.html#les-données",
-    "title": "Observatoire national des étiages (ONDE)",
-    "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur https://onde.ofb.fr avant la fin du mois de l’observation\n\n\n\n\n\nDiffusion\nSite officielAPI HubeauCatalogue de données OFBTableau de bord interne (NE PAS DIFFUSER)\n\n\n\n\n\nEn savoir plus Plaquette de présentation (Serveur DR) La gestion de la sécheresse en 8 questions-réponses Dataviz nationale Gestion quantitative de l’eau et sécheresses (intranet) Fiches de synthèse de l’impact du manque d’eau sur la biodiversité (intranet) Bulletin de suivi hydrologique d’Île-de-France"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Missions",
+    "objectID": "productions.html#productions-régionales",
+    "href": "productions.html#productions-régionales",
+    "title": "Productions",
     "section": "",
-    "text": "Télécharger toutes les fiches \n\nMammifères\n\nSuivi du Castor d’Europe\nRéseau Petits et Méso-Carnivores\nRéseau Loup/Lynx\n\n\n\nAvifaune\n\nRéseau Bécasse\n\n\n\nPréservation - Restauration du fonctionnement des écosystèmes\n\nObservatoire national des étiages (ONDE)\nCaractérisation des obstacles à l’écoulement"
+    "text": "Suivis hydrobiologiques en Île-de-France\nSuivi des étiages (ONDE) en Île-de-France\nFaune protégée d’Île-de-France\n\n\n\n\n\nEtude du chat forestier en Île-de-France\n\n\n\n\n\nUn félin sauvage en Île-de-France ? Le retour du chat forestier (MNHN-OFB, 2024)\nSur les traces du chat forestier en Île-de-France (Rencontres naturalistes ARB, 2022)\nLe retour du Castor en Île-de-France (Reportage terrain, France Culture, 2025)\nCastor, les dents de la rivière (conférence Domaine de Montauger, ENS 91, 2021)"
+  },
+  {
+    "objectID": "productions.html#contributions-à-des-productions-régionales",
+    "href": "productions.html#contributions-à-des-productions-régionales",
+    "title": "Productions",
+    "section": "Contributions à des productions régionales",
+    "text": "Contributions à des productions régionales\n\nListe rouge régionale des poissons d’Île-de-France (ARB, à venir)\nRestaurer les continuités écologiques en Île-de-France (IPR, 2021)"
+  },
+  {
+    "objectID": "productions.html#contributions-à-des-productions-nationales",
+    "href": "productions.html#contributions-à-des-productions-nationales",
+    "title": "Productions",
+    "section": "Contributions à des productions nationales",
+    "text": "Contributions à des productions nationales\n\nVisualisation des données de pêche à l’électricité issues de Aspe"
   },
   {
     "objectID": "roe.html",
@@ -315,102 +238,249 @@
     "text": "Les données\n\n\n\nSaisie\nRemontée de données des partenairesSaisie sur GéObs (https://geobs.eaufrance.fr/)Validation obligatoire par un agent de l’OFB disposant du profil validation\n\n\n\n\n\nDiffusion\nCatalogue de données du Sandre\n\n\n\n\n\nEn savoir plus La continuité écologique des cours d’eau Dataviz nationale\nBilans (serveur DR) La méthode ICE"
   },
   {
-    "objectID": "productions.html",
-    "href": "productions.html",
-    "title": "Productions",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Missions",
     "section": "",
-    "text": "Suivis hydrobiologiques en Île-de-France\nSuivi des étiages (ONDE) en Île-de-France\nFaune protégée d’Île-de-France\n\n\n\n\n\nEtude du chat forestier en Île-de-France\n\n\n\n\n\nUn félin sauvage en Île-de-France ? Le retour du chat forestier (MNHN-OFB, 2024)\nSur les traces du chat forestier en Île-de-France (Rencontres naturalistes ARB, 2022)\nLe retour du Castor en Île-de-France (Reportage terrain, France Culture, 2025)\nCastor, les dents de la rivière (conférence Domaine de Montauger, ENS 91, 2021)"
+    "text": "Télécharger toutes les fiches \n\nMammifères\n\nSuivi du Chat forestier\nSuivi du Castor d’Europe\nRéseau Petits et Méso-Carnivores\nRéseau Loup/Lynx\n\n\n\nAvifaune\n\nRéseau Bécasse\n\n\n\nPréservation - Restauration du fonctionnement des écosystèmes\n\nObservatoire national des étiages (ONDE)\nCaractérisation des obstacles à l’écoulement"
   },
   {
-    "objectID": "productions.html#productions-régionales",
-    "href": "productions.html#productions-régionales",
-    "title": "Productions",
-    "section": "",
-    "text": "Suivis hydrobiologiques en Île-de-France\nSuivi des étiages (ONDE) en Île-de-France\nFaune protégée d’Île-de-France\n\n\n\n\n\nEtude du chat forestier en Île-de-France\n\n\n\n\n\nUn félin sauvage en Île-de-France ? Le retour du chat forestier (MNHN-OFB, 2024)\nSur les traces du chat forestier en Île-de-France (Rencontres naturalistes ARB, 2022)\nLe retour du Castor en Île-de-France (Reportage terrain, France Culture, 2025)\nCastor, les dents de la rivière (conférence Domaine de Montauger, ENS 91, 2021)"
-  },
-  {
-    "objectID": "productions.html#contributions-à-des-productions-régionales",
-    "href": "productions.html#contributions-à-des-productions-régionales",
-    "title": "Productions",
-    "section": "Contributions à des productions régionales",
-    "text": "Contributions à des productions régionales\n\nListe rouge régionale des poissons d’Île-de-France (ARB, à venir)\nRestaurer les continuités écologiques en Île-de-France (IPR, 2021)"
-  },
-  {
-    "objectID": "productions.html#contributions-à-des-productions-nationales",
-    "href": "productions.html#contributions-à-des-productions-nationales",
-    "title": "Productions",
-    "section": "Contributions à des productions nationales",
-    "text": "Contributions à des productions nationales\n\nVisualisation des données de pêche à l’électricité issues de Aspe"
-  },
-  {
-    "objectID": "becasse.html",
-    "href": "becasse.html",
-    "title": "Réseau Bécasse",
+    "objectID": "onde.html",
+    "href": "onde.html",
+    "title": "Observatoire national des étiages (ONDE)",
     "section": "",
     "text": "Fiche éditée le 2025-03-27"
   },
   {
-    "objectID": "becasse.html#objectif",
-    "href": "becasse.html#objectif",
-    "title": "Réseau Bécasse",
+    "objectID": "onde.html#objectif",
+    "href": "onde.html#objectif",
+    "title": "Observatoire national des étiages (ONDE)",
     "section": "Objectif",
-    "text": "Objectif\nEnquête croule (suivi des effectifs nicheurs)Baguage (suivi des effectifs migrateurs et hivernants)"
+    "text": "Objectif\nApprécier et suivre l’évolution des conditions d’écoulement.Aider à l’anticipation et à la gestion des situations de crise."
   },
   {
-    "objectID": "becasse.html#utilisation",
-    "href": "becasse.html#utilisation",
-    "title": "Réseau Bécasse",
+    "objectID": "onde.html#utilisation",
+    "href": "onde.html#utilisation",
+    "title": "Observatoire national des étiages (ONDE)",
     "section": "Utilisation",
-    "text": "Utilisation\nEvaluer l’évolution démographique de l’espèceIdentifier et quantifier les mécanismes influençant cette démographieProposer des mesures de gestion d’une espèce exploitée"
+    "text": "Utilisation\nPoint de situation sur les secteurs en étiage lors des comités ressource en eau (CRE).Les seuils de déclenchement des mesures de restriction en eau peuvent s’appuyer sur ces observations.Contribution aux Bulletins de Situation Hydrologique (BSH): donnée complémentaire pour caractériser la situation hydrologique d’un territoire."
   },
   {
-    "objectID": "becasse.html#localisation",
-    "href": "becasse.html#localisation",
-    "title": "Réseau Bécasse",
+    "objectID": "onde.html#localisation",
+    "href": "onde.html#localisation",
+    "title": "Observatoire national des étiages (ONDE)",
     "section": "Localisation",
-    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nCroule: le point d’écoute est défini comme l’ouverture (plantation, coupe, clairière, etc.) d’une surface minimum de 1 ha, la plus proche du centroïde du carré. Mailles carrées tirées aléatoirement chaque année parmi les habitats susceptibles d’accueillir l’espèce. 600 points d’écoutes sur toute la France ; 15 points en Ile-de-France en 2024.Baguage: zone définie par le bagueur."
+    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nStations fixes représentatives des situations hydrologiques des petits cours d’eau (rangs de Strahler 1 à 4) d’un département60 stations en Ile-de-France"
   },
   {
-    "objectID": "becasse.html#temporalité",
-    "href": "becasse.html#temporalité",
-    "title": "Réseau Bécasse",
+    "objectID": "onde.html#temporalité",
+    "href": "onde.html#temporalité",
+    "title": "Observatoire national des étiages (ONDE)",
     "section": "Temporalité",
-    "text": "Temporalité\nCroule: 1 soirée/maille entre le 15 mai et le 30 juinBaguage: 3 soirées avant le 10 décembre / 4 soirées entre le 10 décembre et le 20 février / 2 soirées après le 20 février"
+    "text": "Temporalité\nSuivi usuel: 1 fois par mois, le 25 (+/- 2 jours)Suivi complémentaire: en fonction des conditions hydrologiques"
   },
   {
-    "objectID": "becasse.html#rôles",
-    "href": "becasse.html#rôles",
-    "title": "Réseau Bécasse",
+    "objectID": "onde.html#rôles",
+    "href": "onde.html#rôles",
+    "title": "Observatoire national des étiages (ONDE)",
     "section": "Rôles",
-    "text": "Rôles\n\n\nNational\nAnimation & CommunicationMéthodologieGestion des donnéesFormation\n\nRégional\nCoordination\n\nDépartemental\nSuivi des points crouleBaguageSaisie des données"
+    "text": "Rôles\n\n\nNational\nAnimation & CommunicationFourniture d’éléments techniques sur la sécheresseGestion des données\n\nRégional\nCoordinationSynthèse des donnéesContribution au BSH\n\nDépartemental\nObservationSaisie des donnéesDiffusion et présentation des données en CREIntégration de ONDE dans les ACS"
   },
   {
-    "objectID": "becasse.html#ressources-nécessaires",
-    "href": "becasse.html#ressources-nécessaires",
-    "title": "Réseau Bécasse",
+    "objectID": "onde.html#ressources-nécessaires",
+    "href": "onde.html#ressources-nécessaires",
+    "title": "Observatoire national des étiages (ONDE)",
     "section": "Ressources nécessaires",
-    "text": "Ressources nécessaires\n\n\n\n\nCroule: 2hBaguage: variable\n\n\n\nCroule: 1-2Baguage: au moins 2"
+    "text": "Ressources nécessaires\n\n\n\n\n&lt; 5mn/station\n\n\n\n1.0"
   },
   {
-    "objectID": "becasse.html#compétences-et-formations",
-    "href": "becasse.html#compétences-et-formations",
-    "title": "Réseau Bécasse",
+    "objectID": "onde.html#compétences-et-formations",
+    "href": "onde.html#compétences-et-formations",
+    "title": "Observatoire national des étiages (ONDE)",
     "section": "Compétences et formations",
-    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReconnaissance chants (croule)Baguage : carte de bagueur (formation spécifique et plus de 10 soirées de baguage encadrées)"
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInformation sur le protocole terrainDroit de saisie à la demande"
   },
   {
-    "objectID": "becasse.html#protocole",
-    "href": "becasse.html#protocole",
-    "title": "Réseau Bécasse",
+    "objectID": "onde.html#protocole",
+    "href": "onde.html#protocole",
+    "title": "Observatoire national des étiages (ONDE)",
     "section": "Protocole",
-    "text": "Protocole\n\n\n\nPrincipe\nCroule: recherche et écoute de mâles chanteurs. L’observateur doit être en place 30 mn avant le coucher du soleil et rester pendant deux heures. Tous les contacts visuels ou auditifs (en précisant l’horaire de chacun) durant cette période doivent être notés. Privilégier des conditions météorologiques favorables: pas de pluie, pas de vent, pas d’orage.Baguage: les opérations capture-marquage sont réalisées de nuit. Ne pas éblouir les oiseaux en vol ! Les bagueurs doivent réaliser au moins 9 soirées par saison.Rappel des consignes de sécurité: ne pas sortir par temps d’orage, ni s’apporcher des lignes électriques !\n\n\n\n\n\nMatériel\nCroule:∙ montre, jumelles, torche∙ fiche terrainBaguage:∙ épuisette∙ matériel de baguage"
+    "text": "Protocole\n\n\n\nPrincipe\nObservation visuelle selon les modalités suivantes:∙ Ecoulement visible (acceptable ou faible)∙ Ecoulement non visible∙ Assec⚠️ L’appréciation peut varier selon les observateurs.\n\n\n\n\n\nMatériel\nCatalogue des stations (si disponible)"
   },
   {
-    "objectID": "becasse.html#les-données",
-    "href": "becasse.html#les-données",
-    "title": "Réseau Bécasse",
+    "objectID": "onde.html#les-données",
+    "href": "onde.html#les-données",
+    "title": "Observatoire national des étiages (ONDE)",
     "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nRemplissage des fiches de terrainCroule: saisie des données et transmission des fiches au plus tard le 15 juillet via l’outil https://reseau-becasse.shinyapps.io/enquete-croule/Baguage: données saisies sur https://becasse.ofb.frQue faire en cas de recapture d’une bécasse avec une bague métallique? Transmettre l’information à reseau.becasse@ofb.gouv.fr avec les informations nécessaires\n\n\n\n\n\nDiffusion\nLettres d’information\n\n\n\n\n\nEn savoir plus Réseau Bécasse Fiche espèce Cahiers d’Habitat Oiseaux Serveur DR Protocole de suivi Hivernage (capture et baguage)"
+    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur https://onde.ofb.fr avant la fin du mois de l’observation\n\n\n\n\n\nDiffusion\nSite officielAPI HubeauCatalogue de données OFBTableau de bord interne (NE PAS DIFFUSER)\n\n\n\n\n\nEn savoir plus Plaquette de présentation (Serveur DR) La gestion de la sécheresse en 8 questions-réponses Dataviz nationale Gestion quantitative de l’eau et sécheresses (intranet) Fiches de synthèse de l’impact du manque d’eau sur la biodiversité (intranet) Bulletin de suivi hydrologique d’Île-de-France"
+  },
+  {
+    "objectID": "pmc.html",
+    "href": "pmc.html",
+    "title": "Réseau Petits et Méso-Carnivores",
+    "section": "",
+    "text": "Fiche éditée le 2025-03-27"
+  },
+  {
+    "objectID": "pmc.html#objectif",
+    "href": "pmc.html#objectif",
+    "title": "Réseau Petits et Méso-Carnivores",
+    "section": "Objectif",
+    "text": "Objectif\n- Suivre l’évolution de l’aire de répartitions des 14 espèces, la dynamique de certaines populations et améliorer les connaissances sur leur écologie.- Former et partager les connaissances sur l’écologie de ces espèces.- Apporter une expertise technique et des conseils pour la gestion des espèces, évaluer la mise en œuvre des règlementations."
+  },
+  {
+    "objectID": "pmc.html#utilisation",
+    "href": "pmc.html#utilisation",
+    "title": "Réseau Petits et Méso-Carnivores",
+    "section": "Utilisation",
+    "text": "Utilisation\n- Rapportages européens (DHFF, EEE)- Listes rouges de l’UICN- Classement ‘Espèces susceptibles d’occasionner des dégâts (ESOD)’"
+  },
+  {
+    "objectID": "pmc.html#localisation",
+    "href": "pmc.html#localisation",
+    "title": "Réseau Petits et Méso-Carnivores",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nOpportuniste"
+  },
+  {
+    "objectID": "pmc.html#temporalité",
+    "href": "pmc.html#temporalité",
+    "title": "Réseau Petits et Méso-Carnivores",
+    "section": "Temporalité",
+    "text": "Temporalité"
+  },
+  {
+    "objectID": "pmc.html#rôles",
+    "href": "pmc.html#rôles",
+    "title": "Réseau Petits et Méso-Carnivores",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationFormationGestion des bases de données\n\nRégional\nAnimation\n\nDépartemental\nObservationsRecueil de signalementSaisie des données"
+  },
+  {
+    "objectID": "pmc.html#ressources-nécessaires",
+    "href": "pmc.html#ressources-nécessaires",
+    "title": "Réseau Petits et Méso-Carnivores",
+    "section": "Ressources nécessaires",
+    "text": "Ressources nécessaires\n\n\n\n\nvariable\n\n\n\n1.0"
+  },
+  {
+    "objectID": "pmc.html#compétences-et-formations",
+    "href": "pmc.html#compétences-et-formations",
+    "title": "Réseau Petits et Méso-Carnivores",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation de 3 jours sur les petits et moyens carnivores et l’utilisation de l’outil rezo-pmcc"
+  },
+  {
+    "objectID": "pmc.html#protocole",
+    "href": "pmc.html#protocole",
+    "title": "Réseau Petits et Méso-Carnivores",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\n\n\n\n\n\nMatériel\nEn général:- Accès à l’outil Rezo-PMCC (appli smartphone ou site internet)Prélèvement tissu pour analyse génétique:- kit de prélèvement PMCC (gants, tube Eppendorf, alcool, ciseaux)- fiche adaptée"
+  },
+  {
+    "objectID": "pmc.html#les-données",
+    "href": "pmc.html#les-données",
+    "title": "Réseau Petits et Méso-Carnivores",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur l’application Rezo-PMCCPour les espèces d’identification délicate ou en limite/en dehors de leur aire de distribution: validation manuelle, utilisation possible de la génétique\n\n\n\n\n\nDiffusion\nPortail cartographique\n\n\n\n\n\nEn savoir plus Réseau PMCC\nRezo PMCC Serveur DR"
+  },
+  {
+    "objectID": "ressources.html",
+    "href": "ressources.html",
+    "title": "Ressources",
+    "section": "",
+    "text": "Panorama des ressources internet\nPortail applicatif de l’OFB (intranet)\nLes cartes de répartition d’espèces (Carmen)\nLes centres de ressources\nLa toile Eaufrance\nL’Observatoire national de la biodiversité\n\n\n\n\nLe site de Patrinat\nTableau des experts naturalistes"
+  },
+  {
+    "objectID": "ressources.html#ressources-ofb",
+    "href": "ressources.html#ressources-ofb",
+    "title": "Ressources",
+    "section": "",
+    "text": "Panorama des ressources internet\nPortail applicatif de l’OFB (intranet)\nLes cartes de répartition d’espèces (Carmen)\nLes centres de ressources\nLa toile Eaufrance\nL’Observatoire national de la biodiversité\n\n\n\n\nLe site de Patrinat\nTableau des experts naturalistes"
+  },
+  {
+    "objectID": "ressources.html#en-île-de-france",
+    "href": "ressources.html#en-île-de-france",
+    "title": "Ressources",
+    "section": "En Île-de-France",
+    "text": "En Île-de-France\n\nLes outils régionaux\n\nGéonat’IdF (plateforme régionale du SINP)\nAtlas dynamique de la biodiversité en Île-de-France\nLobelia (outil CBN)\nGéo-Seine-Normandie, le portail de la gestion de l’eau\n\n\n\nLes partenaires régionaux\n\nL’Agence Régionale de la Biodiversité Île-de-France\nLe Conservatoire Botanique National du Bassin Parisien\nL’Agence de l’eau Seine Normandie"
+  },
+  {
+    "objectID": "ressources.html#autres-ressources",
+    "href": "ressources.html#autres-ressources",
+    "title": "Ressources",
+    "section": "Autres ressources",
+    "text": "Autres ressources\n\nINPN OpenObs: Portail français d’accès aux données d’observation sur les espèces"
+  },
+  {
+    "objectID": "chat.html",
+    "href": "chat.html",
+    "title": "Suivi du Chat forestier",
+    "section": "",
+    "text": "Fiche éditée le 2025-03-27"
+  },
+  {
+    "objectID": "chat.html#objectif",
+    "href": "chat.html#objectif",
+    "title": "Suivi du Chat forestier",
+    "section": "Objectif",
+    "text": "Objectif\nSuivi de l’évolution de la répartition et précision des limites de l’aire de répartition en Île-de-France.Etude de l’hybridation avec le chat domestique."
+  },
+  {
+    "objectID": "chat.html#utilisation",
+    "href": "chat.html#utilisation",
+    "title": "Suivi du Chat forestier",
+    "section": "Utilisation",
+    "text": "Utilisation\nCartes de répartition.Evaluation du statut de conservation.Prise en compte de l’espèce dans les politiques de conservation et l’évaluation des continuités écologiques territoriales."
+  },
+  {
+    "objectID": "chat.html#localisation",
+    "href": "chat.html#localisation",
+    "title": "Suivi du Chat forestier",
+    "section": "Localisation",
+    "text": "Localisation\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nRecherche cibléeSecteurs d’étude d’environ 100km² comprenant des lisières forestières au contact de prairies. Chaque secteur est suivi par un minimum de six dispositifs"
+  },
+  {
+    "objectID": "chat.html#temporalité",
+    "href": "chat.html#temporalité",
+    "title": "Suivi du Chat forestier",
+    "section": "Temporalité",
+    "text": "Temporalité"
+  },
+  {
+    "objectID": "chat.html#rôles",
+    "href": "chat.html#rôles",
+    "title": "Suivi du Chat forestier",
+    "section": "Rôles",
+    "text": "Rôles\n\n\nNational\nAnimationValidation des observationsAnalyses génétiquesBase de données\n\nRégional\nCoordinationValorisation\n\nDépartemental\nProspectionsRecueil de signalementSaisie des données"
+  },
+  {
+    "objectID": "chat.html#ressources-nécessaires",
+    "href": "chat.html#ressources-nécessaires",
+    "title": "Suivi du Chat forestier",
+    "section": "Ressources nécessaires",
+    "text": "Ressources nécessaires\n\n\n\n\n1/2 journée\n\n\n\n1.0"
+  },
+  {
+    "objectID": "chat.html#compétences-et-formations",
+    "href": "chat.html#compétences-et-formations",
+    "title": "Suivi du Chat forestier",
+    "section": "Compétences et formations",
+    "text": "Compétences et formations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFormation de 3 jours sur les petits et moyens carnivores et l’utilisation de l’outil rezo-pmcc"
+  },
+  {
+    "objectID": "chat.html#protocole",
+    "href": "chat.html#protocole",
+    "title": "Suivi du Chat forestier",
+    "section": "Protocole",
+    "text": "Protocole\n\n\n\nPrincipe\nSignalement de collision:- Récupération de tissus et envoi pour analyseSuivi pièges photographiques:- Pose de dispositifs (piège photo + piège à poil + attractif à base de valériane)- Relevés des photos et poils éventuels- Stérilisation du piège à poil et recharge en attractif\n\n\n\n\n\nMatériel\nSignalement de collision:- kit de prélèvement PMCC (gants, tube Eppendorf, alcool, ciseaux)- fiche adaptéeSuivi pièges photographiques:- pièges photographiques- brosses métalliques (pièges à poils)- attractif à base de valériane- gants, pinces à épiler, enveloppes- fiche adaptée"
+  },
+  {
+    "objectID": "chat.html#les-données",
+    "href": "chat.html#les-données",
+    "title": "Suivi du Chat forestier",
+    "section": "Les données",
+    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur l’application Rezo-PMCC (pour les observations annexes: saisie sur Rezo-PMCC ou Oison en fonction des espèces)Transmission des prélèvements à la DRAS pour analyses génétiquesValidation des observations sur photo sur la base du phénotype\n\n\n\n\n\nDiffusion\nSINP nationalGéonat’IdF (CA: Etude Chat forestier) \n\n\n\n\n\nEn savoir plus Fiche espèce Livret de présentation de l’étude IdF Vidéo MNHN SiteAlfresco de l’étude IdF Protocole Serveur DR"
   },
   {
     "objectID": "loup.html",
