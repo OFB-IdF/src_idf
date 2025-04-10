@@ -98,7 +98,10 @@ function setupLocalLinkHandler(link, href) {
     linkParent.insertBefore(linkContainer, link);
     linkContainer.appendChild(link);
     
-    // Créer le bouton de copie
+    // Détecter si nous sommes sur un site hébergé (comme GitHub Pages) ou en local
+    const isHosted = !window.location.protocol.includes('file');
+    
+    // Créer le bouton de copie pour tous les environnements
     const copyButton = document.createElement('button');
     copyButton.className = 'link-action-button copy-button';
     copyButton.innerHTML = '<i class="fas fa-copy"></i>';
@@ -111,22 +114,27 @@ function setupLocalLinkHandler(link, href) {
     copyButton.style.borderRadius = '3px';
     copyButton.style.cursor = 'pointer';
     
-    // Créer le bouton d'ouverture dans l'explorateur
-    const openButton = document.createElement('button');
-    openButton.className = 'link-action-button open-button';
-    openButton.innerHTML = '<i class="fas fa-folder-open"></i>';
-    openButton.title = 'Ouvrir dans l\'explorateur';
-    openButton.style.marginLeft = '5px';
-    openButton.style.padding = '2px 5px';
-    openButton.style.fontSize = '0.8em';
-    openButton.style.backgroundColor = '#f0f0f0';
-    openButton.style.border = '1px solid #ccc';
-    openButton.style.borderRadius = '3px';
-    openButton.style.cursor = 'pointer';
+    // Créer le bouton d'ouverture dans l'explorateur uniquement pour les sites locaux
+    let openButton;
+    if (!isHosted) {
+        openButton = document.createElement('button');
+        openButton.className = 'link-action-button open-button';
+        openButton.innerHTML = '<i class="fas fa-folder-open"></i>';
+        openButton.title = 'Ouvrir dans l\'explorateur';
+        openButton.style.marginLeft = '5px';
+        openButton.style.padding = '2px 5px';
+        openButton.style.fontSize = '0.8em';
+        openButton.style.backgroundColor = '#f0f0f0';
+        openButton.style.border = '1px solid #ccc';
+        openButton.style.borderRadius = '3px';
+        openButton.style.cursor = 'pointer';
+    }
     
     // Ajouter les boutons au conteneur
     linkContainer.appendChild(copyButton);
-    linkContainer.appendChild(openButton);
+    if (!isHosted) {
+        linkContainer.appendChild(openButton);
+    }
     
     // Ajouter les gestionnaires d'événements
     link.addEventListener('click', function(e) {
@@ -139,11 +147,13 @@ function setupLocalLinkHandler(link, href) {
         copyToClipboard(href);
     });
     
-    openButton.addEventListener('click', function(e) {
-        e.preventDefault();
-        e.stopPropagation();
-        openInExplorer(href);
-    });
+    if (!isHosted) {
+        openButton.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            openInExplorer(href);
+        });
+    }
 }
 
 // La fonction showLinkOptions a été supprimée car remplacée par des boutons d'action directe
@@ -214,6 +224,7 @@ function openInExplorer(filePath) {
     path = decodeURIComponent(path);
     path = path.replace(/\//g, '\\');
     
+    // Essayer d'ouvrir dans l'explorateur
     try {
         // Méthode 1: Essayer d'utiliser le protocole ms-explorer
         const msExplorerUrl = `ms-explorer:?path=${encodeURIComponent(path)}`;
