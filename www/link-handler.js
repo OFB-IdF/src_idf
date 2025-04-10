@@ -87,7 +87,7 @@ function setupLocalLinkHandler(link, href) {
     link.style.textDecoration = 'underline';
     link.style.color = '#0066cc';
     
-    // Créer un conteneur pour le lien et les boutons
+    // Créer un conteneur pour le lien et le bouton
     const linkContainer = document.createElement('span');
     linkContainer.className = 'link-container';
     linkContainer.style.display = 'inline-flex';
@@ -102,7 +102,7 @@ function setupLocalLinkHandler(link, href) {
     const copyButton = document.createElement('button');
     copyButton.className = 'link-action-button copy-button';
     copyButton.innerHTML = '<i class="fas fa-copy"></i>';
-    copyButton.title = 'Copier l\'adresse';
+    copyButton.title = 'Copier l\'adresse (le lien doit être ouvert manuellement pour des raisons de sécurité)';
     copyButton.style.marginLeft = '5px';
     copyButton.style.padding = '2px 5px';
     copyButton.style.fontSize = '0.8em';
@@ -111,22 +111,8 @@ function setupLocalLinkHandler(link, href) {
     copyButton.style.borderRadius = '3px';
     copyButton.style.cursor = 'pointer';
     
-    // Créer le bouton d'ouverture dans l'explorateur
-    const openButton = document.createElement('button');
-    openButton.className = 'link-action-button open-button';
-    openButton.innerHTML = '<i class="fas fa-folder-open"></i>';
-    openButton.title = 'Ouvrir dans l\'explorateur';
-    openButton.style.marginLeft = '5px';
-    openButton.style.padding = '2px 5px';
-    openButton.style.fontSize = '0.8em';
-    openButton.style.backgroundColor = '#f0f0f0';
-    openButton.style.border = '1px solid #ccc';
-    openButton.style.borderRadius = '3px';
-    openButton.style.cursor = 'pointer';
-    
-    // Ajouter les boutons au conteneur
+    // Ajouter le bouton au conteneur
     linkContainer.appendChild(copyButton);
-    linkContainer.appendChild(openButton);
     
     // Ajouter les gestionnaires d'événements
     link.addEventListener('click', function(e) {
@@ -137,12 +123,6 @@ function setupLocalLinkHandler(link, href) {
         e.preventDefault();
         e.stopPropagation();
         copyToClipboard(href);
-    });
-    
-    openButton.addEventListener('click', function(e) {
-        e.preventDefault();
-        e.stopPropagation();
-        openInExplorer(href);
     });
 }
 
