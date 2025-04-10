@@ -32,4 +32,6 @@ header-includes:
 
 - [Caractérisation des obstacles à l'écoulement](roe.html)
 
+- [Dispositif de suivi des bocages (DSB)](bocage.html)
+
 

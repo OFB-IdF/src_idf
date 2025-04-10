@@ -1,11 +1,5 @@
 ---
 title: "Suivi du Chat forestier"
-include-in-header:
-  - text: |
-  - text: |
-      <script data-goatcounter="https://ofb-idf.goatcounter.com/count"
-      async src="//gc.zgo.at/count.js"></script>
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 ---
 
 :::::::::::::: {.columns}
@@ -194,6 +188,6 @@ Saisie des observations sur l'application Rezo-PMCC (pour les observations annex
   <a href='https://www.youtube.com/watch?v=UopppCJfUHA' target='_blank'>Vidéo MNHN</a><br>
   <a href='https://ged.ofb.fr/share/page/site/etude-chat-forestier-idf/dashboard' target='_blank'>SiteAlfresco de l'étude IdF</a><br>
   <a href='https://ged.ofb.fr/share/s/sY4zG36QS1aDJ34fKNlrhw' target='_blank'>Protocole</a><br>
-  <a href='\\SVFCVIN1\DRIDF\05_CONNAISSANCE\PMC\Chat_Forestier
-' target='_blank'>Serveur DR</a><br>
+  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/PMC/Chat_Forestier
+'>Serveur DR</a><br>
 </div>

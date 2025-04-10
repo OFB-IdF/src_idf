@@ -1,11 +1,5 @@
 ---
 title: "Suivi du Castor d'Europe"
-include-in-header:
-  - text: |
-  - text: |
-      <script data-goatcounter="https://ofb-idf.goatcounter.com/count"
-      async src="//gc.zgo.at/count.js"></script>
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 ---
 
 :::::::::::::: {.columns}
@@ -31,11 +25,11 @@ L'OFB est chargé de suivre l'évolution de la répartition du Castor d'Europe (
 
 ## Objectif
 
-<br>- Suivre l’évolution spatio-temporelle du Castor européen<br>- Étudier la structure génétique de la population de Castor européen<br>- Former des agents constatant les dégâts<br>- Réaliser des expertises techniques pour les administrations 
+Suivre l’évolution spatio-temporelle du Castor européen<br>Étudier la structure génétique de la population de Castor européen<br>Former des agents constatant les dégâts<br>Réaliser des expertises techniques pour les administrations 
 
 ## Utilisation
 
-<br>- Rapportage de la Directive européenne Habitat Faune Flore<br>- Régulation du piégeage près des cours d'eau colonisés<br>- Apport de connaissances (enquêtes) sur les caractéristiques de l'espèce et de ses aménagements, notamment pour la gestion des conflits
+Rapportage de la Directive européenne Habitat Faune Flore<br>Régulation du piégeage près des cours d'eau colonisés<br>Apport de connaissances (enquêtes) sur les caractéristiques de l'espèce et de ses aménagements, notamment pour la gestion des conflits
 :::
 ::: {.column width="5%"}
 :::

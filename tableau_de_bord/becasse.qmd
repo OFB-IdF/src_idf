@@ -1,11 +1,5 @@
 ---
 title: "Réseau Bécasse"
-include-in-header:
-  - text: |
-  - text: |
-      <script data-goatcounter="https://ofb-idf.goatcounter.com/count"
-      async src="//gc.zgo.at/count.js"></script>
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 ---
 
 :::::::::::::: {.columns}
@@ -42,7 +36,7 @@ Evaluer l’évolution démographique de l’espèce<br>Identifier et quantifier
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Animation nationale</b>:<br>Maxime PASSERAULT<br><br><b>Suivi scientifique</b>:<br>Kévin LE REST<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Courriel du réseau</b>:<br><a href='mailto:reseau.becasse@ofb.gouv.fr'>reseau.becasse@ofb.gouv.fr</a>
+<b>Animation nationale</b>:<br>Maxime PASSERAULT<br><br><b>Suivi scientifique</b>:<br>Kévin LE REST<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>77: Julien CURE<br>78-95: Estelle DEBOST<br><br><b>Courriel du réseau</b>:<br><a href='mailto:reseau.becasse@ofb.gouv.fr'>reseau.becasse@ofb.gouv.fr</a>
 
 <b>Partenaires</b>
 
@@ -203,7 +197,7 @@ Remplissage des fiches de terrain<br><br>Croule: saisie des données et transmis
   <a href='https://professionnels.ofb.fr/fr/reseau-becasse' target='_blank'>Réseau Bécasse</a><br>
   <a href='https://professionnels.ofb.fr/fr/doc-fiches-especes/becasse-bois-scolopax-rusticola' target='_blank'>Fiche espèce</a><br>
   <a href='https://inpn.mnhn.fr/docs/cahab/fiches/Becasse-desbois.pdf' target='_blank'>Cahiers d'Habitat Oiseaux</a><br>
-  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/Bécasse/' target='_blank'>Serveur DR</a><br>
+  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/Becasse/'>Serveur DR</a><br>
   <a href='https://drive.google.com/file/d/1PqClJnFQb2zpZGFF9P2s93YpivuMclmu/view' target='_blank'>Protocole de suivi Hivernage (capture et baguage)</a><br>
   
 </div>

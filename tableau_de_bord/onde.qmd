@@ -1,11 +1,5 @@
 ---
 title: "Observatoire national des étiages (ONDE)"
-include-in-header:
-  - text: |
-  - text: |
-      <script data-goatcounter="https://ofb-idf.goatcounter.com/count"
-      async src="//gc.zgo.at/count.js"></script>
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 ---
 
 :::::::::::::: {.columns}
@@ -200,7 +194,7 @@ Saisie des observations sur <a href='https://onde.ofb.fr'>https://onde.ofb.fr</a
 
 <div class="card">
   <b>En savoir plus</b><br>
-  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/ONDE/01_Documentation/ONDE_fiche%20technique.pdf' target='_blank'>Plaquette de présentation (Serveur DR)</a><br>
+  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/ONDE/01_Documentation/ONDE_fiche%20technique.pdf'>Plaquette de présentation (Serveur DR)</a><br>
   <a href='https://www.ofb.gouv.fr/la-gestion-de-la-secheresse-en-8-questions-reponses' target='_blank'>La gestion de la sécheresse en 8 questions-réponses</a><br>
   <a href='https://professionnels.ofb.fr/fr/doc-dataviz/dataviz-lassechement-estival-cours-deau-metropole-2012-2022' target='_blank'>Dataviz nationale</a><br>
   <a href='https://intranet.ofb.fr/gestion-quantitative-de-leau-et-des-secheresses' target='_blank'>Gestion quantitative de l'eau et sécheresses (intranet)</a><br>

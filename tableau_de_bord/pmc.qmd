@@ -1,11 +1,5 @@
 ---
 title: "Réseau Petits et Méso-Carnivores"
-include-in-header:
-  - text: |
-  - text: |
-      <script data-goatcounter="https://ofb-idf.goatcounter.com/count"
-      async src="//gc.zgo.at/count.js"></script>
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 ---
 
 :::::::::::::: {.columns}
@@ -31,18 +25,18 @@ Le réseau Petits et mésocarnivores (PMC) suit l’évolution de la répartitio
 
 ## Objectif
 
-<br>- Suivre l’évolution de l’aire de répartitions des 14 espèces, la dynamique de certaines populations et améliorer les connaissances sur leur écologie.<br>- Former et partager les connaissances sur l’écologie de ces espèces.<br>- Apporter une expertise technique et des conseils pour la gestion des espèces, évaluer la mise en œuvre des règlementations.
+Suivre l’évolution de l’aire de répartitions des 14 espèces, la dynamique de certaines populations et améliorer les connaissances sur leur écologie.<br>Former et partager les connaissances sur l’écologie de ces espèces.<br>Apporter une expertise technique et des conseils pour la gestion des espèces, évaluer la mise en œuvre des règlementations.
 
 ## Utilisation
 
-<br>- Rapportages européens (DHFF, EEE)<br>- Listes rouges de l’UICN<br>- Classement ‘Espèces susceptibles d’occasionner des dégâts (ESOD)’
+Rapportages européens (DHFF, EEE)<br>Listes rouges de l’UICN<br>Classement ‘Espèces susceptibles d’occasionner des dégâts (ESOD)’
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Animation nationale</b>:<br>Paul HUREL<br><br><b>Suivi scientifique</b>:<br>Yoann BRESSAN<br>Laurence HENRY<br>Maëlle TEYSSEIRE<br><br><b>Animation régionale</b>:<br>Cédric MONDY<br><br><b>Correspondants départementaux</b>:<br>PPC:<br>77: Anne-Gaëlle BLANC<br>78-95: Jennifer BONHOMME<br>91: Cyril KLEINPRINZ
+<b>Animation nationale</b>:<br>Paul HUREL<br><br><b>Suivi scientifique</b>:<br>Yoann BRESSAN<br>Laurence HENRY<br>Maëlle TEYSSEIRE<br><br><b>Animation régionale</b>:<br>Cédric MONDY<br><br><b>Correspondants départementaux</b>:<br>PPC: Arnaud LOIZE<br>77: Anne-Gaëlle BLANC<br>78-95: Jennifer BONHOMME<br>91: Cyril KLEINPRINZ
 
 <b>Partenaires</b>
 
@@ -193,6 +187,6 @@ Saisie des observations sur l’application Rezo-PMCC<br><br>Pour les espèces d
   
   
   <a href='http://geo.ofb.fr/rezopmcc' target='_blank'>Rezo PMCC</a><br>
-  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/PMC' target='_blank'>Serveur DR</a><br>
+  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/PMC'>Serveur DR</a><br>
   
 </div>

@@ -1,11 +1,5 @@
 ---
 title: "Réseau Loup/Lynx"
-include-in-header:
-  - text: |
-  - text: |
-      <script data-goatcounter="https://ofb-idf.goatcounter.com/count"
-      async src="//gc.zgo.at/count.js"></script>
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 ---
 
 :::::::::::::: {.columns}
@@ -42,7 +36,7 @@ Les données contribuent à la mise en oeuvre du PNA Loup notamment pour l’est
 ::: {.column width="30%"}
 # Animation
 <small>
-<b>Animation nationale</b>:<br>Nicolas JEAN<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>PPC: Arnaud LOIZE<br>77: Corinne REVEL/Julien CURE<br>78-95: Estelle DEBOST<br>91: Philippe TURQUIN<br><br><b>Courriel du réseau</b>:<br><a href='mailto:reseau.loup-lynx@ofb.gouv.fr'>reseau.loup-lynx@ofb.gouv.fr</a>
+<b>Animation nationale</b>:<br>Nicolas JEAN<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br><br><b>Correspondants départementaux</b>:<br>PPC: Arnaud LOIZE<br>77: Corinne REVEL ; Julien CURE<br>78-95: Estelle DEBOST<br>91: Philippe TURQUIN<br><br><b>Courriel du réseau</b>:<br><a href='mailto:reseau.loup-lynx@ofb.gouv.fr'>reseau.loup-lynx@ofb.gouv.fr</a>
 
 <b>Partenaires</b>
 
@@ -145,7 +139,7 @@ FichesSRC::creer_graphe_expertise('maitrise')
 ::: {.column width="5%"}
 :::
 ::: {.column width="60%"}
-Formation correspondant de réseau ( 3 jours)<br>Formation constat de dommage (1,5 jours)
+Formation correspondant de réseau (3 jours)<br>Formation constat de dommage (1,5 jours)
 :::
 ::::::::::::::
 
@@ -192,7 +186,7 @@ Le correspondant départemental complète la ou les fiches indices adéquates à
   <a href='https://www.loupfrance.fr/' target='_blank'>Site d'information</a><br>
   <a href='https://agriculture.gouv.fr/plan-loup-un-nouveau-cadre-national-dactions-pour-renforcer-la-coexistence-du-loup-et-des-activites' target='_blank'>Plan loup</a><br>
   
-  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/Loup' target='_blank'>Serveur DR</a><br>
-  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/Loup/Guide%20r%C3%A9flexe%20r%C3%A9seau%20Loup%20Lynx_DRIDF_v2.4.pdf' target='_blank'>Guide réflexe (serveur DR)</a><br>
+  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/Loup'>Serveur DR</a><br>
+  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/Loup/Guide%20r%C3%A9flexe%20r%C3%A9seau%20Loup%20Lynx_DRIDF_v2.4.pdf'>Guide réflexe (serveur DR)</a><br>
   
 </div>

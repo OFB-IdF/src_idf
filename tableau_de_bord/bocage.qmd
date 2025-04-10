@@ -1,0 +1,192 @@
+---
+title: "Dispositif de suivi des bocages (DSB)"
+---
+
+:::::::::::::: {.columns}
+::: {.column width="70%"}
+<small>Fiche éditée le 2025-04-09</small>
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="25%"}
+<img src="logo_bocage.png" style="max-width:100%; max-height:150px; ">
+
+:::
+::::::::::::::
+
+
+:::::::::::::: {.columns}
+::: {.column width="65%"}
+# Description
+
+Le dispositif de suivi des bocages, initié en 2017, vise l'amélioration de la connaissance des paysages bocagers et le suivi de leurs écosystèmes associés. Après l'établissement d'une couche nationale de référence des linéaires de haies diffusée par l'IGN depuis 2020 et la cartographie des types de paysages bocagers, la phase actuelle doit établir des références locales qualitatives sur les haies. En Ile-de-France la densité en haies est très faible, souvent inférieure à 20 mètres linéaires par hectare. Les haies et bocages sont pourtant des milieux privilégiés par de nombreuses espèces et des facteurs de continuité écologique.
+
+
+## Objectif
+
+Suivre l’évolution quantitative et qualitative des territoires bocagers
+
+## Utilisation
+
+Suivi temporel de la qualité du bocage. <br>Cibler les zones pour la mise en place de mesures de préservation / restauration. <br>Evaluer l'impact des modes de gestion des écosystèmes bocagers.<br>Aide pour les documents de planification (Pacte en faveur de la haie), les politiques agricoles et la construction de l’observatoire de la haie. 
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="30%"}
+# Animation
+<small>
+<b>Animation nationale</b>:<br>Sophie MORIN<br>Sylvain HAIE<br><br><b>Animation régionale</b>:<br>Samuel DEMBSKI<br>
+
+<b>Partenaires</b>
+
+IGN
+</small>
+:::
+::::::::::::::
+
+# Le suivi
+
+## Localisation
+:::::::::::::: {.columns}
+::: {.column width="67%"}
+
+```{r, echo=FALSE}
+FichesSRC::creer_carte(
+  departements = '77, 78, 91, 95',
+  region = '11',
+  stations = NA,
+  web = TRUE
+  )
+```
+
+:::
+:::{.column width="3%"}
+:::
+:::{.column width="30%"}
+### Type de suivi
+Sélection de mailles de 1km²
+:::
+::::::::::::::
+## Temporalité
+Un suivi tous les 6 ans.<br>Les relevés sont réalisés de préférence pendant la saison de végétation.
+
+```{r, fig.height=1, fig.width=6, echo=FALSE}
+FichesSRC::creer_calendrier(
+  data.frame(
+    mois = c(1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10, 11, 11, 12, 12),
+    mois_lettre = c('J', 'J', 'F', 'F', 'M', 'M', 'A', 'A', 'M', 'M', 'J', 'J', 'J', 'J', 'A', 'A', 'S', 'S', 'O', 'O', 'N', 'N', 'D', 'D'),
+    action = c('possible', 'préférable', 'possible', 'préférable', 'possible', 'préférable', 'possible', 'préférable', 'possible', 'préférable', 'possible', 'préférable', 'possible', 'préférable', 'possible', 'préférable', 'possible', 'préférable', 'possible', 'préférable', 'possible', 'préférable', 'possible', 'préférable'),
+    action_realisee = c(TRUE, FALSE, TRUE, FALSE, TRUE, FALSE, TRUE, FALSE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, FALSE, TRUE, FALSE, TRUE, FALSE),
+    semestre = c('premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'premier', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second', 'second')
+  ) |>
+  dplyr::mutate(
+    action = stringr::str_replace(action, pattern = 'NA', replacement = "")
+  ),
+  web = TRUE)
+```
+
+# Logistique
+
+## Rôles
+:::::::::::::: {.columns}
+::: {.column width="33%"}
+<b>National</b>
+
+Animation & Communication<br>Méthodologie<br>Gestion des données<br>Formation
+:::
+::: {.column width="33%"}
+<b>Régional</b>
+
+Coordination
+:::
+::: {.column width="33%"}
+<b>Départemental</b>
+
+Recueil de données<br>Saisie des données
+:::
+::::::::::::::
+
+## Ressources nécessaires
+
+:::::::::::::: {.columns}
+::: {.column width="10%"}
+<img src="www/history.png" height="50">
+:::
+::: {.column width="40%"}
+  variable
+:::
+::: {.column width="10%"}
+<img src="www/standing-up-man.png" height="50">
+:::
+::: {.column width="40%"}
+  1.0
+:::
+::::::::::::::
+
+
+## Compétences et formations
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
+
+```{r, echo=FALSE, fig.width=3, fig.height=1}
+FichesSRC::creer_graphe_expertise('formé')
+```
+
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="60%"}
+Connaissance en botanique (végétation arborée et arbustives)
+:::
+::::::::::::::
+
+
+## Protocole
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Principe
+
+Caractérisation des haies d'une sélection de mailles de 1 km² (hors zones urbaines).<br>Pour 4/16ème de la surface de chacune des mailles :<br>- Localisation des haies, des alignements d’arbres et des modes d’occupation du sol.<br>- Description des haies : forme (selon la classification simplifiée disponible), emprise au sol,  composition, intensité de gestion, présence de facteurs favorables à la biodiversité...
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Matériel
+
+<br>- Tablette intégrant le fond orthophotographique de la maille + accès à l'outil de saisie<br>- Smartphone pour se repérer si nécessaire, faire de la prise de vue, avec application "Pl@ntnet" installée<br>- Guide botanique (flore forestière française par exemple)<br>- Télémètre<br>- Fiches de description des haies (en cas de panne de la tablette ou pour saisie a posteriori)<br><br>⚠️ Avertir le(les) propriétaires des parcelles où s'effectuent les relevés
+:::
+::::::::::::::
+
+
+
+## Les données
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+### Saisie
+
+Saisie des relevés sur "adresse à préciser" directement sur le terrain
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="35%"}
+### Diffusion
+
+<a href='https://geoservices.ign.fr/bdhaie' target='_blank'>BD Haie</a>
+:::
+::::::::::::::
+
+<hr>
+
+<div class="card">
+  <b>En savoir plus</b><br>
+  <a href='https://www.ofb.gouv.fr/haies-et-bocages-des-reservoirs-de-biodiversite' target='_blank'>Haies et bocages (Site OFB)</a><br>
+  <a href='https://professionnels.ofb.fr/index.php/fr/doc-comprendre-agir/lessentiel-haie' target='_blank'>L'essentiel sur la haie</a><br>
+  <a href='https://professionnels.ofb.fr/index.php/fr/haies-bocage' target='_blank'>Haies et bocages (Portail technique)</a><br>
+  <a href='https://professionnels.ofb.fr/fr/node/852' target='_blank'>Connaître la haie et le bocage</a><br>
+  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/HABITATS/Bocage/03_DSB/DNSB_TEST2021-NATIONAL.pdf'>Dispositif de suivi du bocage - Protocole</a><br>
+  <a href='file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/HABITATS/Bocage/02_ATLAS'>Atlas cartographique des densités de haies en Ile-de-France</a><br>
+</div>
