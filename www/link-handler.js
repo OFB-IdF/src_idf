@@ -209,41 +209,25 @@ function fallbackCopyToClipboard(text) {
  * @param {string} filePath - Le chemin du fichier à ouvrir
  */
 function openInExplorer(filePath) {
-    // Convertir le format file:///C:/... en C:\...
-    let path = filePath.replace('file:///', '');
-    path = decodeURIComponent(path);
-    path = path.replace(/\//g, '\\');
-    
-    // Essayer d'ouvrir dans l'explorateur
     try {
-        // Méthode 1: Essayer d'utiliser le protocole ms-explorer
-        const msExplorerUrl = `ms-explorer:?path=${encodeURIComponent(path)}`;
-        const iframe = document.createElement('iframe');
-        iframe.style.display = 'none';
-        iframe.src = msExplorerUrl;
-        document.body.appendChild(iframe);
-        
-        // Supprimer l'iframe après un court délai
-        setTimeout(() => {
-            if (document.body.contains(iframe)) {
-                document.body.removeChild(iframe);
-            }
-        }, 500);
-        
-        // Méthode 2: Essayer avec le protocole file standard
-        setTimeout(() => {
+        // Ouvrir directement dans un nouvel onglet
+        const win = window.open(filePath, '_blank');
+        if (win) {
+            win.focus();
+            showNotification('Lien ouvert dans un nouvel onglet');
+        } else {
+            // Si le popup est bloqué, on utilise la méthode alternative
             const tempLink = document.createElement('a');
             tempLink.href = filePath;
             tempLink.target = '_blank';
             document.body.appendChild(tempLink);
             tempLink.click();
             document.body.removeChild(tempLink);
-        }, 100);
-        
-        showNotification('Tentative d\'ouverture dans l\'explorateur...');
+            showNotification('Lien ouvert dans un nouvel onglet');
+        }
     } catch (err) {
         console.error('Erreur lors de l\'ouverture: ', err);
-        showNotification('Impossible d\'ouvrir le fichier dans l\'explorateur. Veuillez copier l\'adresse et l\'ouvrir manuellement.', true);
+        showNotification('Impossible d\'ouvrir le lien. Veuillez essayer de le copier et l\'ouvrir manuellement.', true);
     }
 }
 
