@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Productions – La connaissance à l’OFB</title>
+<title>readme-link-handler – La connaissance à l'OFB</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,26 +20,60 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./www/favicon.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../www/favicon.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
 <script data-goatcounter="https://ofb-idf.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
 
 
-<link rel="stylesheet" href="www/styles.css">
+<link rel="stylesheet" href="../www/styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -84,10 +118,10 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="https://www.ofb.gouv.fr" class="navbar-brand navbar-brand-logo">
-    <img src="./www/logo.png" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../www/logo.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">La connaissance à l’OFB</span>
     </a>
   </div>
@@ -98,19 +132,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Missions</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./calendrier.html"> 
+    <a class="nav-link" href="../calendrier.html"> 
 <span class="menu-text">Calendrier</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./productions.html" aria-current="page"> 
+    <a class="nav-link" href="../productions.html"> 
 <span class="menu-text">Productions</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./ressources.html"> 
+    <a class="nav-link" href="../ressources.html"> 
 <span class="menu-text">Ressources</span></a>
   </li>  
 </ul>
@@ -129,74 +163,97 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Menu</h2>
    
   <ul class="collapse">
-  <li><a href="#productions-régionales" id="toc-productions-régionales" class="nav-link active" data-scroll-target="#productions-régionales">Productions régionales</a></li>
-  <li><a href="#contributions-à-des-productions-régionales" id="toc-contributions-à-des-productions-régionales" class="nav-link" data-scroll-target="#contributions-à-des-productions-régionales">Contributions à des productions régionales</a></li>
-  <li><a href="#contributions-à-des-productions-nationales" id="toc-contributions-à-des-productions-nationales" class="nav-link" data-scroll-target="#contributions-à-des-productions-nationales">Contributions à des productions nationales</a></li>
+  <li><a href="#gestionnaire-de-liens-pour-fichessrc" id="toc-gestionnaire-de-liens-pour-fichessrc" class="nav-link active" data-scroll-target="#gestionnaire-de-liens-pour-fichessrc">Gestionnaire de liens pour FichesSRC</a>
+  <ul class="collapse">
+  <li><a href="#fonctionnalités" id="toc-fonctionnalités" class="nav-link" data-scroll-target="#fonctionnalités">Fonctionnalités</a></li>
+  <li><a href="#intégration-dans-vos-documents-quarto" id="toc-intégration-dans-vos-documents-quarto" class="nav-link" data-scroll-target="#intégration-dans-vos-documents-quarto">Intégration dans vos documents Quarto</a></li>
+  <li><a href="#comment-ça-fonctionne" id="toc-comment-ça-fonctionne" class="nav-link" data-scroll-target="#comment-ça-fonctionne">Comment ça fonctionne</a></li>
+  <li><a href="#exemple-dutilisation" id="toc-exemple-dutilisation" class="nav-link" data-scroll-target="#exemple-dutilisation">Exemple d’utilisation</a></li>
+  <li><a href="#limitations" id="toc-limitations" class="nav-link" data-scroll-target="#limitations">Limitations</a></li>
+  <li><a href="#personnalisation" id="toc-personnalisation" class="nav-link" data-scroll-target="#personnalisation">Personnalisation</a></li>
+  <li><a href="#comparaison-avec-limplémentation-r-actuelle" id="toc-comparaison-avec-limplémentation-r-actuelle" class="nav-link" data-scroll-target="#comparaison-avec-limplémentation-r-actuelle">Comparaison avec l’implémentation R actuelle</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Productions</h1>
-</div>
 
 
 
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="productions-régionales" class="level2">
-<h2 class="anchored" data-anchor-id="productions-régionales">Productions régionales</h2>
-<section id="tableaux-de-bord" class="level3">
-<h3 class="anchored" data-anchor-id="tableaux-de-bord">Tableaux de bord</h3>
+<section id="gestionnaire-de-liens-pour-fichessrc" class="level1">
+<h1>Gestionnaire de liens pour FichesSRC</h1>
+<p>Ce dossier contient un script JavaScript (<code>link-handler.js</code>) qui améliore la gestion des liens dans les fiches SRC, particulièrement pour les liens locaux (commençant par <code>file:</code>).</p>
+<section id="fonctionnalités" class="level2">
+<h2 class="anchored" data-anchor-id="fonctionnalités">Fonctionnalités</h2>
 <ul>
-<li><a href="https://ofbidf.shinyapps.io/HydrobioIdF/" target="'_blank'">Suivis hydrobiologiques en Île-de-France</a></li>
-<li><a href="https://ofb-idf.github.io/PRR_ONDE/" target="'_blank'">Suivi des étiages (ONDE) en Île-de-France</a></li>
-<li><a href="https://ofbidf.shinyapps.io/EspecesProtegeesIDF/" target="'_blank'">Faune protégée d’Île-de-France</a></li>
+<li><strong>Détection automatique</strong> des liens locaux et externes</li>
+<li><strong>Boutons d’action directe</strong> pour les liens locaux avec options pour :
+<ul>
+<li>Copier l’adresse dans le presse-papier</li>
+<li>Tenter d’ouvrir le fichier dans l’explorateur Windows</li>
+</ul></li>
+<li><strong>Ouverture automatique</strong> des liens externes dans un nouvel onglet</li>
+<li><strong>Notifications visuelles</strong> pour confirmer les actions</li>
 </ul>
 </section>
-<section id="livrets" class="level3">
-<h3 class="anchored" data-anchor-id="livrets">Livrets</h3>
+<section id="intégration-dans-vos-documents-quarto" class="level2">
+<h2 class="anchored" data-anchor-id="intégration-dans-vos-documents-quarto">Intégration dans vos documents Quarto</h2>
+<p>Pour intégrer ce script dans vos documents Quarto, modifiez l’en-tête YAML de votre fichier <code>page.qmd.brew</code> comme suit :</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"&lt;%= infos$intitule %&gt;"</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">include-in-header</span><span class="kw">:</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="kw">  - </span><span class="fu">text</span><span class="kw">:</span><span class="at"> </span><span class="ch">|</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>      &lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"&gt;</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>      &lt;script src="www/link-handler.js" defer&gt;&lt;/script&gt;</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="comment-ça-fonctionne" class="level2">
+<h2 class="anchored" data-anchor-id="comment-ça-fonctionne">Comment ça fonctionne</h2>
+<ol type="1">
+<li>Le script s’initialise automatiquement lorsque la page est chargée</li>
+<li>Il détecte tous les liens dans le document</li>
+<li>Pour les liens locaux (commençant par <code>file:</code>), il ajoute des boutons d’action directe à côté du lien</li>
+<li>Pour les liens externes, il s’assure qu’ils s’ouvrent dans un nouvel onglet</li>
+<li>Un observateur de mutations surveille les changements du DOM pour traiter les liens ajoutés dynamiquement</li>
+</ol>
+</section>
+<section id="exemple-dutilisation" class="level2">
+<h2 class="anchored" data-anchor-id="exemple-dutilisation">Exemple d’utilisation</h2>
+<p>Un fichier d’exemple <code>link-handler-example.html</code> est inclus pour démontrer le fonctionnement du script. Ouvrez ce fichier dans votre navigateur pour voir le gestionnaire de liens en action.</p>
+</section>
+<section id="limitations" class="level2">
+<h2 class="anchored" data-anchor-id="limitations">Limitations</h2>
 <ul>
-<li><a href="https://oai-gem.ofb.fr/exl-php/document-affiche/ofb_recherche_oai/OUVRE_DOC/49974?fic=doc00073302.pdf" target="'_blank'">Etude du chat forestier en Île-de-France</a></li>
+<li>L’ouverture directe de fichiers locaux depuis le navigateur est soumise à des restrictions de sécurité</li>
+<li>La fonctionnalité “Ouvrir dans l’explorateur” peut ne pas fonctionner dans tous les environnements</li>
+<li>Une configuration supplémentaire du système peut être nécessaire pour certaines fonctionnalités</li>
 </ul>
 </section>
-<section id="parlons-de-connaissance" class="level3">
-<h3 class="anchored" data-anchor-id="parlons-de-connaissance">Parlons de connaissance</h3>
+<section id="personnalisation" class="level2">
+<h2 class="anchored" data-anchor-id="personnalisation">Personnalisation</h2>
+<p>Vous pouvez personnaliser le comportement du script en modifiant les fonctions dans <code>link-handler.js</code>. Par exemple :</p>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=UopppCJfUHA" target="_blank">Un félin sauvage en Île-de-France ? Le retour du chat forestier</a> (MNHN-OFB, 2024)</li>
-<li><a href="https://www.youtube.com/watch?v=0P0JTVxUEBA&amp;t=7670s" target="_blank">Sur les traces du chat forestier en Île-de-France</a> (Rencontres naturalistes ARB, 2022)</li>
-<li><a href="https://www.radiofrance.fr/franceculture/podcasts/la-science-au-labo/le-retour-du-castor-en-ile-de-france-8018346" target="'_blank'">Le retour du Castor en Île-de-France</a> (Reportage terrain, France Culture, 2025)</li>
-<li><a href="https://www.facebook.com/Montauger/videos/castor-les-dents-de-la-rivière/2857221884547378/" target="_blank">Castor, les dents de la rivière</a> (conférence Domaine de Montauger, ENS 91, 2021)</li>
+<li>Changer le texte des options du menu</li>
+<li>Modifier l’apparence des notifications</li>
+<li>Ajouter des options supplémentaires pour les liens</li>
 </ul>
 </section>
-</section>
-<section id="contributions-à-des-productions-régionales" class="level2">
-<h2 class="anchored" data-anchor-id="contributions-à-des-productions-régionales">Contributions à des productions régionales</h2>
-<ul>
-<li><a href="https://www.arb-idf.fr/fileadmin/DataStorageKit/ARB/Articles/fichiers/Rencontres_naturalistes_2023/02_Presentation_resultats_LRR_Poissons.pdf" target="_blank">Liste rouge régionale des poissons d’Île-de-France</a> (ARB, à venir)</li>
-<li><a href="https://www.institutparisregion.fr/nos-travaux/publications/restaurer-les-continuites-ecologiques-en-ile-de-france/" target="_blank">Restaurer les continuités écologiques en Île-de-France</a> (IPR, 2021)</li>
-</ul>
-</section>
-<section id="contributions-à-des-productions-nationales" class="level2">
-<h2 class="anchored" data-anchor-id="contributions-à-des-productions-nationales">Contributions à des productions nationales</h2>
-<ul>
-<li><a href="https://ofbidf.shinyapps.io/AspeDashboard/" target="'_blank'">Visualisation des données de pêche à l’électricité issues de Aspe</a></li>
-</ul>
+<section id="comparaison-avec-limplémentation-r-actuelle" class="level2">
+<h2 class="anchored" data-anchor-id="comparaison-avec-limplémentation-r-actuelle">Comparaison avec l’implémentation R actuelle</h2>
+<p>L’implémentation actuelle en R dans <code>formater_liens.r</code> utilise :</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">paste0</span>(</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="st">"&lt;a href='javascript:void(0)' "</span>,</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="st">"onclick=</span><span class="sc">\"</span><span class="st">navigator.clipboard.writeText('"</span>, infos_lien<span class="sc">$</span>link, <span class="st">"').then(() =&gt; { alert('Adresse copiée dans le presse-papier!'); })</span><span class="sc">\"</span><span class="st"> "</span>,</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="st">"style='cursor:pointer;'&gt;"</span>, </span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>  infos_lien<span class="sc">$</span>text, </span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>  <span class="st">" &lt;span style='font-size:0.8em;color:#666;'&gt;(cliquer pour copier l'adresse)&lt;/span&gt;&lt;/a&gt;"</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>La nouvelle implémentation JavaScript offre : - Une interface utilisateur plus riche avec un menu contextuel - Des notifications plus élégantes que les alertes standard - La possibilité d’ouvrir les fichiers dans l’explorateur (avec certaines limitations) - Une meilleure séparation entre le contenu et le comportement</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

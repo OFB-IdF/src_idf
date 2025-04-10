@@ -67,7 +67,7 @@
     "href": "loup.html#les-données",
     "title": "Réseau Loup/Lynx",
     "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nLe correspondant départemental complète la ou les fiches indices adéquates à partir du témoignage de l’observateur et fournit une carte de localisation, avec si possible des coordonnées GPS et tout élément pertinent (photo/vidéo, échantillons).Transmettre les éléments à l’animateur régional du réseau pour expertise.Classement de l’évènement après analyse, et transmission du résultat à la DDT par le correspondant départemental.\n\n\n\n\n\nDiffusion\nCarte des indices de présence\n\n\n\n\n\nEn savoir plus Site d’information Plan loup\nServeur DR (cliquer pour copier l’adresse) Guide réflexe (serveur DR) (cliquer pour copier l’adresse)"
+    "text": "Les données\n\n\n\nSaisie\nLe correspondant départemental complète la ou les fiches indices adéquates à partir du témoignage de l’observateur et fournit une carte de localisation, avec si possible des coordonnées GPS et tout élément pertinent (photo/vidéo, échantillons).Transmettre les éléments à l’animateur régional du réseau pour expertise.Classement de l’évènement après analyse, et transmission du résultat à la DDT par le correspondant départemental.\n\n\n\n\n\nDiffusion\nCarte des indices de présence\n\n\n\n\n\nEn savoir plus Site d’information Plan loup\nServeur DR Guide réflexe (serveur DR)"
   },
   {
     "objectID": "chat.html",
@@ -137,7 +137,7 @@
     "href": "chat.html#les-données",
     "title": "Suivi du Chat forestier",
     "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur l’application Rezo-PMCC (pour les observations annexes: saisie sur Rezo-PMCC ou Oison en fonction des espèces)Transmission des prélèvements à la DRAS pour analyses génétiquesValidation des observations sur photo sur la base du phénotype\n\n\n\n\n\nDiffusion\nSINP nationalGéonat’IdF (CA: Etude Chat forestier) \n\n\n\n\n\nEn savoir plus Fiche espèce Livret de présentation de l’étude IdF Vidéo MNHN SiteAlfresco de l’étude IdF Protocole Serveur DR (cliquer pour copier l’adresse)"
+    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur l’application Rezo-PMCC (pour les observations annexes: saisie sur Rezo-PMCC ou Oison en fonction des espèces)Transmission des prélèvements à la DRAS pour analyses génétiquesValidation des observations sur photo sur la base du phénotype\n\n\n\n\n\nDiffusion\nSINP nationalGéonat’IdF (CA: Etude Chat forestier) \n\n\n\n\n\nEn savoir plus Fiche espèce Livret de présentation de l’étude IdF Vidéo MNHN SiteAlfresco de l’étude IdF Protocole Serveur DR"
   },
   {
     "objectID": "ressources.html",
@@ -235,7 +235,7 @@
     "href": "pmc.html#les-données",
     "title": "Réseau Petits et Méso-Carnivores",
     "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur l’application Rezo-PMCCPour les espèces d’identification délicate ou en limite/en dehors de leur aire de distribution: validation manuelle, utilisation possible de la génétique\n\n\n\n\n\nDiffusion\nPortail cartographique\n\n\n\n\n\nEn savoir plus Réseau PMCC\nRezo PMCC Serveur DR (cliquer pour copier l’adresse)"
+    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur l’application Rezo-PMCCPour les espèces d’identification délicate ou en limite/en dehors de leur aire de distribution: validation manuelle, utilisation possible de la génétique\n\n\n\n\n\nDiffusion\nPortail cartographique\n\n\n\n\n\nEn savoir plus Réseau PMCC\nRezo PMCC Serveur DR"
   },
   {
     "objectID": "onde.html",
@@ -305,7 +305,7 @@
     "href": "onde.html#les-données",
     "title": "Observatoire national des étiages (ONDE)",
     "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur https://onde.ofb.fr avant la fin du mois de l’observation\n\n\n\n\n\nDiffusion\nSite officielAPI HubeauCatalogue de données OFBTableau de bord interne (NE PAS DIFFUSER)\n\n\n\n\n\nEn savoir plus Plaquette de présentation (Serveur DR) (cliquer pour copier l’adresse) La gestion de la sécheresse en 8 questions-réponses Dataviz nationale Gestion quantitative de l’eau et sécheresses (intranet) Fiches de synthèse de l’impact du manque d’eau sur la biodiversité (intranet) Bulletin de suivi hydrologique d’Île-de-France"
+    "text": "Les données\n\n\n\nSaisie\nSaisie des observations sur https://onde.ofb.fr avant la fin du mois de l’observation\n\n\n\n\n\nDiffusion\nSite officielAPI HubeauCatalogue de données OFBTableau de bord interne (NE PAS DIFFUSER)\n\n\n\n\n\nEn savoir plus Plaquette de présentation (Serveur DR) La gestion de la sécheresse en 8 questions-réponses Dataviz nationale Gestion quantitative de l’eau et sécheresses (intranet) Fiches de synthèse de l’impact du manque d’eau sur la biodiversité (intranet) Bulletin de suivi hydrologique d’Île-de-France"
   },
   {
     "objectID": "index.html",
@@ -313,6 +313,62 @@
     "title": "Missions",
     "section": "",
     "text": "Télécharger toutes les fiches \n\nMammifères\n\nSuivi du Chat forestier\nSuivi du Castor d’Europe\nRéseau Petits et Méso-Carnivores\nRéseau Loup/Lynx\n\n\n\nAvifaune\n\nRéseau Bécasse\n\n\n\nPréservation - Restauration du fonctionnement des écosystèmes\n\nObservatoire national des étiages (ONDE)\nCaractérisation des obstacles à l’écoulement\nDispositif de suivi des bocages (DSB)"
+  },
+  {
+    "objectID": "www/README-link-handler.html",
+    "href": "www/README-link-handler.html",
+    "title": "Gestionnaire de liens pour FichesSRC",
+    "section": "",
+    "text": "Ce dossier contient un script JavaScript (link-handler.js) qui améliore la gestion des liens dans les fiches SRC, particulièrement pour les liens locaux (commençant par file:).\n\n\n\nDétection automatique des liens locaux et externes\nBoutons d’action directe pour les liens locaux avec options pour :\n\nCopier l’adresse dans le presse-papier\nTenter d’ouvrir le fichier dans l’explorateur Windows\n\nOuverture automatique des liens externes dans un nouvel onglet\nNotifications visuelles pour confirmer les actions\n\n\n\n\nPour intégrer ce script dans vos documents Quarto, modifiez l’en-tête YAML de votre fichier page.qmd.brew comme suit :\n---\ntitle: \"&lt;%= infos$intitule %&gt;\"\ninclude-in-header:\n  - text: |\n      &lt;link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css\"&gt;\n      &lt;script src=\"www/link-handler.js\" defer&gt;&lt;/script&gt;\n---\n\n\n\n\nLe script s’initialise automatiquement lorsque la page est chargée\nIl détecte tous les liens dans le document\nPour les liens locaux (commençant par file:), il ajoute des boutons d’action directe à côté du lien\nPour les liens externes, il s’assure qu’ils s’ouvrent dans un nouvel onglet\nUn observateur de mutations surveille les changements du DOM pour traiter les liens ajoutés dynamiquement\n\n\n\n\nUn fichier d’exemple link-handler-example.html est inclus pour démontrer le fonctionnement du script. Ouvrez ce fichier dans votre navigateur pour voir le gestionnaire de liens en action.\n\n\n\n\nL’ouverture directe de fichiers locaux depuis le navigateur est soumise à des restrictions de sécurité\nLa fonctionnalité “Ouvrir dans l’explorateur” peut ne pas fonctionner dans tous les environnements\nUne configuration supplémentaire du système peut être nécessaire pour certaines fonctionnalités\n\n\n\n\nVous pouvez personnaliser le comportement du script en modifiant les fonctions dans link-handler.js. Par exemple :\n\nChanger le texte des options du menu\nModifier l’apparence des notifications\nAjouter des options supplémentaires pour les liens\n\n\n\n\nL’implémentation actuelle en R dans formater_liens.r utilise :\npaste0(\n  \"&lt;a href='javascript:void(0)' \",\n  \"onclick=\\\"navigator.clipboard.writeText('\", infos_lien$link, \"').then(() =&gt; { alert('Adresse copiée dans le presse-papier!'); })\\\" \",\n  \"style='cursor:pointer;'&gt;\", \n  infos_lien$text, \n  \" &lt;span style='font-size:0.8em;color:#666;'&gt;(cliquer pour copier l'adresse)&lt;/span&gt;&lt;/a&gt;\"\n)\nLa nouvelle implémentation JavaScript offre : - Une interface utilisateur plus riche avec un menu contextuel - Des notifications plus élégantes que les alertes standard - La possibilité d’ouvrir les fichiers dans l’explorateur (avec certaines limitations) - Une meilleure séparation entre le contenu et le comportement"
+  },
+  {
+    "objectID": "www/README-link-handler.html#fonctionnalités",
+    "href": "www/README-link-handler.html#fonctionnalités",
+    "title": "Gestionnaire de liens pour FichesSRC",
+    "section": "",
+    "text": "Détection automatique des liens locaux et externes\nBoutons d’action directe pour les liens locaux avec options pour :\n\nCopier l’adresse dans le presse-papier\nTenter d’ouvrir le fichier dans l’explorateur Windows\n\nOuverture automatique des liens externes dans un nouvel onglet\nNotifications visuelles pour confirmer les actions"
+  },
+  {
+    "objectID": "www/README-link-handler.html#intégration-dans-vos-documents-quarto",
+    "href": "www/README-link-handler.html#intégration-dans-vos-documents-quarto",
+    "title": "Gestionnaire de liens pour FichesSRC",
+    "section": "",
+    "text": "Pour intégrer ce script dans vos documents Quarto, modifiez l’en-tête YAML de votre fichier page.qmd.brew comme suit :\n---\ntitle: \"&lt;%= infos$intitule %&gt;\"\ninclude-in-header:\n  - text: |\n      &lt;link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css\"&gt;\n      &lt;script src=\"www/link-handler.js\" defer&gt;&lt;/script&gt;\n---"
+  },
+  {
+    "objectID": "www/README-link-handler.html#comment-ça-fonctionne",
+    "href": "www/README-link-handler.html#comment-ça-fonctionne",
+    "title": "Gestionnaire de liens pour FichesSRC",
+    "section": "",
+    "text": "Le script s’initialise automatiquement lorsque la page est chargée\nIl détecte tous les liens dans le document\nPour les liens locaux (commençant par file:), il ajoute des boutons d’action directe à côté du lien\nPour les liens externes, il s’assure qu’ils s’ouvrent dans un nouvel onglet\nUn observateur de mutations surveille les changements du DOM pour traiter les liens ajoutés dynamiquement"
+  },
+  {
+    "objectID": "www/README-link-handler.html#exemple-dutilisation",
+    "href": "www/README-link-handler.html#exemple-dutilisation",
+    "title": "Gestionnaire de liens pour FichesSRC",
+    "section": "",
+    "text": "Un fichier d’exemple link-handler-example.html est inclus pour démontrer le fonctionnement du script. Ouvrez ce fichier dans votre navigateur pour voir le gestionnaire de liens en action."
+  },
+  {
+    "objectID": "www/README-link-handler.html#limitations",
+    "href": "www/README-link-handler.html#limitations",
+    "title": "Gestionnaire de liens pour FichesSRC",
+    "section": "",
+    "text": "L’ouverture directe de fichiers locaux depuis le navigateur est soumise à des restrictions de sécurité\nLa fonctionnalité “Ouvrir dans l’explorateur” peut ne pas fonctionner dans tous les environnements\nUne configuration supplémentaire du système peut être nécessaire pour certaines fonctionnalités"
+  },
+  {
+    "objectID": "www/README-link-handler.html#personnalisation",
+    "href": "www/README-link-handler.html#personnalisation",
+    "title": "Gestionnaire de liens pour FichesSRC",
+    "section": "",
+    "text": "Vous pouvez personnaliser le comportement du script en modifiant les fonctions dans link-handler.js. Par exemple :\n\nChanger le texte des options du menu\nModifier l’apparence des notifications\nAjouter des options supplémentaires pour les liens"
+  },
+  {
+    "objectID": "www/README-link-handler.html#comparaison-avec-limplémentation-r-actuelle",
+    "href": "www/README-link-handler.html#comparaison-avec-limplémentation-r-actuelle",
+    "title": "Gestionnaire de liens pour FichesSRC",
+    "section": "",
+    "text": "L’implémentation actuelle en R dans formater_liens.r utilise :\npaste0(\n  \"&lt;a href='javascript:void(0)' \",\n  \"onclick=\\\"navigator.clipboard.writeText('\", infos_lien$link, \"').then(() =&gt; { alert('Adresse copiée dans le presse-papier!'); })\\\" \",\n  \"style='cursor:pointer;'&gt;\", \n  infos_lien$text, \n  \" &lt;span style='font-size:0.8em;color:#666;'&gt;(cliquer pour copier l'adresse)&lt;/span&gt;&lt;/a&gt;\"\n)\nLa nouvelle implémentation JavaScript offre : - Une interface utilisateur plus riche avec un menu contextuel - Des notifications plus élégantes que les alertes standard - La possibilité d’ouvrir les fichiers dans l’explorateur (avec certaines limitations) - Une meilleure séparation entre le contenu et le comportement"
   },
   {
     "objectID": "roe.html",
@@ -382,7 +438,7 @@
     "href": "roe.html#les-données",
     "title": "Caractérisation des obstacles à l’écoulement",
     "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nRemontée de données des partenairesSaisie sur GéObs (https://geobs.eaufrance.fr/)Validation obligatoire par un agent OFB disposant du profil validation\n\n\n\n\n\nDiffusion\nCatalogue de données du Sandre\n\n\n\n\n\nEn savoir plus La continuité écologique des cours d’eau Dataviz nationale\nBilans (serveur DR) (cliquer pour copier l’adresse) La méthode ICE"
+    "text": "Les données\n\n\n\nSaisie\nRemontée de données des partenairesSaisie sur GéObs (https://geobs.eaufrance.fr/)Validation obligatoire par un agent OFB disposant du profil validation\n\n\n\n\n\nDiffusion\nCatalogue de données du Sandre\n\n\n\n\n\nEn savoir plus La continuité écologique des cours d’eau Dataviz nationale\nBilans (serveur DR) La méthode ICE"
   },
   {
     "objectID": "productions.html",
@@ -480,7 +536,7 @@
     "href": "becasse.html#les-données",
     "title": "Réseau Bécasse",
     "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nRemplissage des fiches de terrainCroule: saisie des données et transmission des fiches au plus tard le 15 juillet via l’outil https://reseau-becasse.shinyapps.io/enquete-croule/Baguage: données saisies sur https://becasse.ofb.frQue faire en cas de recapture d’une bécasse avec une bague métallique? Transmettre l’information à reseau.becasse@ofb.gouv.fr avec les informations nécessaires\n\n\n\n\n\nDiffusion\nLettres d’information\n\n\n\n\n\nEn savoir plus Réseau Bécasse Fiche espèce Cahiers d’Habitat Oiseaux Serveur DR (cliquer pour copier l’adresse) Protocole de suivi Hivernage (capture et baguage)"
+    "text": "Les données\n\n\n\nSaisie\nRemplissage des fiches de terrainCroule: saisie des données et transmission des fiches au plus tard le 15 juillet via l’outil https://reseau-becasse.shinyapps.io/enquete-croule/Baguage: données saisies sur https://becasse.ofb.frQue faire en cas de recapture d’une bécasse avec une bague métallique? Transmettre l’information à reseau.becasse@ofb.gouv.fr avec les informations nécessaires\n\n\n\n\n\nDiffusion\nLettres d’information\n\n\n\n\n\nEn savoir plus Réseau Bécasse Fiche espèce Cahiers d’Habitat Oiseaux Serveur DR Protocole de suivi Hivernage (capture et baguage)"
   },
   {
     "objectID": "castor.html",
@@ -620,6 +676,6 @@
     "href": "bocage.html#les-données",
     "title": "Dispositif de suivi des bocages (DSB)",
     "section": "Les données",
-    "text": "Les données\n\n\n\nSaisie\nSaisie des relevés sur “adresse à préciser” directement sur le terrain\n\n\n\n\n\nDiffusion\nBD Haie\n\n\n\n\n\nEn savoir plus Haies et bocages (Site OFB) L’essentiel sur la haie Haies et bocages (Portail technique) Connaître la haie et le bocage Dispositif de suivi du bocage - Protocole (cliquer pour copier l’adresse) Atlas cartographique des densités de haies en Ile-de-France (cliquer pour copier l’adresse)"
+    "text": "Les données\n\n\n\nSaisie\nSaisie des relevés sur “adresse à préciser” directement sur le terrain\n\n\n\n\n\nDiffusion\nBD Haie\n\n\n\n\n\nEn savoir plus Haies et bocages (Site OFB) L’essentiel sur la haie Haies et bocages (Portail technique) Connaître la haie et le bocage Dispositif de suivi du bocage - Protocole Atlas cartographique des densités de haies en Ile-de-France"
   }
 ]
