@@ -210,24 +210,20 @@ function fallbackCopyToClipboard(text) {
  */
 function openInExplorer(filePath) {
     try {
-        // Ouvrir directement dans un nouvel onglet
-        const win = window.open(filePath, '_blank');
+        // Copier d'abord l'URL dans le presse-papier
+        copyToClipboard(filePath);
+        
+        // Ouvrir un nouvel onglet vierge
+        const win = window.open('about:blank', '_blank');
         if (win) {
             win.focus();
-            showNotification('Lien ouvert dans un nouvel onglet');
+            showNotification('Nouvel onglet ouvert. Vous pouvez y coller l\'URL (Ctrl+V)');
         } else {
-            // Si le popup est bloqué, on utilise la méthode alternative
-            const tempLink = document.createElement('a');
-            tempLink.href = filePath;
-            tempLink.target = '_blank';
-            document.body.appendChild(tempLink);
-            tempLink.click();
-            document.body.removeChild(tempLink);
-            showNotification('Lien ouvert dans un nouvel onglet');
+            showNotification('Le navigateur a bloqué l\'ouverture du nouvel onglet. Veuillez l\'autoriser.', true);
         }
     } catch (err) {
         console.error('Erreur lors de l\'ouverture: ', err);
-        showNotification('Impossible d\'ouvrir le lien. Veuillez essayer de le copier et l\'ouvrir manuellement.', true);
+        showNotification('Impossible d\'ouvrir le nouvel onglet. Veuillez essayer manuellement.', true);
     }
 }
 
