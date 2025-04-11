@@ -4,11 +4,12 @@ title: "Productions"
 
 ## Productions régionales
 
-### Tableaux de bord
+### Outils et tableaux de bord
 
 -   [Suivis hydrobiologiques en Île-de-France](https://ofbidf.shinyapps.io/HydrobioIdF/){target="'_blank'"}
 -   [Suivi des étiages (ONDE) en Île-de-France](https://ofb-idf.github.io/PRR_ONDE/){target="'_blank'"}
 -   [Faune protégée d'Île-de-France](https://ofbidf.shinyapps.io/EspecesProtegeesIDF/){target="'_blank'"}
+-   [GéOFB](www/Tuto_GeOFB.pdf){target="'_blank'"}
 
 ### Livrets
 
