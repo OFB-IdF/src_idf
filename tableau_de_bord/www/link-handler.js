@@ -66,8 +66,9 @@ function initLinkHandlers() {
             // Remplacer le comportement par défaut pour les liens locaux
             setupLocalLinkHandler(link, href);
         } else if (href && !href.startsWith('javascript:')) {
-            // Pour les liens externes, ajouter target="_blank" s'il n'existe pas déjà
-            if (!link.getAttribute('target')) {
+            // Pour les liens externes, ajouter target="_blank" uniquement pour les liens qui sortent du domaine
+            // Ne pas ouvrir dans un nouvel onglet les liens internes (.html) et les liens de téléchargement
+            if (!link.getAttribute('target') && isExternalLink(href) && !href.endsWith('.html') && !link.hasAttribute('download')) {
                 link.setAttribute('target', '_blank');
             }
         }
@@ -204,6 +205,31 @@ function openInExplorer(filePath) {
     } catch (err) {
         console.error('Erreur lors de l\'ouverture: ', err);
         showNotification('Impossible d\'ouvrir le nouvel onglet. Veuillez essayer manuellement.', true);
+    }
+}
+
+/**
+ * Affiche une notification temporaire
+ * @param {string} message - Le message à afficher
+ * @param {boolean} isError - Indique si c'est une erreur
+ */
+/**
+ * Vérifie si un lien est externe (pointe vers un autre domaine)
+ * @param {string} href - L'URL du lien
+ * @returns {boolean} - True si le lien est externe, false sinon
+ */
+function isExternalLink(href) {
+    try {
+        // Si le lien commence par http ou https, on vérifie s'il pointe vers un autre domaine
+        if (href.startsWith('http://') || href.startsWith('https://')) {
+            const currentDomain = window.location.hostname;
+            const linkDomain = new URL(href).hostname;
+            return currentDomain !== linkDomain;
+        }
+        return false; // Les liens relatifs ou autres protocoles ne sont pas considérés comme externes
+    } catch (e) {
+        console.error('Erreur lors de la vérification du lien: ', e);
+        return false;
     }
 }
 
