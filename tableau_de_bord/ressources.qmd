@@ -35,4 +35,4 @@ title: "Ressources"
 ## Autres ressources
 
 -   [INPN OpenObs](https://openobs.mnhn.fr){target="_blank"}: Portail français d'accès aux données d'observation sur les espèces
-
+-   [Clés d'identification (serveur DR)](file://ad.intra/dfs/COMMUNS/REGIONS/IDF/DR/05_CONNAISSANCE/01_DOCUMENTATION/CLES_IDENTIFICATION)
