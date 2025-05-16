@@ -72,6 +72,33 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <script src="www/link-handler.js" defer=""></script>
 <script data-goatcounter="https://ofb-idf.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
+<script>
+  // Fonction pour vérifier si GoatCounter est bloqué
+  function checkGoatCounter() {
+    if (typeof window.goatcounter === 'undefined') {
+      // Créer la popup si elle n'existe pas déjà
+      if (!document.getElementById('goatcounter-popup')) {
+        const popup = document.createElement('div');
+        popup.id = 'goatcounter-popup';
+        popup.style.cssText = 'position: fixed; bottom: 20px; right: 20px; background: white; padding: 15px; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); z-index: 1000; max-width: 300px; font-size: 14px;';
+        popup.innerHTML = `
+          <div style="margin-bottom: 10px;">Le suivi des statistiques est actuellement bloqué. Pour nous aider à améliorer ce site, merci de débloquer GoatCounter.</div>
+          <button onclick="this.parentElement.remove(); localStorage.setItem('goatcounter-dismissed', Date.now())" style="background: #007bff; color: white; border: none; padding: 5px 10px; border-radius: 3px; cursor: pointer;">Compris</button>
+        `;
+        document.body.appendChild(popup);
+      }
+    }
+  }
+
+  // Vérifier si la popup a déjà été fermée récemment (moins de 24h)
+  const lastDismissed = localStorage.getItem('goatcounter-dismissed');
+  const showPopup = !lastDismissed || (Date.now() - lastDismissed > 24 * 60 * 60 * 1000);
+
+  if (showPopup) {
+    // Vérifier après 2 secondes pour laisser le temps au script de se charger
+    setTimeout(checkGoatCounter, 2000);
+  }
+</script>
 
 
 <link rel="stylesheet" href="www/styles.css">
