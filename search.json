@@ -627,7 +627,7 @@
     "href": "poissons.html#localisation",
     "title": "Surveillance des cours d’eau - poissons",
     "section": "Localisation",
-    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nStations fixes représentatives des masses d’eau du territoire34 stations en Ile-de-France"
+    "text": "Localisation\n\n\n\nCarteTableau des sites\n\n\n\n\nWarning: sf layer is not long-lat data\n\n\nWarning: sf layer has inconsistent datum (+proj=lcc +lat_0=46.5 +lon_0=3 +lat_1=44 +lat_2=49 +x_0=700000 +y_0=6600000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs).\nNeed '+proj=longlat +datum=WGS84'\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nType de suivi\nStations fixes représentatives des masses d’eau du territoire34 stations en Ile-de-France"
   },
   {
     "objectID": "poissons.html#temporalité",
