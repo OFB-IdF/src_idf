@@ -1,6 +1,6 @@
 # Configuration
 ## Tableau excel ou google sheet contenant les informations sur les suivis
-fichier_infos <- "suivis_connaissance"
+fichier_infos <- googledrive::drive_find(pattern = "suivis_connaissance")$name
 source_fichier <- "google_sheet"
 ## Dossier dans lequel le site sera généré
 dossier_travail <- "tableau_de_bord"
