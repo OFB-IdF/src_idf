@@ -13,6 +13,7 @@ jobs:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
       GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
     steps:
+      - run: echo "${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}" | wc -c
       - name: Checkout 🛎️
         uses: actions/checkout@v4
         with:
