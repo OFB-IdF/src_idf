@@ -25,6 +25,7 @@ title: "Productions"
 
 ## Contributions à des productions régionales
 
+-   [État de santé de la biodiversité en Île-de-France: L'influence du changement climatique (2026)](https://www.arb-idf.fr/nos-travaux/publications/etat-de-sante-de-la-biodiversite-en-ile-de-france/){target="_blank"}
 -   [Liste rouge régionale des poissons d'Île-de-France](https://www.arb-idf.fr/fileadmin/DataStorageKit/ARB/Articles/fichiers/Rencontres_naturalistes_2023/02_Presentation_resultats_LRR_Poissons.pdf){target="_blank"} (ARB, à venir)
 -   [Restaurer les continuités écologiques en Île-de-France](https://www.institutparisregion.fr/nos-travaux/publications/restaurer-les-continuites-ecologiques-en-ile-de-france/){target="_blank"} (IPR, 2021)
 
